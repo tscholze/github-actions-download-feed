@@ -1,19 +1,21 @@
-# This is a basic workflow to help you get started with Actions
+# This workflow will download and store a
+# given feed in the repository.
 
 name: CI
 
 # Controls when the action will run. 
 on:
-  # Triggers the workflow on push or pull request events but only for the main branch
+  # Run on every push
+  # Mostly used for development checks.
   push:
     branches: [ main ]
-  pull_request:
-    branches: [ main ]
+  schedule:
+    # Run every 6 hours
+    - cron: '* 6 * * *'
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
 
-# A workflow run is made up of one or more jobs that can run sequentially or in parallel
 jobs:
   # This workflow contains a single job called "build"
   build:
@@ -25,23 +27,20 @@ jobs:
       # Checkout
       - uses: actions/checkout@v2
         
+      # Download rss file
       - uses: suisei-cn/actions-download-file@v1
         id: downloadfile
         name: Download the file
         with:
           url: "http://www.drwindows.de/news/feed"
 
-      # Runs a single command using the runners shell
+      # Rename file to have a unique file name
       - name: Rename file
-        run: mv feed feed_$(date +%d-%m-%Y).rss
+        run: mv feed $(date +%Y-%m-%d-%h-%m).rss
         
-      # Check git status
-      - name: Git status
-        run: git status
-        
-      # Git Commit and Push
-      - name: Git Commit and Push
+      # Git coomit and push
+      - name: Git commit and push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          commit_message: Add new feed
+          commit_message: Add new feed from $(date +%Y-%m-%d-%h-%m).rss
           push_options: '--force'
