@@ -27,7 +27,6 @@ jobs:
         name: Download the file
         with:
           url: "http://www.drwindows.de/news/feed"
-          target: feeds/
 
       # Runs a single command using the runners shell
       - name: Run a one-line script
