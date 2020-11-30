@@ -22,6 +22,9 @@ jobs:
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
+      # Checkout
+      - uses: actions/checkout@v2
+        
       - uses: suisei-cn/actions-download-file@v1
         id: downloadfile
         name: Download the file
@@ -32,10 +35,11 @@ jobs:
       - name: Rename file
         run: mv feed feed_$(date +%d-%m-%Y).rss
         
+      # Check git status
       - name: Git status
         run: git status
         
-        # Git Commit and Push
+      # Git Commit and Push
       - name: Git Commit and Push
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
