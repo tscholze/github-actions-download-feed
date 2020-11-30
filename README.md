@@ -4,7 +4,7 @@
 
 |Type|Status|
 |-------|------|
-|main|![Badge](![CI](https://github.com/tscholze/github-actions-download-feed/workflows/CI/badge.svg))
+|main|![CI](https://github.com/tscholze/github-actions-download-feed/workflows/CI/badge.svg)
 |cron job| - |
 
 ## What's about?
