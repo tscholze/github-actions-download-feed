@@ -5,10 +5,6 @@ name: CI
 
 # Controls when the action will run. 
 on:
-  # Run on every push
-  # Mostly used for development checks.
-  push:
-    branches: [ main ]
   schedule:
     # Run every 6 hours
     - cron: '* 6 * * *'
