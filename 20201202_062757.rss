@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Tue, 01 Dec 2020 22:50:21 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Offiziell: Salesforce übernimmt Slack für 27,7 Milliarden USD</title>
+		<link>https://www.drwindows.de/news/offiziell-salesforce-uebernimmt-slack-fuer-277-milliarden-usd</link>
+					<comments>https://www.drwindows.de/news/offiziell-salesforce-uebernimmt-slack-fuer-277-milliarden-usd#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 22:17:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77579</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Slack Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft bekommt einen neuen und stärkeren Konkurrenten: Nachdem entsprechende Gerüchte bereits vor einer guten Woche aufkamen, machte Salesforce die Übernahme von Slack am heutigen Abend nun auch offiziell. Mit 27,7 Milliarden USD handelt es sich dabei um die teuerste Übernahme der Firmengeschichte, die in der Summe auch noch Microsofts Übernahme von LinkedIn leicht übertrifft. Salesforce [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Slack Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft bekommt einen neuen und stärkeren Konkurrenten: Nachdem entsprechende Gerüchte bereits vor einer guten Woche <a href="https://www.drwindows.de/news/slack-uebernahme-durch-salesforce-soll-unmittelbar-bevorstehen">aufkamen</a>, machte Salesforce die Übernahme von Slack am heutigen Abend nun auch offiziell. Mit 27,7 Milliarden USD handelt es sich dabei um die teuerste Übernahme der Firmengeschichte, die in der Summe auch noch Microsofts Übernahme von LinkedIn leicht übertrifft. Salesforce will die Übernahme bis zum 2. Quartal des eigenen Fiskaljahrs 2022 abgeschlossen haben.</p>
+<p>Slack, welches bisher rund 12 Millionen Nutzer vorweisen kann und damit weit hinter den Nutzerzahlen von Microsoft Teams zurückliegt, soll in Zukunft eng mit sämtlichen Cloud Services von Salesforce verwoben werden. Gleichzeitig soll es das neue Gesicht von Salesforce Customer 360 werden und sich noch stärker auf den Business- und Enterprise-Sektor fokussieren. Nach Abschluss der Übernahme soll das Unternehmen dann als eigene Abteilung innerhalb von Salesforce eingegliedert werden. Die Leitung soll aber beim aktuellen Slack-CEO Stewart Butterfield bleiben.</p>
+<p>Slack gehört neben Teams, Cisco WebEx und Zoom sicherlich zu den größten Namen, aber für die Zukunft könnte es vor allem bei der kostenlosen Variante des Dienstes interessant werden. Diese wurde auch von kleinen Teams sehr gerne genutzt und die könnten nach der Übernahme unter Umständen sicherlich zu einem Umstieg gezwungen sein, wenn die Integration in Salesforce abgeschlossen ist. Alternativen gibt es neben Microsoft auch von anderen Technikriesen genug, darunter natürlich Google Chat und Google Meet, Amazon Chime oder das zu Dropbox gehörende Zulip. Hinzu kommen kleinere Dienste wie Zenchat, selbstgehostete Varianten wie RocketChat oder Mattermost oder das Matrix-Protokoll, das unter anderem mit dem Referenzclient Element nutzbar ist und gerade bei Behörden und Ländern an Nutzern gewinnt.</p>
+<p>So oder so bekommt Microsoft nun eine noch größere Konkurrenz durch Salesforce, die neben der bisherigen Konkurrenz zu Microsoft Azure und Microsoft Dynamics nun auch den Frontalangriff auf Microsoft Teams wagen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/offiziell-salesforce-uebernimmt-slack-fuer-277-milliarden-usd/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edge Dev: Microsoft veröffentlicht mit Version 88.0.705.9 das finale Update vor der Beta</title>
+		<link>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-88-0-705-9-das-finale-update-vor-der-beta</link>
+					<comments>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-88-0-705-9-das-finale-update-vor-der-beta#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 20:10:33 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77575</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach einer Woche Pause meldet sich das Entwicklerteam von Microsoft Edge mit einer neuen Version im Dev Channel zurück. Mit dem Update auf Version 88.0.705.9 wird gleichzeitig die letzte Version von Edge 88.x verteilt, bevor diese in die Beta-Phase eintritt und dann im Januar an alle regulären Nutzer ausgeliefert wird. Trotzdem haben die Entwickler nochmal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach einer Woche Pause meldet sich das Entwicklerteam von Microsoft Edge mit einer neuen Version im Dev Channel zurück. Mit dem Update auf Version 88.0.705.9 wird gleichzeitig die letzte Version von Edge 88.x verteilt, bevor diese in die Beta-Phase eintritt und dann im Januar an alle regulären Nutzer ausgeliefert wird. Trotzdem haben die Entwickler nochmal einen Schwung an neuen Funktionen in die Version gepackt.</p>
+<p>Mit der neuen Version wurde der Rollout der Search Sidebar nun abgeschlossen. Zudem bekommen Nutzer unter macOS als erste nun Picture-in-Picture als neue Funktion spendiert, Windows und Linux sollen zu einem späteren Zeitpunkt folgen. Das Layout für die Cookies und Seitenberechtigungen wurde überarbeitet und die Möglichkeit, Textnotizen in PDFs einzufügen, auf weitere Plattformen neben Windows ausgeweitet. Diverse Verbesserungen gab es bei den Passwörtern, die Edge nun auch selbst generieren kann und das Kopieren und Editieren von Passwörtern, die im Browser gespeichert wurden, erlaubt.</p>
+<p>Hinzu kommen wie immer die üblichen Bugfixes und neue Gruppenrichtlinien. Nähere Informationen zu dem, was sich ansonsten noch in dieser Version getan hat, findet ihr wie immer im entsprechenden <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-88-0-705-9-is-live/m-p/1945704">Blogpost</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-88-0-705-9-das-finale-update-vor-der-beta/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>PowerToys: Microsoft veröffentlicht Version 0.27 mit Designverbesserungen und mehr</title>
+		<link>https://www.drwindows.de/news/powertoys-microsoft-veroeffentlicht-version-0-27-mit-designverbesserungen-und-mehr</link>
+					<comments>https://www.drwindows.de/news/powertoys-microsoft-veroeffentlicht-version-0-27-mit-designverbesserungen-und-mehr#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 19:58:46 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77571</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerToys" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft hat vor wenigen Stunden mit Version 0.27 das nächste Funktionsupdate für die neuen PowerToys für Windows 10 veröffentlicht. Das neue Werkzeug für Videokonferenzen ist wieder nicht dabei, dafür haben die Entwickler aber bei der Oberfläche diverser anderer Werkzeuge Hand angelegt. Der Image Resizer und der Color Picker bekamen verschiedene Updates bei der Benutzeroberfläche, letzterer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerToys" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft hat vor wenigen Stunden mit Version 0.27 das nächste Funktionsupdate für die neuen PowerToys für Windows 10 veröffentlicht. Das neue Werkzeug für Videokonferenzen ist wieder nicht dabei, dafür haben die Entwickler aber bei der Oberfläche diverser anderer Werkzeuge Hand angelegt. Der Image Resizer und der Color Picker bekamen verschiedene Updates bei der Benutzeroberfläche, letzterer auch eine Erneuerung des Editors. Auch der Installer wurde aktualisiert und wird jetzt mit einem eigenen Dark Mode ausgeliefert.</p>
+<p>Generell wurden zahlreiche Fehler bei der Barrierefreiheit korrigiert und die Lokalisierung in andere Sprachen weiter ausgebaut. Die FancyZone verfügen nun auch über die Möglichkeit, zum Start kein vorgegebenes Layout zu verwendet. Außerdem wurde die Unterstützung von Setups mit mehreren Monitoren deutlich verbessert. Bei PowerRename wurde der Lookbehind-Support über die Boost library integriert, während PowerToys Run von nicht notwendigen Abhängigkeiten befreit wurde.</p>
+<p>PowerToys 0.27 kann als Update ab sofort via GitHub heruntergeladen werden. Nähere Informationen findet ihr wie immer in den zugehörigen <a href="https://github.com/microsoft/PowerToys/releases/tag/v0.27.0">Release Notes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/powertoys-microsoft-veroeffentlicht-version-0-27-mit-designverbesserungen-und-mehr/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Für die Konsolen: Microsoft gibt das Xbox Insider Bundle im Microsoft Store frei</title>
+		<link>https://www.drwindows.de/news/fuer-die-konsolen-microsoft-gibt-das-xbox-insider-bundle-im-microsoft-store-frei</link>
+					<comments>https://www.drwindows.de/news/fuer-die-konsolen-microsoft-gibt-das-xbox-insider-bundle-im-microsoft-store-frei#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 15:55:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77563</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurzer Einwurf für alle Xbox Insider unter uns, die gerne ihr entsprechendes Feedback abgeben wollen: Wie die Kollegen von Aggiornamenti Lumia auf Twitter schreiben, hat Microsoft mit dem Xbox Insider Bundle ein neues Paket aus zwei Apps zum Download bereitgestellt, das neben der Xbox Series X/S auch für die Xbox One zur Verfügung steht. Teil [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/03/xbox_insider-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurzer Einwurf für alle Xbox Insider unter uns, die gerne ihr entsprechendes Feedback abgeben wollen: Wie die Kollegen von Aggiornamenti Lumia auf Twitter schreiben, hat Microsoft mit dem Xbox Insider Bundle ein neues Paket aus zwei Apps zum Download bereitgestellt, das neben der Xbox Series X/S auch für die Xbox One zur Verfügung steht. Teil des Bundles ist die neue Xbox Insider-App, die nun auch die Betaphase verlassen hat und für alltagstauglich erklärt wurde.</p>
+<p>Außerdem wurde mit der &#8222;Xbox Report a Problem&#8220;-App eine weitere Anwendung integriert, um den Entwicklern direktes Feedback für ein Problem zukommen zu lassen. Für Windows 10 stehen die Apps selbst nicht zur Verfügung, sondern können nur auf der aktuellen und der letzten Konsolengeneration installiert werden. Den Link zum Xbox Insider Bundle findet ihr wie immer am Ende des Beitrags.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Xbox Insider Bundle (this bundle contains the new &quot;Xbox Insider&quot; app, now out of beta &amp; the *new* &quot;Xbox Report a Problem&quot; app)<a href="https://t.co/JwasGAbBNb">https://t.co/JwasGAbBNb</a> <a href="https://t.co/WQrXDuzTNb">pic.twitter.com/WQrXDuzTNb</a></p>
+<p>&mdash; Aggiornamenti Lumia (@ALumia_Italia) <a href="https://twitter.com/ALumia_Italia/status/1333740399500943363?ref_src=twsrc%5Etfw">December 1, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9p8qtp44njgb) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9p8qtp44njgb" title="Xbox Insider-Paket">Xbox Insider-Paket (Kostenlos, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/fuer-die-konsolen-microsoft-gibt-das-xbox-insider-bundle-im-microsoft-store-frei/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Browser und Betriebssysteme im November 2020: Neustart für unsere Monatsstatistik</title>
+		<link>https://www.drwindows.de/news/browser-und-betriebssysteme-im-november-2020-neustart-fuer-unsere-monatsstatistik</link>
+					<comments>https://www.drwindows.de/news/browser-und-betriebssysteme-im-november-2020-neustart-fuer-unsere-monatsstatistik#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 10:54:19 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77525</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Statistiken" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es gehört gewissermaßen zur Tradition, dass wir zu Beginn eines jeden Monats auf die Entwicklung der Nutzungsanteile von Browsern und Betriebssystemen schauen. Bislang haben wir dafür immer auf die Erhebungen von Netmarketshare gesetzt, die allerdings im letzten Monat angekündigt haben, ihre Statistiken nicht mehr in der bisherigen Form zur Verfügung zu stellen. Der zweite große [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Statistiken" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es gehört gewissermaßen zur Tradition, dass wir zu Beginn eines jeden Monats auf die Entwicklung der Nutzungsanteile von Browsern und Betriebssystemen schauen. Bislang haben wir dafür immer auf die Erhebungen von Netmarketshare gesetzt, die allerdings im letzten Monat angekündigt haben, ihre Statistiken nicht mehr in der bisherigen Form zur Verfügung zu stellen.</p>
+<p>Der zweite große Anbieter auf diesem Gebiet ist Statcounter. Zwischen Statcounter und Netmarketshare gab es schon immer teils große Differenzen, die beide Firmen mit einer unterschiedlichen Methode zur Datenerhebung erklärt haben, wobei selbstverständlich jeder für sich reklamiert, das genauere Verfahren anzuwenden. Wer tatsächlich die besseren Daten liefert, vermag ich nicht zu beurteilen, mir ging es allerdings schon immer nur um die Trends. Wenn eine Statistik immer auf die gleiche Art falsch ist, bildet sie Trends dennoch richtig ab, insofern werden wir in Zukunft auf Statcounter setzen.</p>
+<p>Vergleichswerte weisen wir aus oben genannten Gründen für den November nicht aus, das tun wir ab Dezember wieder. Ich nutze die Gelegenheit außerdem, die Statistiken ein klein wenig anders aufzuziehen.</p>
+<h3>Betriebssysteme allgemein</h3>
+<p>Bislang haben wir immer nur auf die Desktop-Betriebssysteme geschaut, von nun an wollen wir auch einen Blick auf das große Bild werfen, welches uns verdeutlicht, dass Windows eben nicht mehr die Nummer 1 ist, sondern Android. Im November ergibt sich hier das folgende Bild:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme.png" data-rel="lightbox-gallery-1sLrQOBF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77537" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme.png" alt="Verteilung der Betriebssysteme im November 2020" width="800" height="204" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme-300x77.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme-768x196.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme-643x164.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h3>Betriebssysteme Desktop</h3>
+<p>Rein auf den Desktop bezogen sieht es für Windows selbstverständlich sehr viel besser aus, hier ist Microsoft die unangefochtene Nummer 1. Verfälscht wird die Statistik im November dadurch, dass Statcounter einen recht hohen Prozentsatz als &#8222;unbekannt&#8220; ausweist.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_betriebssysteme.png" data-rel="lightbox-gallery-1sLrQOBF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77539" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_betriebssysteme.png" alt="Verteilung der Desktop-Betriebssysteme im November 2020" width="800" height="154" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_betriebssysteme.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_betriebssysteme-300x58.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_betriebssysteme-768x148.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_betriebssysteme-643x124.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h3>Verteilung der Windows-Anteile</h3>
+<p>Anders als Netmarketshare bietet Statcounter keine Statistik, welche die Windows-Versionen zu den anderen Desktop-Systemen ins Verhältnis setzt, daher gibt es ab sofort eine eigene Statistik für die Verteilung von Windows &#8222;im eigenen Saft&#8220;.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_windows_versionen.png" data-rel="lightbox-gallery-1sLrQOBF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77542" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_windows_versionen.png" alt="Verteilung der Windows-Versionen im November 2020" width="800" height="178" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_windows_versionen.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_windows_versionen-300x67.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_windows_versionen-768x171.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_windows_versionen-643x143.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h3>Browser allgemein</h3>
+<p>Auch bei den Browsern wollen wir in Zukunft aufs &#8222;große Ganze&#8220; schauen und bieten eine Auswertung, die alle Plattformen einschließt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_browser.png" data-rel="lightbox-gallery-1sLrQOBF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77538" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_browser.png" alt="Verteilung der Browser im November 2020" width="800" height="207" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_browser.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_browser-300x78.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_browser-768x199.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_browser-643x166.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h3>Browser Desktop</h3>
+<p>Am gravierendsten fällt der Unterschied zwischen Netmarketshare und Statcounter bei den Statistiken für die Desktop-Browser aus. Bei Netmarketshare war Microsoft Edge mit einem Anteil von über 10 Prozent zuletzt die klare Nummer zwei, Statcounter führt ihn auf Platz vier. Wie eingangs erwähnt, geht es mir hauptsächlich darum, Entwicklungen im Auge zu behalten, insofern wird diese Statistik wie alle anderen ab dem kommenden Monat wieder interessant.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_browser.png" data-rel="lightbox-gallery-1sLrQOBF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77540" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_browser.png" alt="Verteilung der Desktop-Browser im November 2020" width="800" height="182" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_browser.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_browser-300x68.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_browser-768x175.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_desktop_browser-643x146.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<h3>DrWindows-Besucherstatistik</h3>
+<p>Bei unserer eigenen Statistik hat sich die Datenbasis nicht verändert, darum zeigt diese die Veränderungen zum Vormonat an. Nach wie vor ergibt sich eine erhebliche Abweichung zu den oben gezeigten Werten, was allerdings völlig normal ist, weil wir hier ein spezielles Publikum bedienen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_drwindows_besucherstatistik.png" data-rel="lightbox-gallery-1sLrQOBF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77541" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_drwindows_besucherstatistik.png" alt="DrWindows-Besucherstatistik November 2020" width="800" height="494" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_drwindows_besucherstatistik.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_drwindows_besucherstatistik-300x185.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_drwindows_besucherstatistik-768x474.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_drwindows_besucherstatistik-643x397.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>Last but not least stellen wir auch die neue Statistik als PDF-Datei zur Verfügung: <a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/browser_betriebssysteme_november_2020.pdf">Browser und Betriebssysteme im November 2020</a>.</p>
+<p><strong>Quellen:</strong></p>
+<ul>
+<li><a href="https://gs.statcounter.com/os-market-share#monthly-202011-202011-bar" target="_blank" rel="noopener noreferrer">Statcounter / Betriebssysteme</a></li>
+<li><a href="https://gs.statcounter.com/os-market-share/desktop/worldwide/#monthly-202011-202011-bar" target="_blank" rel="noopener noreferrer">Statcounter / Desktop-Betriebssysteme</a></li>
+<li><a href="https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/#monthly-202011-202011-bar" target="_blank" rel="noopener noreferrer">Statcounter / Windows-Versionen</a></li>
+<li><a href="https://gs.statcounter.com/browser-market-share#monthly-202011-202011-bar" target="_blank" rel="noopener noreferrer">Statcounter / Browser</a></li>
+<li><a href="https://gs.statcounter.com/browser-market-share/desktop/worldwide/#monthly-202011-202011-bar" target="_blank" rel="noopener noreferrer">Statcounter / Desktop-Browser</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/browser-und-betriebssysteme-im-november-2020-neustart-fuer-unsere-monatsstatistik/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox November Update konzentriert sich auf die neue Generation: Mehr Hintergründe, bessere Kennzeichnungen</title>
+		<link>https://www.drwindows.de/news/xbox-november-update-konzentriert-sich-auf-die-neue-generation-mehr-hintergruende-bessere-kennzeichnungen</link>
+					<comments>https://www.drwindows.de/news/xbox-november-update-konzentriert-sich-auf-die-neue-generation-mehr-hintergruende-bessere-kennzeichnungen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 07:38:29 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77515</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series S und X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Xbox Dashboard-Update für den Monat November wurde am Montagabend veröffentlicht. Es ist keine allzu große Überraschung, dass sich die Neuerungen in diesem Update auf die neuen Konsolen Xbox Series X und S konzentrieren, aber auch für die Game Pass Abonnenten gibt es Neues zu entdecken. Neue Hintergründe Die neuen Konsolen unterstützen dynamische, animierte Hintergründe, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series S und X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_series_x_und_s-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Xbox Dashboard-Update für den Monat November wurde am Montagabend veröffentlicht. Es ist keine allzu große Überraschung, dass sich die Neuerungen in diesem Update auf die neuen Konsolen Xbox Series X und S konzentrieren, aber auch für die Game Pass Abonnenten gibt es Neues zu entdecken.</p>
+<h3>Neue Hintergründe</h3>
+<p>Die neuen Konsolen unterstützen dynamische, animierte Hintergründe, bisher gab es aber nur einen einzigen, der lediglich durch die gewählte Akzentfarbe verändert werden konnte. Mit dem November Update wird die Auswahl hinsichtlich der Farbenspiele und Animationen größer.</p>
+<p>Das ist aus &#8222;emotionaler Sicht&#8220; gar nicht so unwichtig, denn das Dashboard von Xbox Series X und S ist ansonsten komplett mit dem Vorgänger identisch. Was von Microsoft gewollt ist, führte bereits zu der Kritik, dass sich die neue Konsole dadurch zu wenig neu anfühlt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background.jpg" data-rel="lightbox-gallery-8tGkXpLJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77520" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background.jpg" alt="Dynamische Hintergründe für die neue Xbox" width="1200" height="675" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_dynamic_background-643x362.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<h3>Auto HDR</h3>
+<p>Die neue Xbox-Generation besitzt eine Funktion mit dem Namen &#8222;Auto HDR&#8220;, die auch aus nicht optimierten Spielen eine bessere Optik kitzeln soll. Wenn Auto HDR im Einsatz ist, wird das künftig durch eine kurze Einblendung signalisiert.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr.jpg" data-rel="lightbox-gallery-8tGkXpLJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77518" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr.jpg" alt="Auto HDR" width="1200" height="675" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_auto_hdr-643x362.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<h3>Optimiert für Series X und S</h3>
+<p>Das ist eigentlich keine Neuerung des November Update, der Vollständigkeit wegen sei es hier dennoch mit aufgelistet: Spiele, die für Xbox Series X und S optimiert wurden, tragen auf ihrer Kachel ein entsprechendes, nicht zu übersehendes Kennzeichen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized.jpg" data-rel="lightbox-gallery-8tGkXpLJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77521" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized.jpg" alt="Optimiert für Xbox Series X und S" width="1200" height="675" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_series_optimized-643x362.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<h3>Schnelle Übersicht über Erfolge</h3>
+<p>In der Übersicht der Game Aktivitäten lässt sich jetzt der Status der bereits erzielten Erfolge und Gamerscore-Punkten einsehen. Das betrifft sowohl die Xbox One als auch die neue Generation.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker.jpg" data-rel="lightbox-gallery-8tGkXpLJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77516" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker.jpg" alt="Xbox Achievement Tracker" width="1200" height="675" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_achievement_tracker-643x362.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<h3>Familienmitglieder hinzufügen</h3>
+<p>Wenn eine Konsole innerhalb der Familie von mehreren Personen genutzt wird, kann man diese bereits bei der Einrichtung der Xbox hinterlegen und die entsprechenden Familieneinstellungen anwenden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member.jpg" data-rel="lightbox-gallery-8tGkXpLJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77517" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member.jpg" alt="" width="1280" height="720" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_add_family_member-643x362.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<h3>Neue Game Pass Spiele vorab laden</h3>
+<p>Sowohl über die Konsole als auch über die mobilen Apps kann man künftig Spiele, die in Kürze im Xbox Game Pass landen, vorab herunterladen, sodass man am Tag der Verfügbarkeit direkt loslegen kann.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon.jpg" data-rel="lightbox-gallery-8tGkXpLJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77519" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon.jpg" alt="Xbox Game Pass Coming Soon" width="1280" height="720" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_coming_soon-643x362.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Microsoft verliert in der Ankündigung des November Update keine Worte darüber, ob bestehende Probleme gelöst wurden. So arbeitet die Funktion &#8222;Quick Resume&#8220; leider bei vielen Spielen noch nicht sehr zuverlässig, außerdem gibt es Probleme mit <a href="https://www.drwindows.de/news/microsoft-bestaetigt-soundprobleme-mit-drahtlosen-headsets-an-der-xbox-series-x-es-liegt-am-controller" target="_blank" rel="noopener noreferrer">drahtlosen Headsets</a>. Letzteres kann ich bei mir sehr gut reproduzieren, insofern sollte ich herausfinden können, ob es mit dem Update gelöst wurde.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-november-update-konzentriert-sich-auf-die-neue-generation-mehr-hintergruende-bessere-kennzeichnungen/feed</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Weiterentwicklung von Windows 10: Größter Umbruch seit 2015 steht an</title>
+		<link>https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015</link>
+					<comments>https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 06:13:05 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77511</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft stellt die Art und Weise, wie neue Funktionen für Windows 10 bereitgestellt werden, auf eine völlig neue Basis. Es ist die größte Änderung an &#8222;Windows as a Service&#8220; seit der Einführung von Windows 10 im Jahr 2015. Dieser Umbruch wird dennoch &#8222;leise&#8220; angekündigt, in Form eines Blogposts, der sich an die Windows Insider im [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft stellt die Art und Weise, wie neue Funktionen für Windows 10 bereitgestellt werden, auf eine völlig neue Basis. Es ist die größte Änderung an &#8222;Windows as a Service&#8220; seit der Einführung von Windows 10 im Jahr 2015.</p>
+<p>Dieser Umbruch wird dennoch &#8222;leise&#8220; angekündigt, in Form eines <a href="https://blogs.windows.com/windows-insider/2020/11/30/releasing-windows-feature-experience-pack-120-2212-1070-0-to-the-beta-channel/" target="_blank" rel="noopener noreferrer">Blogposts</a>, der sich an die Windows Insider im Beta Kanal richtet. Diese erhalten erstmals offiziell eine Aktualisierung des &#8222;Windows Feature Experience Pack&#8220;. Von diesem haben wir gerüchteweise schon oft gehört, er wurde auch bereits im Store gesichtet. Es ist nun bestätigt, was man sich bereits denken konnte: Mit diesem Feature Experience Pack wird Windows 10 künftig neue Funktionen erhalten, ohne dass dafür eine neue Version von Windows 10 veröffentlicht werden muss.</p>
+<p>Es gibt eine Menge an Dinge, die man an Windows verändern kann, ohne dafür den &#8222;Unterbau&#8220; wie den Kernel oder das Treibermodell verändern zu müssen. Es ist das Ziel von Microsoft, in Zukunft genau das zu tun, also möglichst viele Neuerungen unabhängig vom &#8222;großen Fahrplan&#8220; auszuliefern, darum wird man von nun an auch darauf hinarbeiten, diese Trennung so weit wie nur möglich zu vollziehen.</p>
+<p>Die Zeit der großen Feature-Gewitter im Rahmen von neuen Windows 10 Versionen ist ohnehin schon lange vorbei, es werden nicht mehr haufenweise Neuerungen nur der Neuerung wegen eingebaut, um Fortschritt zu suggerieren. Dennoch steckt in den halbjährlichen Releases meist immer noch mehr, als man den Nutzern auf die Schnelle vermitteln kann. Mit dem Windows Feature Experience Pack können neue Funktionen nicht nur schneller zu den Nutzern gebracht werden, sondern auch in kleineren Häppchen, was es Microsoft wiederum ermöglicht, die Neuerungen gezielter zu bewerben.</p>
+<p>Im Grunde ist das auch gar nicht neu, Windows 10 war diesbezüglich rückständig. Andere Produkte wie die Xbox oder die Office Suite erhalten heute schon neue Features in kleinen monatlichen Häppchen.</p>
+<p>Das Windows Feature Experience Pack war ursprünglich im Store gesichtet worden, die Aktualisierung wird künftig allerdings über Windows Update erfolgen. Das ist vor allen Dingen deshalb wichtig, weil Unternehmen eine Kontrolle darüber benötigen, wie oft ein solches Feature Experience Pack ausgerollt wird.</p>
+<p>Vollständig wird die Trennung nie gelingen, das ist klar, eine solche Illusion versucht Microsoft in der Ankündigung auch gar nicht erst zu erzeugen. Es wird immer Abhängigkeiten geben, neue Versionen von Windows 10 werden beispielsweise immer auch eine neue Mindestversion des Feature Experience Pack voraussetzen, umgekehrt wird es von der verwendeten Windows 10 Version abhängig sein, welche neuen Funktionen man mit dem (monatlichen?) Feature-Updates tatsächlich erhält.</p>
+<p>Die ersten Änderungen, die mit dem Windows Feature Experience Pack ausgeliefert werden, sind kleiner Natur. Mit der Tastenkombination WIN + SHIFT + S kann man einen Screenshot aufnehmen und diesen direkt an einem vorgegebenen Ordner ablegen, außerdem kann das Touch Keyboard nun auch im Portrait Modus zweiteilig dargestellt werden (Split View). Diese kleinen Änderungen täuschen aber nicht darüber hinweg, dass es sich um eine große Sache für Windows 10 handelt, die da gerade passiert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Tipp: Themes of .NET zeigt die Pläne für .NET 6 und darüber hinaus</title>
+		<link>https://www.drwindows.de/news/tipp-themes-of-net-zeigt-die-plaene-fuer-net-6-und-darueber-hinaus</link>
+					<comments>https://www.drwindows.de/news/tipp-themes-of-net-zeigt-die-plaene-fuer-net-6-und-darueber-hinaus#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 16:42:59 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77505</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="DotNet Foundation" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Mit .NET 5 wurde die aktuelle Version von Microsofts Entwicklungsplattform gerade erst am 10. November für alle Entwickler freigegeben, da starten auch schon die Arbeiten am Nachfolger .NET 6, welcher im November 2021 erscheinen soll und die nächste Version mit LTS-Unterstützung wird. Über die Neuerungen waren ansonsten bisher nur wenige Sachen bekannt, wovon [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="DotNet Foundation" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Mit .NET 5 wurde die aktuelle Version von Microsofts Entwicklungsplattform gerade erst am 10. November für alle Entwickler freigegeben, da starten auch schon die Arbeiten am Nachfolger .NET 6, welcher im November 2021 erscheinen soll und die nächste Version mit LTS-Unterstützung wird. Über die Neuerungen waren ansonsten bisher nur wenige Sachen bekannt, wovon der Übergang von Xamarin zu .NET MAUI der größte bekannte Schritt war.</p>
+<p>Um die aktuellen Arbeiten an dem Framework für alle Entwickler besser zu veranschaulichen, hat Immo Landwerth von Microsoft mit <a href="https://themesof.net/">Themes of .NET</a> eine neue Seite gestartet, die zunächst die aktuellen Arbeiten an .NET 6 dokumentiert und später dann auch die weitere Folgeversionen beachtet. Die Arbeiten im Repository können zudem entsprechende Filter und die Suchfunktion eingegrenzt werden. Nähere Informationen zu den Kategorien können <a href="https://themesof.net/about">hier</a> gefunden werden, das Projekt selbst steht ebenfalls unter der MIT-Lizenz und kann im Repository <a href="https://github.com/terrajobst/themesof.net">hier</a> auf GitHub betrachtet werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/tipp-themes-of-net-zeigt-die-plaene-fuer-net-6-und-darueber-hinaus/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams erhält neuen Status: Out of Office</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-erhaelt-neuen-status-out-of-office</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-erhaelt-neuen-status-out-of-office#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 15:57:17 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77502</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft Teams wird um einen weiteren Anwesenheitsstatus ergänzt &#8211; oder besser gesagt, Abwesenheitsstatus. Wer beispielsweise wegen Urlaubs längere Zeit nicht erreichbar sein wird, kann seinen Status voraussichtlich ab Dezember in &#8222;Out of Office&#8220; ändern. Es ist die zweite neue Statusmeldung, die binnen kurzer Zeit eingeführt wird. Seit einigen Wochen kann man seinen Status in Teams [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft Teams wird um einen weiteren Anwesenheitsstatus ergänzt &#8211; oder besser gesagt, Abwesenheitsstatus. Wer beispielsweise wegen Urlaubs längere Zeit nicht erreichbar sein wird, kann seinen Status voraussichtlich ab Dezember in &#8222;Out of Office&#8220; ändern. Es ist die zweite neue Statusmeldung, die binnen kurzer Zeit eingeführt wird. Seit einigen Wochen kann man seinen Status in Teams auf <a href="https://www.drwindows.de/news/microsoft-teams-erhaelt-neuen-anwesenheitsstatus-offline" target="_blank" rel="noopener noreferrer">&#8222;Offline&#8220;</a> stellen, wenn man gegenüber Kollegen &#8222;vortäuschen&#8220; möchte, nicht erreichbar zu sein. Nützlich, wenn man Kollegen hat, die beim Status &#8222;Nicht stören&#8220; ihre Nachrichten mit &#8222;Ich will dich nicht stören, aber&#8230;&#8220; beginnen.</p>
+<p>Laut der <a href="https://www.microsoft.com/en-us/microsoft-365/roadmap?filters=&amp;searchterms=68701" target="_blank" rel="noopener noreferrer">Microsoft Office Roadmap</a> soll die Möglichkeit, den Status auf &#8222;Out of Office&#8220; zu setzen, noch im Dezember in die Desktop-App von Teams integriert werden. Ganz neu ist dieser Status nicht, Teams hat ihn auch bisher schon aus Outlook übernommen, wenn man dort eine Abwesenheitsnotiz hinterlegt hat. Künftig geht das dann auch auf dem umgekehrten Weg.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-erhaelt-neuen-status-out-of-office/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Excel: Kommentarfunktion wird zur Aufgabenverwaltung</title>
+		<link>https://www.drwindows.de/news/excel-kommentarfunktion-wird-zur-aufgabenverwaltung</link>
+					<comments>https://www.drwindows.de/news/excel-kommentarfunktion-wird-zur-aufgabenverwaltung#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 30 Nov 2020 15:33:45 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77495</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Excel Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft Excel erhält eine neue Funktion, welche die Zusammenarbeit an Tabellen deutlich vereinfachen kann: Über die Kommentarfunktion kann man Kollegen eine Aufgabe zuweisen, die auch entsprechend nachverfolgt wird. Die Funktion ist in vollem Umfang bisher nur im Web verfügbar, am Desktop und in den mobilen Apps wird sie nur teilweise unterstützt, außerdem ist die Nutzung [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Excel Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Excel-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft Excel erhält eine neue Funktion, welche die Zusammenarbeit an Tabellen deutlich vereinfachen kann: Über die Kommentarfunktion kann man Kollegen eine Aufgabe zuweisen, die auch entsprechend nachverfolgt wird. Die Funktion ist in vollem Umfang bisher nur im Web verfügbar, am Desktop und in den mobilen Apps wird sie nur teilweise unterstützt, außerdem ist die Nutzung nur mit einem geschäftlichen Office-Konto möglich. Alles noch im Entstehen, daher wirbt Microsoft vorerst auch nur bei den <a href="https://insider.office.com/en-us/blog/assign-tasks-with-mentions-in-excel-for-web" target="_blank" rel="noopener noreferrer">Office Insidern</a> damit, obwohl man keiner sein muss, um es auszuprobieren.</p>
+<p>Das Feature kann beispielsweise genutzt werden, um einen Kollegen zu bitten, einen ganz bestimmten Wert zu überprüfen, wie ich das in meinem Selbstversuch gemacht habe. Man weist einem Kollegen die Aufgabe zu, indem man ihn per &#8222;@&#8220; anspricht. Sollte der Angesprochene keinen Zugriff auf das entsprechende Dokument haben, wird man gewarnt und kann die Freigabe sogleich erteilen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_zuweisen_excel.png" data-rel="lightbox-gallery-RrMpLS6X" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77499" src="https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_zuweisen_excel.png" alt="Aufgabe zuweisen in Excel" width="892" height="626" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_zuweisen_excel.png 892w, https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_zuweisen_excel-300x211.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_zuweisen_excel-768x539.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_zuweisen_excel-643x451.png 643w" sizes="(max-width: 892px) 100vw, 892px" /></a></p>
+<p>Der so getriggerte Kollege wird über seine neue Aufgabe informiert und kann sie anschließend abarbeiten. Hat er das getan, wird man darüber sowohl per Mail als auch im Dokument selbst informiert.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_abgeschlossen_excel.png" data-rel="lightbox-gallery-RrMpLS6X" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77509" src="https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_abgeschlossen_excel.png" alt="Excel-Aufgabe erledigt" width="484" height="285" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_abgeschlossen_excel.png 484w, https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_abgeschlossen_excel-300x177.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/aufgabe_abgeschlossen_excel-245x145.png 245w" sizes="(max-width: 484px) 100vw, 484px" /></a></p>
+<p>Ich habe mir bei meinem Test selbst eine Aufgabe zugewiesen, das hat ebenfalls funktioniert. Neugierig habe ich gleich in Microsoft To Do nachgesehen, ob die Aufgabe auch dort als &#8222;mir zugewiesen&#8220; aufgeführt wird, das war aber nicht der Fall. Ich gehe davon aus, dass die Anbindung im Rahmen der Finalisierung dieser Funktion ebenfalls noch erfolgt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/excel-kommentarfunktion-wird-zur-aufgabenverwaltung/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
