@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Thu, 03 Dec 2020 10:00:39 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Verwaltung von Microsoft 365: Vereinfachte Oberfläche für kleine Unternehmen</title>
+		<link>https://www.drwindows.de/news/verwaltung-von-microsoft-365-vereinfachte-oberflaeche-fuer-kleine-unternehmen</link>
+					<comments>https://www.drwindows.de/news/verwaltung-von-microsoft-365-vereinfachte-oberflaeche-fuer-kleine-unternehmen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 10:00:39 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77621</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft 365" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft 365 wird an Unternehmen aller Größen vermarktet, egal ob 3 oder 30.000 Mitarbeiter. Dementsprechend unterschiedlich sind auch die Anforderungen und der genutzte Leistungsumfang. Besonders in kleinen Unternehmen wird oft auf ein recht einfaches Setup gesetzt: Man benutzt Exchange und die Office-Applikationen, dazu vielleicht noch Teams und OneDrive, und das war es dann auch schon. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft 365" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft 365 wird an Unternehmen aller Größen vermarktet, egal ob 3 oder 30.000 Mitarbeiter. Dementsprechend unterschiedlich sind auch die Anforderungen und der genutzte Leistungsumfang. Besonders in kleinen Unternehmen wird oft auf ein recht einfaches Setup gesetzt: Man benutzt Exchange und die Office-Applikationen, dazu vielleicht noch Teams und OneDrive, und das war es dann auch schon.</p>
+<p>Als Administrator in einem kleinen Unternehmen wird man von der Verwaltungsoberfläche fast erschlagen, obwohl man nur einen Bruchteil der dort verfügbaren Funktionen tatsächlich nutzt. Es gibt zwar die Möglichkeit, die Oberfläche zu individualisieren und nicht benötigte Elemente auszublenden, aber da fängt es schon an: Um das zu tun, muss man ja überhaupt erst einmal wissen, dass es diese Möglichkeit gibt.</p>
+<p>Um es insbesondere kleinen Firmen an dieser Stelle einfacher zu machen, hat Microsoft die &#8222;Vereinfachte Ansicht&#8220; des Microsoft 365 Admincenters vorgestellt. Wie man dem folgenden Screenshot entnehmen kann, beschränkt es sich auf die wesentlichen Funktionen. Über den Button oben rechts kann man jederzeit auf das komplette Dashboard umschalten.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view.jpg" data-rel="lightbox-gallery-TX8yNRO2" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77624" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view.jpg" alt="Microsoft 365 Admin Center" width="1433" height="748" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view.jpg 1433w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-300x157.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-1024x535.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-768x401.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-643x336.jpg 643w" sizes="(max-width: 1433px) 100vw, 1433px" /></a></p>
+<p>Die vereinfachte Ansicht bietet Zugriff auf die Benutzer, Gruppen und Rechnungen. Über die obere Leiste kann ein neuer Benutzer angelegt sowie die Installation der Office-Applikationen verwaltet werden, außerdem steuert man hierüber die Einstellungn von E-Mail und Microsoft Teams.</p>
+<p>Die Verfügbarkeit ist nicht an die Größe des Unternehmens oder die Anzahl der Lizenzen gekoppelt, die einfacha Ansicht steht also allen Administratoren zur Verfügung.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/verwaltung-von-microsoft-365-vereinfachte-oberflaeche-fuer-kleine-unternehmen/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fifa 21: Für Xbox Series X und PS 5 optimierte Version legt einen Frühstart hin</title>
+		<link>https://www.drwindows.de/news/fifa-21-fuer-xbox-series-x-und-ps-5-optimierte-version-legt-einen-fruehstart-hin</link>
+					<comments>https://www.drwindows.de/news/fifa-21-fuer-xbox-series-x-und-ps-5-optimierte-version-legt-einen-fruehstart-hin#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 09:12:56 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77617</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Fifa 21 Next Gen" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Update von Fifa 21 auf die neue Konsolengeneration startet einen Tag früher als geplant. Ab dem 4. Dezember sollte das Update eigentlich für alle Spieler bereit stehen, die eine Xbox Series X/S oder eine Playstation 5 besitzen. Nun ist es einen Tag eher soweit, das Update kann bereits geladen werden. Ich habe die Meldung [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Fifa 21 Next Gen" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Update von Fifa 21 auf die neue Konsolengeneration startet einen Tag früher als geplant. Ab dem 4. Dezember sollte das Update eigentlich für alle Spieler bereit stehen, die eine Xbox Series X/S oder eine Playstation 5 besitzen. Nun ist es einen Tag eher soweit, das Update kann bereits geladen werden.</p>
+<p>Ich habe die Meldung eben bei <a href="https://stadt-bremerhaven.de/fifa-21-next-gen-update-fuer-ps5-und-xbox-series-xs-ist-bereits-verfuegbar" target="_blank" rel="noopener noreferrer">Caschy</a> gesehen und daraufhin meine Xbox Series X angeworfen. Die für die neue Generation optimierte Version hatte ich bereits per Pre-Download auf der Konsole. Vorgestern erhielt ich bei dem Versuch, sie zu starten, noch die Meldung, dass ich mich noch ein wenig gedulden muss. Nun hat es funktioniert.</p>
+<p>Zugegeben: Ich war äußerst skeptisch, denn EA steht nun mal nicht in dem Ruf, sich besonders ins Zeug zu legen. Von einem kostenlosen Update für ein Spiel, das man bereits gekauft hat, habe ich mir demnach nicht sehr viel erwartet. Den ersten Eindrücken zufolge aber habe ich mich erfreulicherweise getäuscht.</p>
+<p>Die Darstellung ist nochmals ein gutes Stück detaillierter geworden, bei Nahaufnahmen der Spieler sind wir vom Fotorealismus nun wirklich nicht mehr weit entfernt. Aber auch die Grafik während des Spiels scheint nochmal eine Schippe drauf gelegt zu haben, sowohl auf als auch neben dem Platz. Dieses NextGen-Update scheint sich also in der Tat zu lohnen.</p>
+<p>Wer Details über die enhaltenen Verbesserungen nachlesen möchte, kann das <a href="https://www.ea.com/de-de/games/fifa/fifa-21/next-level" target="_blank" rel="noopener noreferrer">hier</a> und <a href="https://www.ea.com/de-de/games/fifa/fifa-21/news/fifa-21-next-level-deep-dive" target="_blank" rel="noopener noreferrer">hier</a> bei EA tun, auf diesen Seiten wurden alle Optimierungen in Fifa 21 dokumentiert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/fifa-21-fuer-xbox-series-x-und-ps-5-optimierte-version-legt-einen-fruehstart-hin/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OneDrive: Auch Business-Nutzer können jetzt geteilte Ordner ins eigene Verzeichnis integrieren</title>
+		<link>https://www.drwindows.de/news/onedrive-auch-business-nutzer-koennen-jetzt-geteilte-ordner-ins-eigene-verzeichnis-integrieren</link>
+					<comments>https://www.drwindows.de/news/onedrive-auch-business-nutzer-koennen-jetzt-geteilte-ordner-ins-eigene-verzeichnis-integrieren#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 07:10:29 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77613</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="OneDrive" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Nutzer von OneDrive for Business kommen in den Genuss einer neuen Funktion, die es in der Endkunden-Version schon länger gibt: Ordner, die von anderen OneDrive-Nutzern freigegeben wurden, können in den eigenen Verzeichnisbaum integriert und auch lokal synchronisiert werden. Gefühlt macht es bei der Nutzung also keinen Unterschied mehr, ob es sich um eigene Inhalte [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="OneDrive" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Nutzer von OneDrive for Business kommen in den Genuss einer neuen Funktion, die es in der Endkunden-Version schon länger gibt: Ordner, die von anderen OneDrive-Nutzern freigegeben wurden, können in den eigenen Verzeichnisbaum integriert und auch lokal synchronisiert werden. Gefühlt macht es bei der Nutzung also keinen Unterschied mehr, ob es sich um eigene Inhalte oder die von anderen Nutzern handelt. Die neue Funktion war bereits seit einigen Monaten im Test und wurde stufenweise verteilt, nun <a href="https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/add-to-onedrive-is-generally-available/ba-p/1914772" target="_blank" rel="noopener noreferrer">meldet Microsoft</a>, dass der Rollout abgeschlossen und die Integration bei allen Nutzern verfügbar ist.</p>
+<p>Um einen geteilten Ordner dem eigenen OneDrive hinzuzufügen, ruft man die Weboberfläche von OneDrive auf und klickt in der linken Leiste auf &#8222;Geteilt&#8220;. Dort kann man sehen, welche Inhalte man selbst für andere Nutzer freigegeben hat und welche Dateien und Ordner von anderen Nutzern geteilt wurden. Um diese ins eigene OneDrive zu übernehmen, markiert man den Ordner und wählt die Option &#8222;Verknüpfung zu meinen Dateien hinzufügen&#8220;, die sich gleich an mehreren Stellen zeigt, sowohl im Kontextmenü als auch in der Titelleiste.</p>
+<p>Der Ordner wird dann entsprechend in das eigene OneDrive-Verzeichnis integriert und ist von allen Plattformen aus zugänglich. Unter Windows kann man die Inhalte beispielsweise auch lokal synchronisieren.</p>
+<p>Für einen Übergangszeitraum haben Administratoren von Microsoft 365 die Möglichkeit, diese Integration zu deaktivieren, falls man seine Nutzer vorher darauf einschwören möchte, diese Funktion nicht allzu exzessiv zu benutzen, wodurch logischerweise ein erhöhter Speicherplatzbedarf entsteht.</p>
+<p>Weitere Informationen dazu findet man im zugehörigen <a href="https://support.microsoft.com/de-de/office/hinzuf%c3%bcgen-von-verkn%c3%bcpfungen-zu-freigegebenen-ordnern-in-onedrive-f%c3%bcr-arbeit-oder-schule-d66b1347-99b7-4470-9360-ffc048d35a33?ui=de-de&amp;rs=de-de&amp;ad=de" target="_blank" rel="noopener noreferrer">Supportartikel</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/onedrive-auch-business-nutzer-koennen-jetzt-geteilte-ordner-ins-eigene-verzeichnis-integrieren/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sea of Thieves: Rare kündigt größere Veränderungen für 2021 an</title>
+		<link>https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an</link>
+					<comments>https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 06:31:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77608</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Sea of Thieves gehört wie Minecraft und Forza Horizon IV zu den Dauerbrennern von Microsoft, die von den Entwicklerstudios regelmäßig mit neuen Inhalten versorgt werden. Während am 9. Dezember das nächste monatliche Update für das Spiel erscheinen wird, kündigt Rare für das kommende Jahr einige Veränderungen an. Eine der wesentlichen Neuerungen ist dabei auch, dass [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Sea of Thieves gehört wie Minecraft und Forza Horizon IV zu den Dauerbrennern von Microsoft, die von den Entwicklerstudios regelmäßig mit neuen Inhalten versorgt werden. Während am 9. Dezember das nächste monatliche Update für das Spiel erscheinen wird, kündigt Rare für das kommende Jahr einige Veränderungen an. Eine der wesentlichen Neuerungen ist dabei auch, dass die Entwickler von monatlichen auf saisonale Updates umstellen werden. Entsprechend wird es dann etwa alle drei Monate neue Inhalte für Sea of Thieves geben, das erste davon wird noch im Januar folgen.</p>
+<p>Ebenfalls im Januar kommt ein neuer Battle Pass, der neben einem kostenlosen auch einen Premium-Tier haben wird und auf 100 Level ausgelegt ist. Spieler können im Adventure Mode so kosmetische Rewards für ihre Piraten und Schiffe erhalten, hinzu kommen exklusive Rewards für Pirate Legends. Auf der kostenpflichtigen Seite zieht derweil der optionale Plunder Pass ein, der gegen Bezahlung einzigartige Rewards und exklusive Items bringen wird. Über die Preise für den Plunder Pass wurde ebenso wenig gesprochen wie zu den Aktionen, die Spieler im Rahmen des Battle Pass ausführen müssen.</p>
+<p>Zuletzt kündigte Rare noch an, dass der Arena Mode in den Wartungsmodus versetzt wird und keine neuen Features mehr bekommt. Laut den Entwicklern sind rund 97 % der Spieler im Adventure Mode unterwegs, was zu der Entscheidung führte, sich künftig voll auf diesen zu konzentrieren.</p>
+<p><iframe title="Seasons, Merchant Detectives and the Festival of Giving: Sea of Thieves News December 2nd 2020" width="500" height="281" src="https://www.youtube.com/embed/i70-hreX-BI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Smash.GG: Microsoft übernimmt Plattform für Esport-Events</title>
+		<link>https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events</link>
+					<comments>https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 20:04:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77604</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach der Übernahme von ZeniMax Media und seiner Tochter Bethesda, die vor wenigen Monaten für große Aufmerksamkeit sorgte, hat Microsoft seine Geldkoffer wieder geöffnet und mit Smash.GG das nächste Unternehmen für seine Xbox-Abteilung übernommen. Diesmal fällt die Nachricht aber deutlich weniger spektakulär aus, denn bei dem Dienst handelt es sich um eine Plattform, über die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach der Übernahme von ZeniMax Media und seiner Tochter Bethesda, die vor wenigen Monaten für große Aufmerksamkeit sorgte, hat Microsoft seine Geldkoffer wieder geöffnet und mit <a href="https://smash.gg/">Smash.GG</a> das nächste Unternehmen für seine Xbox-Abteilung übernommen. Diesmal fällt die Nachricht aber deutlich weniger spektakulär aus, denn bei dem Dienst handelt es sich um eine Plattform, über die die Gaming-Community eigene Esport-Events organisieren kann. Über den genauen Preis der Übernahme ist noch nichts bekannt.</p>
+<p>Wie die Betreiber der Seite schreiben, soll Smash.GG als unabhängige Plattform erhalten bleiben, wie das auch bei anderen Töchtern von Microsoft wie GitHub oder LinkedIn der Fall ist. Bleibt zu hoffen, dass die Seite nicht ein ähnliches Schicksal wie Mixer erleiden muss und Microsoft im Bereich Esport auch eine längerfristige Strategie verfolgt. Dass die Redmonder an dem Thema ein größeres Interesse haben, zeigten Ende Oktober aber schon die Teams hinter Microsoft Bing und Microsoft Research, als der neue <a href="https://www.drwindows.de/news/dank-bing-und-microsoft-research-microsoft-bringt-neuen-msn-esports-hub-an-den-start">MSN Esports Hub</a> aus der Taufe gehoben wurde.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams und der gute alte Telefonanruf: Neue Funktionen im Anflug</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-und-der-gute-alte-telefonanruf-neue-funktionen-im-anflug</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-und-der-gute-alte-telefonanruf-neue-funktionen-im-anflug#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 11:41:56 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77597</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Vor einiger Zeit habe ich irgendwo einen lustigen Spruch gelesen, der Urheber ist mir leider nicht bekannt. Er ging in etwa so: &#8222;Diese neuen Chatprogramme sind eine großartige Sache. Man kann jetzt eine Stunde lang über ein Thema hin und her schreiben, das früher mit einem zweiminütigen Anruf erledigt gewesen wäre.&#8220; Ich fühlte mich amüsiert [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Vor einiger Zeit habe ich irgendwo einen lustigen Spruch gelesen, der Urheber ist mir leider nicht bekannt. Er ging in etwa so: &#8222;Diese neuen Chatprogramme sind eine großartige Sache. Man kann jetzt eine Stunde lang über ein Thema hin und her schreiben, das früher mit einem zweiminütigen Anruf erledigt gewesen wäre.&#8220;</p>
+<p>Ich fühlte mich amüsiert und ertappt zugleich. Schuldig im Sinne der Anklage. Moderne Kommunikations- und Kollaborations-Tools wie beispielsweise Microsoft Teams eröffnen völlig neue Möglichkeiten, können aber in der Tat dazu verleiten, die Dinge manchmal komplizierter zu machen, als sie tatsächlich sind.</p>
+<p>Dass der gute alte Telefonanruf ein sehr effektives Mittel ist, hat man auch bei Microsoft bemerkt. 650 Millionen Anrufe wurden im Oktober 2020 über Microsoft Teams geführt, über elfmal(!) mehr als noch im März.</p>
+<p>Vor diesem Hintergrund hat man nun einige neue Funktionen für die Telefonie mit Microsoft Teams angekündigt.</p>
+<p>So präsentiert sich der Abschnitt Telefonie mit einer neuen Aufteilung und bietet Zugriff auf Wähltastatur, Kontakte, Voicemail, die Anrufliste sowie auf hinterlegte Kurzwahlen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_telefonie_hub.jpg" data-rel="lightbox-gallery-Z5K9Ujfo" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77599" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_telefonie_hub.jpg" alt="Microsoft Teams Telefonie" width="998" height="562" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_telefonie_hub.jpg 998w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_telefonie_hub-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_telefonie_hub-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_telefonie_hub-643x362.jpg 643w" sizes="(max-width: 998px) 100vw, 998px" /></a></p>
+<p>Weitere Neuerungen, die derzeit in Arbeit sind:</p>
+<ul>
+<li>Anrufe können aufgezeichnet und in OneDrive oder SharePoint gespeichert werden</li>
+<li>Apple CarPlay wird unterstützt</li>
+<li>Spam-Anrufe werden automatisch erkannt</li>
+<li>Anrufe können vom Desktop-PC auf das Mobiltelefon und umgekehrt transferiert werden</li>
+<li>Mehrere Anrufe (egal ob Festnetz oder innerhalb von Teams/Skype) können zusammengelegt werden</li>
+<li>Rückwärtssuche/Anrufererkennung: Sofern ermittelbar, wird der Name des Anrufenden beim Eingang eines Anrufs angezeigt</li>
+<li>Tarife für die Telefonie ins Festnetz sind in Kürze auch in der Schweiz verfügbar</li>
+<li>Warteschlangen können einem Kanal in Teams zugewiesen werden, sodass sie beispielsweise von mehreren Supportmitarbeitern gemeinsam abgearbeitet werden können.</li>
+<li>Ein neuer &#8222;Low Data Mode&#8220; soll die Telefonie auch bei schlechter Datenverbindung ermöglichen, außerdem arbeitet Microsoft mit diversen Telefonanbietern zusammen, um die Festnetztelefonie auch bei einem kompletten Ausfall der Netzwerkverbindung aufrecht zu erhalten.</li>
+</ul>
+<p>Einige der Neuerungen sind bereits als Vorschau verfügbar, in den ersten Monaten des neuen Jahres sollen sie überall verfügbar sein.</p>
+<p>Passend dazu hat Microsoft auch eine Reihe von <a href="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/microsoft-teams-calling-devices-for-every-user/ba-p/1927753" target="_blank" rel="noopener noreferrer">neuen Telefonen vorgestellt</a>, die in den kommenden Wochen und Monaten von Partnern auf den Markt gebracht werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-und-der-gute-alte-telefonanruf-neue-funktionen-im-anflug/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Schöne Bescherung: Jede Menge neue Spiele für den Xbox Game Pass im Dezember</title>
+		<link>https://www.drwindows.de/news/schoene-bescherung-jede-menge-neue-spiele-fuer-den-xbox-game-pass-im-dezember</link>
+					<comments>https://www.drwindows.de/news/schoene-bescherung-jede-menge-neue-spiele-fuer-den-xbox-game-pass-im-dezember#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 08:42:29 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77593</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Dezember Update" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Der Xbox Game Pass wird fast zum Adventskalender: Insgesamt 17 neue Spiele hat Microsoft angekündigt, die in den kommenden Tagen hinzugefügt werden. So kann man bis Weihnachten beinahe jeden Tag ein neues Game ausprobieren. Um den Rahmen nicht zu sprengen, liste ich an dieser Stelle alle Neuzugänge chronologisch auf. Falls die Titel nicht für sich [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Dezember Update" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/xbox_game_pass_dezember-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Der Xbox Game Pass wird fast zum Adventskalender: Insgesamt 17 neue Spiele hat Microsoft angekündigt, die in den kommenden Tagen hinzugefügt werden. So kann man bis Weihnachten beinahe jeden Tag ein neues Game ausprobieren.</p>
+<p>Um den Rahmen nicht zu sprengen, liste ich an dieser Stelle alle Neuzugänge chronologisch auf. Falls die Titel nicht für sich sprechen, was bei Spielen wie Control, Doom Eternal oder Assetto Corsa zweifellos der Fall sein dürfte, findet ihr auf dem offiziellen Blog von <strong><a href="https://news.xbox.com/de-de/2020/12/02/xbox-game-pass-dezember-2/" target="_blank" rel="noopener noreferrer">Xbox Wire DACH</a></strong> die entsprechenden Beschreibungen zu den einzelnen Spielen.</p>
+<p>Das hier sind die Neuzugänge mit dem entsprechenden Datum, ab dem sie im Game Pass verfügbar sind. Wenn ihr die mobile Game Pass App nutzt bzw. schon das November Update für Xbox One oder Xbob Series X oder S installiert habt, könnt ihr die Spiele teilweise bereits vorab herunterladen und dann direkt losspielen, sobald sie verfügbar sind.</p>
+<p><strong>3. Dezember</strong></p>
+<ul>
+<li>Control (Android &amp; Konsole)</li>
+<li>Doom Eternal (PC)</li>
+<li>Haven (Konsole &amp; PC)</li>
+<li>Rage 2 (Android)</li>
+<li>Slime Rancher (Android &amp; Konsole) ID@Xbox</li>
+<li>VA-11 Hall-A: Cyberpunk Bartender Action (PC)</li>
+<li>Yes, Your Grace (Android, Konsole &amp; PC)</li>
+</ul>
+<p><strong>4. Dezember</strong></p>
+<ul>
+<li>Dragon Quest XI S: Echoes of an Elusive Age &#8211; Definitive Edition (Konsole &amp; PC)</li>
+</ul>
+<p><strong>8. Dezember</strong></p>
+<ul>
+<li>Call of the Sea (Android, Konsole &amp; PC)</li>
+<li>Starbound</li>
+<li>Monster Sanctuary</li>
+</ul>
+<p><strong>9. Dezember</strong></p>
+<ul>
+<li>Unto The End (Konsole &amp; PC)</li>
+</ul>
+<p><strong>10. Dezember</strong></p>
+<ul>
+<li>Assetto Corsa (Android &amp; Konsole)</li>
+<li>Gang Beasts (Android &amp; Konsole)</li>
+<li>GreedFall (Android, Konsole &amp; PC)</li>
+<li>Superhot: Mind Control Delete (Android &amp; Konsole)</li>
+<li>Yooka-Laylee and the Impossible Lair (Android, Konsole &amp; PC)</li>
+</ul>
+<h3><strong>Weitere Spiele erhalten Touch-Steuerung</strong></h3>
+<p>Im Oktober hatte Microsoft <a href="https://www.drwindows.de/news/zehn-weitere-xbox-spiele-erhalten-touch-unterstuetzung-fuer-android" target="_blank" rel="noopener noreferrer">angekündigt</a>, dass in Zukunft viele Spiele, die man über den Game Pass unter Android spielen kann, um die Möglichkeit der Touch-Steuerung erweitert werden. Man hat ja nicht immer einen Controller dabei und oft ist das ja auch einfach umständlich. Nun folgt der nächste Schwung an Titeln, die man auf dem Android-Smartphone oder -Tablet mit den Fingern steuern kann:</p>
+<ul>
+<li>Bloodstained: Ritual of the Night</li>
+<li>Golf With Your Friends</li>
+<li>Hyperdot</li>
+<li>Ikenfell</li>
+<li>Indivisible</li>
+<li>ScourgeBringer</li>
+<li>The Touryst</li>
+<li>Vambrace Cold Soul</li>
+</ul>
+<h3>Spiele kommen, Spiele gehen</h3>
+<p>Im Xbox Game Pass herrscht ein Kommen und Gehen. Die folgenden Titel werden im Lauf des Monats Dezember aus dem Abonnement entfernt, können aber wie üblich mit einem Nachlass von 20 Prozent dauerhaft erworben werden:</p>
+<p><strong>11. Dezember</strong></p>
+<ul>
+<li>eFootball PES 2020 (Konsole)</li>
+</ul>
+<p><strong>15. Dezember</strong></p>
+<ul>
+<li>Age of Wonders: Planetfall (Konsole &amp; PC)</li>
+<li>Infinifactory (PC)</li>
+<li>Metro: Last Light Redux (PC)</li>
+<li>MudRunner (Konsole &amp; PC)</li>
+<li>Naruto to Boruto: Shinobi Striker (Konsole)</li>
+<li>Pathologic 2 (Konsole &amp; PC)</li>
+<li>The Turing Test (Konsole &amp; PC)</li>
+<li>Ticket to Ride (Konsole &amp; PC)</li>
+<li>Untitled Goose Game (Konsole)</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/schoene-bescherung-jede-menge-neue-spiele-fuer-den-xbox-game-pass-im-dezember/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft verbessert Datenschutz bei der Produktivitätsbewertung in Office 365/Microsoft 365</title>
+		<link>https://www.drwindows.de/news/microsoft-verbessert-datenschutz-bei-der-produktivitaetsbewertung-in-office-365-microsoft-365</link>
+					<comments>https://www.drwindows.de/news/microsoft-verbessert-datenschutz-bei-der-produktivitaetsbewertung-in-office-365-microsoft-365#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 07:19:55 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77590</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Office" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In den letzten Tagen hat sich Kritik an einer Funktion in Office 365 bzw. Microsoft 365 gehäuft, die sich &#8222;Productivity Score&#8220; nennt, in der deutschen Version heißt sie &#8222;Produktivitätsbewertung&#8220;. Microsoft hat darauf nun reagiert und Verbesserungen beim Datenschutz angekündigt. Bevor wir dazu kommen, muss ich ein wenig ausholen, denn die Geschichte ist durchaus ein bisschen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Office" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In den letzten Tagen hat sich Kritik an einer Funktion in Office 365 bzw. Microsoft 365 gehäuft, die sich &#8222;Productivity Score&#8220; nennt, in der deutschen Version heißt sie &#8222;Produktivitätsbewertung&#8220;. Microsoft hat darauf nun reagiert und Verbesserungen beim Datenschutz angekündigt.</p>
+<p>Bevor wir dazu kommen, muss ich ein wenig ausholen, denn die Geschichte ist durchaus ein bisschen kurios. Diese Funktion ist nämlich alles andere als neu, darum habe ich mich zunächst gefragt, warum sie so plötzlich zum Gesprächsthema wird. Ich fand heraus, dass Microsoft in letzter Zeit die Werbetrommel dafür rührt, unter anderem mit <strong><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/10/29/power-your-digital-transformation-with-insights-from-microsoft-productivity-score/" target="_blank" rel="noopener noreferrer">diesem Blogpost</a></strong> von vor etwa einem Monat. Die plötzliche Aufmerksamkeit für das Thema war also durchaus erwünscht &#8211; wenn auch nicht unbedingt mit diesem Resultat.</p>
+<p>Ich habe das Thema hier zunächst nicht aufgegriffen, weil es für deutsche Kunden im Grunde nicht relevant ist. Aktivitäten der Mitarbeiter in irgendeiner Form zu überwachen und auszuwerten, ist mit deutschem Recht nicht vereinbar. Die Produktivitätsbewertung ist standardmäßig inaktiv, sie muss vom Administrator also explizit eingeschaltet werden. Wer das hierzulande tut, steht quasi schon mit einem Bein im Gerichtssaal.</p>
+<p><strong>Was ist die Produktivitätsbewertung eigentlich?</strong></p>
+<p>Diese Bewertung soll Firmen einen Überblick darüber geben, wie die Tools und Dienste von Microsoft 365 innerhalb des eigenen Unternehmens genutzt werden (eine <strong><a href="https://docs.microsoft.com/de-de/microsoft-365/admin/productivity/productivity-score?view=o365-worldwide" target="_blank" rel="noopener noreferrer">ausführliche Beschreibung</a></strong> kann man direkt bei Microsoft nachlesen). In die Auswertung fließen Daten aus den folgenden Programmen und Diensten ein: Exchange, SharePoint, OneDrive, Microsoft Teams, Word, Excel, PowerPoint, OneNote, Outlook, Yammer und Skype.</p>
+<p>Die Idee dahinter ist eine grundsätzlich gute &#8211; man kann herausfinden, wo man bei der Ausnutzung der sich bietenden Möglichkeiten und Funktionen bereits gut unterwegs ist und wo es vielleicht noch Schwächen gibt. Oftmals sind die Mitarbeiter bei der Einführung neuer Technologien überfordert oder sie hängen in alten Gewohnheiten fest, solche Auswertungen können also absolut hilfreich sein, um beispielsweise Schulungen zu planen oder die entsprechenden Tools im eigenen Unternehmen stärker zu bewerben.</p>
+<p>Der große Nachteil ist andererseits, dass man damit aber auch allerlei Unsinn anstellen kann. Man sieht eben nicht nur, wann ein Mitarbeiter womit gearbeitet hat, sondern auch, wann er das nicht getan hat. Die Produktivitätsbewertung ist sozusagen ein permanenter digitaler Schulterblick.</p>
+<p>Schreckliche Vorstellung. Vielleicht bin ich da auch altmodisch, aber ich bin der Meinung, dass es solche Tools nicht geben darf.</p>
+<p><strong>Personenbezug soll wegfallen</strong></p>
+<p>Als Reaktion auf die Kritik hat Microsoft nun <strong><a href="https://www.microsoft.com/en-us/microsoft-365/blog/2020/12/01/our-commitment-to-privacy-in-microsoft-productivity-score/" target="_blank" rel="noopener noreferrer">angekündigt</a></strong>, jeglichen Personenbezug aus der Bewertung zu entfernen. Jegliche Auswertungen hinsichtlich Kommunikation, Meetings, Zusammenarbeit an Dokumenten und anderen Tätigkeiten werden keine Informationen mehr zu einzelnen Benutzern enthalten, sondern auf Unternehmensebene aggregiert. Außerdem will man die Oberfläche innerhalb des Microsoft 365 Admincenters optimieren, damit es unmissverständlich klar wird, dass es sich hier nicht um ein Programm zur Überwachung der Mitarbeiter handelt.</p>
+<p>Die angekündigten Maßnahmen sind zu begrüßen und die Auswertungen sollten ihren grundsätzlichen Zweck damit immer noch erfüllen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-verbessert-datenschutz-bei-der-produktivitaetsbewertung-in-office-365-microsoft-365/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Offiziell: Salesforce übernimmt Slack für 27,7 Milliarden USD</title>
+		<link>https://www.drwindows.de/news/offiziell-salesforce-uebernimmt-slack-fuer-277-milliarden-usd</link>
+					<comments>https://www.drwindows.de/news/offiziell-salesforce-uebernimmt-slack-fuer-277-milliarden-usd#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 22:17:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77579</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Slack Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft bekommt einen neuen und stärkeren Konkurrenten: Nachdem entsprechende Gerüchte bereits vor einer guten Woche aufkamen, machte Salesforce die Übernahme von Slack am heutigen Abend nun auch offiziell. Mit 27,7 Milliarden USD handelt es sich dabei um die teuerste Übernahme der Firmengeschichte, die in der Summe auch noch Microsofts Übernahme von LinkedIn leicht übertrifft. Salesforce [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Slack Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/04/slack_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft bekommt einen neuen und stärkeren Konkurrenten: Nachdem entsprechende Gerüchte bereits vor einer guten Woche <a href="https://www.drwindows.de/news/slack-uebernahme-durch-salesforce-soll-unmittelbar-bevorstehen">aufkamen</a>, machte Salesforce die Übernahme von Slack am heutigen Abend nun auch offiziell. Mit 27,7 Milliarden USD handelt es sich dabei um die teuerste Übernahme der Firmengeschichte, die in der Summe auch noch Microsofts Übernahme von LinkedIn leicht übertrifft. Salesforce will die Übernahme bis zum 2. Quartal des eigenen Fiskaljahrs 2022 abgeschlossen haben.</p>
+<p>Slack, welches bisher rund 12 Millionen Nutzer vorweisen kann und damit weit hinter den Nutzerzahlen von Microsoft Teams zurückliegt, soll in Zukunft eng mit sämtlichen Cloud Services von Salesforce verwoben werden. Gleichzeitig soll es das neue Gesicht von Salesforce Customer 360 werden und sich noch stärker auf den Business- und Enterprise-Sektor fokussieren. Nach Abschluss der Übernahme soll das Unternehmen dann als eigene Abteilung innerhalb von Salesforce eingegliedert werden. Die Leitung soll aber beim aktuellen Slack-CEO Stewart Butterfield bleiben.</p>
+<p>Slack gehört neben Teams, Cisco WebEx und Zoom sicherlich zu den größten Namen, aber für die Zukunft könnte es vor allem bei der kostenlosen Variante des Dienstes interessant werden. Diese wurde auch von kleinen Teams sehr gerne genutzt und die könnten nach der Übernahme unter Umständen sicherlich zu einem Umstieg gezwungen sein, wenn die Integration in Salesforce abgeschlossen ist. Alternativen gibt es neben Microsoft auch von anderen Technikriesen genug, darunter natürlich Google Chat und Google Meet, Amazon Chime oder das zu Dropbox gehörende Zulip. Hinzu kommen kleinere Dienste wie Zenchat, selbstgehostete Varianten wie RocketChat oder Mattermost oder das Matrix-Protokoll, das unter anderem mit dem Referenzclient Element nutzbar ist und gerade bei Behörden und Ländern an Nutzern gewinnt.</p>
+<p>So oder so bekommt Microsoft nun eine noch größere Konkurrenz durch Salesforce, die neben der bisherigen Konkurrenz zu Microsoft Azure und Microsoft Dynamics nun auch den Frontalangriff auf Microsoft Teams wagen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/offiziell-salesforce-uebernimmt-slack-fuer-277-milliarden-usd/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edge Dev: Microsoft veröffentlicht mit Version 88.0.705.9 das finale Update vor der Beta</title>
+		<link>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-88-0-705-9-das-finale-update-vor-der-beta</link>
+					<comments>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-88-0-705-9-das-finale-update-vor-der-beta#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 01 Dec 2020 20:10:33 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77575</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach einer Woche Pause meldet sich das Entwicklerteam von Microsoft Edge mit einer neuen Version im Dev Channel zurück. Mit dem Update auf Version 88.0.705.9 wird gleichzeitig die letzte Version von Edge 88.x verteilt, bevor diese in die Beta-Phase eintritt und dann im Januar an alle regulären Nutzer ausgeliefert wird. Trotzdem haben die Entwickler nochmal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach einer Woche Pause meldet sich das Entwicklerteam von Microsoft Edge mit einer neuen Version im Dev Channel zurück. Mit dem Update auf Version 88.0.705.9 wird gleichzeitig die letzte Version von Edge 88.x verteilt, bevor diese in die Beta-Phase eintritt und dann im Januar an alle regulären Nutzer ausgeliefert wird. Trotzdem haben die Entwickler nochmal einen Schwung an neuen Funktionen in die Version gepackt.</p>
+<p>Mit der neuen Version wurde der Rollout der Search Sidebar nun abgeschlossen. Zudem bekommen Nutzer unter macOS als erste nun Picture-in-Picture als neue Funktion spendiert, Windows und Linux sollen zu einem späteren Zeitpunkt folgen. Das Layout für die Cookies und Seitenberechtigungen wurde überarbeitet und die Möglichkeit, Textnotizen in PDFs einzufügen, auf weitere Plattformen neben Windows ausgeweitet. Diverse Verbesserungen gab es bei den Passwörtern, die Edge nun auch selbst generieren kann und das Kopieren und Editieren von Passwörtern, die im Browser gespeichert wurden, erlaubt.</p>
+<p>Hinzu kommen wie immer die üblichen Bugfixes und neue Gruppenrichtlinien. Nähere Informationen zu dem, was sich ansonsten noch in dieser Version getan hat, findet ihr wie immer im entsprechenden <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-88-0-705-9-is-live/m-p/1945704">Blogpost</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-88-0-705-9-das-finale-update-vor-der-beta/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
