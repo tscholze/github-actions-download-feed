@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Fri, 04 Dec 2020 19:58:14 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Firmware: Microsoft verteilt Updates für diverse Generationen des Surface Laptop und Surface Pro</title>
+		<link>https://www.drwindows.de/news/firmware-microsoft-verteilt-updates-fuer-diverse-generationen-des-surface-laptop-und-surface-pro</link>
+					<comments>https://www.drwindows.de/news/firmware-microsoft-verteilt-updates-fuer-diverse-generationen-des-surface-laptop-und-surface-pro#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 19:58:14 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77700</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 6" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz vor dem Wochenende hat Microsoft für vier seiner Surface-Geräte nochmal einen Schwung frischer Firmware-Updates verteilt. Das Surface Laptop 1 sowie das Surface Pro 5 und 6 bekommen insgesamt vier neue Aktualisierungen, womit unter anderem drei verschiedene Treiber von Realtek auf den neuesten Stand gebracht werden. Außerdem verteilt Microsoft ein Systemupdate, um die Integration zwischen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 6" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz vor dem Wochenende hat Microsoft für vier seiner Surface-Geräte nochmal einen Schwung frischer Firmware-Updates verteilt. Das Surface Laptop 1 sowie das Surface Pro 5 und 6 bekommen insgesamt vier neue Aktualisierungen, womit unter anderem drei verschiedene Treiber von Realtek auf den neuesten Stand gebracht werden. Außerdem verteilt Microsoft ein Systemupdate, um die Integration zwischen den unterschiedlichen Services zu verbessern. Exemplarisch verlinke ich euch mal die Supportseite vom Surface Laptop <a href="https://support.microsoft.com/en-us/help/4037237/surface-surface-laptop-update-history">hier</a>.</p>
+<p>Das Surface Laptop 2 erhält neben den vier genannten Updates noch eine weitere Aktualisierung, die ein Problem mit dem Serial Hub Driver korrigiert. Die entsprechende Supportseite findet ihr <a href="https://support.microsoft.com/en-us/help/4469839/surface-laptop-2-update-history">hier</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/firmware-microsoft-verteilt-updates-fuer-diverse-generationen-des-surface-laptop-und-surface-pro/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Android Apps unter Windows 10 - die andere Sichtweise</title>
+		<link>https://www.drwindows.de/news/android-apps-unter-windows-10-die-andere-sichtweise</link>
+					<comments>https://www.drwindows.de/news/android-apps-unter-windows-10-die-andere-sichtweise#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 15:59:04 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77693</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10 und Android" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Vergangene Woche kam die Meldung auf, dass Microsoft unter dem Codenamen &#8222;Project Latte&#8220; daran arbeitet, Android-Apps auf Windows 10 zu bringen. Technisch soll das auf dem Windows Subsystem for Linux basieren, welches seinerzeit aus dem &#8222;Project Astoria&#8220; hervor ging, mit dem Microsoft damals Android-Apps auf Windows 10 Mobile bringen wollte. Als ich die Nachricht vernahm, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10 und Android" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/06/windows_android-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Vergangene Woche kam die <a href="https://www.drwindows.de/news/bericht-microsoft-arbeitet-mit-project-latte-an-neuer-android-runtime-fuer-windows-10" target="_blank" rel="noopener noreferrer">Meldung</a> auf, dass Microsoft unter dem Codenamen &#8222;Project Latte&#8220; daran arbeitet, Android-Apps auf Windows 10 zu bringen. Technisch soll das auf dem Windows Subsystem for Linux basieren, welches seinerzeit aus dem &#8222;Project Astoria&#8220; hervor ging, mit dem Microsoft damals Android-Apps auf Windows 10 Mobile bringen wollte.</p>
+<p>Als ich die Nachricht vernahm, stellte ich mir die gleiche Frage wie vermutlich viele andere Leser auch: &#8222;Warum?&#8220; Wozu soll das gut sein, wozu braucht Windows 10 Android-Apps? Ich konnte keine Antwort auf diese Frage finden.</p>
+<p>Mit ein paar Tagen Abstand bin ich zu der Erkenntnis gekommen, dass ich historisch vorbelastet bin. Ich war dabei, als Microsoft die Android-Bridge unter dem Namen &#8222;Project Astoria&#8220; angekündigt hat, ich saß sogar live in der Keynote der BUILD-Konferenz in San Francisco und war als damaliger großer Fan von Windows 10 Mobile vermutlich noch ein bisschen mehr geflasht als viele andere Nutzer. Auch wenn Microsoft damals von &#8222;Brücken&#8220; sprach, so waren es doch viel mehr Stützpfeiler, die man einzurammen versuchte, um das Gebäude vor dem Einsturz zu retten. Project Astoria hätte zu einer Existenzgrundlage von Windows 10 Mobile werden können.</p>
+<p>Dazu kam es bekanntermaßen nicht, aber die Eindrücke von damals verleiteten mich dazu, die Berichte um das &#8222;Project Latte&#8220; gedanklich höher aufzuhängen, als Microsoft es vermutlich selbst tut. Ich habe die Fragestellung &#8222;Warum?&#8220; nun ganz einfach durch ein &#8222;Warum nicht?&#8220; ersetzt. Kevin hat in seinem Artikel <a href="https://www.drwindows.de/news/bericht-microsoft-arbeitet-mit-project-latte-an-neuer-android-runtime-fuer-windows-10" target="_blank" rel="noopener noreferrer">zwar sauber herausgearbeitet</a>, warum es für Windows wesentlich bessere Technologien gibt, auf die es sich zu setzen lohnt. Aber man kann ja das Eine tun, ohne das Andere zu lassen.</p>
+<p>Ich gehe nicht davon aus, dass Microsoft jenes &#8222;Projekt Latte&#8220; allzu groß ankündigen wird, sondern es als das verkauft, was es dann auch tatsächlich ist: Eine zusätzliche Option. Wer möchte, kann seine Android-App mit dem Paketformat msix auch auf Windows zur Verfügung stellen.</p>
+<p>Vor einigen Tagen habe ich die aktuellen Statistiken zur Verbreitung von Betriebssystemen <a href="https://www.drwindows.de/news/browser-und-betriebssysteme-im-november-2020-neustart-fuer-unsere-monatsstatistik" target="_blank" rel="noopener noreferrer">ausgewertet</a>. Plattformübergreifend ist Android das populärste Betriebssystem der Welt mit einem Anteil von fast 39 Prozent, Windows liegt mit 32 Prozent dahinter.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme.png" data-rel="lightbox-gallery-rkKaBRYF" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77537" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme.png" alt="Verteilung der Betriebssysteme im November 2020" width="800" height="204" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme.png 800w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme-300x77.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme-768x196.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/november_2020_betriebssysteme-643x164.png 643w" sizes="(max-width: 800px) 100vw, 800px" /></a></p>
+<p>Wenn das zweitpopulärste Betriebssystem mit den Programmen für das populärste Betriebssystem kompatibel ist, dann ist das doch zumindest kein Schaden. Man muss ja nicht gleich so tun, als würden die Karten deshalb neu gemischt, zumal wir auch von völlig unterschiedlichen Formfaktoren sprechen.</p>
+<p>Was grundsätzlich gegen Android Apps unter Windows spricht ist der Umstand, dass die allerwenigsten Android Apps für größere Bildschirme geeignet sind. Sie dort zu benutzen, macht wenig bis keinen Spaß. Seit Jahren versucht Google, die Entwickler dazu zu bringen, ihre Android Apps dahingehend zu optimieren, bislang in den meisten Fällen ohne Erfolg &#8211; weil es sich nicht lohnt. Android-Tablets haben eine zu geringe Verbreitung, als dass dieser Aufwand gerechtfertigt wäre. Eine eventuelle Android-Kompatibilität von Windows würde daran zwar grundsätzlich nichts ändern, aber sie könnte in einigen Fällen zu einer grundsätzlichen Veränderung führen.</p>
+<p>Nehmen wir als ganz einfaches Beispiel die To Do App von Microsoft. Die gibt es für iOS, Android und Windows. Drei Plattformen, drei Mal Entwicklungsaufwand. Wenn Windows mit Android-Apps kompatibel ist, dann kann die native Windows-Version weg. In diesem konkreten Beispiel müsste in die Android-Version nicht mal mehr zusätzlicher Aufwand gesteckt werden, die meisten Microsoft Apps für Android sind nämlich bereits für die Verwendung auf größeren Bildschirmen angepasst.</p>
+<p>Es gibt eine Menge Apps, auf die das obige Beispiel passt. Unter dem Strich könnte eine Android-Kompatibilität von Windows die Entwickler entlasten. Sie müssten zwar in die eine Plattform ein bisschen mehr investieren, würden auf der anderen Seite den Aufwand für eine komplette Plattform einsparen.</p>
+<p>Man könnte ideologisch argumentieren, dass Microsoft damit die Bedeutung von Windows schwächt, aber dieses Argument verpufft &#8211; die Entwickler tun doch heute schon nur das Allernötigste, um Windows zu unterstützen, und hören wir bitte auf, davon zu träumen, dass sich dieser Trend noch einmal umkehren lässt.</p>
+<p>Das war aber jetzt auch nur ein Gedankenspiel. Bis wir Handfestes zu dem Thema hören, bleibe ich dabei, mich nicht &#8222;Warum?&#8220; zu fragen, sondern eben &#8222;Warum nicht?&#8220; Auf diese Frage gibt es nämlich ebenfalls keine Antwort.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/android-apps-unter-windows-10-die-andere-sichtweise/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Für .NET Core und .NET 5: Microsoft startet Aktualisierungen über Microsoft Update</title>
+		<link>https://www.drwindows.de/news/fuer-net-core-und-net-5-microsoft-startet-aktualisierungen-ueber-microsoft-update</link>
+					<comments>https://www.drwindows.de/news/fuer-net-core-und-net-5-microsoft-startet-aktualisierungen-ueber-microsoft-update#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 15:08:33 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77690</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nutzer von Windows 10 kennen bereits seit einiger Zeit das Verfahren, dass die kumulativen Updates für das klassische .NET Framework in den Versionen 3.5 und 4.8 regelmäßig über Windows Update ausgeliefert werden. Während das klassische .NET Framework ein fester Teil des Betriebssystems ist und damit ganz regulär über Windows Update mit Aktualisierungen versorgt wird, gibt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nutzer von Windows 10 kennen bereits seit einiger Zeit das Verfahren, dass die kumulativen Updates für das klassische .NET Framework in den Versionen 3.5 und 4.8 regelmäßig über Windows Update ausgeliefert werden. Während das klassische .NET Framework ein fester Teil des Betriebssystems ist und damit ganz regulär über Windows Update mit Aktualisierungen versorgt wird, gibt es in den erweiterten Einstellungen auch noch die Möglichkeit, Updates für andere Microsoft-Produkte via Microsoft Update zu erhalten.</p>
+<p>Diese Möglichkeit nutzen die Redmonder nun und verteilen für die aktuell unterstützten Versionen .NET Core 2.1, .NET Core 3.1 und .NET 5 entsprechende Sicherheitsupdates an alle Nutzer, die das unter Windows 10 erlaubt haben. Das Ganze ist ausdrücklich optional und wer aktuelle Versionen zum Beispiel mit Updates von Visual Studio 2019 bekommt, kann dies auch weiterhin nutzen. Diese Änderung wurde aber vor allem von Organisationen und Unternehmen angefragt, die stark auf Microsoft Update und Windows Update zugreifen und ihr Management hierüber abwickeln, und betrifft auch nur Anwendungen, die auf das Framework Dependent Deployment setzen. Andere Apps, die die Runtime mit dem Installer selbst ausliefern, müssen die Updates weiterhin selbst pflegen.</p>
+<p>Außerdem wird Microsoft auch nur entsprechende Point Releases auf diese Weise ausliefern, bei denen sich die Versionsnummer an der dritten Stelle erhöht. Größere Versionssprünge, wie sie zum Beispiel im kommenden Jahr bei .NET 6 anstehen, müssen auf die herkömmlichen Methoden aktualisiert werden. Nähere Informationen findet ihr wie immer im unten verlinkten Blogpost.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/fuer-net-core-und-net-5-microsoft-startet-aktualisierungen-ueber-microsoft-update/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams: Menü wird umgebaut, Gast-Zugang standardmäßig aktiv</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-menue-wird-umgebaut-gast-zugang-standardmaessig-aktiv</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-menue-wird-umgebaut-gast-zugang-standardmaessig-aktiv#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 04 Dec 2020 10:25:12 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77672</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Zuge der Einführung der Multi-Account-Unterstützung wird das Profilmenü von Microsoft Teams in Kürze umgestaltet. Außerdem ist der Gastzugang in Zukunft standardmäßig aktiv. Bislang musste der Gastzugang durch Administratoren explizit freigeschaltet werden, um Mitarbeitern die Möglichkeit zu geben, Dienstleister, Berater, Lieferanten oder andere externe Personen in ein Team einzuladen. Zum 8. Februar 2021 ändert sich [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Zuge der Einführung der Multi-Account-Unterstützung wird das Profilmenü von Microsoft Teams in Kürze umgestaltet. Außerdem ist der Gastzugang in Zukunft standardmäßig aktiv.</p>
+<p>Bislang musste der Gastzugang durch Administratoren explizit freigeschaltet werden, um Mitarbeitern die Möglichkeit zu geben, Dienstleister, Berater, Lieferanten oder andere externe Personen in ein Team einzuladen. Zum 8. Februar 2021 ändert sich das: Ab diesem Datum ist der Gastzugang standardmäßig aktiviert. Unternehmen, die das nicht wünschen, müssen dann aktiv werden und diesen deaktivieren. Wer den Gastzugang bereits jetzt manuell auf &#8222;Aus&#8220; gestellt hat, für den ändert sich allerdings nichts (Für Teams-Admins, die nachsehen möchten, hier der Deep Link zum entsprechenden Menü: <a href="https://admin.teams.microsoft.com/company-wide-settings/guest-configuration" target="_blank" rel="noopener noreferrer">Teams Admin</a>).</p>
+<h3>Umgestaltung des Menüs</h3>
+<p>Wir hatten bereits mehrfach über die Multi-Account-Unterstützung in Teams berichtet. Künftig wird es möglich sein, zwischen einem geschäftlichen und einem privaten Konto hin und her zu schalten. Außerdem muss man sich nicht mehr ab- und anmelden, wenn man bei mehreren Unternehmen ein Teams-Konto besitzt.</p>
+<p>Damit das Umschalten komfortabler wird, erhält das Profilmenü eine neue Struktur. Die Umschaltung zwischen verschiedenen Firmen-Accounts wird eine Ebene nach oben geholt, sodass man mit einem Klick das Unternehmen oder zum persönlichen Konto wechseln kann.</p>
+<p>Um das Menü nicht zu überfrachten, werden die weiteren Menüpunkte wie Zoom, Info, Updatesuche etc. entfernt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung.png" data-rel="lightbox-gallery-0ib9l5jd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77676" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung.png" alt="Das neue Menü von Microsoft Teams " width="1476" height="734" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung.png 1476w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung-300x149.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung-1024x509.png 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung-768x382.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung-643x320.png 643w" sizes="(max-width: 1476px) 100vw, 1476px" /></a></p>
+<p>Die vorgenannten Punkte wandern in ein neues Menü, das direkt in die Titelleiste integriert wird. Sie sind also weiterhin mit einem Klick auf die drei vertikalen Punkte zu erreichen, nur eben von einer anderen Stelle aus.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2.png" data-rel="lightbox-gallery-0ib9l5jd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77678" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2.png" alt="Das neue Menü von Microsoft Teams " width="1245" height="747" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2.png 1245w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2-300x180.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2-1024x614.png 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2-768x461.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/ms_teams_menu_umgestaltung_2-643x386.png 643w" sizes="(max-width: 1245px) 100vw, 1245px" /></a></p>
+<p>Die Verteilung der neuen Menü-Struktur wird im Januar 2021 beginnen und soll im Februar abgeschlossen sein.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-menue-wird-umgebaut-gast-zugang-standardmaessig-aktiv/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 Insider Build 20270 im Developer Kanal verfügbar</title>
+		<link>https://www.drwindows.de/news/windows-10-insider-build-20270-im-developer-kanal-verfuegbar</link>
+					<comments>https://www.drwindows.de/news/windows-10-insider-build-20270-im-developer-kanal-verfuegbar#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 18:51:26 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77637</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach knapp zweiwöchiger Pause gibt es für die Windows Insider im Developer Kanal wieder eine neue Testversion: Build 20270 steht ab sofort zum Download und zur Installation bereit, bringt aber wie die Vorgänger kaum neue Funktionen. Neu dabei ist die geteilte Ansicht für die Touch-Tastatur im Portrait-Modus, die über das neue &#8222;Windows Feature Experience Pack&#8220; [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach knapp zweiwöchiger Pause gibt es für die Windows Insider im Developer Kanal wieder eine neue Testversion: Build 20270 steht ab sofort zum Download und zur Installation bereit, bringt aber wie die Vorgänger kaum neue Funktionen.</p>
+<p>Neu dabei ist die geteilte Ansicht für die Touch-Tastatur im Portrait-Modus, die über das neue <a href="https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015" target="_blank" rel="noopener noreferrer">&#8222;Windows Feature Experience Pack&#8220;</a> vergangene Woche im Beta-Kanal gelandet ist. Außerdem ist die erweiterte Ansicht in der Datenträgerbereinigung jetzt für alle Insider verfügbar.</p>
+<p>Darüber hinaus gibt es noch diverse Bugfixes, die ihr bei Interesse im <a href="https://blogs.windows.com/windows-insider/2020/12/03/announcing-windows-10-insider-preview-build-20270/" target="_blank" rel="noopener noreferrer">Windows Blog</a> nachlesen könnt.</p>
+<p>Für US-Nutzer hat Microsoft noch eine Dateisuche in seine nekrotische Digitalassistenz Cortana integriert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10-insider-build-20270-im-developer-kanal-verfuegbar/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Verwaltung von Microsoft 365: Vereinfachte Oberfläche für kleine Unternehmen</title>
+		<link>https://www.drwindows.de/news/verwaltung-von-microsoft-365-vereinfachte-oberflaeche-fuer-kleine-unternehmen</link>
+					<comments>https://www.drwindows.de/news/verwaltung-von-microsoft-365-vereinfachte-oberflaeche-fuer-kleine-unternehmen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 10:00:39 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77621</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft 365" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft 365 wird an Unternehmen aller Größen vermarktet, egal ob 3 oder 30.000 Mitarbeiter. Dementsprechend unterschiedlich sind auch die Anforderungen und der genutzte Leistungsumfang. Besonders in kleinen Unternehmen wird oft auf ein recht einfaches Setup gesetzt: Man benutzt Exchange und die Office-Applikationen, dazu vielleicht noch Teams und OneDrive, und das war es dann auch schon. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft 365" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/05/microsoft_365-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft 365 wird an Unternehmen aller Größen vermarktet, egal ob 3 oder 30.000 Mitarbeiter. Dementsprechend unterschiedlich sind auch die Anforderungen und der genutzte Leistungsumfang. Besonders in kleinen Unternehmen wird oft auf ein recht einfaches Setup gesetzt: Man benutzt Exchange und die Office-Applikationen, dazu vielleicht noch Teams und OneDrive, und das war es dann auch schon.</p>
+<p>Als Administrator in einem kleinen Unternehmen wird man von der Verwaltungsoberfläche fast erschlagen, obwohl man nur einen Bruchteil der dort verfügbaren Funktionen tatsächlich nutzt. Es gibt zwar die Möglichkeit, die Oberfläche zu individualisieren und nicht benötigte Elemente auszublenden, aber da fängt es schon an: Um das zu tun, muss man ja überhaupt erst einmal wissen, dass es diese Möglichkeit gibt.</p>
+<p>Um es insbesondere kleinen Firmen an dieser Stelle einfacher zu machen, hat Microsoft die &#8222;Vereinfachte Ansicht&#8220; des Microsoft 365 Admincenters vorgestellt. Wie man dem folgenden Screenshot entnehmen kann, beschränkt es sich auf die wesentlichen Funktionen. Über den Button oben rechts kann man jederzeit auf das komplette Dashboard umschalten.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view.jpg" data-rel="lightbox-gallery-TdZb5Trv" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77624" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view.jpg" alt="Microsoft 365 Admin Center" width="1433" height="748" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view.jpg 1433w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-300x157.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-1024x535.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-768x401.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/m365_admincenter_simple_view-643x336.jpg 643w" sizes="(max-width: 1433px) 100vw, 1433px" /></a></p>
+<p>Die vereinfachte Ansicht bietet Zugriff auf die Benutzer, Gruppen und Rechnungen. Über die obere Leiste kann ein neuer Benutzer angelegt sowie die Installation der Office-Applikationen verwaltet werden, außerdem steuert man hierüber die Einstellungn von E-Mail und Microsoft Teams.</p>
+<p>Die Verfügbarkeit ist nicht an die Größe des Unternehmens oder die Anzahl der Lizenzen gekoppelt, die einfacha Ansicht steht also allen Administratoren zur Verfügung.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/verwaltung-von-microsoft-365-vereinfachte-oberflaeche-fuer-kleine-unternehmen/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Fifa 21: Für Xbox Series X und PS 5 optimierte Version legt einen Frühstart hin</title>
+		<link>https://www.drwindows.de/news/fifa-21-fuer-xbox-series-x-und-ps-5-optimierte-version-legt-einen-fruehstart-hin</link>
+					<comments>https://www.drwindows.de/news/fifa-21-fuer-xbox-series-x-und-ps-5-optimierte-version-legt-einen-fruehstart-hin#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 09:12:56 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77617</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Fifa 21 Next Gen" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Update von Fifa 21 auf die neue Konsolengeneration startet einen Tag früher als geplant. Ab dem 4. Dezember sollte das Update eigentlich für alle Spieler bereit stehen, die eine Xbox Series X/S oder eine Playstation 5 besitzen. Nun ist es einen Tag eher soweit, das Update kann bereits geladen werden. Ich habe die Meldung [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Fifa 21 Next Gen" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/fifa21_nextgen-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Update von Fifa 21 auf die neue Konsolengeneration startet einen Tag früher als geplant. Ab dem 4. Dezember sollte das Update eigentlich für alle Spieler bereit stehen, die eine Xbox Series X/S oder eine Playstation 5 besitzen. Nun ist es einen Tag eher soweit, das Update kann bereits geladen werden.</p>
+<p>Ich habe die Meldung eben bei <a href="https://stadt-bremerhaven.de/fifa-21-next-gen-update-fuer-ps5-und-xbox-series-xs-ist-bereits-verfuegbar" target="_blank" rel="noopener noreferrer">Caschy</a> gesehen und daraufhin meine Xbox Series X angeworfen. Die für die neue Generation optimierte Version hatte ich bereits per Pre-Download auf der Konsole. Vorgestern erhielt ich bei dem Versuch, sie zu starten, noch die Meldung, dass ich mich noch ein wenig gedulden muss. Nun hat es funktioniert.</p>
+<p>Zugegeben: Ich war äußerst skeptisch, denn EA steht nun mal nicht in dem Ruf, sich besonders ins Zeug zu legen. Von einem kostenlosen Update für ein Spiel, das man bereits gekauft hat, habe ich mir demnach nicht sehr viel erwartet. Den ersten Eindrücken zufolge aber habe ich mich erfreulicherweise getäuscht.</p>
+<p>Die Darstellung ist nochmals ein gutes Stück detaillierter geworden, bei Nahaufnahmen der Spieler sind wir vom Fotorealismus nun wirklich nicht mehr weit entfernt. Aber auch die Grafik während des Spiels scheint nochmal eine Schippe drauf gelegt zu haben, sowohl auf als auch neben dem Platz. Dieses NextGen-Update scheint sich also in der Tat zu lohnen.</p>
+<p>Wer Details über die enhaltenen Verbesserungen nachlesen möchte, kann das <a href="https://www.ea.com/de-de/games/fifa/fifa-21/next-level" target="_blank" rel="noopener noreferrer">hier</a> und <a href="https://www.ea.com/de-de/games/fifa/fifa-21/news/fifa-21-next-level-deep-dive" target="_blank" rel="noopener noreferrer">hier</a> bei EA tun, auf diesen Seiten wurden alle Optimierungen in Fifa 21 dokumentiert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/fifa-21-fuer-xbox-series-x-und-ps-5-optimierte-version-legt-einen-fruehstart-hin/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>OneDrive: Auch Business-Nutzer können jetzt geteilte Ordner ins eigene Verzeichnis integrieren</title>
+		<link>https://www.drwindows.de/news/onedrive-auch-business-nutzer-koennen-jetzt-geteilte-ordner-ins-eigene-verzeichnis-integrieren</link>
+					<comments>https://www.drwindows.de/news/onedrive-auch-business-nutzer-koennen-jetzt-geteilte-ordner-ins-eigene-verzeichnis-integrieren#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 07:10:29 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77613</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="OneDrive" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Nutzer von OneDrive for Business kommen in den Genuss einer neuen Funktion, die es in der Endkunden-Version schon länger gibt: Ordner, die von anderen OneDrive-Nutzern freigegeben wurden, können in den eigenen Verzeichnisbaum integriert und auch lokal synchronisiert werden. Gefühlt macht es bei der Nutzung also keinen Unterschied mehr, ob es sich um eigene Inhalte [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="OneDrive" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-OneDrive-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Nutzer von OneDrive for Business kommen in den Genuss einer neuen Funktion, die es in der Endkunden-Version schon länger gibt: Ordner, die von anderen OneDrive-Nutzern freigegeben wurden, können in den eigenen Verzeichnisbaum integriert und auch lokal synchronisiert werden. Gefühlt macht es bei der Nutzung also keinen Unterschied mehr, ob es sich um eigene Inhalte oder die von anderen Nutzern handelt. Die neue Funktion war bereits seit einigen Monaten im Test und wurde stufenweise verteilt, nun <a href="https://techcommunity.microsoft.com/t5/microsoft-onedrive-blog/add-to-onedrive-is-generally-available/ba-p/1914772" target="_blank" rel="noopener noreferrer">meldet Microsoft</a>, dass der Rollout abgeschlossen und die Integration bei allen Nutzern verfügbar ist.</p>
+<p>Um einen geteilten Ordner dem eigenen OneDrive hinzuzufügen, ruft man die Weboberfläche von OneDrive auf und klickt in der linken Leiste auf &#8222;Geteilt&#8220;. Dort kann man sehen, welche Inhalte man selbst für andere Nutzer freigegeben hat und welche Dateien und Ordner von anderen Nutzern geteilt wurden. Um diese ins eigene OneDrive zu übernehmen, markiert man den Ordner und wählt die Option &#8222;Verknüpfung zu meinen Dateien hinzufügen&#8220;, die sich gleich an mehreren Stellen zeigt, sowohl im Kontextmenü als auch in der Titelleiste.</p>
+<p>Der Ordner wird dann entsprechend in das eigene OneDrive-Verzeichnis integriert und ist von allen Plattformen aus zugänglich. Unter Windows kann man die Inhalte beispielsweise auch lokal synchronisieren.</p>
+<p>Für einen Übergangszeitraum haben Administratoren von Microsoft 365 die Möglichkeit, diese Integration zu deaktivieren, falls man seine Nutzer vorher darauf einschwören möchte, diese Funktion nicht allzu exzessiv zu benutzen, wodurch logischerweise ein erhöhter Speicherplatzbedarf entsteht.</p>
+<p>Weitere Informationen dazu findet man im zugehörigen <a href="https://support.microsoft.com/de-de/office/hinzuf%c3%bcgen-von-verkn%c3%bcpfungen-zu-freigegebenen-ordnern-in-onedrive-f%c3%bcr-arbeit-oder-schule-d66b1347-99b7-4470-9360-ffc048d35a33?ui=de-de&amp;rs=de-de&amp;ad=de" target="_blank" rel="noopener noreferrer">Supportartikel</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/onedrive-auch-business-nutzer-koennen-jetzt-geteilte-ordner-ins-eigene-verzeichnis-integrieren/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Sea of Thieves: Rare kündigt größere Veränderungen für 2021 an</title>
+		<link>https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an</link>
+					<comments>https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 03 Dec 2020 06:31:28 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77608</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Sea of Thieves gehört wie Minecraft und Forza Horizon IV zu den Dauerbrennern von Microsoft, die von den Entwicklerstudios regelmäßig mit neuen Inhalten versorgt werden. Während am 9. Dezember das nächste monatliche Update für das Spiel erscheinen wird, kündigt Rare für das kommende Jahr einige Veränderungen an. Eine der wesentlichen Neuerungen ist dabei auch, dass [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/01/Sea-of-Thieves-Closed-Beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Sea of Thieves gehört wie Minecraft und Forza Horizon IV zu den Dauerbrennern von Microsoft, die von den Entwicklerstudios regelmäßig mit neuen Inhalten versorgt werden. Während am 9. Dezember das nächste monatliche Update für das Spiel erscheinen wird, kündigt Rare für das kommende Jahr einige Veränderungen an. Eine der wesentlichen Neuerungen ist dabei auch, dass die Entwickler von monatlichen auf saisonale Updates umstellen werden. Entsprechend wird es dann etwa alle drei Monate neue Inhalte für Sea of Thieves geben, das erste davon wird noch im Januar folgen.</p>
+<p>Ebenfalls im Januar kommt ein neuer Battle Pass, der neben einem kostenlosen auch einen Premium-Tier haben wird und auf 100 Level ausgelegt ist. Spieler können im Adventure Mode so kosmetische Rewards für ihre Piraten und Schiffe erhalten, hinzu kommen exklusive Rewards für Pirate Legends. Auf der kostenpflichtigen Seite zieht derweil der optionale Plunder Pass ein, der gegen Bezahlung einzigartige Rewards und exklusive Items bringen wird. Über die Preise für den Plunder Pass wurde ebenso wenig gesprochen wie zu den Aktionen, die Spieler im Rahmen des Battle Pass ausführen müssen.</p>
+<p>Zuletzt kündigte Rare noch an, dass der Arena Mode in den Wartungsmodus versetzt wird und keine neuen Features mehr bekommt. Laut den Entwicklern sind rund 97 % der Spieler im Adventure Mode unterwegs, was zu der Entscheidung führte, sich künftig voll auf diesen zu konzentrieren.</p>
+<p><iframe title="Seasons, Merchant Detectives and the Festival of Giving: Sea of Thieves News December 2nd 2020" width="500" height="281" src="https://www.youtube.com/embed/i70-hreX-BI?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Smash.GG: Microsoft übernimmt Plattform für Esport-Events</title>
+		<link>https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events</link>
+					<comments>https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 02 Dec 2020 20:04:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77604</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach der Übernahme von ZeniMax Media und seiner Tochter Bethesda, die vor wenigen Monaten für große Aufmerksamkeit sorgte, hat Microsoft seine Geldkoffer wieder geöffnet und mit Smash.GG das nächste Unternehmen für seine Xbox-Abteilung übernommen. Diesmal fällt die Nachricht aber deutlich weniger spektakulär aus, denn bei dem Dienst handelt es sich um eine Plattform, über die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach der Übernahme von ZeniMax Media und seiner Tochter Bethesda, die vor wenigen Monaten für große Aufmerksamkeit sorgte, hat Microsoft seine Geldkoffer wieder geöffnet und mit <a href="https://smash.gg/">Smash.GG</a> das nächste Unternehmen für seine Xbox-Abteilung übernommen. Diesmal fällt die Nachricht aber deutlich weniger spektakulär aus, denn bei dem Dienst handelt es sich um eine Plattform, über die die Gaming-Community eigene Esport-Events organisieren kann. Über den genauen Preis der Übernahme ist noch nichts bekannt.</p>
+<p>Wie die Betreiber der Seite schreiben, soll Smash.GG als unabhängige Plattform erhalten bleiben, wie das auch bei anderen Töchtern von Microsoft wie GitHub oder LinkedIn der Fall ist. Bleibt zu hoffen, dass die Seite nicht ein ähnliches Schicksal wie Mixer erleiden muss und Microsoft im Bereich Esport auch eine längerfristige Strategie verfolgt. Dass die Redmonder an dem Thema ein größeres Interesse haben, zeigten Ende Oktober aber schon die Teams hinter Microsoft Bing und Microsoft Research, als der neue <a href="https://www.drwindows.de/news/dank-bing-und-microsoft-research-microsoft-bringt-neuen-msn-esports-hub-an-den-start">MSN Esports Hub</a> aus der Taufe gehoben wurde.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
