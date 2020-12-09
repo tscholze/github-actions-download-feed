@@ -1,0 +1,296 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Wed, 09 Dec 2020 17:12:29 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>GitHub Universe: Microsoft kündigt zahlreiche Neuerungen für die Plattform an</title>
+		<link>https://www.drwindows.de/news/github-universe-microsoft-kuendigt-zahlreiche-neuerungen-fuer-die-plattform-an</link>
+					<comments>https://www.drwindows.de/news/github-universe-microsoft-kuendigt-zahlreiche-neuerungen-fuer-die-plattform-an#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 17:12:29 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77932</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Corona-Pandemie hält die Welt weiterhin in Atem und so muss auch die GitHub Universe 2020 in diesem Dezember wie die Microsoft BUILD oder die .NET Conf in den digitalen Raum ausweichen. Trotzdem konnten Microsoft und seine Tochter wieder mit einigen Ankündigungen aufwarten, die das Leben für die Entwickler noch einfacher machen sollen. Eine der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Corona-Pandemie hält die Welt weiterhin in Atem und so muss auch die GitHub Universe 2020 in diesem Dezember wie die Microsoft BUILD oder die .NET Conf in den digitalen Raum ausweichen. Trotzdem konnten Microsoft und seine Tochter wieder mit einigen Ankündigungen aufwarten, die das Leben für die Entwickler noch einfacher machen sollen. Eine der wesentlichen Verbesserungen ist der Dark Mode, der bei GitHub ab sofort in den Einstellungen der Seite aktiviert werden kann.</p>
+<p>Neu ist zudem GitHub Sponsors for companies, sodass Unternehmen nun über PayPal oder Kreditkarte an für sie kritische OpenSource-Projekte spenden können. Weitere Bezahlmethoden sollen hier bald folgen. In öffentlichen Repositories können Maintainer und Entwickler ab sofort Diskussionen in den Einstellungen freischalten. Zudem werden in den kommenden Wochen das neue Dependency Review-Feature als Beta sowie das Auto-Mergen von Pull Requests in geschützten Branches final für alle Nutzer verteilt. Außerdem wurden drei neue Features für den Bereich Continuous Delivery vorgestellt.</p>
+<p>Nähere Informationen zu den Ankündigungen der GitHub Universe 2020 findet ihr im verlinkten Blogpost. Außerdem wurde der 16. Dezember als Datum bestätigt, an dem der erste Release Candidate von GitHub Enterprise Server 3.0 veröffentlicht wird.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/github-universe-microsoft-kuendigt-zahlreiche-neuerungen-fuer-die-plattform-an/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox Game Streaming: Ab Frühjahr 2021 auf PC und iOS</title>
+		<link>https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios</link>
+					<comments>https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 15:04:43 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77929</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Project xCloud Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft weitet sein Game Streaming aus: Ab dem Frühjahr 2021 können Abonnenten des Xbox Game Pass Ultimate nicht nur auf Android- sondern auch auf iOS-Geräte sowie auf den PC streamen. Wer jetzt denkt, Microsoft habe sich endlich mit Apple geeinigt, der täuscht sich allerdings. Wie mehrfach vermutet, wird das Game Streaming auf iPhone und iPad [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Project xCloud Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft weitet sein Game Streaming aus: Ab dem Frühjahr 2021 können Abonnenten des Xbox Game Pass Ultimate nicht nur auf Android- sondern auch auf iOS-Geräte sowie auf den PC streamen.</p>
+<p>Wer jetzt denkt, Microsoft habe sich endlich mit Apple geeinigt, der täuscht sich allerdings. Wie mehrfach vermutet, wird das Game Streaming auf iPhone und iPad den &#8222;Hintereingang&#8220; über den Browser nehmen. Bleibt zu hoffen, dass Apple nicht auch diese Variante sabotiert.</p>
+<p>Auf dem PC steht dem Angebot garantiert nichts im Weg, hier ist Microsoft schließlich Herr im eigenen Haus. Das Streaming wird wenig überraschend über die Xbox App realisiert. Ob in diesem Zusammenhang auch das Konsolenstreaming von der eigenen Xbox zurückkehrt, verrät die heutige <strong><a href="https://news.xbox.com/en-us/2020/12/09/xbox-expands-cloud-gaming-to-more-devices-2021/" target="_blank" rel="noopener noreferrer">Ankündigung</a></strong> leider nicht.</p>
+<p>Darüber hinaus wird die regionale Verfügbarkeit des Cloud Gaming ausgeweitet: In Australien, Brasilien, Japan und Mexico kann seit kurzem gestreamt werden, der offizielle Start wird hier ebenfalls im Jahr 2021 erfolgen.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Editor kann jetzt in mehreren Sprachen gleichzeitig prüfen</title>
+		<link>https://www.drwindows.de/news/microsoft-editor-kann-jetzt-in-mehreren-sprachen-gleichzeitig-pruefen</link>
+					<comments>https://www.drwindows.de/news/microsoft-editor-kann-jetzt-in-mehreren-sprachen-gleichzeitig-pruefen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 13:25:07 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77919</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Editor Icon" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Frühjahr wurde der &#8222;Microsoft Editor&#8220; vorgestellt. Es handelt sich hierbei nicht um ein eigenständiges Produkt, sondern um einen Dienst, der an verschiedenen Stellen zur Verfügung steht. Der Microsoft Editor überprüft Rechtschreibung und Grammatik, außerdem macht er Vorschläge für bessere Formulierungen, empfiehlt das Entfernen überflüssiger Wörter usw. Es gibt ihn in Word, in Outlook.com und [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Editor Icon" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Frühjahr wurde der &#8222;Microsoft Editor&#8220; vorgestellt. Es handelt sich hierbei nicht um ein eigenständiges Produkt, sondern um einen Dienst, der an verschiedenen Stellen zur Verfügung steht. Der Microsoft Editor überprüft Rechtschreibung und Grammatik, außerdem macht er Vorschläge für bessere Formulierungen, empfiehlt das Entfernen überflüssiger Wörter usw. Es gibt ihn in Word, in Outlook.com und seit einiger Zeit auch als Browsererweiterung für Microsoft Edge und Google Chrome.</p>
+<p>Im Hinblick auf Microsofts hundsmiserable und kontinuierlich schlechter werdende Lokalisierungen, weil diese vollständig automatisiert wurden und keinerlei Qualitätskontrolle mehr stattfindet, hatte ich schlimmste Befürchtungen, als ich den Microsoft Editor zum ersten Mal ausprobierte. Ich wurde positiv überrascht, inzwischen ist er in Edge für mich gar zum unverzichtbaren Helfer geworden und hat mir schon oft gute Dienste erwiesen.</p>
+<p>Ich habe Deutsch als bevorzugte Sprache eingestellt, was logischerweise dazu führte, dass bei englischen Texten praktisch jedes Wort als Fehler markiert wurde.</p>
+<p>Damit ist es jetzt vorbei, denn der Microsoft Editor kann nun bis zu drei Sprachen gleichzeitig überprüfen &#8211; in den Einstellungen kann man das entsprechend festlegen:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen.jpg" data-rel="lightbox-gallery-08KDGrMN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77921" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen.jpg" alt="Microsoft Editor" width="1223" height="933" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen.jpg 1223w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-300x229.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-1024x781.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-768x586.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-643x491.jpg 643w" sizes="(max-width: 1223px) 100vw, 1223px" /></a></p>
+<p>Die Sprache, die ganz oben steht, ist automatisch die bevorzugte Sprache. Wenn ein Fehler erkannt und markiert wird, zeigt der Editor auch die zugehörige Sprache mit an.</p>
+<p>Die angesprochenen Browser-Erweiterungen gibt es hier:</p>
+<ul>
+<li><a href="https://microsoftedge.microsoft.com/addons/detail/hokifickgkhplphjiodbggjmoafhignh" target="_blank" rel="noopener noreferrer">Microsoft Editor für Microsoft Edge</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/microsoft-editor/gpaiobkfhnonedkhhfjpmhdalgeoebfa" target="_blank" rel="noopener noreferrer">Microsoft Editor für Google Chrome</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-editor-kann-jetzt-in-mehreren-sprachen-gleichzeitig-pruefen/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Angetestet: PowerA XP5-X Controller für mobiles Gaming</title>
+		<link>https://www.drwindows.de/news/angetestet-powera-xp5-x-controller-fuer-mobiles-gaming</link>
+					<comments>https://www.drwindows.de/news/angetestet-powera-xp5-x-controller-fuer-mobiles-gaming#respond</comments>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 09:04:32 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77829</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerA XP5-X Controller Review" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der jüngeren Vergangenheit haben wir regelmäßig über das „Mobile Gaming“ geschrieben. Dabei ging es selbstredend vornehmlich um Project xCloud, das nun Xbox Streaming heißt, sowie die Möglichkeiten, dieses über Zubehör wie Controller Clips oder integrierte Lösungen wie den Razer Kishi zu nutzen. Von dem Xbox Event X019 hatte ich von der Firma PowerA einen Gaming [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerA XP5-X Controller Review" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der jüngeren Vergangenheit haben wir regelmäßig über das „Mobile Gaming“ geschrieben. Dabei ging es selbstredend vornehmlich um Project xCloud, das nun Xbox Streaming heißt, sowie die Möglichkeiten, dieses über Zubehör wie Controller Clips oder integrierte Lösungen wie den <a href="https://www.drwindows.de/news/ausprobiert-das-razer-kishi-ist-ein-neuer-mobiler-gamecontroller-im-switch-stil" target="_blank" rel="noopener noreferrer">Razer Kishi</a> zu nutzen.</p>
+<p>Von dem Xbox Event X019 hatte ich von der Firma PowerA einen Gaming Clip zum Befestigen von Controller und Smartphone mitgebracht und <a href="https://www.drwindows.de/news/gaming-clips-zur-befestigung-des-controllers-am-smartphone-teuer-oder-billig" target="_blank" rel="noopener noreferrer">Martin testete dieses im Vergleich zu No-Name China Ware</a>.</p>
+<p>Seitdem hat sich viel getan und PowerA hat das Sortiment erheblich erweitert. Sie bieten Controller und Zubehör für sämtliche Plattformen an und haben seit kurzem auch ein neues Gadget für besagtes Mobile Gaming, den <strong><em>XP5-X</em></strong>.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77832 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510.jpg" alt="PowerA XP5-X Controller" width="1836" height="1408" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510.jpg 1836w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-300x230.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-1024x785.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-768x589.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-1536x1178.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-643x493.jpg 643w" sizes="(max-width: 1836px) 100vw, 1836px" /></a></p>
+<p>Der <em><strong>XP5-X</strong></em> ist ein Bundle aus einem Bluetooth Controller im Xbox Design, einem überarbeiteten MOGA Gaming Clip und reichhaltigem Kabelzubehör.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77833 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721.jpg" alt="PowerA XP5-X Controller" width="1440" height="1689" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721.jpg 1440w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-256x300.jpg 256w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-873x1024.jpg 873w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-768x901.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-1310x1536.jpg 1310w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-643x754.jpg 643w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>Der Controller unterstützt leider kein Xbox Wireless, da ist Xbox sehr eigen, bietet aber Bluetooth ab Android 6.0 und USB-Unterstützung für Android und Windows PCs. Neben den Standard-Tasten der Xbox bietet der Controller auch 2 programmierbare Tasten auf der Unterseite. Batterien braucht der Controller nicht, denn PowerA hat sich etwas Besonderes einfallen lassen: Im Gehäuse sitzt eine eine 3000mAh Powerbank, doch dazu gleich mehr.</p>
+<p>PowerA, quasi nur einen Steinwurf von Microsoft in Redmond ansässig, haben mir ein Testgerät überlassen, das ich zunächst nur gelegentlich nutzte, während meines Krankenhausaufenthaltes in der letzten Woche aber umso intensiver.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77835 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641.jpg" alt="PowerA XP5-X Controller" width="1440" height="2003" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641.jpg 1440w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-216x300.jpg 216w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-736x1024.jpg 736w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-768x1068.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-1104x1536.jpg 1104w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-643x894.jpg 643w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>Die Inbetriebnahme ist simpel, ihr klemmt den MOGA Gaming Clip an den Controller, spannt euer Smartphone ein und könnt euch dann entscheiden, wie ihr euch verbindet.<br />
+Durch das reichhaltige Kabelzubehör könnt ihr USB-C oder aber auch Micro-USB nutzen, was gerade älteren Tablets und Smartphones entgegenkommt, welche Kids von ihren Eltern oftmals vererbt bekommen.</p>
+<p>Die Bluetooth Verbindung ist ebenfalls simpel, Verbindungsknopf wie beim Xbox Controller gedrückt halten, Controller im Phone suchen, verknüpfen, fertig.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77840 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_.jpg" alt="PowerA XP5-X Controller" width="1313" height="1500" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_.jpg 1313w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-263x300.jpg 263w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-896x1024.jpg 896w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-768x877.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-643x735.jpg 643w" sizes="(max-width: 1313px) 100vw, 1313px" /></a></p>
+<p>Nun kommen wir auf die oben angesprochene Powerbank im Controller zurück. Diese hat mehrere Funktionen:</p>
+<p>Zum einen dient sie als Batterie, sodass der Controller nicht zusätzlich den Smartphone-Akku belastet, wie das beispielsweise beim Razer Kishi der Fall ist. Verbindet ihr euch aber per Bluetooth, könnt ihr den Controller mittels zusätzlicher Verkabelung nutzen, um euer Smartphone beim Zocken zu laden. Mehr noch, ihr könnt euer Smartphone auch laden, während ihr nicht spielt und der Controller ausgeschaltet ist. Ideal für das Spielen unterwegs, z.B. im Zug oder aber für die Kids auf der Rückbank, ohne sich Sorgen zu machen, dass dem Phone vor Ankunft der Saft ausgeht.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77836 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477.jpg" alt="PowerA XP5-X Controller" width="2560" height="1440" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-2048x1152.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-643x362.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Wie spielt es sich mit dem Controller?</p>
+<p>Das Handling ist sehr angenehm. Die Griffstücke sind ähnlich wie beim Xbox Elite Controller angeraut und gummiert. Thumbsticks, YXAB Button und die Bumper fühlen sich wie auf dem Xbox Standardcontroller an.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-scaled.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77838 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-scaled.jpg" alt="PowerA XP5-X Controller" width="2560" height="1440" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-scaled.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-2048x1152.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-643x362.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Einzig die Trigger könnten etwas mehr Spannung und Widerstand haben, sind aber trotzdem sehr ordentlich. Die programmierbaren Tasten liegen optimal, um sie beim Halten des Controllers mit den Fingerspitzen zu erreichen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-scaled.jpg" data-rel="lightbox-gallery-XSzhibnN" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77839 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-scaled.jpg" alt="PowerA XP5-X Controller" width="2560" height="1440" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-scaled.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-2048x1152.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-643x362.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Laden könnt ihr den Controller über USB, auch mittels PC-USB Verbindung, bei der ihr selbstverständlich auch am Computer zocken könnt.</p>
+<h3>Fazit</h3>
+<p>Der <strong><em>XP5-X</em></strong> ist ein optimales Zubehör, um unterwegs zu spielen. Die mitgelieferten Kabel können verschiedene Geräte versorgen und die integrierte Powerbank versorgt das Phone/Tablet zuverlässig mit Strom. Der Preis ist mit 71,99 € angemessen und spiegelt die ordentliche Verarbeitung wider.</p>
+<p>Nachteilig ist, dass der Controller leider kein Xbox Wireless hat, was aber kein 3rd Party Controller bietet. Auch iOS wird nicht unterstützt.</p>
+<p>Ich muss zugeben, dass ich zunächst angefressen war, dass der XP5-X kein Xbox Wireless kann, gerade auch wegen der Marketing-Partnerschaft von PowerA mit Xbox und Samsung, ich hätte ihn gerne auch an der Xbox genutzt. Da er aber wie der Razer Kishi primär auf mobiles Gaming ausgelegt ist, würde ich ihn aufgrund der Powerbank und der mitgelieferten Kabelvielfalt über den Kishi favorisieren.</p>
+<p>Toll wäre gewesen, wenn aufgrund des reichhaltigen Zubehörs ein Transport-Case oder ein Säckchen mit dabei wäre.</p>
+<p>Erhältlich ist der Controller in D/A/CH bei <a href="https://amzn.to/2It4Rdh" target="_blank" rel="noopener noreferrer">Amazon</a>. Alle Details zum Produkt findet ihr auf der <a href="https://www.powera.com/product/moga-xp5-x-plus-bluetooth-controller-for-mobile-cloud-gaming/" target="_blank" rel="noopener noreferrer">PowerA XP5-X Homepage</a></p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: amazonapps // ID: B08F6H8TBD) --><p><a target="_blank" rel="nofollow" href="https://www.amazon.de/dp/B08F6H8TBD/ref=tsm_1_fb_lk ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B08F6H8TBD&linkCode=am2&tag=drwin-21" title="Power AMOGA XP5-X Plus Bluetooth-Controller für mobiles und Cloud-Gaming auf Android-Geräten/PCs">Power AMOGA XP5-X Plus Bluetooth-Controller für mobiles und Cloud-Gaming auf Android-Geräten/PCs (Unbekannt, Amazon Apps) →</a></p><!-- /WP-Appbox -->
+<p>Disclaimer: PowerA stellte uns den XP5-X kostenlos als Testmuster zur Verfügung. Eine Einflussnahme auf den Test oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/angetestet-powera-xp5-x-controller-fuer-mobiles-gaming/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Developer Kanal springt mit diversen Neuerungen auf Version 89</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-developer-kanal-springt-mit-diversen-neuerungen-auf-version-89</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-developer-kanal-springt-mit-diversen-neuerungen-auf-version-89#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 08:23:18 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77886</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nachdem Microsoft Edge 87 offiziell verfügbar ist, beginnt das Vorrücken auf die kommenden Versionen in den diversen Vorschaukanälen. Normalerweise geht das ein bisschen schneller, es bleibt allerdings immer noch genügend Vorlauf: Der Developer Kanal ist jetzt auf die Version 89 gesprungen, deren finale Freigabe nach derzeitiger Planung für Anfang März 2021 vorgesehen ist. Dazwischen kommt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nachdem Microsoft Edge 87 offiziell <a href="https://www.drwindows.de/news/microsoft-edge-87-bringt-screenshot-tool-einfachere-webseiten-uebersetzungen-pdf-neuerungen-und-mehr" target="_blank" rel="noopener noreferrer">verfügbar</a> ist, beginnt das Vorrücken auf die kommenden Versionen in den diversen Vorschaukanälen. Normalerweise geht das ein bisschen schneller, es bleibt allerdings immer noch genügend Vorlauf: Der Developer Kanal ist jetzt auf die Version 89 gesprungen, deren finale Freigabe nach derzeitiger Planung für Anfang März 2021 vorgesehen ist. Dazwischen kommt in der zweiten Januarhälfte noch die Version 88, die in Kürze in den Beta-Test geht.</p>
+<p>89.0.723.0 ist die erste Testversion des übernächsten Meilensteins, die im Developer Kanal freigegeben wurde. Neben zahlreichen Detailänderungen an der Benutzeroberfläche bringt sie folgende Neuerungen mit:</p>
+<ul>
+<li>Der Passwort-Monitor kann jetzt manuell eine Suche nach möglicherweise gestohlenen Kennwörtern starten.</li>
+<li>Eine neue Berechtigungs-Einstellung erlaubt oder verbietet es Webseiten, vorab geladen zu werden und Cookies zu speichern.</li>
+<li>Heruntergeladene PDF-Dateien können standardmäßig mit einer externen Applikation statt in Edge geöffnet werden.</li>
+<li>Die Einstellungsseite &#8222;Teilen, kopieren und einfügen&#8220; zeigt nun die zugehörigen Tastenkürzel an.</li>
+<li>Der Stromverbrauch von im Hintergrund aktiven Tabs wurde reduziert.</li>
+<li>Diverse neue Gruppenrichtlinien wurden hinzugefügt.</li>
+</ul>
+<p>Das vollständige Changelog gibt es wie immer im <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-89-0-723-0-is-live/m-p/1968054" target="_blank" rel="noopener noreferrer">Edge Forum</a>.</p>
+<p>Der Download der diversen Vorabversionen für alle Plattformen ist über die <a href="https://www.microsoftedgeinsider.com/de-de/" target="_blank" rel="noopener noreferrer">Microsoft Edge Insider Homepage</a> möglich. Egal ob Beta, Developer oder Canary, jede Version installiert sich als eigene Instanz, kann also unabhängig von der produktiven Version genutzt werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-developer-kanal-springt-mit-diversen-neuerungen-auf-version-89/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halo Infinite erscheint im Spätjahr 2021</title>
+		<link>https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021</link>
+					<comments>https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 07:10:07 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77881</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Halo Infinite" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Halo Infinite hätte eigentlich einer der &#8211; oder besser gesagt DER Top-Titel zum Start der Xbox Series X werden sollen. Dass daraus nichts wird, wissen wir schon seit einigen Monaten, als die Entwickler ankündigten, das Spiel ins kommende Jahr zu verschieben. Als Begründung wurde seinerzeit die Corona-Krise angegeben, welche die Entwicklung negativ beeinflusst hat. Seither [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Halo Infinite" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Halo Infinite hätte eigentlich einer der &#8211; oder besser gesagt DER Top-Titel zum Start der Xbox Series X werden sollen. Dass daraus nichts wird, wissen wir schon seit einigen Monaten, als die Entwickler ankündigten, das Spiel ins kommende Jahr zu <a href="https://www.drwindows.de/news/good-news-bad-news-die-xbox-series-x-kommt-im-november-halo-infinite-nicht" target="_blank" rel="noopener noreferrer">verschieben</a>. Als Begründung wurde seinerzeit die Corona-Krise angegeben, welche die Entwicklung negativ beeinflusst hat.</p>
+<p>Seither wurde es still um die Entwicklung von Halo Infinite, nun haben die Entwickler einen <a href="https://www.halowaypoint.com/en-us/news/inside-infinite-december-2020" target="_blank" rel="noopener noreferrer">ausführlichen Artikel</a> veröffentlicht, der für alle Fans des Spiels, die sich für die Details interessieren, ganz sicher lesenswert ist. Der Artikel enthält diverse neue Screenshots, die uns glücklicherweise bestätigen, dass die im Sommer gezeigten Demos einem sehr frühen Stadium entstammten und keineswegs repräsentativ für das finale Spiel sind.</p>
+<p>Die wichtigste Nachricht aus dem aktuellen Statusupdate ist der angestrebte Releasetermin: Halo Infinite soll im Spätjahr 2021 erscheinen. Das ist für viele Fans sicherlich eine Enttäuschung, ließ die vorher angekündigte Verschiebung doch zumindest darauf hoffen, dass man im neuen Jahr nicht mehr allzu lange warten muss. Gleichzeitig haben sich viele Gamer in letzter Zeit aber auch erstaunlich gelassen und verständnisvoll gezeigt, etwa bei der Verschiebung von Cyberpunk 2077. Lieber länger warten, aber dafür ein gutes Spiel bekommen, lautete hier der Tenor.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot.jpg" data-rel="lightbox-gallery-fbfUMr1O" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77883" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot.jpg" alt="Halo Infinite" width="1920" height="1080" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot.jpg 1920w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-643x362.jpg 643w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></p>
+<p>Ich mag nicht den Stab über 343 Industries brechen, je nach der zuvor gewohnten Arbeitsorganisation hat die Pandemie unterschiedlich starke Auswirkungen. Wo vorher schon verteilt und von zu Hause gearbeitet wurde, hatte man weniger zu kämpfen, aber dort, wo es die Teams gewohnt waren, beieinander zu sitzen, wurde man völlig aus der Bahn geworfen. Da niemand im Moment wirklich abschätzen kann, wie es in den kommenden Monaten weitergeht, ist diese heftige Verschiebung zwar ärgerlich, mutmaßlich aber der richtige Weg.</p>
+<p>Rückblickend war es aber wohl keine gute Idee, im Sommer die ersten Demos zu zeigen und die Halo-Fans damit regelrecht zu erschrecken, da hätte man gleich sagen sollen: &#8222;Sorry Leute, wir sind noch nicht so weit&#8220;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Adobe Lightroom startet als native Version für Windows on ARM</title>
+		<link>https://www.drwindows.de/news/adobe-lightroom-startet-als-native-version-fuer-windows-on-arm</link>
+					<comments>https://www.drwindows.de/news/adobe-lightroom-startet-als-native-version-fuer-windows-on-arm#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 06:44:25 +0000</pubDate>
+				<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77878</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Adobe Lightroom" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Schon vor langer Zeit hatte Adobe versprochen, seine Programme nativ auf Windows on ARM zu bringen, damit diese nicht über die langsamere Emulation laufen müssen. Geliefert wurde bislang allerdings nicht, doch das ändert sich nun. Nachdem Mitte November bereits eine Beta von Photoshop für Windows on ARM veröffentlicht wurde, folgt nun die offizielle Freigabe von [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Adobe Lightroom" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adobe_lightroom_arm-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Schon vor langer Zeit hatte Adobe versprochen, seine Programme nativ auf Windows on ARM zu bringen, damit diese nicht über die langsamere Emulation laufen müssen. Geliefert wurde bislang allerdings nicht, doch das ändert sich nun. Nachdem Mitte November bereits eine <a href="https://www.drwindows.de/news/photoshop-adobe-unterstuetzt-nun-auch-windows-on-arm-nativ" target="_blank" rel="noopener noreferrer">Beta von Photoshop</a> für Windows on ARM veröffentlicht wurde, folgt nun die offizielle Freigabe von Adobe Lightroom für diese Plattform.</p>
+<p>Ob es Zufall ist, dass zeitgleich auch die ARM-Version von Lightroom für Apples M1 erschienen ist? Ich weiß es nicht, aber wenn sich der M1 tatsächlich als Beschleuniger für native ARM-Windows-Programme erweist, soll mir das nur recht und billig sein.</p>
+<p>Adobe schreibt in der <a href="https://blog.adobe.com/en/2020/12/08/december-photography-updates.html#gs.nlcmu9" target="_blank" rel="noopener noreferrer">Ankündigung</a>, dass dies zwar die erste native ARM-Version ist, aber noch diverse Optimierungen folgen werden, um die Vorteile der jeweiligen Plattform voll auszureizen. Gleichzeitig schreibt man in Richtung der Intel-Nutzer, diese müssten sich keine Sorgen machen &#8211; man würde weiterhin auch in die Intel-Varianten investieren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/adobe-lightroom-startet-als-native-version-fuer-windows-on-arm/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Patchday Dezember 2020: Frische Updates für Windows 10, letztmalig für Version 1903</title>
+		<link>https://www.drwindows.de/news/patchday-dezember-2020-frische-updates-fuer-windows-10-letztmalig-fuer-version-1903</link>
+					<comments>https://www.drwindows.de/news/patchday-dezember-2020-frische-updates-fuer-windows-10-letztmalig-fuer-version-1903#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 06:10:45 +0000</pubDate>
+				<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77875</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Patchday" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Der finale Patchday des Jahres 2020 brachte wenig überraschend neue kumulative Updates für alle unterstützten Versionen von Windows 10. Für die Version 1903, das April 2019 Update, markiert dies gleichzeitig das endgültige Aus, für diese Version wurden letztmalig Sicherheitsupdates zur Verfügung gestellt. Wer noch mit dieser Version unterwegs ist, sollte daher umgehend mindestens auf die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Patchday" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Der finale Patchday des Jahres 2020 brachte wenig überraschend neue kumulative Updates für alle unterstützten Versionen von Windows 10. Für die Version 1903, das April 2019 Update, markiert dies gleichzeitig das endgültige Aus, für diese Version wurden letztmalig Sicherheitsupdates zur Verfügung gestellt. Wer noch mit dieser Version unterwegs ist, sollte daher umgehend mindestens auf die Version 1909 oder besser gleich 20H2 umsteigen, um auf dem aktuellen Stand zu sein.</p>
+<p>Wie sehr die Entwicklung von Windows 10 über die verschiedenen Versionen hinweg inzwischen vereinheitlicht wurde, lässt sich gut daran ablesen, dass das Changelog für alle vier aktuellen Windows 10 Versionen an diesem Patchday identisch ist. Nachzulesen hier:</p>
+<p><strong>Windows 10 Version 2004/20H2:</strong> <a href="https://support.microsoft.com/de-de/help/4592438/windows-10-update-kb4592438" target="_blank" rel="noopener noreferrer">KB4592438 (OS Builds 19041.685 und 19042.685)</a></p>
+<p><strong>Windows 10 Version 1903/1909:</strong> <a href="https://support.microsoft.com/de-de/help/4592449/windows-10-update-kb4592449" target="_blank" rel="noopener noreferrer">KB4592449 (OS Builds 18362.1256 und 18363.1256)</a></p>
+<p>Es gibt noch ein weiteres Finale: Letztmalig liefert Microsoft Sicherheitsupdates für Adobe Flash aus. Ab Januar wird die Ausführung von Flash dann in allen Browser blockiert (betrifft den Internet Explorer und den &#8222;alten&#8220; Microsoft Edge, der neue Edge hat eine eigene Flash-Engine, aber auch die wird im Januar abgedreht).</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/patchday-dezember-2020-frische-updates-fuer-windows-10-letztmalig-fuer-version-1903/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Minecraft with RTX: Mojang stellt Raytracing nun allen unter Windows 10 zur Verfügung</title>
+		<link>https://www.drwindows.de/news/minecraft-with-rtx-mojang-stellt-raytracing-nun-allen-unter-windows-10-zur-verfuegung</link>
+					<comments>https://www.drwindows.de/news/minecraft-with-rtx-mojang-stellt-raytracing-nun-allen-unter-windows-10-zur-verfuegung#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 16:29:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77871</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Minecraft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Bereits im August 2019 wurde bekannt, dass die Mojang Studios gemeinsam mit Nvidia an einer Möglichkeit arbeiten, allen Spielern der Minecraft: Bedrock Edition unter Windows 10 Raytracing und DLSS 2.0 zur Verfügung zu stellen. Nachdem die öffentliche Beta dazu am 16. April gestartet wurde, melden Microsoft und Nvidia nun Vollzug und stellen die neuen Features [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Minecraft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/minecraft-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Bereits im August 2019 wurde <a href="https://www.drwindows.de/news/minecraft-with-rtx-microsoft-und-nvidia-bringen-raytracing-fuer-windows-10">bekannt</a>, dass die Mojang Studios gemeinsam mit Nvidia an einer Möglichkeit arbeiten, allen Spielern der Minecraft: Bedrock Edition unter Windows 10 Raytracing und DLSS 2.0 zur Verfügung zu stellen. Nachdem die öffentliche Beta dazu am 16. April <a href="https://www.drwindows.de/news/fuer-windows-10-raytracing-und-dlss-2-0-erreichen-die-minecraft-beta">gestartet</a> wurde, melden Microsoft und Nvidia nun Vollzug und stellen die neuen Features nun allen Nutzern unter Windows 10 zur Verfügung. Eine entsprechende Insider Build wird nicht mehr benötigt.</p>
+<p>Für die Nutzung wird natürlich eine Grafikkarte von Nvidia benötigt, die über entsprechende RTX-Fähigkeiten verfügt. Einen gesonderten Blogartikel hat Nvidia außerdem <a href="https://www.nvidia.com/en-us/geforce/news/minecraft-rtx-dlss-official-release/">hier</a> veröffentlicht. Cross-Play und Minecraft Realms sollen ebenfalls voll unterstützt werden.</p>
+<p><iframe title="Minecraft with RTX | Official Full Game Release Trailer" width="500" height="281" src="https://www.youtube.com/embed/D1U1S5GzvJ8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/minecraft-with-rtx-mojang-stellt-raytracing-nun-allen-unter-windows-10-zur-verfuegung/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung veröffentlicht App für Screenshots und Bildschirmvideos für die hauseigenen Geräte</title>
+		<link>https://www.drwindows.de/news/samsung-veroeffentlicht-app-fuer-screenshots-und-bildschirmvideos-fuer-die-hauseigenen-geraete</link>
+					<comments>https://www.drwindows.de/news/samsung-veroeffentlicht-app-fuer-screenshots-und-bildschirmvideos-fuer-die-hauseigenen-geraete#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 08 Dec 2020 13:47:00 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77852</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung Screen Rekorder" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wer ein Laptop von Samsung besitzt, kann sich ab sofort eine neue App aus dem Microsoft Store laden: Den Samsung Screen Recorder. Der Name ist Programm: Es handelt sich um eine App, mit der man Screenshots und Videos vom eigenen Desktop erstellen kann, entweder im Vollbild oder nur von einem Ausschnitt des Bildes. Die Aufnahmen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung Screen Rekorder" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wer ein Laptop von Samsung besitzt, kann sich ab sofort eine neue App aus dem Microsoft Store laden: Den Samsung Screen Recorder.</p>
+<p>Der Name ist Programm: Es handelt sich um eine App, mit der man Screenshots und Videos vom eigenen Desktop erstellen kann, entweder im Vollbild oder nur von einem Ausschnitt des Bildes. Die Aufnahmen können anschließend noch illustriert werden, beispielsweise kann man mit einem Stift Notizen oder Hinweise hinzufügen.</p>
+<p>Ich habe keinen Samsung PC bei mir, somit muss der praktische Teil entfallen. Da es sich dem Anschein nach um ein recht einfaches Tool handelt, dürfte das aber nicht weiter tragisch sein. Solltet ihr ein Samsung-Gerät besitzen, hinterlasst gerne einen Kommentar, wie gut oder schlecht der Samsung Screen Recorder funktioniert.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot.jpeg" data-rel="lightbox-gallery-iBrTPWVo" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77854" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot.jpeg" alt="Samsung Screen Rekorder" width="1398" height="785" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot.jpeg 1398w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot-300x168.jpeg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot-1024x575.jpeg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot-768x431.jpeg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/samsung_screen_rekorder_screenshot-643x361.jpeg 643w" sizes="(max-width: 1398px) 100vw, 1398px" /></a></p>
+<p>&nbsp;</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9p5025mm7wdt) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9p5025mm7wdt" title="Samsung Screen Recorder">Samsung Screen Recorder (Kostenlos, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/samsung-veroeffentlicht-app-fuer-screenshots-und-bildschirmvideos-fuer-die-hauseigenen-geraete/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
