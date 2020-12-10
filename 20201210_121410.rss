@@ -1,0 +1,335 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Thu, 10 Dec 2020 11:58:13 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Microsoft Teams: Konferenzen im Schnee, Breakout Rooms und weihnachtliche Hintergründe</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-konferenzen-im-schnee-breakout-rooms-und-weihnachtliche-hintergruende</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-konferenzen-im-schnee-breakout-rooms-und-weihnachtliche-hintergruende#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 11:58:13 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77959</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams Winter Hintergrund" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Auf der Zielgeraden des Jahres 2020 bringt Microsoft nochmal eine wichtige neue Funktion für Microsoft Teams sowie ein paar Goodies, die in die Jahreszeit passen. Im &#8222;Together Mode&#8220;, bei dem sich mehrere Meeting-Teilnehmer virtuell an einem Ort versammeln können, steht jetzt eine winterliche Umgebung zur Auswahl (siehe Titelbild). Vergesst nicht, Glühwein statt Kaffee mitzubringen, das [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams Winter Hintergrund" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_together_winter-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Auf der Zielgeraden des Jahres 2020 bringt Microsoft nochmal eine wichtige neue Funktion für Microsoft Teams sowie ein paar Goodies, die in die Jahreszeit passen. Im &#8222;Together Mode&#8220;, bei dem sich mehrere Meeting-Teilnehmer virtuell an einem Ort versammeln können, steht jetzt eine winterliche Umgebung zur Auswahl (siehe Titelbild). Vergesst nicht, Glühwein statt Kaffee mitzubringen, das passt besser zusammen, und nach dem dritten gibt es auch in der langweiligsten Konferenz immer was zu lachen (Muten nicht vergessen).</p>
+<p>Zurück zum Ernst des Arbeitsalltags: Die Breakout-Rooms, ursprünglich für November geplant, starten diese Woche nun endgültig. Damit können Meetings beispielsweise in verschiedene Arbeits- und Lerngruppen aufgeteilt werden.</p>
+<p>Bis zu 50 Breakout-Rooms sind innerhalb eines Meetings möglich, anlegen kann sie nur der Moderator und das aktuell auch nur in der Desktop-Version von Teams. Die Nutzer können diesen Räumen anschließend eigenständig beitreten und auch zwischen ihnen wechseln. Das funktioniert von allen Plattformen aus, also am Desktop, am Smartphone und auch in der Web-Version von Teams. Der Moderator kann die Nutzer aber auch gezielt und &#8222;zwangsweise&#8220; einem Raum zuweisen. Außerdem kann der Moderator festlegen, wann die Breakout-Rooms geschlossen werden und die Nutzer wieder ins Hauptmeeting zurückgeleitet werden.</p>
+<p>In den einzelnen Breakout-Räumen kann es wiederum eigene Moderatoren geben, die innerhalb dieses Raums die Nutzer verwalten und bestimmte Funktionen zur Verfügung haben, wie beispielsweise die Aufzeichnung.</p>
+<p>Im <strong><a href="https://techcommunity.microsoft.com/t5/microsoft-teams-blog/breakout-rooms-generally-available-today-in-microsoft-teams/ba-p/1968481" target="_blank" rel="noopener noreferrer">Blogpost von Microsoft</a></strong> gibt es ein Video zu sehen, in dem die Funktionsweise der Breakout Rooms demonstriert wird.</p>
+<p>Um die Breakout Rooms nutzen zu können, muss in den Einstellungen von Teams unter Allgemein die Option &#8222;Neue Besprechungserfahrung aktivieren&#8220; gesetzt sein.</p>
+<p>Unter <strong><a href="https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4JntG" target="_blank" rel="noopener noreferrer">diesem Link</a></strong> (direkter Download, 13 MB) könnt ihr euch außerdem weihnachtliche Hintergründe für Teams herunterladen, die sich im Übrigen auch mit Skype verwenden lassen. Damit ihr nicht die Katze im Sack herunterladen müsst, hier eine Vorschau:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_hintergruende.jpg" data-rel="lightbox-gallery-J6KcKBkq" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77961" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_hintergruende.jpg" alt="Microsoft Teams Weihnachts-Hintergrund" width="942" height="593" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_hintergruende.jpg 942w, https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_hintergruende-300x189.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_hintergruende-768x483.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_hintergruende-643x405.jpg 643w" sizes="(max-width: 942px) 100vw, 942px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-konferenzen-im-schnee-breakout-rooms-und-weihnachtliche-hintergruende/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google Workspaces: Unterstützung für den Internet Explorer 11 endet am 15. März 2021</title>
+		<link>https://www.drwindows.de/news/google-workspaces-unterstuetzung-fuer-den-internet-explorer-11-endet-am-15-maerz-2021</link>
+					<comments>https://www.drwindows.de/news/google-workspaces-unterstuetzung-fuer-den-internet-explorer-11-endet-am-15-maerz-2021#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 10:52:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77950</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Falls einer von euch beruflich mit Google Workspaces arbeitet und im Unternehmen immer noch mit dem Internet Explorer 11 unterwegs ist, muss er sich, wie das bei Microsoft im kommenden Jahr auch nach und nach der Fall ist, sehr bald einen neuen Browser suchen. Als Reaktion auf die Ankündigungen aus Redmond wird Google [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Falls einer von euch beruflich mit Google Workspaces arbeitet und im Unternehmen immer noch mit dem Internet Explorer 11 unterwegs ist, muss er sich, wie das bei Microsoft im kommenden Jahr auch nach und nach der Fall ist, sehr bald einen neuen Browser suchen. Als Reaktion auf die Ankündigungen aus Redmond wird Google die Unterstützung für diese Dienste beim IE11 bereits am 15. März 2021 einstellen, ein entsprechender Banner soll auf die bevorstehende Maßnahme aufmerksam machen.</p>
+<p>Zu den Browsern, die von Google weiterhin offiziell unterstützt werden, gehören neben Google Chrome auch die aktuellsten Versionen von Mozilla Firefox und dem neuen Microsoft Edge auf Chromium-Basis. Nähere Informationen entnehmt ihr bitte dem verlinkten Blogpost.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/google-workspaces-unterstuetzung-fuer-den-internet-explorer-11-endet-am-15-maerz-2021/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge Beta 88 bringt Synchronisation von Verlauf und Tabs, PDF-Neuerungen und viel mehr</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-beta-88-bringt-synchronisation-von-verlauf-und-tabs-pdf-neuerungen-und-viel-mehr</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-beta-88-bringt-synchronisation-von-verlauf-und-tabs-pdf-neuerungen-und-viel-mehr#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 07:39:14 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77945</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Beta" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Januar wird Microsoft Edge 88 erscheinen. Die Arbeiten an der neuen Version sind weitgehend fertiggestellt, ab jetzt werden nur noch Fehler beseitigt. Die Version 88 wird ein &#8222;dickes Ding&#8220; mit jeder Menge neuer Funktionen. Nachfolgend habe ich die Neuerungen beschrieben, wer sie direkt ausprobieren möchte, kann sich die Beta-Version von der Microsoft Edge Insider [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Beta" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Januar wird Microsoft Edge 88 erscheinen. Die Arbeiten an der neuen Version sind weitgehend fertiggestellt, ab jetzt werden nur noch Fehler beseitigt. Die Version 88 wird ein &#8222;dickes Ding&#8220; mit jeder Menge neuer Funktionen. Nachfolgend habe ich die Neuerungen beschrieben, wer sie direkt ausprobieren möchte, kann sich die Beta-Version von der <a href="https://www.microsoftedgeinsider.com/de-de/" target="_blank" rel="noopener noreferrer">Microsoft Edge Insider Homepage</a> herunterladen.</p>
+<h3>Synchronisation von Verlauf und offenen Tabs</h3>
+<p>Es hat ein bisschen gedauert, aber mit der Version 88 wird die Synchronisation von Microsoft Edge nun vollständig: Auch geöffnete Tabs von anderen Geräten sowie der Browserverlauf werden jetzt synchronisiert.</p>
+<h3>PDF-Neuerungen</h3>
+<p>Es können jetzt Notizen zu einzelnen Textpassagen erstellt werden. Vorerst ist die Funktion nur unter Windows vorhanden.</p>
+<p>Um eine Notiz anzulegen, markiert man den entsprechenden Textabschnitt mit der Maus, klickt die Markierung mit der rechten Maustaste an und wählt Kommentar hinzufügen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_pdf_kommentar_hinzufuegen.jpg" data-rel="lightbox-gallery-sj7o29M4" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-76967" src="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_pdf_kommentar_hinzufuegen.jpg" alt="PDF-Dateien kommentieren mit Microsoft Edge " width="758" height="306" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_pdf_kommentar_hinzufuegen.jpg 758w, https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_pdf_kommentar_hinzufuegen-300x121.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_pdf_kommentar_hinzufuegen-643x260.jpg 643w" sizes="(max-width: 758px) 100vw, 758px" /></a></p>
+<p>&nbsp;</p>
+<p>Im nächsten Schritt gibt man den Kommentar ein und speichert ihn ab.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_eingeben.jpg" data-rel="lightbox-gallery-sj7o29M4" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-76965" src="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_eingeben.jpg" alt="PDF-Dateien kommentieren mit Microsoft Edge " width="856" height="295" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_eingeben.jpg 856w, https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_eingeben-300x103.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_eingeben-768x265.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_eingeben-643x222.jpg 643w" sizes="(max-width: 856px) 100vw, 856px" /></a></p>
+<p>&nbsp;</p>
+<p>Eine entsprechende Markierung hebt den kommentierten Abschnitt hervor. Der Kommentar ist im Übrigen mit jedem PDF-Betrachter lesbar, der Kommentare unterstützt &#8211; das dürften praktisch alle sein.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_highlighting.jpg" data-rel="lightbox-gallery-sj7o29M4" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-76966" src="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_highlighting.jpg" alt="PDF-Dateien kommentieren mit Microsoft Edge " width="476" height="142" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_highlighting.jpg 476w, https://www.drwindows.de/news/wp-content/uploads/2020/11/edge_kommentar_highlighting-300x89.jpg 300w" sizes="(max-width: 476px) 100vw, 476px" /></a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<p>Beim Betrachten von PDF-Dateien gibt es eine neue Ansichtsoption, die zwei Seiten nebeneinander anzeigt.</p>
+<h3>Passwort-Generator</h3>
+<p>Wenn man sich auf einer Webseite registriert und ein Kennwort festlegen muss, schlägt Microsoft Edge jetzt automatisch ein sicheres Kennwort vor, dass man übernehmen und abspeichern kann. In den Einstellungen kann man diese Funktion ein- und ausschalten.</p>
+<p>Außerdem gibt es in der Liste der gespeicherten Kennwörter einen neuen Kontextmenü-Eintrag &#8222;kopieren&#8220;, um das Kennwort außerhalb von Microsoft Edge zu verwenden. Auch die Bearbeitung gespeicherter Kennwörter ist mit Edge 88 möglich.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter.jpg" data-rel="lightbox-gallery-sj7o29M4" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77946" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter.jpg" alt="Passwort-Generator" width="1131" height="430" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter.jpg 1131w, https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter-300x114.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter-1024x389.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter-768x292.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/edge_sichere_kennwoerter-643x244.jpg 643w" sizes="(max-width: 1131px) 100vw, 1131px" /></a></p>
+<h3>Die Lesezeichen-Sidebar ist zurück</h3>
+<p>Mit dieser Version kehrt die Lesezeichen-Sidebar zurück. Wenn man den Zugriff auf die Lesezeichen in der Symbolleiste platziert hat, erscheint beim Klick auf dieses Symbol nun oben eine Toolbar sowie ein Menü mit diversen Optionen wie Suche, aktuelle Seite speichern, Ordner anlegen etc. Ganz rechts sieht man ein PIN-Symbol, damit lassen sich die Lesezeichen nun auch im neuen Edge wieder als Sidebar am rechten Bildschirmrand anheften.</p>
+<p><a title="" href="https://www.drwindows.de/news/wp-content/uploads/2020/09/edge_favoriten_optionen.jpg" data-rel="lightbox-gallery-0" data-rl_title="" data-rl_caption="" data-rl_title="" data-rl_caption=""><img loading="lazy" class="alignnone size-full wp-image-74440" src="https://www.drwindows.de/news/wp-content/uploads/2020/09/edge_favoriten_optionen.jpg" sizes="(max-width: 474px) 100vw, 474px" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/edge_favoriten_optionen.jpg 474w, https://www.drwindows.de/news/wp-content/uploads/2020/09/edge_favoriten_optionen-300x285.jpg 300w" alt="" width="474" height="451" /></a></p>
+<p><a title="" href="https://www.drwindows.de/news/wp-content/uploads/2020/09/edge_lesezeichen_neu_1.gif" data-rel="lightbox-gallery-0" data-rl_title="" data-rl_caption="" data-rl_title="" data-rl_caption=""><img loading="lazy" class="alignnone size-full wp-image-75365" src="https://www.drwindows.de/news/wp-content/uploads/2020/09/edge_lesezeichen_neu_1.gif" alt="" width="800" height="467" /></a></p>
+<h3>Cookies und Berechtigungen</h3>
+<p>In den Einstellungen für Cookies und Webseitenberechtigungen gibt es drei neue Einträge. Es wird direkt auf die Verwaltung der entsprechenden Daten verlinkt. Außerdem kann man sich eine Zusammenfassung der vergebenen Berechtigungen für besuchte Webseiten anschauen, und unter &#8222;Aktuelle Aktivität&#8220; werden die zuletzt besuchten Seiten aufgelistet und es wird angezeigt, ob beispielsweise Cookies zugelassen oder blockiert wurden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen.jpg" data-rel="lightbox-gallery-sj7o29M4" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77947" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen.jpg" alt="Cookies und Berechtigungen" width="965" height="720" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen.jpg 965w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen-300x224.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen-768x573.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cookies_berechtigungen-643x480.jpg 643w" sizes="(max-width: 965px) 100vw, 965px" /></a></p>
+<h3>Webseiten ans Startmenü anheften</h3>
+<p>Eine weitere Funktion aus dem &#8222;alten Edge&#8220; kehrt zurück: Webseiten können als Verknüpfung ans Startmenü angeheftet werden. Die Option ist im Menü unter „Weitere Tools“ zu finden, wo auch schon die Option „An Taskleiste anheften“ zu finden ist.</p>
+<h3>Weitere Neuerungen in Microsoft Edge 88</h3>
+<ul>
+<li>Die integrierte Screenshot-Funktion kann jetzt auch eine komplette Webseite ablichten. Sie warnt außerdem, wenn man sie schließt, ohne den aufgenommenen Screenshot abgespeichert zu haben. Darüber hinaus lassen sich aufgenommene Screenshots mit Notizen versehen.</li>
+<li>Im Hintergrund aktive Tabs können &#8222;schlafen gelegt&#8220; werden, was den Ressourcenverbrauch des Browsers reduziert.</li>
+<li>Die Icons innerhalb der Statusleiste und in den Menüs wurden geringfügig modifiziert.</li>
+<li>Der Browserverlauf kann als Icon auf der Symbolleiste angezeigt werden (Einstellungen öffnen &#8211; Rechtsklick auf &#8222;Verlauf&#8220; &#8211; &#8222;Auf Symbolleiste anzeigen&#8220; auswählen.</li>
+<li>Der Internet Explorer Modus kann in den Regeln nun zwischen http und https unterscheiden, man kann je nach Protokoll also unterschiedliches Verhalten für die gleiche Domain festlegen.</li>
+<li>Der &#8222;Guided Switch&#8220; ist jetzt auch auf dem Mac verfügbar (Edge schlägt automatisch den Wechsel zwischen privatem und geschäftlichem Profil vor).</li>
+<li>Beim Kiosk-Modus wurde die Möglichkeit hinzugefügt, Popups immer in neuen Tabs statt in einem neuen Fenster zu öffnen.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-beta-88-bringt-synchronisation-von-verlauf-und-tabs-pdf-neuerungen-und-viel-mehr/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Facebook: Neue Klage in den USA soll Trennung von Instagram und WhatsApp durchsetzen</title>
+		<link>https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen</link>
+					<comments>https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 20:30:58 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77938</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nachdem Google bereits zahlreichen Wettbewerbsklagen in den USA ausgesetzt ist und hier unter anderem über den möglichen Verkauf von Google Chrome spekuliert wird, sieht sich nun auch Facebook einem großen Rechtsstreit gegenüber. Neben der Bundesbehörde für Verbraucherschutz (Federal Trade Commission, FTC) klagen auch 48 der 50 US-Bundesstaaten gegen den Internetriesen aus Palo Alto in Kalifornien. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Facebook-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nachdem Google bereits zahlreichen Wettbewerbsklagen in den USA ausgesetzt ist und hier unter anderem über den möglichen Verkauf von Google Chrome <a href="https://www.drwindows.de/news/bericht-google-koennte-zum-verkauf-von-chrome-gezwungen-werden-auch-werbegeschaeft-betroffen">spekuliert</a> wird, sieht sich nun auch Facebook einem großen Rechtsstreit gegenüber. Neben der Bundesbehörde für Verbraucherschutz (Federal Trade Commission, FTC) klagen auch 48 der 50 US-Bundesstaaten gegen den Internetriesen aus Palo Alto in Kalifornien. Wie bei Google wird dem sozialen Netzwerk vorgeworfen, mit seiner monopolartigen Stellung den freien Wettbewerb zu behindern.</p>
+<p>Mit dem Wettbewerbsverfahren streben die Kläger eine Zerschlagung der bisherigen Unternehmensstruktur an und wollen mit dem sozialen Netzwerk Instagram und dem WhatsApp Messenger die beiden wichtigsten und größten Tochterunternehmen von seinem Mutterkonzern trennen. Andere Projekte und Unternehmen wie Oculus oder die Kryptowährung Libra sind nach aktuellen Informationen nicht Teil des Verfahrens. Für Instagram und WhatsApp hatte Mark Zuckerberg seinerzeit zusammen deutlich über 20 Milliarden USD in die Hand genommen und damit einen ersten Nutzerschwund gestoppt. Seitdem wurden beide Töchter immer weiter ausgebaut und bilden zusammen mit dem eigentlichen Facebook-Netzwerk heute das Kerntrio des Unternehmens.</p>
+<p>Welche Auswirkungen das auf Projekte wie die Zusammenlegung von Facebook Messenger, Instagram Direct und WhatsApp auf einer gemeinsamen Infrastruktur für Folgen hat, ist derzeit noch nicht absehbar. Facebook wies die Vorwürfe zurück, kündigte seinerseits über Twitter aber eine Überprüfung dieser an.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">We&#39;re reviewing the complaints &amp; will have more to say soon. Years after the FTC cleared our acquisitions, the government now wants a do-over with no regard for the impact that precedent would have on the broader business community or the people who choose our products every day.</p>
+<p>&mdash; Facebook Newsroom (@fbnewsroom) <a href="https://twitter.com/fbnewsroom/status/1336764387818950656?ref_src=twsrc%5Etfw">December 9, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>GitHub Universe: Microsoft kündigt zahlreiche Neuerungen für die Plattform an</title>
+		<link>https://www.drwindows.de/news/github-universe-microsoft-kuendigt-zahlreiche-neuerungen-fuer-die-plattform-an</link>
+					<comments>https://www.drwindows.de/news/github-universe-microsoft-kuendigt-zahlreiche-neuerungen-fuer-die-plattform-an#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 17:12:29 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77932</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Corona-Pandemie hält die Welt weiterhin in Atem und so muss auch die GitHub Universe 2020 in diesem Dezember wie die Microsoft BUILD oder die .NET Conf in den digitalen Raum ausweichen. Trotzdem konnten Microsoft und seine Tochter wieder mit einigen Ankündigungen aufwarten, die das Leben für die Entwickler noch einfacher machen sollen. Eine der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Corona-Pandemie hält die Welt weiterhin in Atem und so muss auch die GitHub Universe 2020 in diesem Dezember wie die Microsoft BUILD oder die .NET Conf in den digitalen Raum ausweichen. Trotzdem konnten Microsoft und seine Tochter wieder mit einigen Ankündigungen aufwarten, die das Leben für die Entwickler noch einfacher machen sollen. Eine der wesentlichen Verbesserungen ist der Dark Mode, der bei GitHub ab sofort in den Einstellungen der Seite aktiviert werden kann.</p>
+<p>Neu ist zudem GitHub Sponsors for companies, sodass Unternehmen nun über PayPal oder Kreditkarte an für sie kritische OpenSource-Projekte spenden können. Weitere Bezahlmethoden sollen hier bald folgen. In öffentlichen Repositories können Maintainer und Entwickler ab sofort Diskussionen in den Einstellungen freischalten. Zudem werden in den kommenden Wochen das neue Dependency Review-Feature als Beta sowie das Auto-Mergen von Pull Requests in geschützten Branches final für alle Nutzer verteilt. Außerdem wurden drei neue Features für den Bereich Continuous Delivery vorgestellt.</p>
+<p>Nähere Informationen zu den Ankündigungen der GitHub Universe 2020 findet ihr im verlinkten Blogpost. Außerdem wurde der 16. Dezember als Datum bestätigt, an dem der erste Release Candidate von GitHub Enterprise Server 3.0 veröffentlicht wird.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/github-universe-microsoft-kuendigt-zahlreiche-neuerungen-fuer-die-plattform-an/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox Game Streaming: Ab Frühjahr 2021 auf PC und iOS</title>
+		<link>https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios</link>
+					<comments>https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 15:04:43 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77929</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Project xCloud Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft weitet sein Game Streaming aus: Ab dem Frühjahr 2021 können Abonnenten des Xbox Game Pass Ultimate nicht nur auf Android- sondern auch auf iOS-Geräte sowie auf den PC streamen. Wer jetzt denkt, Microsoft habe sich endlich mit Apple geeinigt, der täuscht sich allerdings. Wie mehrfach vermutet, wird das Game Streaming auf iPhone und iPad [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Project xCloud Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project-xCloud-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft weitet sein Game Streaming aus: Ab dem Frühjahr 2021 können Abonnenten des Xbox Game Pass Ultimate nicht nur auf Android- sondern auch auf iOS-Geräte sowie auf den PC streamen.</p>
+<p>Wer jetzt denkt, Microsoft habe sich endlich mit Apple geeinigt, der täuscht sich allerdings. Wie mehrfach vermutet, wird das Game Streaming auf iPhone und iPad den &#8222;Hintereingang&#8220; über den Browser nehmen. Bleibt zu hoffen, dass Apple nicht auch diese Variante sabotiert.</p>
+<p>Auf dem PC steht dem Angebot garantiert nichts im Weg, hier ist Microsoft schließlich Herr im eigenen Haus. Das Streaming wird wenig überraschend über die Xbox App realisiert. Ob in diesem Zusammenhang auch das Konsolenstreaming von der eigenen Xbox zurückkehrt, verrät die heutige <strong><a href="https://news.xbox.com/en-us/2020/12/09/xbox-expands-cloud-gaming-to-more-devices-2021/" target="_blank" rel="noopener noreferrer">Ankündigung</a></strong> leider nicht.</p>
+<p>Darüber hinaus wird die regionale Verfügbarkeit des Cloud Gaming ausgeweitet: In Australien, Brasilien, Japan und Mexico kann seit kurzem gestreamt werden, der offizielle Start wird hier ebenfalls im Jahr 2021 erfolgen.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Editor kann jetzt in mehreren Sprachen gleichzeitig prüfen</title>
+		<link>https://www.drwindows.de/news/microsoft-editor-kann-jetzt-in-mehreren-sprachen-gleichzeitig-pruefen</link>
+					<comments>https://www.drwindows.de/news/microsoft-editor-kann-jetzt-in-mehreren-sprachen-gleichzeitig-pruefen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 13:25:07 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77919</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Editor Icon" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Frühjahr wurde der &#8222;Microsoft Editor&#8220; vorgestellt. Es handelt sich hierbei nicht um ein eigenständiges Produkt, sondern um einen Dienst, der an verschiedenen Stellen zur Verfügung steht. Der Microsoft Editor überprüft Rechtschreibung und Grammatik, außerdem macht er Vorschläge für bessere Formulierungen, empfiehlt das Entfernen überflüssiger Wörter usw. Es gibt ihn in Word, in Outlook.com und [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Editor Icon" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/microsoft_editor-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Frühjahr wurde der &#8222;Microsoft Editor&#8220; vorgestellt. Es handelt sich hierbei nicht um ein eigenständiges Produkt, sondern um einen Dienst, der an verschiedenen Stellen zur Verfügung steht. Der Microsoft Editor überprüft Rechtschreibung und Grammatik, außerdem macht er Vorschläge für bessere Formulierungen, empfiehlt das Entfernen überflüssiger Wörter usw. Es gibt ihn in Word, in Outlook.com und seit einiger Zeit auch als Browsererweiterung für Microsoft Edge und Google Chrome.</p>
+<p>Im Hinblick auf Microsofts hundsmiserable und kontinuierlich schlechter werdende Lokalisierungen, weil diese vollständig automatisiert wurden und keinerlei Qualitätskontrolle mehr stattfindet, hatte ich schlimmste Befürchtungen, als ich den Microsoft Editor zum ersten Mal ausprobierte. Ich wurde positiv überrascht, inzwischen ist er in Edge für mich gar zum unverzichtbaren Helfer geworden und hat mir schon oft gute Dienste erwiesen.</p>
+<p>Ich habe Deutsch als bevorzugte Sprache eingestellt, was logischerweise dazu führte, dass bei englischen Texten praktisch jedes Wort als Fehler markiert wurde.</p>
+<p>Damit ist es jetzt vorbei, denn der Microsoft Editor kann nun bis zu drei Sprachen gleichzeitig überprüfen &#8211; in den Einstellungen kann man das entsprechend festlegen:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen.jpg" data-rel="lightbox-gallery-6UWnFAkj" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77921" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen.jpg" alt="Microsoft Editor" width="1223" height="933" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen.jpg 1223w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-300x229.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-1024x781.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-768x586.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_editor_einstellungen-643x491.jpg 643w" sizes="(max-width: 1223px) 100vw, 1223px" /></a></p>
+<p>Die Sprache, die ganz oben steht, ist automatisch die bevorzugte Sprache. Wenn ein Fehler erkannt und markiert wird, zeigt der Editor auch die zugehörige Sprache mit an.</p>
+<p>Die angesprochenen Browser-Erweiterungen gibt es hier:</p>
+<ul>
+<li><a href="https://microsoftedge.microsoft.com/addons/detail/hokifickgkhplphjiodbggjmoafhignh" target="_blank" rel="noopener noreferrer">Microsoft Editor für Microsoft Edge</a></li>
+<li><a href="https://chrome.google.com/webstore/detail/microsoft-editor/gpaiobkfhnonedkhhfjpmhdalgeoebfa" target="_blank" rel="noopener noreferrer">Microsoft Editor für Google Chrome</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-editor-kann-jetzt-in-mehreren-sprachen-gleichzeitig-pruefen/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Angetestet: PowerA XP5-X Controller für mobiles Gaming</title>
+		<link>https://www.drwindows.de/news/angetestet-powera-xp5-x-controller-fuer-mobiles-gaming</link>
+					<comments>https://www.drwindows.de/news/angetestet-powera-xp5-x-controller-fuer-mobiles-gaming#respond</comments>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 09:04:32 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77829</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerA XP5-X Controller Review" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der jüngeren Vergangenheit haben wir regelmäßig über das „Mobile Gaming“ geschrieben. Dabei ging es selbstredend vornehmlich um Project xCloud, das nun Xbox Streaming heißt, sowie die Möglichkeiten, dieses über Zubehör wie Controller Clips oder integrierte Lösungen wie den Razer Kishi zu nutzen. Von dem Xbox Event X019 hatte ich von der Firma PowerA einen Gaming [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerA XP5-X Controller Review" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/powera_xp5_x_controller_review-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der jüngeren Vergangenheit haben wir regelmäßig über das „Mobile Gaming“ geschrieben. Dabei ging es selbstredend vornehmlich um Project xCloud, das nun Xbox Streaming heißt, sowie die Möglichkeiten, dieses über Zubehör wie Controller Clips oder integrierte Lösungen wie den <a href="https://www.drwindows.de/news/ausprobiert-das-razer-kishi-ist-ein-neuer-mobiler-gamecontroller-im-switch-stil" target="_blank" rel="noopener noreferrer">Razer Kishi</a> zu nutzen.</p>
+<p>Von dem Xbox Event X019 hatte ich von der Firma PowerA einen Gaming Clip zum Befestigen von Controller und Smartphone mitgebracht und <a href="https://www.drwindows.de/news/gaming-clips-zur-befestigung-des-controllers-am-smartphone-teuer-oder-billig" target="_blank" rel="noopener noreferrer">Martin testete dieses im Vergleich zu No-Name China Ware</a>.</p>
+<p>Seitdem hat sich viel getan und PowerA hat das Sortiment erheblich erweitert. Sie bieten Controller und Zubehör für sämtliche Plattformen an und haben seit kurzem auch ein neues Gadget für besagtes Mobile Gaming, den <strong><em>XP5-X</em></strong>.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77832 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510.jpg" alt="PowerA XP5-X Controller" width="1836" height="1408" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510.jpg 1836w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-300x230.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-1024x785.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-768x589.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-1536x1178.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_115717425-scaled-e1607431056510-643x493.jpg 643w" sizes="(max-width: 1836px) 100vw, 1836px" /></a></p>
+<p>Der <em><strong>XP5-X</strong></em> ist ein Bundle aus einem Bluetooth Controller im Xbox Design, einem überarbeiteten MOGA Gaming Clip und reichhaltigem Kabelzubehör.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77833 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721.jpg" alt="PowerA XP5-X Controller" width="1440" height="1689" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721.jpg 1440w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-256x300.jpg 256w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-873x1024.jpg 873w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-768x901.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-1310x1536.jpg 1310w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_120908048-scaled-e1607431131721-643x754.jpg 643w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>Der Controller unterstützt leider kein Xbox Wireless, da ist Xbox sehr eigen, bietet aber Bluetooth ab Android 6.0 und USB-Unterstützung für Android und Windows PCs. Neben den Standard-Tasten der Xbox bietet der Controller auch 2 programmierbare Tasten auf der Unterseite. Batterien braucht der Controller nicht, denn PowerA hat sich etwas Besonderes einfallen lassen: Im Gehäuse sitzt eine eine 3000mAh Powerbank, doch dazu gleich mehr.</p>
+<p>PowerA, quasi nur einen Steinwurf von Microsoft in Redmond ansässig, haben mir ein Testgerät überlassen, das ich zunächst nur gelegentlich nutzte, während meines Krankenhausaufenthaltes in der letzten Woche aber umso intensiver.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77835 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641.jpg" alt="PowerA XP5-X Controller" width="1440" height="2003" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641.jpg 1440w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-216x300.jpg 216w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-736x1024.jpg 736w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-768x1068.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-1104x1536.jpg 1104w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201129_185431471-scaled-e1607431222641-643x894.jpg 643w" sizes="(max-width: 1440px) 100vw, 1440px" /></a></p>
+<p>Die Inbetriebnahme ist simpel, ihr klemmt den MOGA Gaming Clip an den Controller, spannt euer Smartphone ein und könnt euch dann entscheiden, wie ihr euch verbindet.<br />
+Durch das reichhaltige Kabelzubehör könnt ihr USB-C oder aber auch Micro-USB nutzen, was gerade älteren Tablets und Smartphones entgegenkommt, welche Kids von ihren Eltern oftmals vererbt bekommen.</p>
+<p>Die Bluetooth Verbindung ist ebenfalls simpel, Verbindungsknopf wie beim Xbox Controller gedrückt halten, Controller im Phone suchen, verknüpfen, fertig.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77840 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_.jpg" alt="PowerA XP5-X Controller" width="1313" height="1500" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_.jpg 1313w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-263x300.jpg 263w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-896x1024.jpg 896w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-768x877.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/71q-R8roEoL._SL1500_-643x735.jpg 643w" sizes="(max-width: 1313px) 100vw, 1313px" /></a></p>
+<p>Nun kommen wir auf die oben angesprochene Powerbank im Controller zurück. Diese hat mehrere Funktionen:</p>
+<p>Zum einen dient sie als Batterie, sodass der Controller nicht zusätzlich den Smartphone-Akku belastet, wie das beispielsweise beim Razer Kishi der Fall ist. Verbindet ihr euch aber per Bluetooth, könnt ihr den Controller mittels zusätzlicher Verkabelung nutzen, um euer Smartphone beim Zocken zu laden. Mehr noch, ihr könnt euer Smartphone auch laden, während ihr nicht spielt und der Controller ausgeschaltet ist. Ideal für das Spielen unterwegs, z.B. im Zug oder aber für die Kids auf der Rückbank, ohne sich Sorgen zu machen, dass dem Phone vor Ankunft der Saft ausgeht.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77836 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477.jpg" alt="PowerA XP5-X Controller" width="2560" height="1440" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-2048x1152.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121705365-scaled-e1607431328477-643x362.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Wie spielt es sich mit dem Controller?</p>
+<p>Das Handling ist sehr angenehm. Die Griffstücke sind ähnlich wie beim Xbox Elite Controller angeraut und gummiert. Thumbsticks, YXAB Button und die Bumper fühlen sich wie auf dem Xbox Standardcontroller an.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-scaled.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77838 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-scaled.jpg" alt="PowerA XP5-X Controller" width="2560" height="1440" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-scaled.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-2048x1152.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121056094-643x362.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Einzig die Trigger könnten etwas mehr Spannung und Widerstand haben, sind aber trotzdem sehr ordentlich. Die programmierbaren Tasten liegen optimal, um sie beim Halten des Controllers mit den Fingerspitzen zu erreichen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-scaled.jpg" data-rel="lightbox-gallery-NqJP1Z3C" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-77839 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-scaled.jpg" alt="PowerA XP5-X Controller" width="2560" height="1440" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-scaled.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-2048x1152.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/PXL_20201117_121013274-643x362.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p>Laden könnt ihr den Controller über USB, auch mittels PC-USB Verbindung, bei der ihr selbstverständlich auch am Computer zocken könnt.</p>
+<h3>Fazit</h3>
+<p>Der <strong><em>XP5-X</em></strong> ist ein optimales Zubehör, um unterwegs zu spielen. Die mitgelieferten Kabel können verschiedene Geräte versorgen und die integrierte Powerbank versorgt das Phone/Tablet zuverlässig mit Strom. Der Preis ist mit 71,99 € angemessen und spiegelt die ordentliche Verarbeitung wider.</p>
+<p>Nachteilig ist, dass der Controller leider kein Xbox Wireless hat, was aber kein 3rd Party Controller bietet. Auch iOS wird nicht unterstützt.</p>
+<p>Ich muss zugeben, dass ich zunächst angefressen war, dass der XP5-X kein Xbox Wireless kann, gerade auch wegen der Marketing-Partnerschaft von PowerA mit Xbox und Samsung, ich hätte ihn gerne auch an der Xbox genutzt. Da er aber wie der Razer Kishi primär auf mobiles Gaming ausgelegt ist, würde ich ihn aufgrund der Powerbank und der mitgelieferten Kabelvielfalt über den Kishi favorisieren.</p>
+<p>Toll wäre gewesen, wenn aufgrund des reichhaltigen Zubehörs ein Transport-Case oder ein Säckchen mit dabei wäre.</p>
+<p>Erhältlich ist der Controller in D/A/CH bei <a href="https://amzn.to/2It4Rdh" target="_blank" rel="noopener noreferrer">Amazon</a>. Alle Details zum Produkt findet ihr auf der <a href="https://www.powera.com/product/moga-xp5-x-plus-bluetooth-controller-for-mobile-cloud-gaming/" target="_blank" rel="noopener noreferrer">PowerA XP5-X Homepage</a></p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: amazonapps // ID: B08F6H8TBD) --><p><a target="_blank" rel="nofollow" href="https://www.amazon.de/dp/B08F6H8TBD/ref=tsm_1_fb_lk ref=as_li_tf_tl?ie=UTF8&camp=1638&creative=6742&creativeASIN=B08F6H8TBD&linkCode=am2&tag=drwin-21" title="Power AMOGA XP5-X Plus Bluetooth-Controller für mobiles und Cloud-Gaming auf Android-Geräten/PCs">Power AMOGA XP5-X Plus Bluetooth-Controller für mobiles und Cloud-Gaming auf Android-Geräten/PCs (Unbekannt, Amazon Apps) →</a></p><!-- /WP-Appbox -->
+<p>Disclaimer: PowerA stellte uns den XP5-X kostenlos als Testmuster zur Verfügung. Eine Einflussnahme auf den Test oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/angetestet-powera-xp5-x-controller-fuer-mobiles-gaming/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Developer Kanal springt mit diversen Neuerungen auf Version 89</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-developer-kanal-springt-mit-diversen-neuerungen-auf-version-89</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-developer-kanal-springt-mit-diversen-neuerungen-auf-version-89#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 08:23:18 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77886</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nachdem Microsoft Edge 87 offiziell verfügbar ist, beginnt das Vorrücken auf die kommenden Versionen in den diversen Vorschaukanälen. Normalerweise geht das ein bisschen schneller, es bleibt allerdings immer noch genügend Vorlauf: Der Developer Kanal ist jetzt auf die Version 89 gesprungen, deren finale Freigabe nach derzeitiger Planung für Anfang März 2021 vorgesehen ist. Dazwischen kommt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nachdem Microsoft Edge 87 offiziell <a href="https://www.drwindows.de/news/microsoft-edge-87-bringt-screenshot-tool-einfachere-webseiten-uebersetzungen-pdf-neuerungen-und-mehr" target="_blank" rel="noopener noreferrer">verfügbar</a> ist, beginnt das Vorrücken auf die kommenden Versionen in den diversen Vorschaukanälen. Normalerweise geht das ein bisschen schneller, es bleibt allerdings immer noch genügend Vorlauf: Der Developer Kanal ist jetzt auf die Version 89 gesprungen, deren finale Freigabe nach derzeitiger Planung für Anfang März 2021 vorgesehen ist. Dazwischen kommt in der zweiten Januarhälfte noch die Version 88, die in Kürze in den Beta-Test geht.</p>
+<p>89.0.723.0 ist die erste Testversion des übernächsten Meilensteins, die im Developer Kanal freigegeben wurde. Neben zahlreichen Detailänderungen an der Benutzeroberfläche bringt sie folgende Neuerungen mit:</p>
+<ul>
+<li>Der Passwort-Monitor kann jetzt manuell eine Suche nach möglicherweise gestohlenen Kennwörtern starten.</li>
+<li>Eine neue Berechtigungs-Einstellung erlaubt oder verbietet es Webseiten, vorab geladen zu werden und Cookies zu speichern.</li>
+<li>Heruntergeladene PDF-Dateien können standardmäßig mit einer externen Applikation statt in Edge geöffnet werden.</li>
+<li>Die Einstellungsseite &#8222;Teilen, kopieren und einfügen&#8220; zeigt nun die zugehörigen Tastenkürzel an.</li>
+<li>Der Stromverbrauch von im Hintergrund aktiven Tabs wurde reduziert.</li>
+<li>Diverse neue Gruppenrichtlinien wurden hinzugefügt.</li>
+</ul>
+<p>Das vollständige Changelog gibt es wie immer im <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-89-0-723-0-is-live/m-p/1968054" target="_blank" rel="noopener noreferrer">Edge Forum</a>.</p>
+<p>Der Download der diversen Vorabversionen für alle Plattformen ist über die <a href="https://www.microsoftedgeinsider.com/de-de/" target="_blank" rel="noopener noreferrer">Microsoft Edge Insider Homepage</a> möglich. Egal ob Beta, Developer oder Canary, jede Version installiert sich als eigene Instanz, kann also unabhängig von der produktiven Version genutzt werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-developer-kanal-springt-mit-diversen-neuerungen-auf-version-89/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halo Infinite erscheint im Spätjahr 2021</title>
+		<link>https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021</link>
+					<comments>https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 09 Dec 2020 07:10:07 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77881</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Halo Infinite" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Halo Infinite hätte eigentlich einer der &#8211; oder besser gesagt DER Top-Titel zum Start der Xbox Series X werden sollen. Dass daraus nichts wird, wissen wir schon seit einigen Monaten, als die Entwickler ankündigten, das Spiel ins kommende Jahr zu verschieben. Als Begründung wurde seinerzeit die Corona-Krise angegeben, welche die Entwicklung negativ beeinflusst hat. Seither [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Halo Infinite" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Halo Infinite hätte eigentlich einer der &#8211; oder besser gesagt DER Top-Titel zum Start der Xbox Series X werden sollen. Dass daraus nichts wird, wissen wir schon seit einigen Monaten, als die Entwickler ankündigten, das Spiel ins kommende Jahr zu <a href="https://www.drwindows.de/news/good-news-bad-news-die-xbox-series-x-kommt-im-november-halo-infinite-nicht" target="_blank" rel="noopener noreferrer">verschieben</a>. Als Begründung wurde seinerzeit die Corona-Krise angegeben, welche die Entwicklung negativ beeinflusst hat.</p>
+<p>Seither wurde es still um die Entwicklung von Halo Infinite, nun haben die Entwickler einen <a href="https://www.halowaypoint.com/en-us/news/inside-infinite-december-2020" target="_blank" rel="noopener noreferrer">ausführlichen Artikel</a> veröffentlicht, der für alle Fans des Spiels, die sich für die Details interessieren, ganz sicher lesenswert ist. Der Artikel enthält diverse neue Screenshots, die uns glücklicherweise bestätigen, dass die im Sommer gezeigten Demos einem sehr frühen Stadium entstammten und keineswegs repräsentativ für das finale Spiel sind.</p>
+<p>Die wichtigste Nachricht aus dem aktuellen Statusupdate ist der angestrebte Releasetermin: Halo Infinite soll im Spätjahr 2021 erscheinen. Das ist für viele Fans sicherlich eine Enttäuschung, ließ die vorher angekündigte Verschiebung doch zumindest darauf hoffen, dass man im neuen Jahr nicht mehr allzu lange warten muss. Gleichzeitig haben sich viele Gamer in letzter Zeit aber auch erstaunlich gelassen und verständnisvoll gezeigt, etwa bei der Verschiebung von Cyberpunk 2077. Lieber länger warten, aber dafür ein gutes Spiel bekommen, lautete hier der Tenor.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot.jpg" data-rel="lightbox-gallery-jBs5wi31" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77883" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot.jpg" alt="Halo Infinite" width="1920" height="1080" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot.jpg 1920w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-1536x864.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/halo_infinite_screenshot-643x362.jpg 643w" sizes="(max-width: 1920px) 100vw, 1920px" /></a></p>
+<p>Ich mag nicht den Stab über 343 Industries brechen, je nach der zuvor gewohnten Arbeitsorganisation hat die Pandemie unterschiedlich starke Auswirkungen. Wo vorher schon verteilt und von zu Hause gearbeitet wurde, hatte man weniger zu kämpfen, aber dort, wo es die Teams gewohnt waren, beieinander zu sitzen, wurde man völlig aus der Bahn geworfen. Da niemand im Moment wirklich abschätzen kann, wie es in den kommenden Monaten weitergeht, ist diese heftige Verschiebung zwar ärgerlich, mutmaßlich aber der richtige Weg.</p>
+<p>Rückblickend war es aber wohl keine gute Idee, im Sommer die ersten Demos zu zeigen und die Halo-Fans damit regelrecht zu erschrecken, da hätte man gleich sagen sollen: &#8222;Sorry Leute, wir sind noch nicht so weit&#8220;.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
