@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Fri, 11 Dec 2020 21:55:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>myTube 4.0: Neue Version kommt im Dezember und ändert die Monetarisierung - Update 1</title>
+		<link>https://www.drwindows.de/news/mytube-4-0-neue-version-kommt-im-dezember-und-aendert-die-monetarisierung</link>
+					<comments>https://www.drwindows.de/news/mytube-4-0-neue-version-kommt-im-dezember-und-aendert-die-monetarisierung#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 21:55:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77075</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es gibt nicht mehr viele Entwickler, die seit der langsamen Abkündigung von Windows 10 Mobile noch an echten Universal Apps für Windows 10 arbeiten, aber einer davon sind die Ryken Studios mit der populären App myTube. Die inoffizielle YouTube-App wartet schon seit mittlerweile fast anderthalb Jahren auf das finale Release der neuen Version 4.0 und [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/09/mytube-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es gibt nicht mehr viele Entwickler, die seit der langsamen Abkündigung von Windows 10 Mobile noch an echten Universal Apps für Windows 10 arbeiten, aber einer davon sind die Ryken Studios mit der populären App myTube. Die inoffizielle YouTube-App wartet schon seit mittlerweile fast anderthalb Jahren auf das finale Release der neuen Version 4.0 und wenn nichts mehr schief geht, soll das Update die Nutzer noch im Dezember erreichen. Noch sind aber letzte Feinheiten in Form von Bugfixes nötig, wie der Entwickler in einer internen Mitteilung schreibt.</p>
+<p>Mit der neuen Version ändern die Entwickler aber auch die Monetarisierung. Die Basisversion von myTube wird künftig kostenlos sein, dafür rückt ein separates Addon an seine Stelle, das zusätzliche Funktionen freischaltet. myTube Pro kann man wahlweise für 0,99 USD pro Monat abonnieren oder einmalig für 6,99 USD kaufen. Außerdem werden die Spenden mit dem nächsten Update aus der App entfernt, womit die Entwickler auf eine nachhaltigere Finanzierung umstellen wollen. Die deutschen Preise sind momentan aber noch nicht bekannt.</p>
+<p>Für Leute, die myTube bereits besitzen, gibt es aber eine Ausnahme. Sobald das Update auf Version 4.0 durch ist, bekommen diese Nutzer myTube Pro kostenlos dazu und müssen hierfür kein zusätzliches Geld ausgeben. Microsofts Systeme machen es aber notwendig, dass ihr die App dann einmal öffnet und die entsprechende Benachrichtigung anklickt, die dann erscheint. Über den Microsoft Store könnt ihr myTube Pro dann kostenlos freischalten. Die interne Nachricht der Entwickler findet ihr nachfolgend (engl.) nochmal im Wortlaut.</p>
+<p><em>Hi everyone,</em></p>
+<p><em>With the 4.0 update, myTube will be made free to download on the Store, no longer costing $0.99 up front. Instead, there will be an addon that you can purchase from within the app called myTube Pro, which will unlock several additional features! myTube Pro will cost either $0.99 monthly, or $6.99 just once to keep it forever! The app will also be moving away from donations with the 4.0 update.</em></p>
+<p><em>If you currently own the full version of myTube, even if you got it for free on sale, you&#8217;ll be able to receive myTube Pro for free! So you won&#8217;t have to worry about having to pay for myTube Pro if you&#8217;ve already bought myTube, but you still will need to click a button or two to get myTube Pro for free. The app should show a notification at launch letting you know that you&#8217;re eligible to receive myTube Pro, just click on the notification and it&#8217;ll take you to the Windows Store to aquire it. You won&#8217;t be able to use myTube Pro in this version of myTube, but it&#8217;ll be ready for you once myTube 4.0 launches.</em></p>
+<p><em>Speaking of&#8230; myTube 4.0 is launching soon! It&#8217;s been a long time coming, but I&#8217;m on track to have myTube 4.0 feature complete by the beginning of next week, and after a few weeks of polish and bug fixes the app should be ready to launch some time in December! I hope you&#8217;re as excited as I am!</em></p>
+<p><em>Cheers,</em><br />
+<em>Chris</em></p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9wzdncrcwf3l) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9wzdncrcwf3l" title="myTube!">myTube! (0,99 €<sup>+</sup>, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<p><strong>Update vom 11.12.2020:</strong><br />
+In einer neuen Entwicklernachricht in der App berichten die Ryken Studios, dass myTube 4.0 offiziell am kommenden Dienstag, den 15. Dezember 2020, für alle veröffentlicht wird. Die neue Version läuft auf allen Geräten, die mindestens das Creators Update (Build 15063) oder neuer unterstützen, und erscheint weiterhin für PC, Mobile und Xbox.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/mytube-4-0-neue-version-kommt-im-dezember-und-aendert-die-monetarisierung/feed</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Firmware: Microsoft verteilt erste Updates für das Surface Laptop Go</title>
+		<link>https://www.drwindows.de/news/firmware-microsoft-verteilt-erste-updates-fuer-das-surface-laptop-go</link>
+					<comments>https://www.drwindows.de/news/firmware-microsoft-verteilt-erste-updates-fuer-das-surface-laptop-go#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 18:47:55 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78080</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Surface Laptop Go" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz vor dem Wochenende hat Microsoft das erste Paket an Firmware-Updates für das noch junge Surface Laptop Go veröffentlicht. Insgesamt vier Aktualisierungen liefern die Redmonder aus, wovon mit dem ELAN Finger Print Driver ein Treiber eines Drittherstellers die Performance des Fingerprint Readers für Windows Hello verbessert. Daneben führt Microsoft noch drei eigene Updates an, die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Surface Laptop Go" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/microsoft_surface_laptop_go-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz vor dem Wochenende hat Microsoft das erste Paket an Firmware-Updates für das noch junge Surface Laptop Go veröffentlicht. Insgesamt vier Aktualisierungen liefern die Redmonder aus, wovon mit dem ELAN Finger Print Driver ein Treiber eines Drittherstellers die Performance des Fingerprint Readers für Windows Hello verbessert. Daneben führt Microsoft noch drei eigene Updates an, die sich der Stabilität des Systems und Toucheingabe widmen sowie bei der Telemetrie nachbessern.</p>
+<p>Nähere Informationen findet ihr wie immer in der entsprechenden <a href="https://support.microsoft.com/en-us/help/4586323/surface-laptop-go-update-history">Historie</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/firmware-microsoft-verteilt-erste-updates-fuer-das-surface-laptop-go/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox Game Pass: Die Flut an neuen Spielen reißt nicht ab</title>
+		<link>https://www.drwindows.de/news/xbox-game-pass-die-flut-an-neuen-spielen-reisst-nicht-ab</link>
+					<comments>https://www.drwindows.de/news/xbox-game-pass-die-flut-an-neuen-spielen-reisst-nicht-ab#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 17:57:26 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78076</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Dezember Update 2" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Jahresendspurt gibt Microsoft beim Xbox Game Pass nochmal so richtig Vollgas. Keine zehn Tage, nachdem rekordverdächtige 17 Neuzugänge im letzten Monat des Jahres 2020 angekündigt wurden, folgt schon der nächste Schwung: Weitere elf Titel kommen bis zum 17. Dezember hinzu, und das war womöglich noch immer nicht der letzte Paukenschlag im auslaufenden Jahr. Hier [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Dezember Update 2" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/game_pass_dezember_20_2-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Jahresendspurt gibt Microsoft beim Xbox Game Pass nochmal so richtig Vollgas. Keine zehn Tage, nachdem rekordverdächtige 17 Neuzugänge im letzten Monat des Jahres 2020 <a href="https://www.drwindows.de/news/schoene-bescherung-jede-menge-neue-spiele-fuer-den-xbox-game-pass-im-dezember" target="_blank" rel="noopener noreferrer">angekündigt wurden</a>, folgt schon der nächste Schwung: Weitere elf Titel kommen bis zum 17. Dezember hinzu, und das war womöglich noch immer nicht der letzte Paukenschlag im auslaufenden Jahr.</p>
+<p>Hier zunächst die schon terminierten Neuzugänge:</p>
+<p><strong>ab sofort</strong></p>
+<ul>
+<li>Mørkredd (Android, Konsole &amp; PC) ID@Xbox</li>
+</ul>
+<p><strong>ab 15. Dezember</strong></p>
+<ul>
+<li>The Elder Scrolls V: Skyrim Special Edition (Android &amp; Konsole)</li>
+</ul>
+<p><strong>ab 17. Dezember</strong></p>
+<ul>
+<li>Among US (PC) ID@Xbox</li>
+<li>Beholder: Complete Edition (Android &amp; Konsole) ID@Xbox</li>
+<li>Code Vein (Android &amp; Konsole)</li>
+<li>The Dark Pictures Anthology: Man of Medan (PC)</li>
+<li>Monster Train (Konsole) ID@Xbox</li>
+<li>MotoGP 20 (Android, Konsole &amp; PC)</li>
+<li>My Friend Pedro (Android) ID@Xbox</li>
+<li>Neoverse (Android &amp; Konsole) ID@Xbox</li>
+<li>Wilmot’s Warehouse (Konsole &amp; PC) ID@Xbox</li>
+</ul>
+<p>Weitere sieben neue Titel stehen schon fest, darunter vier weitere Teile der Yakuza-Reihe. Ob sie noch in diesem oder erst zu Beginn des neuen Jahres in den Game Pass kommen, steht derweil noch nicht fest.</p>
+<ul>
+<li>Killer Queen Black (Konsole)</li>
+<li>Cybershadow (Konsole &amp; PC)</li>
+<li>The Medium (Konsole &amp; PC)</li>
+<li>Yakuza 3 Remastered (Konsole &amp; PC)</li>
+<li>Yakuza 4 Remastered (Konsole &amp; PC)</li>
+<li>Yakuza 5 Remastered (Konsole &amp; PC)</li>
+<li>Yakuza 6: The Song of Life (Konsole &amp; PC)</li>
+</ul>
+<p>Hier noch der Game Pass Trailer, den Microsoft im Rahmen der Game Awards gezeigt hat.</p>
+<p><iframe title="Coming Soon to Xbox Game Pass This Holiday (The Game Awards 2020 Announce)" width="500" height="281" src="https://www.youtube.com/embed/Pj5JBytPij4?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-game-pass-die-flut-an-neuen-spielen-reisst-nicht-ab/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Monat November: Microsoft gibt Visual Studio Code 1.52 für alle frei</title>
+		<link>https://www.drwindows.de/news/monat-november-microsoft-gibt-visual-studio-code-1-52-fuer-alle-frei</link>
+					<comments>https://www.drwindows.de/news/monat-november-microsoft-gibt-visual-studio-code-1-52-fuer-alle-frei#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 13:37:38 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77492</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft hat kurz vor dem Wochenende mit Visual Studio Code 1.52 das letzte große Update des Jahres für den eigenen Code-Editor veröffentlicht. Obwohl die Entwickler noch viel mit dem Housekeeping aus dem vergangenen Monat zu tun hatten, fallen die Verbesserungen diesmal sehr umfangreich aus und ziehen sich quer durch die gesamte Anwendung. Auch TypeScript wurde [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Visual-Studio-Code-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft hat kurz vor dem Wochenende mit Visual Studio Code 1.52 das letzte große Update des Jahres für den eigenen Code-Editor veröffentlicht. Obwohl die Entwickler noch viel mit dem Housekeeping aus dem vergangenen Monat zu tun hatten, fallen die Verbesserungen diesmal sehr umfangreich aus und ziehen sich quer durch die gesamte Anwendung. Auch TypeScript wurde aktualisiert und wird nun in Version 4.1 ausgeliefert.</p>
+<p>In der Workbench unterstützt der File Explorer nun Undo und Redo für alle Dateioperationen und kann neben der Statusleiste auch hier den Fortschritt bei lang andauernden Dateioperationen anzeigen. Zudem wurde die Barrierefreiheit bei der Fortschrittsanzeige verbessert und es gibt mehrere Updates für macOS sowie den Preview-Editoren oder dem neuem Proxy-Login-Dialog, der nun standardmäßig aktiviert wurde. In der Versionskontrolle wurden die Möglichkeiten von Git erheblich erweitert und der Ansichtsstatus kann nun über mehrere Sessions hinweg gespeichert werden.</p>
+<p>Das integrierte Terminal bekam eine neue Konfiguration und ein verbessertes Managements der Keybindings spendiert. Im sprachlichen Bereich wurde die HTML-Erweiterung mit JSBeautify auf einen neuen Formatter umgestellt und Markdown wurde das Inline Smart Select weiter verbessert. Zahlreiche weitere Verbesserungen gab es zudem beim neuen JavaScript-Debugger, dem Editor, den Snippets, der Benutzeroberfläche und der Erweiterungsansicht. Für nähere Informationen zu den wirklich sehr umfangreichen Neuerungen verweise ich euch mal auf die <a href="https://code.visualstudio.com/updates/v1_52">Release Notes</a>, das würde einfach den Rahmen des Beitrags sprengen.</p>
+<p>Visual Studio Code 1.52 steht ab sofort für Windows, Mac und Linux zum Download bereit. Im Januar dürften die Entwickler, sollte alles wie immer laufen, wieder eine Pause einlegen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/monat-november-microsoft-gibt-visual-studio-code-1-52-fuer-alle-frei/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Game Awards 2020: Die wichtigsten Neuigkeiten rund um Microsoft</title>
+		<link>https://www.drwindows.de/news/game-awards-2020-die-wichtigsten-neuigkeiten-rund-um-microsoft</link>
+					<comments>https://www.drwindows.de/news/game-awards-2020-die-wichtigsten-neuigkeiten-rund-um-microsoft#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 12:29:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78063</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In Zeiten der Corona-Pandemie müssen alle Veranstalter, wenn sie in diesem Jahr eine gewisse Präsenz zeigen wollen, auf digitale Events umstellen, und so waren auch die diesjährigen Game Awards, die wieder einmal von Geoff Keighley moderiert und in der vergangenen Nacht ausgestrahlt wurden, keine Ausnahme. Während Sony Interactive als der große Gewinner vom Platz ging [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In Zeiten der Corona-Pandemie müssen alle Veranstalter, wenn sie in diesem Jahr eine gewisse Präsenz zeigen wollen, auf digitale Events umstellen, und so waren auch die diesjährigen Game Awards, die wieder einmal von Geoff Keighley moderiert und in der vergangenen Nacht ausgestrahlt wurden, keine Ausnahme. Während Sony Interactive als der große Gewinner vom Platz ging und durch Ghost of Tsushima und The Last of Us Part II zahlreiche Preise mitnehmen konnte, wurde es für Microsoft und seine baldige Tochter Bethesda zu einem durchwachsenen Abend.</p>
+<p>Während Bethesda, bei dem vor allem DOOM: Eternal in zahlreichen Kategorien nominiert war, komplett leer ausging, konnten sich die Xbox Game Studios immerhin über zwei Preise freuen. In der Kategorie &#8222;Games for Impact&#8220; wurde Tell Me Why ausgezeichnet, während der Microsoft Flight Simulator als bestes Simulationsspiel vom Platz ging. Für andere Titel wie das kommende Halo Infinite, Grounded oder Ori and the Will of the Whisps gab es in diesem Jahr hingegen nichts zu holen.</p>
+<p>Während der Verleihung gab es zudem auch einige Ankündigungen, die die Xbox Game Studios und Bethesda zu machen hatten. Neben dem Start des Microsoft Flight Simulator auf den <a href="https://www.drwindows.de/news/microsoft-flight-simulator-abflug-auf-xbox-series-x-und-s-im-sommer-2021-erster-trailer-veroeffentlicht">Konsolen</a> wurde auch die Neuauflage von Perfect Dark angekündigt, welches unter der Regie von The Initiative entwickelt wird und exklusiv für die Xbox erscheint. Bethesda kündigte dagegen mit Gates of Oblivion die nächste Erweiterung von The Elder Scrolls Online an, die im kommenden Jahr erscheinen wird. Eine besondere Ehre wurde zudem dem Master Chief aus Halo zu Teil. In der kommenden Season können ihn alle, die es wollen, in Fortnite spielen. Auch diverse Vehikel sowie die Map Blood Gulch kehren hier zurück.</p>
+<p>Wer die Game Awards 2020 noch einmal sehen will, findet den entsprechenden Link unter dem Beitrag.</p>
+<p><iframe title="The Game Awards 2020 Official Stream (4K) - Video Game&#039;s Biggest Night Live!" width="500" height="281" src="https://www.youtube.com/embed/zWz6v-UAs8Q?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/game-awards-2020-die-wichtigsten-neuigkeiten-rund-um-microsoft/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Flight Simulator: Abflug auf Xbox Series X und S im Sommer 2021 - erster Trailer veröffentlicht</title>
+		<link>https://www.drwindows.de/news/microsoft-flight-simulator-abflug-auf-xbox-series-x-und-s-im-sommer-2021-erster-trailer-veroeffentlicht</link>
+					<comments>https://www.drwindows.de/news/microsoft-flight-simulator-abflug-auf-xbox-series-x-und-s-im-sommer-2021-erster-trailer-veroeffentlicht#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 11 Dec 2020 06:59:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78043</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es gibt eine gute, eine weniger gute und wenn man so will, auch eine schlechte Nachricht für die Spieler, die ungeduldig auf das Erscheinen des Microsoft Flight Simulator für die Xbox warten. Die gute Nachricht ist, dass der Flugplan steht. Die weniger gute Nachricht ist, dass wir noch ein bisschen mehr Geduld brauchen: Im Sommer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es gibt eine gute, eine weniger gute und wenn man so will, auch eine schlechte Nachricht für die Spieler, die ungeduldig auf das Erscheinen des Microsoft Flight Simulator für die Xbox warten.</p>
+<p>Die gute Nachricht ist, dass der Flugplan steht. Die weniger gute Nachricht ist, dass wir noch ein bisschen mehr Geduld brauchen: Im Sommer 2021 rollt der Flight Simulator für die Xbox Series X und S zur Startbahn. Und nun zur schlechten Nachricht: Das Spiel erscheint nur für die neue Konsolengeneratio, die Xbox One bleibt außen vor.</p>
+<p>Microsoft hatte zwar noch keinen Termin genannt, insgeheim hatte man aber dennoch gehofft, es könnte vielleicht noch in diesem Jahr mit der Veröffentlichung für die Xbox klappen. Dass es erst im Sommer 21 passiert, hat nach meiner Einschätzung technische oder taktische Gründe. Entweder man ist einfach noch nicht fertig, oder aber man möchte zum jetzigen Zeitpunkt kein Spiel veröffentlichen, welches die alte Konsolengeneration ausklammert, was ja durchaus ein wenig Putz von der Marketing-Fassade &#8222;niemand wird zurückgelassen&#8220; bröckeln lässt.</p>
+<p>Wenn man bedenkt, dass der Flight Simulator selbst Highend-PCs ordentlich ins Schwitzen bringt, ist die Entscheidung aus rein technischer Sicht nachvollziehbar. Grafisch soll der Microsoft Flight Simulator auf der Xbox Series X und S der PC-Version dann auch tatsächlich in nichts nachstehen, verspricht Microsoft. Um das zu unterstreichen, wurde ein erster Trailer veröffentlicht, der laut Intro direkt auf der Xbox Series X aufgezeichnet wurde.</p>
+<p>Wenn das so auch auf den großen Bildschirm kommt, wird das sicherlich noch eine Spur atemberaubender als auf dem PC-Monitor.</p>
+<p><iframe title="Microsoft Flight Simulator - Xbox Series X|S Announce Trailer" width="500" height="281" src="https://www.youtube.com/embed/GdGB0cv6i8I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-flight-simulator-abflug-auf-xbox-series-x-und-s-im-sommer-2021-erster-trailer-veroeffentlicht/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows on ARM: x64 Emulation startet mit Insider Build 21277 in den Testbetrieb</title>
+		<link>https://www.drwindows.de/news/windows-on-arm-x64-emulation-startet-mit-insider-build-21277-in-den-testbetrieb</link>
+					<comments>https://www.drwindows.de/news/windows-on-arm-x64-emulation-startet-mit-insider-build-21277-in-den-testbetrieb#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 22:39:38 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78039</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Windows on ARM bietet bekanntermaßen eine Emulationsschicht, die klassische Windows-Programme ausführen kann. Bislang funktionierte das allerdings nur mit 32 Bit Programmen. An der Emulation von 64 Bit Programmen wurde seit geraumer Zeit gearbeitet, heute startet sie mit der Windows 10 Insider Build 21277 offiziell in die Erprobung. Ursprünglich hätte der Testbetrieb der erweiterten Emulation schon [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Windows on ARM bietet bekanntermaßen eine Emulationsschicht, die klassische Windows-Programme ausführen kann. Bislang funktionierte das allerdings nur mit 32 Bit Programmen. An der Emulation von 64 Bit Programmen wurde seit geraumer Zeit gearbeitet, heute startet sie mit der Windows 10 Insider Build 21277 offiziell in die Erprobung.</p>
+<p>Ursprünglich hätte der Testbetrieb der erweiterten Emulation schon im November starten sollen. Weil das nicht der Fall war, habe ich letzte Woche mein Surface Pro X Testgerät wieder an Microsoft zurückgeschickt, ich war davon ausgegangen, dass sich da in diesem Jahr nichts mehr tut &#8211; bis ich am Montag das Gegenteil erfuhr. Naja, nun ist es halt so. Wer von euch ein Windows on ARM Gerät besitzt und die Insider Build 21277 installiert, darf gerne in den Kommentaren von seinen Erfahrungen berichten.</p>
+<p>Selbstverständlich empfiehlt Microsoft die Entwicklung von nativen 64 Bit Programmen für die ARM-Plattform, weil das aber ganz sicher nicht flächendeckend passieren wird, ist diese Emulation ein wichtiger Baustein für die Plattform. Akzeptable Performance vorausgesetzt, wird damit die Kompatibilitätslücke zum x86-Windows praktisch geschlossen. Systemnahe Software wie beispielsweise Antivirenprogramme werden aber auch in der Emulation nicht laufen.</p>
+<p>Für Besitzer von ARM-Laptops, welche die neue Emulation testen wollen, gibt es außerdem experimentelle Grafiktreiber, deren Installation von Microsoft empfohlen wird.</p>
+<ul>
+<li class="">Samsung Galaxy Book S: <a href="https://aka.ms/x64previewdriver" target="_blank" rel="noopener noreferrer">https://aka.ms/x64previewdriver</a></li>
+<li>Lenovo Flex 5G: <a href="https://aka.ms/x64previewdriver" target="_blank" rel="noopener noreferrer">https://aka.ms/x64previewdriver</a></li>
+<li>Surface Pro X: <a href="https://aka.ms/x64previewdriverprox" target="_blank" rel="noopener noreferrer">https://aka.ms/x64previewdriverprox</a></li>
+</ul>
+<p>Beinahe überflüssig zu erwähnen: Es handelt sich um den initialen Test, überlegt euch also sehr gut, produktiv genutzte Geräte in den Insider Test zu schicken. Dass noch nicht alle Programme funktionieren werden, liegt ebenfalls auf der Hand.</p>
+<p>Wann die 64 Bit Emulation in die produktive Version von Windows on ARM einzieht, verrät Microsoft in der <strong><a href="https://blogs.windows.com/windows-insider/2020/12/10/introducing-x64-emulation-in-preview-for-windows-10-on-arm-pcs-to-the-windows-insider-program/" target="_blank" rel="noopener noreferrer">Ankündigung</a></strong> noch nicht. Mutmaßlich ist es für das zweite Halbjahr 2021 geplant, ob es so kommt, wird nicht zuletzt auch von den Testergebnissen abhängen.</p>
+<p>Die Insider Build 21277 ist selbstverständlich auch für das &#8222;normale&#8220; Windows 10 im Developer Kanal verfügbar. Hier wird es ein klein wenig kompliziert. Standardmäßig bekommt man im Developer Kanal heute die <strong><a href="https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-20277/" target="_blank" rel="noopener noreferrer">Build 20277</a></strong>, diese stammt aus dem Entwicklungszweig FE_RELEASE und enthält lediglich Fehlerbehebungen. Per optionalem Update kann man auf die oben bereits erwähnte <strong><a href="https://blogs.windows.com/windows-insider/2020/12/10/announcing-windows-10-insider-preview-build-21277/" target="_blank" rel="noopener noreferrer">Build 21277</a></strong> wechseln, die aus dem Zweig RS_PRERELEASE stammt. Auch wenn Microsoft immer wieder betont, es gäbe keine feste Zuordnung der Insider-Stränge zu bestimmten Windows 10 Versionen, so kann man dennoch sicher davon ausgehen: Aus dem FE_RELEASE wird das Frühlings- und aus dem RS_PRERELEASE das Herbst-Update in 2021, wobei es im Frühjahr erneut nur ein Service-Update gibt, das wie ein Patch installiert wird, bevor im Herbst dann das echte Feature-Update kommt. Ja, es ist in der Tat nicht trivial, was da im Insider-Programm passiert, aber genau deshalb heißt es ja so.</p>
+<p>Neben der 64 Bit Emulation für Windows on ARM gibt es noch mehr Neues in der Insider Build 21277:</p>
+<ul>
+<li>Unterstützung von Unicode Emoji 12.1 and 13.0</li>
+<li>Die Animationen beim Öffnen und Schließen von Fenstern wurden überarbeitet.</li>
+<li>Mit der Tastenkombination WIN + SHIFT + S kann man einen Screenshot aufnehmen und diesen direkt an einem vorgegebenen Ordner ablegen.</li>
+<li>Das Touch Keyboard kann auch im Portrait Modus zweiteilig dargestellt werden (Split View).</li>
+<li>Das Snipping Tool kann deinstalliert werden.</li>
+<li>Die Graphen in der Leistungsanzeige des Task Manager wurden aktualisiert.</li>
+<li>Die Tastenkombination STRG+Backspace, mit der komplette Wörter gelöscht werden, funktioniert jetzt auch im Registry Editor.</li>
+<li>Wenn man alle Benachrichtigungen einer Gruppe im Info-Center löscht, sagt der Narrator das an. Bisher ist er einfach zur nächsten Gruppe gesprungen.</li>
+<li>Bei der Startmenü-Suche wird, wenn ein Programm-Ordner nur einen Eintrag enthält, nur noch dieser Eintrag angezeigt und nicht mehr zusätzlich der Ordner-Name.</li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-on-arm-x64-emulation-startet-mit-insider-build-21277-in-den-testbetrieb/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox Family Settings: Microsoft rüstet App mit zwei wichtigen Features nach</title>
+		<link>https://www.drwindows.de/news/xbox-family-settings-microsoft-ruestet-app-mit-zwei-wichtigen-features-nach</link>
+					<comments>https://www.drwindows.de/news/xbox-family-settings-microsoft-ruestet-app-mit-zwei-wichtigen-features-nach#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 19:27:47 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[Microsoft auf iOS]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78034</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Family Setting" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Der Herbst war für das Team Xbox bei Microsoft eine wichtige Jahreszeit. Die neuen Konsolen wurden veröffentlicht, das Xbox Cloud Streaming ist über den Xbox Game Pass Ultimate in den Regelbetrieb gestartet und mit ZeniMax Media und seiner Tochter Bethesda wurde die wahrscheinlich größte Übernahme der Gaming-Branche in diesem Jahr verkündet. Aber auch im kleinen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Family Setting" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/xbox_family_settings_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Der Herbst war für das Team Xbox bei Microsoft eine wichtige Jahreszeit. Die neuen Konsolen wurden veröffentlicht, das Xbox Cloud Streaming ist über den Xbox Game Pass Ultimate in den Regelbetrieb gestartet und mit ZeniMax Media und seiner Tochter Bethesda wurde die wahrscheinlich größte Übernahme der Gaming-Branche in diesem Jahr verkündet. Aber auch im kleinen gab es wesentliche Verbesserungen, darunter die runderneuerten Xbox-Apps für iOS und Android sowie die neue Xbox Family Settings-App, die nun kurz vor der Weihnachtszeit mit zwei viel gewünschten Features aufgerüstet wurde.</p>
+<p>So wurde für Kinderaccounts nun das &#8222;Ask to Buy&#8220;-Feature, mit dem Kinder den Kauf neuer Inhalte bei den Eltern anfragen können, nun auch in der mobilen App nachgereicht, nachdem es schon auf den Konsolen und am PC verfügbar war. Zudem wurde die Möglichkeit, die Bildschirmzeit bei Kindern zeitweise zu pausieren, in die App integriert. Die Funktion wurde nach Aussage von Microsoft von sehr vielen Eltern gewünscht. Wer sich die App ansonsten einmal ansehen will, findet die Links für iOS und Android unter dem Beitrag.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: appstore // ID: 1507406707) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/xbox-family-settings/id1507406707" title="‎Xbox Family Settings">‎Xbox Family Settings (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.4 // Store: googleplay // ID: com.microsoft.xboxfamily) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.xboxfamily" title="Xbox Family Settings">Xbox Family Settings (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-family-settings-microsoft-ruestet-app-mit-zwei-wichtigen-features-nach/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cyberpunk 2077 ab heute verfügbar</title>
+		<link>https://www.drwindows.de/news/cyberpunk-2077-ab-heute-verfuegbar</link>
+					<comments>https://www.drwindows.de/news/cyberpunk-2077-ab-heute-verfuegbar#comments</comments>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 15:32:27 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77968</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Was lange währt, wird gut. Nachdem es 2013 einen kurzen, aber beeindruckenden CGI-Teaser von CD Projekt Red gab, hat sich der Hype um das Spiel kontinuierlich gesteigert. Dieser gipfelte in der E3 Ankündigung, als Keanu Reeves auf die Xbox Bühne kam und seine Beteiligung bekanntgab: Breathtaking&#8230; #XboxE3 #Cyberpunk2077 pic.twitter.com/xkIc11iZmf &#8212; Xbox (@Xbox) June 9, 2019 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Was lange währt, wird gut. Nachdem es 2013 einen kurzen, aber beeindruckenden CGI-Teaser von CD Projekt Red gab, hat sich der Hype um das Spiel kontinuierlich gesteigert.</p>
+<p><iframe title="Cyberpunk 2077 Teaser Trailer" width="500" height="281" src="https://www.youtube.com/embed/P99qJGrPNLs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Dieser gipfelte in der E3 Ankündigung, als Keanu Reeves auf die Xbox Bühne kam und seine Beteiligung bekanntgab:</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Breathtaking&#8230; <a href="https://twitter.com/hashtag/XboxE3?src=hash&amp;ref_src=twsrc%5Etfw">#XboxE3</a> <a href="https://twitter.com/hashtag/Cyberpunk2077?src=hash&amp;ref_src=twsrc%5Etfw">#Cyberpunk2077</a> <a href="https://t.co/xkIc11iZmf">pic.twitter.com/xkIc11iZmf</a></p>
+<p>&mdash; Xbox (@Xbox) <a href="https://twitter.com/Xbox/status/1137854943006605312?ref_src=twsrc%5Etfw">June 9, 2019</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Heute ist es soweit und Cyberpunk 2077 ist für PC, Xbox und Playstation sowie Stadia erschienen.</p>
+<p>Ursprünglich für das Frühjahr 2020 geplant &#8211; Cyberpunk 2077 sollte eigentlich gleichzeitig mit einer schicken Xbox One X im Special Design erscheinen &#8211; wurde es aus Qualitätsgründen auf den Sommer verlegt und von da nochmals auf den heutigen 10. Dezember.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">An important development update <a href="https://t.co/uFGrt9Tqpi">pic.twitter.com/uFGrt9Tqpi</a></p>
+<p>&mdash; Cyberpunk 2077 (@CyberpunkGame) <a href="https://twitter.com/CyberpunkGame/status/1273647385294626816?ref_src=twsrc%5Etfw">June 18, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Besonders bitter ist, dass bei der zweiten Verschiebung ein „freiwilliger Crunch“ angekündigt wurde, um das Spiel fertig zu stellen. Crunch, falls es dem einen oder anderen nichts sagt, ist ein Begriff in der Game-Entwicklung, der Überstunden und Mehrarbeit beschreibt. Dabei reden wir nicht von &#8222;mal ne Stunde länger&#8220; oder eine Samstagsschicht, sondern über mehrere Wochen und Monate 6-7 Tageschichten und nicht selten üblich 10-14 Stunden tägliche Arbeitszeit. Hoffen wir also, dass dieser Crunch tatsächlich freiwillig war und auch relativ human ablief.</p>
+<p>Da Reviews bislang nur für ausgewählte PC-Medien möglich waren, sind wir gespannt auf die ersten Konsoleneindrücke. CD Projekt Red, das Entwicklerstudio, verschickt die Review Keys erst nach Erscheinen des finalen Patches und mit Verzögerung. Sofern nicht von den Testern selbst gekauft, wird man auf die ersten &#8222;professionellen Eindrücke&#8220; noch ein paar Tage warten müssen.</p>
+<p>Schon jetzt mehrt sich aber im Netz der Eindruck, dass die Versionen für Xbox One und PS4 im Moment mit argen Performance- und Qualitätsproblemen in der Darstellung zu kämpfen haben.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">I don&#39;t know why people are complaining. The texture quality of my UI looks great on the base PS4. 🙂 <a href="https://twitter.com/hashtag/Cyberpunk2077?src=hash&amp;ref_src=twsrc%5Etfw">#Cyberpunk2077</a> <a href="https://t.co/iG43CbbEaq">pic.twitter.com/iG43CbbEaq</a></p>
+<p>&mdash; Peace (@HeartAbiding) <a href="https://twitter.com/HeartAbiding/status/1336981452727218182?ref_src=twsrc%5Etfw">December 10, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Ich hoffe, einen Review Key zu erhalten und euch dann meine eigenen Eindrücke von den verschiedenen Xbox Systemen mitteilen zu können. CD Projekt Red hat aber bereits vermeldet, dass man noch ganz am Anfang einer langen Reise sei und stetig an Fixes und Updates arbeiten wird.</p>
+<p>Nichtsdestotrotz scheint es sich schon gelohnt zu haben.</p>
+<p>Einer der offiziellen Cyberpunk 2077 Twitter Accounts bezifferte eine Pre-Order Zahl von <strong>8 MILLIONEN</strong> Einheiten!</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="und" dir="ltr">💪💪💪 <a href="https://t.co/HX1SoJH8dE">pic.twitter.com/HX1SoJH8dE</a></p>
+<p>&mdash; CD PROJEKT IR (@CDPROJEKTRED_IR) <a href="https://twitter.com/CDPROJEKTRED_IR/status/1336941257965375489?ref_src=twsrc%5Etfw">December 10, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Bedenkt man nun, dass es bei Vorbestellungen normalerweise keinen Rabatt gibt, kommt man bei einem Durchschnittspreis von sagen wir mal 60 Euro bereits am Tag Eins des Erscheinens einen Bruttoumsatz von <strong>480 Millionen Euro</strong>!</p>
+<p>Zum Vergleich: Der erfolgreichste Filmstart aller Zeiten, Avengers Endgame, schaffte in den USA am ersten Wochenende, also den ersten 3 Tagen, einen Rekordumsatz von 350 Millionen.</p>
+<p>Dementsprechend wenig verwunderlich, dass auch Soziale Medien, die kaum oder keine Berührungspunkte mit Videospielen haben, auf den Hype einsteigen.</p>
+<p>Sei es Dr. Oetker:</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="de" dir="ltr">Letztes Jahr mussten wir noch billige Fotomontage betreiben, nun ist es so weit. Happy Releaseday, unsere Lieblingsspieleentwickler von <a href="https://twitter.com/CDPROJEKTRED?ref_src=twsrc%5Etfw">@CDPROJEKTRED</a>: <a href="https://twitter.com/tostspender?ref_src=twsrc%5Etfw">@tostspender</a>, <a href="https://twitter.com/PhiWeber?ref_src=twsrc%5Etfw">@PhiWeber</a>, <a href="https://twitter.com/pawpanasiuk?ref_src=twsrc%5Etfw">@pawpanasiuk</a>, alle anderen, die dort arbeiten. Und der lustige Schnurrbartmann.  <a href="https://twitter.com/hashtag/cyberpunk2077?src=hash&amp;ref_src=twsrc%5Etfw">#cyberpunk2077</a> <a href="https://t.co/Si976GPEws">pic.twitter.com/Si976GPEws</a></p>
+<p>&mdash; Dr. Oetker Pizza DE (@DrOetkerPizzaDE) <a href="https://twitter.com/DrOetkerPizzaDE/status/1336944823715164160?ref_src=twsrc%5Etfw">December 10, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>oder aber der FC Bayern München:</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="es" dir="ltr">Meta. <a href="https://twitter.com/hashtag/Cyberpunk2077?src=hash&amp;ref_src=twsrc%5Etfw">#Cyberpunk2077</a> <a href="https://twitter.com/hashtag/FCBayern?src=hash&amp;ref_src=twsrc%5Etfw">#FCBayern</a> <a href="https://t.co/ZwkQcm8JFI">pic.twitter.com/ZwkQcm8JFI</a></p>
+<p>&mdash; FC Bayern München (@FCBayern) <a href="https://twitter.com/FCBayern/status/1337022063731744772?ref_src=twsrc%5Etfw">December 10, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Also:</p>
+<p><em>„Wake up Samurai, we have a City to burn.”</em></p>
+<p><iframe title="Cyberpunk 2077 — Official Launch Trailer — V" width="500" height="281" src="https://www.youtube.com/embed/UnA7tepsc7s?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Seid ihr auch dabei? Und auf welchem System? Ich bin in den Kommentaren auf eure Eindrücke gespannt!</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: bx3m8l83bbrw) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2Fbx3m8l83bbrw" title="Cyberpunk 2077">Cyberpunk 2077 (69,99 €, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/cyberpunk-2077-ab-heute-verfuegbar/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Browsererweiterungen: Google plant mehr Datenschutz und Transparenz</title>
+		<link>https://www.drwindows.de/news/browsererweiterungen-google-plant-mehr-datenschutz-und-transparenz</link>
+					<comments>https://www.drwindows.de/news/browsererweiterungen-google-plant-mehr-datenschutz-und-transparenz#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 10 Dec 2020 13:38:43 +0000</pubDate>
+				<category><![CDATA[Sicherheit]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77964</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Mit einer Sicherheitsoffensive will Google im kommenden Jahr für mehr Datenschutz und Transparenz beim Umgang mit mit Browsererweiterungen sorgen. In einem Blogpost werden die geplanten Maßnahmen erklärt, die sich eventuell auch auf Microsoft Edge auswirken könnten, der bekanntlich auf Chromium basiert. Die gravierendste Neuerung ist jene, dass eine Erweiterung nicht mehr standardmäßig Zugriff auf alle Webseiten [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2011/07/google-chrome_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Mit einer Sicherheitsoffensive will Google im kommenden Jahr für mehr Datenschutz und Transparenz beim Umgang mit mit Browsererweiterungen sorgen. In einem <a href="https://blog.google/products/chrome/making-chrome-extensions-more-private-and-secure" target="_blank" rel="noopener noreferrer">Blogpost</a> werden die geplanten Maßnahmen erklärt, die sich eventuell auch auf Microsoft Edge auswirken könnten, der bekanntlich auf Chromium basiert.</p>
+<p>Die gravierendste Neuerung ist jene, dass eine Erweiterung nicht mehr standardmäßig Zugriff auf alle Webseiten hat. Schon heute ist es möglich, eine Erweiterung im Bestätigungsmodus zu betreiben, sodass man sie auf jeder Seite per Klick bestätigen muss. Alternativ kann man auch selbst eine Liste zugelassener Seiten pflegen, auf allen anderen ist die Erweiterung dann inaktiv. Die Standardeinstellung ist jedoch, dass eine Erweiterung global aktiviert ist. Das wird 2021 in der Form geändert, dass alle drei Stufen bestehen bleiben, der Bestätigungsklick aber zum Standard wird. Mit welcher Chrome-Version die Änderung greift, wurde noch nicht mitgeteilt.</p>
+<p>Microsoft Edge und Chrome verhalten sich in diesem Punkt heute genau gleich. Gut möglich, dass Microsoft sich da anschließt.</p>
+<p>Für mehr Transparenz sorgt ein neuer Reiter im Chrome Web Store, der sich &#8222;Privacy Practices&#8220; nennt. Hier kann man vor Installation einer Erweiterung einen Blick auf deren Datenschutz- und Privatsphäre-Regeln werfen. Ab dem 18. Januar 2021 sind diese Informationen zu sehen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/google_chrome_web_store_privacy.png" data-rel="lightbox-gallery-wwIMFrIm" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77965" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/google_chrome_web_store_privacy.png" alt="Google Chrome Web Store" width="1000" height="523" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/google_chrome_web_store_privacy.png 1000w, https://www.drwindows.de/news/wp-content/uploads/2020/12/google_chrome_web_store_privacy-300x157.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/google_chrome_web_store_privacy-768x402.png 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/google_chrome_web_store_privacy-643x336.png 643w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>Last but not least möchte Google auch besser vor schädlichen Erweiterungen schützen. Schon jetzt werden Erweiterungen, die als gefährlich eingestuft wurden, automatisch deaktiviert, worüber der Nutzer aktiv informiert wird. Im Rahmen dieser Benachrichtigung können die betroffenen Erweiterungen in Zukunft dann auch gleich komplett entfernt werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/browsererweiterungen-google-plant-mehr-datenschutz-und-transparenz/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
