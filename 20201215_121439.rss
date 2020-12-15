@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Tue, 15 Dec 2020 10:26:58 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Download: DrWindows Update Packs Dezember 2020 für Windows 7, 8.1 und Windows 10</title>
+		<link>https://www.drwindows.de/news/download-drwindows-update-packs-dezember-2020-fuer-windows-7-8-1-und-windows-10</link>
+					<comments>https://www.drwindows.de/news/download-drwindows-update-packs-dezember-2020-fuer-windows-7-8-1-und-windows-10#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 10:26:58 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78194</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Update Pack" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die November 2020-Ausgaben unserer Update Packs für Windows 7, 8.1 und Windows 10 stehen ab sofort für euch zum Download bereit. Für Windows 7 und Windows 8.1 gibt es, wie ihr es gewohnt seid, sowohl eine Vollversion als auch ein inkrementelles Paket, welches nur die Änderungen gegenüber dem letzten Monat beinhaltet. Bei Windows 10 ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Update Pack" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die November 2020-Ausgaben unserer Update Packs für Windows 7, 8.1 und Windows 10 stehen ab sofort für euch zum Download bereit.</p>
+<p>Für Windows 7 und Windows 8.1 gibt es, wie ihr es gewohnt seid, sowohl eine Vollversion als auch ein inkrementelles Paket, welches nur die Änderungen gegenüber dem letzten Monat beinhaltet. Bei Windows 10 ist das nicht nötig, weil die Updates ja dort ohnehin kumulativ sind. Das Update Pack für Windows 7 kann außerdem nur mit <a href="https://support.microsoft.com/de-de/help/4527878/faq-about-extended-security-updates-for-windows-7" target="_blank" rel="nofollow noopener noreferrer">ESU-Aktivierung</a> genutzt werden.</p>
+<p>Bei Windows 10 gibt es zu beachten: Das aktuelle Update Pack setzt das Mai Update (Version 2004) voraus. Es kann allerdings auch für die Version 20H2 verwendet werden, da die Updates identisch sind.</p>
+<p>Es sind wie üblich alle Updates enthalten, also nicht nur die sicherheitsrelevanten.</p>
+<p>Hier geht es nun zu den Downloads &#8211; wie immer ein dickes Dankeschön an Sebastian, der sich jeden Monat die viele Mühe mit den Update Packs macht.</p>
+<p><a href="https://www.drwindows.de/windows-10-desktop/93987-windows-10-update-pack-by-drwindows-juni.html" target="_blank" rel="noopener noreferrer"><b>Download Update-Pack für Windows 10</b></a></p>
+<p><a href="https://www.drwindows.de/windows-8-und-windows-rt/69440-windows-8-1-update-pack-by-drwindows.html" target="_blank" rel="noopener noreferrer"><b>Download Update-Packs für Windows 8.1</b></a></p>
+<p><a href="https://www.drwindows.de/windows-7-allgemein/15232-windows-7-update-pack-by-drwindows-juni.html" target="_blank" rel="noopener noreferrer"><b>Download Update-Packs für Windows 7</b></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/download-drwindows-update-packs-dezember-2020-fuer-windows-7-8-1-und-windows-10/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Synchronisation von geöffneten Tabs und Verlauf erreicht Android</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 09:33:25 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78187</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Januar wird die Version 88 von Microsoft Edge für Windows und Mac erscheinen. Exakt ein Jahr nach seiner Veröffentlichung werden die Synchronisations-Features im Edge-Browser dann endlich komplett sein, denn auch der Verlauf und die geöffneten Tabs werden dann über alle Geräte hinweg synchronisiert. Es hat lange gedauert, aber nun ist der Haken ja so [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Januar wird die Version 88 von Microsoft Edge für Windows und Mac erscheinen. Exakt ein Jahr nach seiner Veröffentlichung werden die Synchronisations-Features im Edge-Browser dann endlich komplett sein, denn auch der Verlauf und die geöffneten Tabs werden dann über alle Geräte hinweg synchronisiert. Es hat lange gedauert, aber nun ist der Haken ja so gut wie dran (was es sonst noch Neues in Edge 88 geben wird, erfahrt ihr hier: <a href="https://www.drwindows.de/news/microsoft-edge-beta-88-bringt-synchronisation-von-verlauf-und-tabs-pdf-neuerungen-und-viel-mehr" target="_blank" rel="noopener noreferrer">Microsoft Edge Beta 88 bringt Synchronisation von Verlauf und Tabs, PDF-Neuerungen und viel mehr</a>).</p>
+<p>Nicht nur am Desktop, auch in den mobilen Versionen wird die Synchronisation vervollständigt. Wie <a href="https://www.neowin.net/news/edge-history-and-tab-sync-starts-showing-up-on-android" target="_blank" rel="noopener noreferrer">Neowin</a> zuerst bemerkte, steht der Abgleich von Verlauf und Tabs bereits den ersten Android-Nutzern zur Verfügung, welche die Beta-Version von Edge nutzen. Ob man die Schalter betätigen kann oder nicht, hängt allerdings nicht primär von der installierten App-Version ab, diese Funktionen hängen direkt am Microsoft-Konto.</p>
+<p>Bei mir ist die Neuerung zur Hälfte angekommen: Die Synchronisation der Tabs kann ich bereits aktivieren, den Verlauf noch nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 Insider Build 20279: Ihr dürft alles testen, aber nicht alles wissen</title>
+		<link>https://www.drwindows.de/news/windows-10-insider-build-20279-ihr-duerft-alles-testen-aber-nicht-alles-wissen</link>
+					<comments>https://www.drwindows.de/news/windows-10-insider-build-20279-ihr-duerft-alles-testen-aber-nicht-alles-wissen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 07:19:12 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78164</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Am Montagabend hat Microsoft die Windows 10 Insider Build 20279 im Developer Kanal veröffentlicht. Gegenüber der Build 20277 vom vergangenen Donnerstag enthält sie offiziell weder Neuerungen noch Fehlerbehebungen. Laut Blogpost wollte Microsoft testen, wie schnell sie zwei Builds hintereinander veröffentlichen können. Mein erster Gedanke dazu war: Jetzt ist man als Insider nicht mal mehr eine [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Am Montagabend hat Microsoft die Windows 10 Insider Build 20279 im Developer Kanal veröffentlicht. Gegenüber der Build 20277 vom vergangenen Donnerstag enthält sie offiziell weder Neuerungen noch Fehlerbehebungen. Laut <a href="https://blogs.windows.com/windows-insider/2020/12/14/announcing-windows-10-insider-preview-build-20279/" target="_blank" rel="noopener noreferrer">Blogpost</a> wollte Microsoft testen, wie schnell sie zwei Builds hintereinander veröffentlichen können. Mein erster Gedanke dazu war: Jetzt ist man als Insider nicht mal mehr eine originelle Ausrede wert.</p>
+<p>Selbstverständlich geht hier mehr vor sich als nur ein Testlauf. Auch diese Build stammt wieder aus dem FE_RELEASE, während man ebenfalls seit letztem Donnerstag bereits auf die Build 21277 umsteigen kann, die aus dem Entwicklungszweig RS_PRERELEASE stammt. Der Umstieg auf diese Version erfolgt durch ein optionales Update &#8211; wenn man so will, ist das die neue Form von &#8222;Skip Ahead&#8220;. Microsoft legt hinter den Kulissen die Basis für die Entwicklung von Windows 10 im Jahr 2021, wenngleich wir davon noch lange Zeit nichts sehen werden. Das Frühjahrs-Update, so die einhellige Erwartung aller Beobachter, wird erneut ein &#8222;Service Pack&#8220; auf Basis der diesjährigen Version werden.</p>
+<p>So richtig &#8222;spannend&#8220; wird daher wohl frühestens wieder die Version 21H2 im kommenden Herbst, obwohl man das aufgrund der <a href="https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015" target="_blank" rel="noopener noreferrer">Feature Experience Packs</a> nicht mehr so genau sagen kann. Vielleicht findet der für die Endnutzer interessante Teil der Weiterentwicklung von Windows 10 in Zukunft sogar überwiegend abseits der halbjährlichen Releases statt.</p>
+<p>Es gibt <a href="https://www.windowscentral.com/microsoft-releases-final-windows-10-iron-build-insiders-dev-channel" target="_blank" rel="noopener noreferrer">Vermutungen</a>, wonach Microsoft mit der Build-Schieberei unter anderem an der Finalisierung von Windows 10X arbeitet. Die Gerüchte, wonach es im Frühjahr erscheinen soll, reißen nicht ab &#8211; ebenso wie meine Hoffnung, dass sich eben diese Gerüchte als falsch erweisen. Was man bisher über Windows 10X zu wissen glaubt, ist eher ernüchternd, ich bin kein bisschen neugierig. Was auch daran liegt, dass ich eine gewisse Sättigung verspüre, was diese &#8222;heißt Windows, ist aber nicht Windows&#8220;-Experimente angeht.</p>
+<p>Normalerweise sollte ich als Microsoft-Enthusiast und Betreiber einer entsprechenden Seite bereits in Aufbruchstimmung sein, und meine Leser &#8222;anfixen&#8220;, was Windows im Jahr 2021 angeht. Und da kommen wir wieder an den Punkt, der mich nicht erst seit gestern frustriert. Das Windows Insider Programm ist kein Insider Programm mehr, es gibt keine Informationen, keine technischen Ein- und Ausblicke und somit auch keinerlei Enthusiasmus, der von Microsoft an die Insider von dort in die Communities getragen wird. Weder die Ernennung von Panos Panay zum Windows-Chef noch der Wechsel an der Spitze des Insider Programms haben daran irgendetwas geändert. Das ist für 99 plus x Prozent aller Windows-Nutzer irrelevant, weil sie keine Insider sind. Für mich und alle anderen Insider ist es schade, weil unsere (aus unerfindlichen Gründen immer noch vorhandene) Neugier nicht befriedigt wird. Am bedauerlichsten ist es aber für Microsoft selbst, weil sie eine gute Gelegenheit für kostenlose PR liegen lassen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10-insider-build-20279-ihr-duerft-alles-testen-aber-nicht-alles-wissen/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Surface Book 3: Firmware Update aktualisiert zahlreiche Komponenten</title>
+		<link>https://www.drwindows.de/news/surface-book-3-firmware-update-aktualisiert-zahlreiche-komponenten</link>
+					<comments>https://www.drwindows.de/news/surface-book-3-firmware-update-aktualisiert-zahlreiche-komponenten#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 14:56:49 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78159</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Book 3 Titelbild" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der Vorweihnachtszeit lässt Microsoft seinen Hardware-Produkten nochmals etwas Pflege angedeihen. Auf die Firmware-Updates für diverse Modelle von Surface Pro und Surface Laptop sowie das erste Update für das Surface Laptop Go folgt nun eine Aktualisierung für das Surface Book 3. Sowohl die UEFI-Firmware selbst als auch die Tastaturtreiber sowie diverse Treiber von Intel fließen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Book 3 Titelbild" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/05/surface_book_3_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der Vorweihnachtszeit lässt Microsoft seinen Hardware-Produkten nochmals etwas Pflege angedeihen. Auf die Firmware-Updates für <a href="https://www.drwindows.de/news/firmware-microsoft-verteilt-updates-fuer-diverse-generationen-des-surface-laptop-und-surface-pro" target="_blank" rel="noopener noreferrer">diverse Modelle von Surface Pro und Surface Laptop</a> sowie das erste Update für das <a href="https://www.drwindows.de/news/firmware-microsoft-verteilt-erste-updates-fuer-das-surface-laptop-go" target="_blank" rel="noopener noreferrer">Surface Laptop Go</a> folgt nun eine Aktualisierung für das Surface Book 3.</p>
+<p>Sowohl die UEFI-Firmware selbst als auch die Tastaturtreiber sowie diverse Treiber von Intel fließen in das Update ein. Neben den üblichen allgemeinen Verbesserungen in Punkto Sicherheit, Stabilität und Performance bringt das Update noch eine Optimierung beim Laden des Akkus. Außerdem wird ein Problem behoben, welches die Deinstallation von Programmen behindern konnte, wenn das System während der Deinstallation in den Leerlauf wechselt.</p>
+<p>Das vollständige Changelog findet ihr wie immer <a href="https://support.microsoft.com/en-us/help/4560838/surface-book-3-update-history" target="_blank" rel="noopener noreferrer">direkt bei Microsoft</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-book-3-firmware-update-aktualisiert-zahlreiche-komponenten/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Gadgetcheck: PITAKA MagEZ Case und MagEZ Card Sleeve - Neue Geräte, neues Zubehör</title>
+		<link>https://www.drwindows.de/news/gadgetcheck-pitaka-magez-case-und-magez-card-sleeve-neue-geraete-neues-zubehoer</link>
+					<comments>https://www.drwindows.de/news/gadgetcheck-pitaka-magez-case-und-magez-card-sleeve-neue-geraete-neues-zubehoer#respond</comments>
+		
+		<dc:creator><![CDATA[Alex Lüttgen]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 12:36:23 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78086</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neue Pitaka Produkte" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Heute vor ziemlich genau einem Jahr habe ich euch ein paar Handy Hüllen von PITAKA vorgestellt. Da jedes Jahr neue Geräte auf den Markt kommen, müssen dementsprechend auch jedes Jahr die Hüllen aktualisiert werden. Freundlicherweise hat PITAKA mir eine der neuen Hüllen für mein iPhone 12 und ein MagEZ Card Sleeve, welches dem Apple Leather [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neue Pitaka Produkte" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/BeitragsbildPITAKA-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Heute vor ziemlich genau einem Jahr habe ich euch ein paar Handy Hüllen von PITAKA vorgestellt. Da jedes Jahr neue Geräte auf den Markt kommen, müssen dementsprechend auch jedes Jahr die Hüllen aktualisiert werden. Freundlicherweise hat PITAKA mir eine der neuen Hüllen für mein iPhone 12 und ein MagEZ Card Sleeve, welches dem Apple Leather Wallet sehr ähnelt, für einen Test zur Verfügung gestellt. Es handelt sich hier also mehr um ein Follow Up mit einem kleinen Extra, dem MagEZ Card Sleeve, als um einen vollumfänglichen Test.</p>
+<p>Die Hülle kommt nach wie vor mit dem gleichen Aramid Gewebe daher wie auch schon die Vorgängerversionen, auch an der Dicke von gerade einmal 0,85 mm hat sich nichts getan. Die Spezifikationen sind also alle noch absolut identisch zu denen aus meinem vorjährigen <a href="https://www.drwindows.de/news/gadgetcheck-smartphonezubehoer-von-pitaka-handyhuellen-mit-mehrwert" target="_blank" rel="noopener noreferrer">Test</a>.</p>
+<p>Das MagEZ Card Sleeve setzt auf die bereits bewährte Magnettechnik und ist somit mit jedem MagEZ Case, außer denen für ein paar ausgenommene Android Geräte, kompatibel. Der Ansatz ist hier identisch wie bei dem Apple Leather Wallet: ein kleines Kartenfach, welches magnetisch an der Rückseite des Smartphones befestigt werden kann. Mit seiner Dicke von gerade einmal 2,55 mm sollte es dabei auch nicht zu dick auftragen.</p>
+<p>Doch bevor ich hier zu viele theoretische Fakten anbringe, schauen wir uns die beiden Produkte doch einfach mal an.</p>
+<h3>Das Unboxing</h3>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing.jpg" data-rel="lightbox-gallery-l9WWYruB" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78087 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing.jpg" alt="Pitaka Magez Case und Card Sleeve" width="1200" height="1022" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing-300x256.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing-1024x872.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing-768x654.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveUnboxing-643x548.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a><br />
+Beim Auspacken fällt auf: Alles ist gewohnt einfach und hochwertig. Die PITAKA-Hülle besteht aus demselben Material und ist ähnlich griffig wie das Modell für mein altes iPhone X. Die Aussparungen für die Tasten sind genauso großzügig wie bei den Vorgängermodellen, um bloß nicht zu stark aufzutragen. Auch oben und unten sind sehr große Aussparungen, wobei ich die an der Oberseite nicht verstehe. Hier geht meiner Meinung nach zu viel Geräteschutz verloren.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-scaled.jpg" data-rel="lightbox-gallery-l9WWYruB" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78101 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-scaled.jpg" alt="Pitaka Magez Case" width="2560" height="1886" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-scaled.jpg 2560w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-300x221.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-1024x754.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-768x566.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-1536x1132.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-2048x1509.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungOben-643x474.jpg 643w" sizes="(max-width: 2560px) 100vw, 2560px" /></a></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten.jpg" data-rel="lightbox-gallery-l9WWYruB" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78102 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten.jpg" alt="Pitaka Magez Case und Card Sleeve" width="1200" height="900" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveAussparungUnten-643x482.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p>Die bekannte Magnetplatte ist auch in diesem Case selbstverständlich unsichtbar eingearbeitet, sodass alle bekannten MagEZ Zubehörteile von PITAKA nach wie vor kompatibel bleiben. Das Card Sleeve haftet an der Hülle , jedoch arretiert es nicht so einfach wie die originalen Apple Wallets, die mittels MagSafe automatisch arretiert werden können. Hier kommt einfach eine runde Magnetplatte ohne Arretierungsmagneten zum Einsatz, sodass das Card Sleeve unter Umständen schief oder sogar komplett verdreht sitzt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveSnapped.jpg" data-rel="lightbox-gallery-l9WWYruB" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78088 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveSnapped.jpg" alt="Pitaka Magez Case und Card Sleeve" width="591" height="1200" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveSnapped.jpg 591w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveSnapped-148x300.jpg 148w, https://www.drwindows.de/news/wp-content/uploads/2020/12/CardSleeveSnapped-504x1024.jpg 504w" sizes="(max-width: 591px) 100vw, 591px" /></a><br />
+Viel Platz bietet das Sleeve nicht, es passen zwei typische Kreditkarten oder vier Visitenkarten hinein. Nur das erste der zwei Fächer ist mit einem Durchgriff versehen, sodass mit einem Finger die Karte nach oben geschoben werden kann. Hier ist allerdings darauf zu achten, dass beim Einlegen und Herausnehmen von Karten das Sleeve entweder festgehalten oder abgenommen werden muss, da die Magnete nicht stark genug sind, um das Sleeve in Position zu halten. Ähnliches gilt für enge Hosentaschen. Hier kann sich das Sleeve ganz schnell verschieben.</p>
+<p>Auf der Handyhülle hat sich trotz vieler Ähnlichkeiten zum Vormodell dennoch etwas geändert. Das aktualisierte PITAKA Logo befindet sich jetzt aufgedruckt an der unteren Rückseite und der Schutz steht oben etwas weiter über das Gehäuse über. Habe ich beim letzten Test noch darüber gemeckert, dass das Handy trotz Hülle auf der Panzerglasscheibe aufliegt, ist das jetzt nicht mehr der Fall. Dennoch ist das Material so dünn, dass es an den Ecken nicht einmal den Rahmen eines iPhone 12 (Pro) überdeckt. Ein unglücklicher Sturz, gerade auf Spitze oder unebene Gegenstände könnte also schnell den Rahmen und so wahrscheinlich auch schnell das Displayglas zerstören.</p>
+<p>Leider sind sowohl das Case als auch das Card Sleeve nicht MagSafe kompatibel, entsprechendes Zubehör kann also nicht mehr mit einem iPhone 12 (Pro) verwendet werden, wenn das MagEZ Case zum Einsatz kommt. Oder anders herum: Das MagEZ Card Sleeve kann nicht an eine MagSafe kompatible Hülle angebracht werden. Es wird von dem Apple Clear Case sogar nahezu abgestoßen und bleibt einfach nicht in Position.</p>
+<h3>Das Fazit</h3>
+<p>In meinen Augen wurde hier ein wenig der Anschluss verpasst. Die Materialien, die Pitaka verwendet, sind und bleiben nach wie vor sehr hochwertig und stabil, da gibt es nichts auszusetzen. Auf der anderen Seite wird hier aber neue Innovation verpasst. Dem Card Sleeve hätte es meiner Meinung nach nicht geschadet, auf MagSafe statt auf eigene Technik zu setzen, um Vorteile wie Kompatibilität mit originalen Apple Hüllen oder automatische Arretierung mitzunehmen. Was die Hülle angeht, wurde einer meiner Kritikpunkte aus dem letzten Jahr verbessert, allerdings wirkt mir die Hülle noch immer zu wenig schützend für mein iPhone als täglichen Begleiter.</p>
+<p>Natürlich ist es schwierig, eine bewährte und etablierte Technik mit vielem Zubehör über den Haufen zu werfen, aber MagSafe ist nun mal in allen neuen Geräten von Apple enthalten. Hier wurde meiner Meinung nach eine große Chance verpasst.</p>
+<p>Am Card Sleeve gefällt mir hingegen sehr die Materialauswahl. Das PU-Leder als Außenmaterial ist in keiner Weise von echtem Leder zu unterscheiden. Da ich alles andere als ein Lederfan bin, wäre das Card Sleeve von PITAKA durchaus eine Alternative zu den Leder Wallets von Apple. Allerdings ist mir die Transportmöglichkeit von nur zwei Karten dann auch wieder zu wenig, sodass ich wohl erstmal bei meinem klassischen Portemonnaie bleiben werde.</p>
+<p>Das MagEZ Case für iPhone 12 und iPhone 12 Pro ist preislich genau wie die Vorgänger angesiedelt und ist für 49,99 Euro bei <a href="https://amzn.to/3mhCH2L" target="_blank" rel="noopener noreferrer">Amazon</a> in sieben verschiedenen Farben erhältlich. Das Card Sleeve ist etwas günstiger und somit für 29,99 Euro bei <a href="https://amzn.to/3oU1ED1" target="_blank" rel="noopener noreferrer">Amazon</a> zu erwerben.</p>
+<p>Für Leute, die eine nicht zu sehr auftragende Hülle für ihr iPhone möchten, um zumindest einen Grundschutz zu bekommen, ist diese Hülle mit Sicherheit die richtige Wahl. Preislich orientiert man sich hier allerdings tatsächlich im gleichen Segment wie Apple bei den originalen Hüllen. Diese tragen allerdings alle deutlich schwerer auf.</p>
+<p>Disclaimer: Enthält Affiliate Links. Das Testmuster wurde uns von PITAKA kostenlos überlassen. Eine Einflussnahme auf den Testbericht oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/gadgetcheck-pitaka-magez-case-und-magez-card-sleeve-neue-geraete-neues-zubehoer/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cyberpunk 2077: Macher entschuldigen sich und bieten Erstattungen an</title>
+		<link>https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an</link>
+					<comments>https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 11:07:48 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78142</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Immer dann, wenn dem Start eines neuen Produkts ein großer Hype vorausgeht, kann man zuverlässig davon ausgehen, dass es Enttäuschungen geben wird. Da macht Cyberpunk 2077 keine Ausnahme. Kaum ein anderes Spiel hatte so viel öffentliche Aufmerksamkeit, nicht zuletzt aufgrund der mehrmaligen Verschiebungen. Was CD Projekt Red am Ende veröffentlicht hat, war &#8211; maximal diplomatisch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Immer dann, wenn dem Start eines neuen Produkts ein großer Hype vorausgeht, kann man zuverlässig davon ausgehen, dass es Enttäuschungen geben wird. Da macht Cyberpunk 2077 keine Ausnahme. Kaum ein anderes Spiel hatte so viel öffentliche Aufmerksamkeit, nicht zuletzt aufgrund der mehrmaligen Verschiebungen. Was CD Projekt Red am Ende veröffentlicht hat, war &#8211; maximal diplomatisch ausgedrückt &#8211; eine Frechheit.</p>
+<p>Das Spiel ist rundum unfertig, auf die vielen Probleme im Einzelnen einzugehen, lohnt sich daher kaum. Nun haben sich die Entwickler via Twitter zu Wort gemeldet. Es gibt Entschuldigungen, die Aussicht auf Fehlerbehebungen und das Angebot, das Spiel gegen Erstattung des Kaufpreises zurückzugeben.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="und" dir="ltr"><a href="https://t.co/jtF5WKCiro">pic.twitter.com/jtF5WKCiro</a></p>
+<p>&mdash; Cyberpunk 2077 (@CyberpunkGame) <a href="https://twitter.com/CyberpunkGame/status/1338390123373801472?ref_src=twsrc%5Etfw">December 14, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Im ersten Absatz entschuldigt man sich dafür, dass man den Spielern, die eine Xbox One oder Playstation 4 besitzen, im Vorfeld zu wenig Gameplay auf diesen Konsolen gezeigt hat, damit diese eine &#8222;informierte Kaufentscheidung&#8220; treffen können. Das ist die verklausulierte Form von &#8222;Sorry, aber wenn wir euch vorher gezeigt hätten, wie bescheiden das aussieht, hättet ihr es niemals gekauft &#8211; und das wollten wir verhindern.&#8220;</p>
+<p>Immerhin möchte man nun bei der Fehlerbeseitigung Gas geben. In den kommenden sieben Tagen soll ein Patch veröffentlicht werden, welche Fehler dieser behebt, wird aber nicht genannt. Im Januar und Februar sind dann weitere umfangreiche Updates geplant, mit denen &#8222;die prominentesten Probleme&#8220; auf den Konsolen der letzten Generation behoben werden sollen.</p>
+<p>Wer nicht warten möchte oder kein Vertrauen (mehr) hat, der kann binnen einer Woche eine Rückerstattung des Kaufpreises beantragen. Bei digitalen Kopien läuft das über die jeweiligen Stores, bei Einzelhandelsversionen sollten die Spieler zunächst versuchen, das Spiel im Laden zurückzugeben. Wer damit keinen Erfolg hat, soll sich per E-Mail an helpmerefund@cdprojektred.com wenden.</p>
+<p>An der Börse hat CD Projekt Red durch den holprigen Start von Cyberpunk 2077 beinahe 40 Prozent seines Wertes eingebüßt, das war sicher anders geplant. Das haben sie sich allerdings selbst zuzuschreiben, denn sie sind sehenden Auges in diese Situation marschiert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft eröffnet Galerie zum Mitmachen für eigene Teams-Hintergründe</title>
+		<link>https://www.drwindows.de/news/microsoft-eroeffnet-galerie-zum-mitmachen-fuer-eigene-teams-hintergruende</link>
+					<comments>https://www.drwindows.de/news/microsoft-eroeffnet-galerie-zum-mitmachen-fuer-eigene-teams-hintergruende#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 14 Dec 2020 07:21:02 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78116</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Seit es die Möglichkeit gibt, in Microsoft Teams einen eigenen Hintergrund zu verwenden, der den Konferenzteilnehmer statt im heimischen Büro in der Umgebung seiner Wahl sitzen lässt, erfreut sich diese Funktion großer Beliebtheit. Einige Hintergründe bietet Teams standardmäßig an, da man auch eigene Bilder einbinden kann, sind der Kreativität jedoch keine Grenzen gesetzt. Nun hat [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Seit es die Möglichkeit gibt, in Microsoft Teams einen eigenen Hintergrund zu verwenden, der den Konferenzteilnehmer statt im heimischen Büro in der Umgebung seiner Wahl sitzen lässt, erfreut sich diese Funktion großer Beliebtheit. Einige Hintergründe bietet Teams standardmäßig an, da man auch eigene Bilder einbinden kann, sind der Kreativität jedoch keine Grenzen gesetzt.</p>
+<p>Nun hat Microsoft eine <a href="https://adoption.microsoft.com/microsoft-teams/custom-backgrounds-gallery/" target="_blank" rel="noopener noreferrer"><strong>Galerie</strong></a> eröffnet, aus der man sich zahlreiche handgemachte Hintergründe für Teams herunterladen kann, aktuell dominieren dort der Jahreszeit entsprechend die weihnachtlichen Umgebungen. Wer also selbst nicht kreativ werden kann oder möchte, kann sich dort umsehen und sich bedienen. Allerdings ist die Galerie auch zum Mitmachen angelegt. Wer sein erstelltes Werk mit der Welt teilen möchte, kann es über die Seite hochladen, es wird dann von Microsoft geprüft und gegebenenfalls in die Galerie übernommen.</p>
+<p><iframe title="Microsoft Teams Introduces Custom Holiday Backgrounds" width="500" height="281" src="https://www.youtube.com/embed/NLvxR8bTtNs?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-eroeffnet-galerie-zum-mitmachen-fuer-eigene-teams-hintergruende/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ubuntu: Canonical baut WSL-Unterstützung mit neuer Windows Community Preview aus</title>
+		<link>https://www.drwindows.de/news/ubuntu-canonical-baut-wsl-unterstuetzung-mit-neuer-windows-community-preview-aus</link>
+					<comments>https://www.drwindows.de/news/ubuntu-canonical-baut-wsl-unterstuetzung-mit-neuer-windows-community-preview-aus#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 18:19:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78111</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In diesem Jahr hat Microsoft mit dem großen Update auf Version 2004 von Windows 10 auch die zweite Generation des Windows Subsystem for Linux an seine Nutzer ausgeliefert. Während auch zahlreiche andere Distributionen wie Debian, openSUSE Leap und Kali Linux für WSL 2 verfügbar sind, sind Ubuntu und das dahinter stehende Unternehmen Canonical der älteste [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Ubuntu-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In diesem Jahr hat Microsoft mit dem großen Update auf Version 2004 von Windows 10 auch die zweite Generation des Windows Subsystem for Linux an seine Nutzer ausgeliefert. Während auch zahlreiche andere Distributionen wie Debian, openSUSE Leap und Kali Linux für WSL 2 verfügbar sind, sind Ubuntu und das dahinter stehende Unternehmen Canonical der älteste und engste Partner von Microsoft und für die Entwicklung von WSL maßgeblich verantwortlich.</p>
+<p>In der vergangenen Woche kündigten die Entwickler eine neue Windows Community Preview an, die aktuell auf dem Interim-Release Ubuntu 20.10 basiert und neue Features für kommende Releases testen soll. Diese Previews werden über einen Direktlink in den Microsoft Store (ihr findet ihn im verlinkten Beitrag) verteilt und können auch nicht über die in den Microsoft Store von Windows 10 integrierte Suchfunktion gefunden werden, zudem sind sie auch ausschließlich für fortgeschrittene Nutzer in der WSL-Community gedacht. Die Windows Community Preview muss zudem immer wieder mal über Windows 10 zurückgesetzt werden, sodass unweigerlich die entsprechenden Daten verloren gehen und man von vorne anfangen muss.</p>
+<p>Momentan testet Canonical vor allem die neue Benutzererfahrung bei der Einrichtung, die auf dem Subiquity-Installer von Ubuntu Server aufbaut. Später sollen auch das neue Ubuntu Theme und andere Features in diesem Zusammenhang getestet werden. Soweit neuen Funktionen hinreichend stabilisiert wurden, sollen sie auch auf ältere Versionen zurückportiert und hier bei neuen Installationen schon erscheinen.</p>
+<p>Bestehende Installationen von Ubuntu will Canonical hingegen nicht antasten, sodass die meisten Nutzer die ersten Ergebnisse wohl erst mit Ubuntu 22.04 LTS im April 2022 zu Gesicht bekommen werden. Außerdem werden im Microsoft Store für die produktive Verwendung weiterhin nur die neuen LTS-Versionen veröffentlicht und angeboten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ubuntu-canonical-baut-wsl-unterstuetzung-mit-neuer-windows-community-preview-aus/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Die Woche im Rückspiegel 50/20: Goodbye 2020 mit Windows on ARM und vielen Xbox-News</title>
+		<link>https://www.drwindows.de/news/die-woche-im-rueckspiegel-50-20-goodbye-2020-mit-windows-on-arm-und-vielen-xbox-news</link>
+					<comments>https://www.drwindows.de/news/die-woche-im-rueckspiegel-50-20-goodbye-2020-mit-windows-on-arm-und-vielen-xbox-news#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 12:52:21 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78106</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Wochenrückblick KW 50/2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Willkommen zum letzten wöchentlichen Blick in den Rückspiegel im Jahr 2020. Selbstverständlich läuten wir den Jahreswechsel nur in diesem Format ein, in den verbleibenden rund drei Wochen wird es sicher noch genug zu lesen geben. Außerdem haben wir noch ein wenig Arbeit vor uns: Am kommenden Wochenende stellen wir unsere neue Community an den Start [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Wochenrückblick KW 50/2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/wochenrueckblick_50_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Willkommen zum letzten wöchentlichen Blick in den Rückspiegel im Jahr 2020. Selbstverständlich läuten wir den Jahreswechsel nur in diesem Format ein, in den verbleibenden rund drei Wochen wird es sicher noch genug zu lesen geben. Außerdem haben wir noch ein wenig Arbeit vor uns: Am kommenden Wochenende stellen wir unsere neue Community an den Start &#8211; eine separate Ankündigung dazu folgt in Kürze.</p>
+<p>In diesem Rückblick gibt es zwei Schwerpunktthemen: Es hat sich in der letzten Woche eine ganze Menge rund um Windows on ARM getan, das fasse ich nochmals kompakt zusammen. Auch in der Xbox-Ecke war allerhand produktive Unruhe &#8211; die wichtigsten News findet ihr ebenfalls hier.</p>
+<p>Damit bedanke ich mich bei allen, die regelmäßig oder unregelmäßig reingeschaut oder reingehört haben. Dieser &#8222;Blick in den Rückspiegel&#8220; hat zwar eine recht überschaubare Resonanz, aber es macht mir Spaß und ist für mich eine willkommene Abwechslung zur Tastatur. Darum wird es auch im neuen Jahr damit weitergehen.</p>
+<p><iframe title="Die Woche im Rückspiegel 50/20: Goodbye 2020 mit Windows on ARM und vielen Xbox-News" width="500" height="281" src="https://www.youtube.com/embed/JnkSaQ_qpZ8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<h3>Podcast</h3>
+<p>Der Podcast ist wie gewohnt per <a href="https://2llyrp.podcaster.de/drwindows.rss" target="_blank" rel="noopener noreferrer">RSS-Feed</a> abonnierbar sowie bei <a href="https://open.spotify.com/show/7mduS0uzQbcfXqluRU1Oyu" target="_blank" rel="noopener noreferrer">Spotify</a>, <a href="https://itunes.apple.com/de/podcast/dr-windows/id1458085526?l=en" target="_blank" rel="noopener noreferrer">iTunes</a>, <a href="https://www.deezer.com/de/show/359332" target="_blank" rel="noopener noreferrer">Deezer</a> und <a href="https://music.amazon.de/podcasts/8dd78f78-4165-4865-95ed-e3872c3b8ce0/Dr-Windows" target="_blank" rel="noopener noreferrer">Amazon Music</a> zu finden.</p>
+<p>Viel Spaß beim Anhören oder Anschauen – ganz wie es euch beliebt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/die-woche-im-rueckspiegel-50-20-goodbye-2020-mit-windows-on-arm-und-vielen-xbox-news/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Android Rundschau KW 50/20 mit Skype, Microsoft Authenticator und Forza Street</title>
+		<link>https://www.drwindows.de/news/android-rundschau-kw-50-20-mit-skype-microsoft-authenticator-und-forza-street</link>
+					<comments>https://www.drwindows.de/news/android-rundschau-kw-50-20-mit-skype-microsoft-authenticator-und-forza-street#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Sun, 13 Dec 2020 11:35:48 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77956</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau Weihnachten" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In dieser Woche haben wir wieder eine kleinere Rundschau am Start, für jede Kerze auf dem Adventskranz gibt es ein Update. Es ist gut möglich, dass in Anbetracht der bevorstehenden Weihnachtsruhe die Rundschauen in den kommenden Wochen öfter mal mangels Masse ausfallen werden. Also nicht wundern. Das hier sind die Updates von dieser Woche: Microsoft [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau Weihnachten" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In dieser Woche haben wir wieder eine kleinere Rundschau am Start, für jede Kerze auf dem Adventskranz gibt es ein Update. Es ist gut möglich, dass in Anbetracht der bevorstehenden Weihnachtsruhe die Rundschauen in den kommenden Wochen öfter mal mangels Masse ausfallen werden. Also nicht wundern.</p>
+<p>Das hier sind die Updates von dieser Woche:</p>
+<h3>Microsoft Authenticator Beta</h3>
+<p>Der Microsoft Authenticator wird in Verbindung mit Microsoft Edge zum Passwortmanager. In der Beta-Version findet man in den Einstellungen eine neue Option &#8222;AutoAusfüllen&#8220;. Ist diese aktiviert, werden die in Microsoft Edge gespeicherten Kennwörter mit dem Authenticator synchronisiert. Die Funktion steht auch in der Beta nicht allen Nutzern zur Verfügung &#8211; bei mir ist sie beispielsweise vorhanden, aber ausgegraut, lässt sich also nicht aktivieren.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: googleplay // ID: com.azure.authenticator) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.azure.authenticator" title="Microsoft Authenticator">Microsoft Authenticator (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Skype Preview</h3>
+<p>Die Unterstützung von Android 11 wurde verbessert, unter anderem werden nun Chat-Bubbles und Nachrichten mit hoher Prorität unterstützt.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: googleplay // ID: com.skype.insiders) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.skype.insiders" title="Skype Preview">Skype Preview (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Forza Street</h3>
+<p>Im mobilen Ableger (der außer dem Namen nichts mit der Forza-Serie zu tun hat, aber dennoch Spaß macht) kann man ab sofort drei originale Hot Wheels Modelle fahren:</p>
+<ul>
+<li>Rip Rod</li>
+<li>Twin Mill</li>
+<li>Bone Shaker</li>
+</ul>
+<!-- WP-Appbox (Version: 4.3.4 // Store: googleplay // ID: com.microsoft.gravity) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.gravity" title="Forza Street">Forza Street (Kostenlos<sup>+</sup>, Google Play) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/android-rundschau-kw-50-20-mit-skype-microsoft-authenticator-und-forza-street/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
