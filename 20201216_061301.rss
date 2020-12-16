@@ -1,0 +1,253 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Tue, 15 Dec 2020 21:10:40 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Mehr Sicherheit: Microsoft baut den Authenticator zum Passwortmanager aus</title>
+		<link>https://www.drwindows.de/news/mehr-sicherheit-microsoft-baut-den-authenticator-zum-passwortmanager-aus</link>
+					<comments>https://www.drwindows.de/news/mehr-sicherheit-microsoft-baut-den-authenticator-zum-passwortmanager-aus#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 06:02:15 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[Microsoft auf iOS]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78233</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Authenticator" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Bevor in der kommenden Woche das Weihnachtsfest vor der Tür steht, legt Microsoft den Nutzern des Microsoft Authenticators noch ein kleines Geschenk unter den virtuellen Weihnachtsbaum. Wie die Redmonder in einem neuen Blogpost ankündigten, steht der integrierte Passwortmanager nun als Public Preview unter iOS und Android zur Verfügung. Außerdem könnt ihr nun auch auf die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Authenticator" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Bevor in der kommenden Woche das Weihnachtsfest vor der Tür steht, legt Microsoft den Nutzern des Microsoft Authenticators noch ein kleines Geschenk unter den virtuellen Weihnachtsbaum. Wie die Redmonder in einem neuen Blogpost ankündigten, steht der integrierte Passwortmanager nun als Public Preview unter iOS und Android zur Verfügung. Außerdem könnt ihr nun auch auf die neue Autofill-Funktion in der Beta zurückgreifen, sofern eure Smartphones und Tablets mindestens iOS 12 oder höher bzw. Android 6.0 oder höher verwenden.</p>
+<p>Momentan unterstützt der Microsoft Authenticator die Synchronisation über den klassischen Microsoft-Account, andere Varianten wie Azure Active Directory und Accounts von Bildungseinrichtungen sind aktuell noch außenvor. Wenn ihr Microsoft Edge am Desktop verwendet, braucht ihr nichts weiter tun, die Liste der synchronisierten Passwörter ist mit der in Microsofts eigenem Browser identisch. Für andere Chromium-Browser wie Google Chrome stellt Microsoft eine separate Autofill-Erweiterung bereit, ein Addon für Mozilla Firefox gibt es aktuell nicht.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: googleplay // ID: com.azure.authenticator) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.azure.authenticator" title="Microsoft Authenticator">Microsoft Authenticator (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.4 // Store: appstore // ID: 983156458) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-authenticator/id983156458" title="‎Microsoft Authenticator">‎Microsoft Authenticator (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.4 // Store: chromewebstore // ID: fiedbfgcleddlbcmgdigjgdfcggjcion) --><p><a target="_blank" rel="nofollow" href="https://chrome.google.com/webstore/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion" title="Microsoft AutoAusfüllen">Microsoft AutoAusfüllen (Kostenlos, Chrome Web Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/mehr-sicherheit-microsoft-baut-den-authenticator-zum-passwortmanager-aus/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edge Dev: Microsoft veröffentlicht mit Version 89.0.731.0 das finale Update in diesem Jahr</title>
+		<link>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-89-0-731-0-das-finale-update-in-diesem-jahr</link>
+					<comments>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-89-0-731-0-das-finale-update-in-diesem-jahr#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 05:40:08 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78237</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Es ist Mittwoch und Microsoft hat am gestrigen Abend mit Version 89.0.731.0 wieder ein neues Update im Dev Channel veröffentlicht. Die neue Version bringt vor allem Bugfixes und fügt nur wenige kleine Neuerungen hinzu, sodass unter anderem jetzt der Shortcut F12 zu den Developer Tools in den Einstellungen deaktiviert werden kann. Gleichzeitig ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Es ist Mittwoch und Microsoft hat am gestrigen Abend mit Version 89.0.731.0 wieder ein neues Update im Dev Channel veröffentlicht. Die neue Version bringt vor allem Bugfixes und fügt nur wenige kleine Neuerungen hinzu, sodass unter anderem jetzt der Shortcut F12 zu den Developer Tools in den Einstellungen deaktiviert werden kann. Gleichzeitig ist diese Version aber auch das letzte Update, was Microsoft im Dev, Beta und Stable Channel veröffentlichen wird, sollte nichts mehr dazwischen kommen.</p>
+<p>Eine Ausnahme gilt für kleinere Bugfixes und natürlich dringende Sicherheitsupdates. Für den Canary Channel gibt es hingegen keine Pause, er wird auch über die Feiertage hinweg weiter mit täglichen Updates versorgt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-89-0-731-0-das-finale-update-in-diesem-jahr/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MSN Wetter: Microsoft kündigt neues Design und Funktionen für alle Plattformen an</title>
+		<link>https://www.drwindows.de/news/msn-wetter-microsoft-kuendigt-neues-design-und-funktionen-fuer-alle-plattformen-an</link>
+					<comments>https://www.drwindows.de/news/msn-wetter-microsoft-kuendigt-neues-design-und-funktionen-fuer-alle-plattformen-an#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 17:43:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78216</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Bing neues Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nachdem Microsoft sein eigenes Nachrichtenangebot in der jüngeren Vergangenheit eher gespalten und Microsoft News mit seinen generalüberholten Apps für iOS und Android eine gewisse Priorität eingeräumt hat, tut sich auch beim übrigen MSN in letzter Zeit wieder mehr. Das Team hinter Microsoft Bing hatte zuletzt mit den Kollegen von Microsoft Research gemeinsam den neuen MSN [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Bing neues Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nachdem Microsoft sein eigenes Nachrichtenangebot in der jüngeren Vergangenheit eher gespalten und Microsoft News mit seinen generalüberholten Apps für iOS und Android eine gewisse Priorität eingeräumt hat, tut sich auch beim übrigen MSN in letzter Zeit wieder mehr. Das Team hinter Microsoft Bing hatte zuletzt mit den Kollegen von Microsoft Research gemeinsam den neuen MSN Esports Hub <a href="https://www.drwindows.de/news/dank-bing-und-microsoft-research-microsoft-bringt-neuen-msn-esports-hub-an-den-start">angekündigt</a> und nimmt sich mit MSN Wetter nun wieder einem eher klassischen Vertreter an.</p>
+<p>MSN Wetter soll in den kommenden Monaten nach und nach nicht nur ein neues und moderneres Design erhalten, sondern auch zahlreiche neue Funktionen. Die Karten sollen interaktiver und animierter werden, außerdem möchten die Entwickler deutliche Verbesserungen bei Unwetterwarnungen und entsprechenden Nachrichten erreichen und setzen ähnlich wie beim Esports Hub auch hier auf Machine Learning, um die Daten auf Grundlage von Bing Maps entsprechend anschaulich darzustellen. Letztlich führen die Entwickler hier das fort, was neben dem Esports Hub auch bei Microsoft News <a href="https://www.drwindows.de/news/microsoft-news-journalisten-sollen-der-ai-weichen">selbst</a> schon länger bekannt ist.</p>
+<p>Zunächst sind die neuen Funktionen auf den Desktop beschränkt und erscheinen unter anderem auch bei Microsoft Edge sowie den Wetterantworten von Bing. Zudem kommen vorerst nur die Nutzer in den USA in den Genuss der Neuerungen, die Ausweitung auf zahlreiche weitere Regionen ist aber schon für die kommenden Monaten angekündigt. Man darf also gespannt sein, ob und wann auch MSN Sport und MSN Finanzen eine entsprechende Überarbeitung erfahren und ob im Zuge dessen auch die veralteten Apps für iOS und Android endlich mal aufgefrischt werden. Zu Wünschen wäre es auf jeden Fall.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/msn-wetter-microsoft-kuendigt-neues-design-und-funktionen-fuer-alle-plattformen-an/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Integration von EA Play in den Xbox Game Pass für PC auf unbestimmte Zeit verschoben</title>
+		<link>https://www.drwindows.de/news/integration-von-ea-play-in-den-xbox-game-pass-fuer-pc-auf-unbestimmte-zeit-verschoben</link>
+					<comments>https://www.drwindows.de/news/integration-von-ea-play-in-den-xbox-game-pass-fuer-pc-auf-unbestimmte-zeit-verschoben#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 17:07:00 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78214</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass und EA Play" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Ab dem heutigen 15. Dezember hätten Abonnenten des Xbox Game Pass für PC bzw. des Game Pass Ultimate Zugriff auf die Spiele erhalten sollen, die in EA Play enthalten sind. Auf der Xbox wurde diese Integration bereits am 10. November vollzogen, insofern war nicht mit Problemen zu rechnen. Solche sind aber nun dennoch aufgetreten, weshalb [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass und EA Play" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Ab dem heutigen 15. Dezember hätten Abonnenten des Xbox Game Pass für PC bzw. des Game Pass Ultimate Zugriff auf die Spiele erhalten sollen, die in EA Play enthalten sind. Auf der Xbox wurde diese Integration bereits am 10. November vollzogen, insofern war nicht mit Problemen zu rechnen.</p>
+<p>Solche sind aber nun dennoch aufgetreten, weshalb die Integration auf dem PC auf unbestimmte Zeit verschoben wurde. Man benötige zusätzliche Zeit, um den PC-Spielern das bestmögliche Erlebnis zu bieten, schreibt Microsoft in einem insgesamt leicht zerknirscht klingenden <a href="https://news.xbox.com/en-us/2020/12/15/update-on-ea-play-xbox-game-pass-for-pc-2021/" target="_blank" rel="noopener noreferrer">Blogpost</a>. Anfang 2021 will man den neuen Fahrplan vorliegen.</p>
+<p>Ob es technische Gründe für die Verschiebung gibt oder ob eventuell vertragliche Details zwischen Microsoft und EA nicht rechtzeitig geklärt werden konnten, darüber kann man nur spekulieren. Für PC-Spieler bleibt es so oder so dabei: Sie werden sich noch etwas gedulden müssen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/integration-von-ea-play-in-den-xbox-game-pass-fuer-pc-auf-unbestimmte-zeit-verschoben/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft bringt das Surface Duo Anfang 2021 nach Deutschland</title>
+		<link>https://www.drwindows.de/news/microsoft-bringt-das-surface-duo-anfang-2021-nach-deutschland</link>
+					<comments>https://www.drwindows.de/news/microsoft-bringt-das-surface-duo-anfang-2021-nach-deutschland#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 16:35:14 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78209</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Surface Duo, Microsofts Android Smartphone mit zwei Bildschirmen, ist bislang nur in den USA erhältlich. Das ändert sich in absehbarer Zeit. Ab Anfang 2021 wird das Surface Duo in Deutschland erhältlich sein, außerdem noch in Frankreich, Großbritannien sowie in Kanada. Einen exakten Termin oder einen Preis teilt man vorerst allerdings noch nicht mit. In [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Surface Duo, Microsofts Android Smartphone mit zwei Bildschirmen, ist bislang nur in den USA erhältlich. Das ändert sich in absehbarer Zeit. Ab Anfang 2021 wird das Surface Duo in Deutschland erhältlich sein, außerdem noch in Frankreich, Großbritannien sowie in Kanada. Einen exakten Termin oder einen Preis teilt man vorerst allerdings noch nicht mit.</p>
+<p>In einem <a href="https://blogs.windows.com/devices/2020/12/15/the-year-ahead-for-surface-duo/" target="_blank" rel="noopener noreferrer">Blogpost</a> unterstreicht Microsoft nochmals seine Überzeugung, mit dem Dual Screen Konzept auf dem richtigen Weg zu sein und die Nutzer damit produktiver zu machen, außerdem feiert man die Auszeichnung des Surface Duo als &#8222;beste Innovation&#8220; durch das TIME Magazine.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo.jpg" data-rel="lightbox-gallery-br1VJ9Wd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78210" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo.jpg" alt="Microsoft Teams auf dem Surface Duo" width="1024" height="660" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-300x193.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-768x495.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-341x220.jpg 341w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-643x414.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Im kommenden Jahr will Microsoft weiterhin an der Optimierung seiner eigenen Apps für das Surface Duo arbeiten, wenig überraschend steht dabei Microsoft Teams im Fokus.</p>
+<p>Außerdem will man seine Bemühungen verstärken, App-Entwickler zu animieren, ebenfalls für Dual Screen zu optimieren. Es ist ebenfalls keine Überraschung, dass in diesem Bereich bislang so gut wie nichts passiert ist, auch wenn in dem Blogpost Spotify und TikTok als prominente Beispiele genannt werden, die ihre Android-Apps für Dual Screen Geräte angepasst haben.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo.jpg" data-rel="lightbox-gallery-br1VJ9Wd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78211" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo.jpg" alt="TikTok auf dem Surface Duo" width="1024" height="753" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-300x221.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-768x565.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-643x473.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Beim Thema &#8222;optimierte Apps&#8220; sind wir halt wieder beim typischen Henne/Ei-Problem und Microsoft muss hoffen, dass noch andere Hersteller und natürlich auch die Kunden auf diesen Zug aufspringen, Appelle an die Entwickler werden da nicht helfen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-bringt-das-surface-duo-anfang-2021-nach-deutschland/feed</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mozilla veröffentlicht Firefox 84.0 für Windows, Mac und Linux</title>
+		<link>https://www.drwindows.de/news/mozilla-veroeffentlicht-firefox-84-0-fuer-windows-mac-und-linux</link>
+					<comments>https://www.drwindows.de/news/mozilla-veroeffentlicht-firefox-84-0-fuer-windows-mac-und-linux#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 14:09:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77490</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Mozilla hat vor wenigen Minuten mit Firefox 84.0 das finale Release in 2020 für alle Nutzer freigegeben. Unter Windows gibt es diesmal wenig zu berichten, denn die Entwickler weiten hier lediglich die Verfügbarkeit von WebRender weiter aus und stellen es nun auch Nutzern mit Intel-CPUs der 5. und 6. Generation zur Verfügung. Außerdem gibt es [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Mozilla hat vor wenigen Minuten mit Firefox 84.0 das finale Release in 2020 für alle Nutzer freigegeben. Unter Windows gibt es diesmal wenig zu berichten, denn die Entwickler weiten hier lediglich die Verfügbarkeit von WebRender weiter aus und stellen es nun auch Nutzern mit Intel-CPUs der 5. und 6. Generation zur Verfügung. Außerdem gibt es Verbesserungen innerhalb der Entwicklerwerkzeuge, wo die Panels für die Netzwerkanalyse und die Barrierefreiheit erweitert wurden.</p>
+<p>Wesentlich mehr Arbeit ist diesmal in macOS und Linux geflossen. Firefox unterstützt Apple Silicon nun nativ und WebRender wird nun auch für Nutzer von macOS Big Sur ausgerollt, einige Probleme in Kombination mit Cylance Antivirus oder der Wiedergabe von Audio- und Videoinhalten sind aber weiterhin offen. Unter Linux steht WebRender nun für Linux/Gnome/X11 zur Verfügung, zudem werden nun modernere Werkzeuge für die Shared Memory Allocation verwendet, was eine bessere Performance und eine bessere Kompatibilität mit Docker bringen sollte.</p>
+<p>Firefox 84.0 steht ab sofort zum Download bereit, nähere Informationen liefern wie immer die <a href="https://www.mozilla.org/en-US/firefox/84.0/releasenotes/">Release Notes</a>. Wichtig ist zudem, dass die neue Version gleichzeitig auch die letzte ist, die Adobe Flash noch offiziell unterstützt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/mozilla-veroeffentlicht-firefox-84-0-fuer-windows-mac-und-linux/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Project Reunion: Microsoft veröffentlicht erste Public Preview für alle Entwickler</title>
+		<link>https://www.drwindows.de/news/project-reunion-microsoft-veroeffentlicht-erste-public-preview-fuer-alle-entwickler</link>
+					<comments>https://www.drwindows.de/news/project-reunion-microsoft-veroeffentlicht-erste-public-preview-fuer-alle-entwickler#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 12:48:10 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78203</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurzer Einwurf für die Entwickler unter uns, die sich auch schon intensiver mit Project Reunion beschäftigen: Microsoft hat am gestrigen Abend mit Version 0.1 die erste Public Preview veröffentlicht und bittet um entsprechendes Feedback aus der Community. Die neue Version steht unter anderem über den NuGet Package Manager zur Verfügung und soll dabei helfen, die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurzer Einwurf für die Entwickler unter uns, die sich auch schon intensiver mit <a href="https://github.com/microsoft/ProjectReunion">Project Reunion</a> beschäftigen: Microsoft hat am gestrigen Abend mit Version 0.1 die erste Public Preview veröffentlicht und bittet um entsprechendes Feedback aus der Community. Die neue Version steht unter anderem über den NuGet Package Manager zur Verfügung und soll dabei helfen, die Brücke zwischen den klassischen Win32-Apps und den moderneren UWP-Apps zu schlagen. Bekanntlich hat Microsoft ja die angekündigt, dass sie in Zukunft einheitlich von Windows-Apps sprechen wollen.</p>
+<p>In der Vergangenheit hatte Microsoft schon einige Elemente auf den Weg gebracht, um die Windows-Entwicklung stärker zu vereinheitlichen. Dazu gehören neben WinUI 3.0, welches Anfang 2021 final veröffentlicht werden soll, auch MSIX Core und das auf dem neue Microsoft Edge aufbauende WebView2, welches bereits für Anwendungen auf Basis von .NET und C/C++ zur Verfügung steht. Neu in dieser Public Preview ist zudem DirectWriteCore, um das Textlayout und -Rendering weiter zu verbessern.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/project-reunion-microsoft-veroeffentlicht-erste-public-preview-fuer-alle-entwickler/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Download: DrWindows Update Packs Dezember 2020 für Windows 7, 8.1 und Windows 10</title>
+		<link>https://www.drwindows.de/news/download-drwindows-update-packs-dezember-2020-fuer-windows-7-8-1-und-windows-10</link>
+					<comments>https://www.drwindows.de/news/download-drwindows-update-packs-dezember-2020-fuer-windows-7-8-1-und-windows-10#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 10:26:58 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78194</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Update Pack" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die November 2020-Ausgaben unserer Update Packs für Windows 7, 8.1 und Windows 10 stehen ab sofort für euch zum Download bereit. Für Windows 7 und Windows 8.1 gibt es, wie ihr es gewohnt seid, sowohl eine Vollversion als auch ein inkrementelles Paket, welches nur die Änderungen gegenüber dem letzten Monat beinhaltet. Bei Windows 10 ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Update Pack" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/DrWindows-Update-Packs-Neu-2-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die November 2020-Ausgaben unserer Update Packs für Windows 7, 8.1 und Windows 10 stehen ab sofort für euch zum Download bereit.</p>
+<p>Für Windows 7 und Windows 8.1 gibt es, wie ihr es gewohnt seid, sowohl eine Vollversion als auch ein inkrementelles Paket, welches nur die Änderungen gegenüber dem letzten Monat beinhaltet. Bei Windows 10 ist das nicht nötig, weil die Updates ja dort ohnehin kumulativ sind. Das Update Pack für Windows 7 kann außerdem nur mit <a href="https://support.microsoft.com/de-de/help/4527878/faq-about-extended-security-updates-for-windows-7" target="_blank" rel="nofollow noopener noreferrer">ESU-Aktivierung</a> genutzt werden.</p>
+<p>Bei Windows 10 gibt es zu beachten: Das aktuelle Update Pack setzt das Mai Update (Version 2004) voraus. Es kann allerdings auch für die Version 20H2 verwendet werden, da die Updates identisch sind.</p>
+<p>Es sind wie üblich alle Updates enthalten, also nicht nur die sicherheitsrelevanten.</p>
+<p>Hier geht es nun zu den Downloads &#8211; wie immer ein dickes Dankeschön an Sebastian, der sich jeden Monat die viele Mühe mit den Update Packs macht.</p>
+<p><a href="https://www.drwindows.de/windows-10-desktop/93987-windows-10-update-pack-by-drwindows-juni.html" target="_blank" rel="noopener noreferrer"><b>Download Update-Pack für Windows 10</b></a></p>
+<p><a href="https://www.drwindows.de/windows-8-und-windows-rt/69440-windows-8-1-update-pack-by-drwindows.html" target="_blank" rel="noopener noreferrer"><b>Download Update-Packs für Windows 8.1</b></a></p>
+<p><a href="https://www.drwindows.de/windows-7-allgemein/15232-windows-7-update-pack-by-drwindows-juni.html" target="_blank" rel="noopener noreferrer"><b>Download Update-Packs für Windows 7</b></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/download-drwindows-update-packs-dezember-2020-fuer-windows-7-8-1-und-windows-10/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Synchronisation von geöffneten Tabs und Verlauf erreicht Android</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 09:33:25 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78187</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Januar wird die Version 88 von Microsoft Edge für Windows und Mac erscheinen. Exakt ein Jahr nach seiner Veröffentlichung werden die Synchronisations-Features im Edge-Browser dann endlich komplett sein, denn auch der Verlauf und die geöffneten Tabs werden dann über alle Geräte hinweg synchronisiert. Es hat lange gedauert, aber nun ist der Haken ja so [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Januar wird die Version 88 von Microsoft Edge für Windows und Mac erscheinen. Exakt ein Jahr nach seiner Veröffentlichung werden die Synchronisations-Features im Edge-Browser dann endlich komplett sein, denn auch der Verlauf und die geöffneten Tabs werden dann über alle Geräte hinweg synchronisiert. Es hat lange gedauert, aber nun ist der Haken ja so gut wie dran (was es sonst noch Neues in Edge 88 geben wird, erfahrt ihr hier: <a href="https://www.drwindows.de/news/microsoft-edge-beta-88-bringt-synchronisation-von-verlauf-und-tabs-pdf-neuerungen-und-viel-mehr" target="_blank" rel="noopener noreferrer">Microsoft Edge Beta 88 bringt Synchronisation von Verlauf und Tabs, PDF-Neuerungen und viel mehr</a>).</p>
+<p>Nicht nur am Desktop, auch in den mobilen Versionen wird die Synchronisation vervollständigt. Wie <a href="https://www.neowin.net/news/edge-history-and-tab-sync-starts-showing-up-on-android" target="_blank" rel="noopener noreferrer">Neowin</a> zuerst bemerkte, steht der Abgleich von Verlauf und Tabs bereits den ersten Android-Nutzern zur Verfügung, welche die Beta-Version von Edge nutzen. Ob man die Schalter betätigen kann oder nicht, hängt allerdings nicht primär von der installierten App-Version ab, diese Funktionen hängen direkt am Microsoft-Konto.</p>
+<p>Bei mir ist die Neuerung zur Hälfte angekommen: Die Synchronisation der Tabs kann ich bereits aktivieren, den Verlauf noch nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 Insider Build 20279: Ihr dürft alles testen, aber nicht alles wissen</title>
+		<link>https://www.drwindows.de/news/windows-10-insider-build-20279-ihr-duerft-alles-testen-aber-nicht-alles-wissen</link>
+					<comments>https://www.drwindows.de/news/windows-10-insider-build-20279-ihr-duerft-alles-testen-aber-nicht-alles-wissen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 07:19:12 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78164</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Am Montagabend hat Microsoft die Windows 10 Insider Build 20279 im Developer Kanal veröffentlicht. Gegenüber der Build 20277 vom vergangenen Donnerstag enthält sie offiziell weder Neuerungen noch Fehlerbehebungen. Laut Blogpost wollte Microsoft testen, wie schnell sie zwei Builds hintereinander veröffentlichen können. Mein erster Gedanke dazu war: Jetzt ist man als Insider nicht mal mehr eine [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Am Montagabend hat Microsoft die Windows 10 Insider Build 20279 im Developer Kanal veröffentlicht. Gegenüber der Build 20277 vom vergangenen Donnerstag enthält sie offiziell weder Neuerungen noch Fehlerbehebungen. Laut <a href="https://blogs.windows.com/windows-insider/2020/12/14/announcing-windows-10-insider-preview-build-20279/" target="_blank" rel="noopener noreferrer">Blogpost</a> wollte Microsoft testen, wie schnell sie zwei Builds hintereinander veröffentlichen können. Mein erster Gedanke dazu war: Jetzt ist man als Insider nicht mal mehr eine originelle Ausrede wert.</p>
+<p>Selbstverständlich geht hier mehr vor sich als nur ein Testlauf. Auch diese Build stammt wieder aus dem FE_RELEASE, während man ebenfalls seit letztem Donnerstag bereits auf die Build 21277 umsteigen kann, die aus dem Entwicklungszweig RS_PRERELEASE stammt. Der Umstieg auf diese Version erfolgt durch ein optionales Update &#8211; wenn man so will, ist das die neue Form von &#8222;Skip Ahead&#8220;. Microsoft legt hinter den Kulissen die Basis für die Entwicklung von Windows 10 im Jahr 2021, wenngleich wir davon noch lange Zeit nichts sehen werden. Das Frühjahrs-Update, so die einhellige Erwartung aller Beobachter, wird erneut ein &#8222;Service Pack&#8220; auf Basis der diesjährigen Version werden.</p>
+<p>So richtig &#8222;spannend&#8220; wird daher wohl frühestens wieder die Version 21H2 im kommenden Herbst, obwohl man das aufgrund der <a href="https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015" target="_blank" rel="noopener noreferrer">Feature Experience Packs</a> nicht mehr so genau sagen kann. Vielleicht findet der für die Endnutzer interessante Teil der Weiterentwicklung von Windows 10 in Zukunft sogar überwiegend abseits der halbjährlichen Releases statt.</p>
+<p>Es gibt <a href="https://www.windowscentral.com/microsoft-releases-final-windows-10-iron-build-insiders-dev-channel" target="_blank" rel="noopener noreferrer">Vermutungen</a>, wonach Microsoft mit der Build-Schieberei unter anderem an der Finalisierung von Windows 10X arbeitet. Die Gerüchte, wonach es im Frühjahr erscheinen soll, reißen nicht ab &#8211; ebenso wie meine Hoffnung, dass sich eben diese Gerüchte als falsch erweisen. Was man bisher über Windows 10X zu wissen glaubt, ist eher ernüchternd, ich bin kein bisschen neugierig. Was auch daran liegt, dass ich eine gewisse Sättigung verspüre, was diese &#8222;heißt Windows, ist aber nicht Windows&#8220;-Experimente angeht.</p>
+<p>Normalerweise sollte ich als Microsoft-Enthusiast und Betreiber einer entsprechenden Seite bereits in Aufbruchstimmung sein, und meine Leser &#8222;anfixen&#8220;, was Windows im Jahr 2021 angeht. Und da kommen wir wieder an den Punkt, der mich nicht erst seit gestern frustriert. Das Windows Insider Programm ist kein Insider Programm mehr, es gibt keine Informationen, keine technischen Ein- und Ausblicke und somit auch keinerlei Enthusiasmus, der von Microsoft an die Insider von dort in die Communities getragen wird. Weder die Ernennung von Panos Panay zum Windows-Chef noch der Wechsel an der Spitze des Insider Programms haben daran irgendetwas geändert. Das ist für 99 plus x Prozent aller Windows-Nutzer irrelevant, weil sie keine Insider sind. Für mich und alle anderen Insider ist es schade, weil unsere (aus unerfindlichen Gründen immer noch vorhandene) Neugier nicht befriedigt wird. Am bedauerlichsten ist es aber für Microsoft selbst, weil sie eine gute Gelegenheit für kostenlose PR liegen lassen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10-insider-build-20279-ihr-duerft-alles-testen-aber-nicht-alles-wissen/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
