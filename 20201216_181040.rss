@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Wed, 16 Dec 2020 16:11:50 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Surface Pro X: Beide CPU-Varianten erhalten ein Firmware-Update</title>
+		<link>https://www.drwindows.de/news/surface-pro-x-beide-cpu-varianten-erhalten-ein-firmware-update</link>
+					<comments>https://www.drwindows.de/news/surface-pro-x-beide-cpu-varianten-erhalten-ein-firmware-update#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 16:11:50 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78308</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro X 2020 Titelbild" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsofts Windows on ARM Tablet, das Surface Pro X, erhält eine Firmware-Aktualisierung. Das Update gilt für beide Modelle, sowohl für das Surface Pro X mit SQ1-Prozessor als auch für das neuere Modell mit SQ2. Inhaltlich gibt es allerdings Unterschiede. Das SQ1-Modell erhält einen neuen Grafiktreiber, der für eine bessere Performance sorgen soll. Außerdem wird das [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro X 2020 Titelbild" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/surface_pro_x_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsofts Windows on ARM Tablet, das Surface Pro X, erhält eine Firmware-Aktualisierung. Das Update gilt für beide Modelle, sowohl für das Surface Pro X mit SQ1-Prozessor als auch für das neuere Modell mit SQ2. Inhaltlich gibt es allerdings Unterschiede.</p>
+<p>Das SQ1-Modell erhält einen neuen Grafiktreiber, der für eine bessere Performance sorgen soll. Außerdem wird das &#8222;Smarte Laden&#8220; des Akkus optimiert und die Qualität der WiFi-Verbindung verbessert. Eine weitere Aktualisierung widmet sich der Funktion &#8222;Eye Contact&#8220;, die dafür sorgt, dass man in einer Videokonferenz scheinbar immer genau in die Kamera schaut, auch wenn man das nicht tut.</p>
+<p>Beim Surface Pro X mit SQ2 wird die Zusammenarbeit mit dem Surface Dock 2 verbessert, außerdem gibt es Verbesserungen im Bereich der Stifteingabe.</p>
+<p>Wie üblich, bringt das Update für beide Modelle die routinemäßigen Stabilitäts- und Zuverlässigkeitsverbesserungen.</p>
+<p>Das vollständige Changelog kann bei <strong><a href="https://support.microsoft.com/en-us/help/4526368/surface-pro-x-update-history" target="_blank" rel="noopener noreferrer">Microsoft eingesehen</a></strong> werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-pro-x-beide-cpu-varianten-erhalten-ein-firmware-update/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Der Erweiterungs-Store wird mit nützlichen Informationen aufgepeppt</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-der-erweiterungs-store-wird-um-diverse-informationen-erweitert</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-der-erweiterungs-store-wird-um-diverse-informationen-erweitert#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 10:56:35 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78261</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft Edge ist mit allen Erweiterungen kompatibel, die für Google Chrome entwickelt wurden und kann diese auch direkt aus dem Chrome Web Store installieren. Ein eigener Store wäre daher nicht einmal zwingend notwendig, dennoch gehört es selbstverständlich zu einem vollständigen Browser-Auftritt, dass es einen solchen gibt. Der Microsoft Edge AddOn Store befindet sich nach wie [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft Edge ist mit allen Erweiterungen kompatibel, die für Google Chrome entwickelt wurden und kann diese auch direkt aus dem Chrome Web Store installieren. Ein eigener Store wäre daher nicht einmal zwingend notwendig, dennoch gehört es selbstverständlich zu einem vollständigen Browser-Auftritt, dass es einen solchen gibt.</p>
+<p>Der <a href="https://microsoftedge.microsoft.com/addons/Microsoft-Edge-Extensions-Home" target="_blank" rel="noopener noreferrer">Microsoft Edge AddOn Store</a> befindet sich nach wie vor in der Beta-Phase und Microsoft nimmt nach und nach diverse Optimierungen vor. In einem <a href="https://techcommunity.microsoft.com/t5/articles/recent-and-upcoming-changes-to-the-microsoft-edge-add-ons-store/m-p/1992030" target="_blank" rel="noopener noreferrer">Blogpost</a> hat man kürzlich vorgenommene Änderungen und in Kürze geplante Neuerungen zusammengefasst.</p>
+<p><strong>Videos in der Beschreibung</strong></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_videos.jpg" data-rel="lightbox-gallery-d8Qj2x6u" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78265" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_videos.jpg" alt="Microsoft Edge AddOn Store: Videos in der Beschreibung" width="1024" height="309" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_videos.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_videos-300x91.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_videos-768x232.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_videos-643x194.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>In die Medien-Galerie eines AddOns konnten bisher nur Bilder eingefügt werden, künftig können Entwickler an dieser Stelle auch ein Video einbinden, um ihr AddOn vorzustellen.</p>
+<p><strong>Kompatibilität</strong></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_kompatibel.jpg" data-rel="lightbox-gallery-d8Qj2x6u" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78264" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_kompatibel.jpg" alt="Microsoft Edge AddOn Store: Kompatibilitätsanzeige" width="1024" height="258" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_kompatibel.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_kompatibel-300x76.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_kompatibel-768x194.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_kompatibel-643x162.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Unterhalb des Buttons zur Installation wird angezeigt, ob die Erweiterung mit der aktuell genutzten Edge-Version kompatibel ist.</p>
+<p><strong>Detailinfos</strong></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_detailinfos.jpg" data-rel="lightbox-gallery-d8Qj2x6u" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78263" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_detailinfos.jpg" alt="Microsoft Edge AddOn Store: Detailinfos" width="1024" height="285" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_detailinfos.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_detailinfos-300x83.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_detailinfos-768x214.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_detailinfos-643x179.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>In der äußeren rechten Spalte wird nun die Versionsnummer und das Datum der letzten Aktualisierung angezeigt. Diese Änderung ist bereits aktiv.</p>
+<p><strong>Link zum Entwickler</strong></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_weblink.jpg" data-rel="lightbox-gallery-d8Qj2x6u" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78266" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_weblink.jpg" alt="Microsoft Edge AddOn Store: Weblink zum Entwickler" width="754" height="264" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_weblink.jpg 754w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_weblink-300x105.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_weblink-643x225.jpg 643w" sizes="(max-width: 754px) 100vw, 754px" /></a></p>
+<p>Die Information zum Entwickler eines AddOns ist nun mit dessen Homepage verlinkt. Auch diese Änderung ist bereits aktiv.</p>
+<p><strong>ähnliche AddOns</strong></p>
+<p>Last but not least wird dem Nutzer einer Liste von Erweiterungen angezeigt, die bei anderen Nutzern populär sind.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_andere_moegen.jpg" data-rel="lightbox-gallery-d8Qj2x6u" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78262" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_andere_moegen.jpg" alt="Microsoft Edge AddOn Store: Ähnliche AddOns" width="1024" height="281" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_andere_moegen.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_andere_moegen-300x82.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_andere_moegen-768x211.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_edge_addon_store_andere_moegen-643x176.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Die Idee mit der Versionsnummer und der letzten Änderung sollte man dringend auch an die Kollegen vom Microsoft Store für Windows 10 weitergeben.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-der-erweiterungs-store-wird-um-diverse-informationen-erweitert/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft To Do: Widgets für iOS 14 kommen im Januar</title>
+		<link>https://www.drwindows.de/news/microsoft-to-do-widgets-fuer-ios-14-kommen-im-januar</link>
+					<comments>https://www.drwindows.de/news/microsoft-to-do-widgets-fuer-ios-14-kommen-im-januar#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 10:02:29 +0000</pubDate>
+				<category><![CDATA[Microsoft auf iOS]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78257</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft To Do" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Seit iOS 14 kommen auch iPhone-Nutzer in den Genuss von Widgets, um den Startbildschirm ihres Smartphones informativer und abwechslungsreicher zu gestalten. Zahlreiche Apps bieten bereits ein Widget an, andere haben noch ein wenig Nachholbedarf, wie beispielsweise Microsoft To Do. Aber Abhilfe ist in Sicht. iOS-Widgets für To Do sind in Entwicklung und sollen laut Microsoft-Roadmap [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft To Do" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-To-Do-Neu-1-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Seit iOS 14 kommen auch iPhone-Nutzer in den Genuss von Widgets, um den Startbildschirm ihres Smartphones informativer und abwechslungsreicher zu gestalten. Zahlreiche Apps bieten bereits ein Widget an, andere haben noch ein wenig Nachholbedarf, wie beispielsweise Microsoft To Do. Aber Abhilfe ist in Sicht.</p>
+<p>iOS-Widgets für To Do sind in Entwicklung und sollen laut <a href="https://www.microsoft.com/en-us/microsoft-365/roadmap?rtc=1&amp;searchterms=68883&amp;filters=&amp;searchterms=68883" target="_blank" rel="noopener noreferrer">Microsoft-Roadmap</a> im Dezember 2021 veröffentlicht werden. Dabei handelt es sich aber glücklicherweise um einen Schreibfehler, denn im Microsoft 365 Admincenter kann man seit heute nachlesen, dass die iOS 14 Widgets für Microsoft To Do bis Ende Januar 2021 allgemein verfügbar sind:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_ios_widgets.jpg" data-rel="lightbox-gallery-TtKcd4ob" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78258" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_ios_widgets.jpg" alt="Microsoft Teams Widgets für iOS" width="697" height="603" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_ios_widgets.jpg 697w, https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_ios_widgets-300x260.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/teams_ios_widgets-643x556.jpg 643w" sizes="(max-width: 697px) 100vw, 697px" /></a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-to-do-widgets-fuer-ios-14-kommen-im-januar/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>In eigener Sache: Hallo neues Forum - Adieu, DrWindows Apps</title>
+		<link>https://www.drwindows.de/news/in-eigener-sache-hallo-neues-forum-adieu-drwindows-apps</link>
+					<comments>https://www.drwindows.de/news/in-eigener-sache-hallo-neues-forum-adieu-drwindows-apps#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 08:55:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78199</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Dr. Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Was lange währt wird endlich gut. Am kommenden Wochenende ist es endlich soweit: Wir stellen unser runderneuertes Forum an den Start. Während wir uns darauf wirklich sehr freuen, ist der Start des neuen Forums leider auch mit einem schmerzlichen Abschied verbunden: Wie bereits angekündigt, werden die DrWindows-Apps für Android, iOS und Windows ab diesem Zeitpunkt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Dr. Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Was lange währt wird endlich gut. Am kommenden Wochenende ist es endlich soweit: Wir stellen unser runderneuertes Forum an den Start. Während wir uns darauf wirklich sehr freuen, ist der Start des neuen Forums leider auch mit einem schmerzlichen Abschied verbunden: Wie bereits angekündigt, werden die DrWindows-Apps für Android, iOS und Windows ab diesem Zeitpunkt nicht mehr funktionieren.</p>
+<p>Bringen wir den schmerzhaften Teil zuerst hinter uns, dazu zitiere ich mich selbst aus der <a href="https://www.drwindows.de/news/ein-update-zu-unserem-neuen-deal" target="_blank" rel="noopener noreferrer">ursprünglichen Ankündigung</a> zum Ende der Apps vom September:</p>
+<p><em>Der Hauptgrund, warum es die Apps für Android, iOS und davor auch für Windows Phone gab, war jener, dass unsere Seite über lange Zeit nicht komfortabel mit dem Smartphone nutzbar war. Das neue Forum wird ebenfalls mobiltauglich sein, sodass unsere Seite dann mit jedem Endgerät einwandfrei nutzbar ist. Die Seite mit allen Funktionen in einer App „nachzubauen“, ist schlicht unwirtschaftlich. Selbstverständlich tut mir das selbst auch weh und ich weiß, dass eine native App durchaus für zusätzliche Bindung sorgt, daher ist mir diese Entscheidung wirklich sehr schwergefallen.</em></p>
+<p>Ich habe von einigen Lesern die Rückmeldung erhalten, dass eine mobile Webseite zwar schön sei, aber einfach nicht Dasselbe wie eine App. Dieser Meinung kann ich mich nur anschließen, es ändert aber nichts an den oben erwähnten Umständen. Wenn wir ehrlich sind, dann sind unsere Apps zwar nutzbar, aber dennoch nur Stückwerk. Bei der Windows App herrscht seit Jahren Stillstand, die Apps für Android und iOS wurden nie wirklich fertig. Im Gegenzug hat die Rücksichtnahme auf die Kompatibilität mit dem App-Backend dazu geführt, dass die Seite selbst technisch immer rückständiger wurde, und es fiel zunehmend schwer, diesen Umstand zu &#8222;verheimlichen&#8220;. Nicht nur das Forum, sondern auch Teile der Server-Software hängen dadurch auf alten technischen Ständen fest, die beinahe nicht mehr zu verantworten sind.</p>
+<p>Mit der Umstellung auf das neue Forum gehen daher auch weitere technische Aktualisierungen einher, wir versprechen uns davon einen stabileren Betrieb und vor allen Dingen eine bessere Performance für die Webseite, die ja im Grunde &#8222;zwei Webseiten&#8220; ist. Der Newsbereich arbeitet mit WordPress, das Forum aktuell mit vBulletin und ab dem kommenden Wochenende mit XenForo. Darum gibt es das &#8222;Ersatzprogramm&#8220; in Zukunft ebenfalls zweimal: Sowohl die News (das funktioniert jetzt schon) als auch das Forum lassen sich als Progressive Web App nutzen. In beiden Fällen ist der PWA-Support allerdings rudimentär, ich will da keine falschen Hoffnungen wecken. Ich habe auch nicht vor, daraus eine neue Baustelle zu machen. Was auf jeden Fall für Anfang 2021 vorgesehen ist, sind Push-Benachrichtigungen für neue Artikel. Damit hätten wir dann ein wichtiges Feature, das in den echten Apps immer vermisst wurde.</p>
+<p>Zum neuen Forum kann ich nur sagen: Freut euch drauf! Für unsere eingefleischten &#8222;Foristen&#8220; wird es selbstverständlich eine gewisse Zeit der Eingewöhnung benötigen, wie das immer so ist, wenn etwas Neues kommt, ich bin mir aber ganz sicher, dass es positiv aufgenommen wird, weil die Bedienung leichter von der Hand geht und es diverse Neuerungen gibt, die dabei helfen, keine Informationen mehr zu übersehen. Dazu gehört beispielsweise die Möglichkeit, andere User per &#8222;@username&#8220; anzusprechen, worüber diese dann auch aktiv informiert werden. Standard in allen modernen Kommunikations-Werkzeugen, aber in unserem alten Forum gibt es das eben nicht. Alte Foren-Haudegen werden vielleicht auch so manchen &#8222;neumodischen Kram&#8220; entdecken &#8211; auch das gehört eben dazu.</p>
+<p>Zum Ablauf: Die Umstellung wird im Lauf des Freitagnachmittags beginnen. Einige vorbereitende Arbeiten können im laufenden Betrieb durchgeführt werden, irgendwann wird das Forum dann allerdings in den &#8222;Lesemodus&#8220; geschaltet. Das heißt, man kann zwar auf alle Inhalte zugreifen, es können sich aber keine neuen Benutzer registrieren und man kann keine Beiträge mehr schreiben. Im Idealfall ist das neue Forum ab Samstagabend zu erreichen, ich rechne allerdings eher damit, dass es bis Sonntag dauert &#8211; irgendwann muss ich zwischendurch ja auch mal schlafen.</p>
+<p>Der News-Bereich wird mit wenigen Unterbrechungen durchgängig online sein, während das Forum abgeschaltet ist, können allerdings keine Kommentare geschrieben werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/in-eigener-sache-hallo-neues-forum-adieu-drwindows-apps/feed</wfw:commentRss>
+			<slash:comments>31</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Lords of the West: Microsoft kündigt neuen DLC für Age of Empires II: Definitive Edition an</title>
+		<link>https://www.drwindows.de/news/lords-of-the-west-microsoft-kuendigt-neuen-dlc-fuer-age-of-empires-ii-definitive-edition-an</link>
+					<comments>https://www.drwindows.de/news/lords-of-the-west-microsoft-kuendigt-neuen-dlc-fuer-age-of-empires-ii-definitive-edition-an#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 07:14:29 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78240</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Er landet zwar nicht mehr unter dem Weihnachtsbaum, aber Fans von Age of Empires sollten sich den 26. Januar schon einmal fett im Kalender anstreichen. Mit Lords of the West erscheint dann für die Definitive Edition von Age of Empires II ein neuer DLC, der mit den Burgundern und Sizilianern gleich zwei neue [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Er landet zwar nicht mehr unter dem Weihnachtsbaum, aber Fans von Age of Empires sollten sich den 26. Januar schon einmal fett im Kalender anstreichen. Mit Lords of the West erscheint dann für die Definitive Edition von Age of Empires II ein neuer DLC, der mit den Burgundern und Sizilianern gleich zwei neue Zivilisationen ins Spiel bringt. Außerdem gibt es drei neue Kampagnen sowie zahlreiche neue Achievements.</p>
+<p>Die neue Erweiterung kann ab sofort im Microsoft Store und bei Steam für 9,99 € vorbestellt werden, das entsprechende Hauptspiel ist natürlich Pflicht. Selbstverständlich wird es den neuen DLC auch im Xbox Game Pass geben, wo er für den PC auch vergünstig erworben werden kann. Die entsprechenden Links findet ihr unter dem Beitrag.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9n69dq6hp313) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9n69dq6hp313" title="Age of Empires II: Definitive Edition - Lords of the West">Age of Empires II: Definitive Edition - Lords of the West (9,99 €<sup>+</sup>, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.4 // Store: steam // ID: 1389240) --><p><a target="_blank" rel="nofollow" href="http://store.steampowered.com/app/1389240/" title="Age of Empires II: Definitive Edition - Lords of the West">Age of Empires II: Definitive Edition - Lords of the West (9,99 €, Steam) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/lords-of-the-west-microsoft-kuendigt-neuen-dlc-fuer-age-of-empires-ii-definitive-edition-an/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Mehr Sicherheit: Microsoft baut den Authenticator zum Passwortmanager aus</title>
+		<link>https://www.drwindows.de/news/mehr-sicherheit-microsoft-baut-den-authenticator-zum-passwortmanager-aus</link>
+					<comments>https://www.drwindows.de/news/mehr-sicherheit-microsoft-baut-den-authenticator-zum-passwortmanager-aus#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 06:02:15 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[Microsoft auf iOS]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78233</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Authenticator" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Bevor in der kommenden Woche das Weihnachtsfest vor der Tür steht, legt Microsoft den Nutzern des Microsoft Authenticators noch ein kleines Geschenk unter den virtuellen Weihnachtsbaum. Wie die Redmonder in einem neuen Blogpost ankündigten, steht der integrierte Passwortmanager nun als Public Preview unter iOS und Android zur Verfügung. Außerdem könnt ihr nun auch auf die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Authenticator" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/02/microsoft_authenticator-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Bevor in der kommenden Woche das Weihnachtsfest vor der Tür steht, legt Microsoft den Nutzern des Microsoft Authenticators noch ein kleines Geschenk unter den virtuellen Weihnachtsbaum. Wie die Redmonder in einem neuen Blogpost ankündigten, steht der integrierte Passwortmanager nun als Public Preview unter iOS und Android zur Verfügung. Außerdem könnt ihr nun auch auf die neue Autofill-Funktion in der Beta zurückgreifen, sofern eure Smartphones und Tablets mindestens iOS 12 oder höher bzw. Android 6.0 oder höher verwenden.</p>
+<p>Momentan unterstützt der Microsoft Authenticator die Synchronisation über den klassischen Microsoft-Account, andere Varianten wie Azure Active Directory und Accounts von Bildungseinrichtungen sind aktuell noch außenvor. Wenn ihr Microsoft Edge am Desktop verwendet, braucht ihr nichts weiter tun, die Liste der synchronisierten Passwörter ist mit der in Microsofts eigenem Browser identisch. Für andere Chromium-Browser wie Google Chrome stellt Microsoft eine separate Autofill-Erweiterung bereit, ein Addon für Mozilla Firefox gibt es aktuell nicht.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: googleplay // ID: com.azure.authenticator) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.azure.authenticator" title="Microsoft Authenticator">Microsoft Authenticator (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.4 // Store: appstore // ID: 983156458) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-authenticator/id983156458" title="‎Microsoft Authenticator">‎Microsoft Authenticator (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.4 // Store: chromewebstore // ID: fiedbfgcleddlbcmgdigjgdfcggjcion) --><p><a target="_blank" rel="nofollow" href="https://chrome.google.com/webstore/detail/microsoft-autofill/fiedbfgcleddlbcmgdigjgdfcggjcion" title="Microsoft AutoAusfüllen">Microsoft AutoAusfüllen (Kostenlos, Chrome Web Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/mehr-sicherheit-microsoft-baut-den-authenticator-zum-passwortmanager-aus/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edge Dev: Microsoft veröffentlicht mit Version 89.0.731.0 das finale Update in diesem Jahr</title>
+		<link>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-89-0-731-0-das-finale-update-in-diesem-jahr</link>
+					<comments>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-89-0-731-0-das-finale-update-in-diesem-jahr#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 16 Dec 2020 05:40:08 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78237</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Es ist Mittwoch und Microsoft hat am gestrigen Abend mit Version 89.0.731.0 wieder ein neues Update im Dev Channel veröffentlicht. Die neue Version bringt vor allem Bugfixes und fügt nur wenige kleine Neuerungen hinzu, sodass unter anderem jetzt der Shortcut F12 zu den Developer Tools in den Einstellungen deaktiviert werden kann. Gleichzeitig ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Es ist Mittwoch und Microsoft hat am gestrigen Abend mit Version 89.0.731.0 wieder ein neues Update im Dev Channel veröffentlicht. Die neue Version bringt vor allem Bugfixes und fügt nur wenige kleine Neuerungen hinzu, sodass unter anderem jetzt der Shortcut F12 zu den Developer Tools in den Einstellungen deaktiviert werden kann. Gleichzeitig ist diese Version aber auch das letzte Update, was Microsoft im Dev, Beta und Stable Channel veröffentlichen wird, sollte nichts mehr dazwischen kommen.</p>
+<p>Eine Ausnahme gilt für kleinere Bugfixes und natürlich dringende Sicherheitsupdates. Für den Canary Channel gibt es hingegen keine Pause, er wird auch über die Feiertage hinweg weiter mit täglichen Updates versorgt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/edge-dev-microsoft-veroeffentlicht-mit-version-89-0-731-0-das-finale-update-in-diesem-jahr/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>MSN Wetter: Microsoft kündigt neues Design und Funktionen für alle Plattformen an</title>
+		<link>https://www.drwindows.de/news/msn-wetter-microsoft-kuendigt-neues-design-und-funktionen-fuer-alle-plattformen-an</link>
+					<comments>https://www.drwindows.de/news/msn-wetter-microsoft-kuendigt-neues-design-und-funktionen-fuer-alle-plattformen-an#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 17:43:08 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78216</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Bing neues Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nachdem Microsoft sein eigenes Nachrichtenangebot in der jüngeren Vergangenheit eher gespalten und Microsoft News mit seinen generalüberholten Apps für iOS und Android eine gewisse Priorität eingeräumt hat, tut sich auch beim übrigen MSN in letzter Zeit wieder mehr. Das Team hinter Microsoft Bing hatte zuletzt mit den Kollegen von Microsoft Research gemeinsam den neuen MSN [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Bing neues Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/microsoft_bing_neues_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nachdem Microsoft sein eigenes Nachrichtenangebot in der jüngeren Vergangenheit eher gespalten und Microsoft News mit seinen generalüberholten Apps für iOS und Android eine gewisse Priorität eingeräumt hat, tut sich auch beim übrigen MSN in letzter Zeit wieder mehr. Das Team hinter Microsoft Bing hatte zuletzt mit den Kollegen von Microsoft Research gemeinsam den neuen MSN Esports Hub <a href="https://www.drwindows.de/news/dank-bing-und-microsoft-research-microsoft-bringt-neuen-msn-esports-hub-an-den-start">angekündigt</a> und nimmt sich mit MSN Wetter nun wieder einem eher klassischen Vertreter an.</p>
+<p>MSN Wetter soll in den kommenden Monaten nach und nach nicht nur ein neues und moderneres Design erhalten, sondern auch zahlreiche neue Funktionen. Die Karten sollen interaktiver und animierter werden, außerdem möchten die Entwickler deutliche Verbesserungen bei Unwetterwarnungen und entsprechenden Nachrichten erreichen und setzen ähnlich wie beim Esports Hub auch hier auf Machine Learning, um die Daten auf Grundlage von Bing Maps entsprechend anschaulich darzustellen. Letztlich führen die Entwickler hier das fort, was neben dem Esports Hub auch bei Microsoft News <a href="https://www.drwindows.de/news/microsoft-news-journalisten-sollen-der-ai-weichen">selbst</a> schon länger bekannt ist.</p>
+<p>Zunächst sind die neuen Funktionen auf den Desktop beschränkt und erscheinen unter anderem auch bei Microsoft Edge sowie den Wetterantworten von Bing. Zudem kommen vorerst nur die Nutzer in den USA in den Genuss der Neuerungen, die Ausweitung auf zahlreiche weitere Regionen ist aber schon für die kommenden Monaten angekündigt. Man darf also gespannt sein, ob und wann auch MSN Sport und MSN Finanzen eine entsprechende Überarbeitung erfahren und ob im Zuge dessen auch die veralteten Apps für iOS und Android endlich mal aufgefrischt werden. Zu Wünschen wäre es auf jeden Fall.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/msn-wetter-microsoft-kuendigt-neues-design-und-funktionen-fuer-alle-plattformen-an/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Integration von EA Play in den Xbox Game Pass für PC auf unbestimmte Zeit verschoben</title>
+		<link>https://www.drwindows.de/news/integration-von-ea-play-in-den-xbox-game-pass-fuer-pc-auf-unbestimmte-zeit-verschoben</link>
+					<comments>https://www.drwindows.de/news/integration-von-ea-play-in-den-xbox-game-pass-fuer-pc-auf-unbestimmte-zeit-verschoben#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 17:07:00 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78214</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass und EA Play" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Ab dem heutigen 15. Dezember hätten Abonnenten des Xbox Game Pass für PC bzw. des Game Pass Ultimate Zugriff auf die Spiele erhalten sollen, die in EA Play enthalten sind. Auf der Xbox wurde diese Integration bereits am 10. November vollzogen, insofern war nicht mit Problemen zu rechnen. Solche sind aber nun dennoch aufgetreten, weshalb [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass und EA Play" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/game_pass_ultimate_ea_play-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Ab dem heutigen 15. Dezember hätten Abonnenten des Xbox Game Pass für PC bzw. des Game Pass Ultimate Zugriff auf die Spiele erhalten sollen, die in EA Play enthalten sind. Auf der Xbox wurde diese Integration bereits am 10. November vollzogen, insofern war nicht mit Problemen zu rechnen.</p>
+<p>Solche sind aber nun dennoch aufgetreten, weshalb die Integration auf dem PC auf unbestimmte Zeit verschoben wurde. Man benötige zusätzliche Zeit, um den PC-Spielern das bestmögliche Erlebnis zu bieten, schreibt Microsoft in einem insgesamt leicht zerknirscht klingenden <a href="https://news.xbox.com/en-us/2020/12/15/update-on-ea-play-xbox-game-pass-for-pc-2021/" target="_blank" rel="noopener noreferrer">Blogpost</a>. Anfang 2021 will man den neuen Fahrplan vorliegen.</p>
+<p>Ob es technische Gründe für die Verschiebung gibt oder ob eventuell vertragliche Details zwischen Microsoft und EA nicht rechtzeitig geklärt werden konnten, darüber kann man nur spekulieren. Für PC-Spieler bleibt es so oder so dabei: Sie werden sich noch etwas gedulden müssen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/integration-von-ea-play-in-den-xbox-game-pass-fuer-pc-auf-unbestimmte-zeit-verschoben/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft bringt das Surface Duo Anfang 2021 nach Deutschland</title>
+		<link>https://www.drwindows.de/news/microsoft-bringt-das-surface-duo-anfang-2021-nach-deutschland</link>
+					<comments>https://www.drwindows.de/news/microsoft-bringt-das-surface-duo-anfang-2021-nach-deutschland#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 15 Dec 2020 16:35:14 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78209</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Surface Duo, Microsofts Android Smartphone mit zwei Bildschirmen, ist bislang nur in den USA erhältlich. Das ändert sich in absehbarer Zeit. Ab Anfang 2021 wird das Surface Duo in Deutschland erhältlich sein, außerdem noch in Frankreich, Großbritannien sowie in Kanada. Einen exakten Termin oder einen Preis teilt man vorerst allerdings noch nicht mit. In [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Surface Duo, Microsofts Android Smartphone mit zwei Bildschirmen, ist bislang nur in den USA erhältlich. Das ändert sich in absehbarer Zeit. Ab Anfang 2021 wird das Surface Duo in Deutschland erhältlich sein, außerdem noch in Frankreich, Großbritannien sowie in Kanada. Einen exakten Termin oder einen Preis teilt man vorerst allerdings noch nicht mit.</p>
+<p>In einem <a href="https://blogs.windows.com/devices/2020/12/15/the-year-ahead-for-surface-duo/" target="_blank" rel="noopener noreferrer">Blogpost</a> unterstreicht Microsoft nochmals seine Überzeugung, mit dem Dual Screen Konzept auf dem richtigen Weg zu sein und die Nutzer damit produktiver zu machen, außerdem feiert man die Auszeichnung des Surface Duo als &#8222;beste Innovation&#8220; durch das TIME Magazine.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo.jpg" data-rel="lightbox-gallery-dgNJvO1a" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78210" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo.jpg" alt="Microsoft Teams auf dem Surface Duo" width="1024" height="660" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-300x193.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-768x495.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-341x220.jpg 341w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_surface_duo-643x414.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Im kommenden Jahr will Microsoft weiterhin an der Optimierung seiner eigenen Apps für das Surface Duo arbeiten, wenig überraschend steht dabei Microsoft Teams im Fokus.</p>
+<p>Außerdem will man seine Bemühungen verstärken, App-Entwickler zu animieren, ebenfalls für Dual Screen zu optimieren. Es ist ebenfalls keine Überraschung, dass in diesem Bereich bislang so gut wie nichts passiert ist, auch wenn in dem Blogpost Spotify und TikTok als prominente Beispiele genannt werden, die ihre Android-Apps für Dual Screen Geräte angepasst haben.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo.jpg" data-rel="lightbox-gallery-dgNJvO1a" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78211" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo.jpg" alt="TikTok auf dem Surface Duo" width="1024" height="753" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-300x221.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-768x565.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/tiktok_surface_duo-643x473.jpg 643w" sizes="(max-width: 1024px) 100vw, 1024px" /></a></p>
+<p>Beim Thema &#8222;optimierte Apps&#8220; sind wir halt wieder beim typischen Henne/Ei-Problem und Microsoft muss hoffen, dass noch andere Hersteller und natürlich auch die Kunden auf diesen Zug aufspringen, Appelle an die Entwickler werden da nicht helfen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-bringt-das-surface-duo-anfang-2021-nach-deutschland/feed</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
