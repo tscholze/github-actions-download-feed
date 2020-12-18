@@ -1,0 +1,262 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Fri, 18 Dec 2020 10:21:14 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.5.3</generator>
+	<item>
+		<title>Microsoft Teams erhält Präsentations-Ansicht für PowerPoint</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-erhaelt-praesentations-ansicht-fuer-powerpoint</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-erhaelt-praesentations-ansicht-fuer-powerpoint#respond</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 10:21:14 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78345</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wer öfter PowerPoint-Präsentationen hält, der ist sicherlich mit der Präsentations-Ansicht vertraut. Während die Zuschauer nur die Folien sehen, hat man selbst eine Übersicht über alle Folien, sieht die verstrichene Zeit und vor allen Dingen die Sprechernotizen, die man hinterlegt, um während des Vortrags nichts Wichtiges zu vergessen. Eine ähnliche Funktion wird derzeit für Microsoft Teams [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wer öfter PowerPoint-Präsentationen hält, der ist sicherlich mit der Präsentations-Ansicht vertraut. Während die Zuschauer nur die Folien sehen, hat man selbst eine Übersicht über alle Folien, sieht die verstrichene Zeit und vor allen Dingen die Sprechernotizen, die man hinterlegt, um während des Vortrags nichts Wichtiges zu vergessen.</p>
+<p>Eine ähnliche Funktion wird derzeit für Microsoft Teams entwickelt. In Zeiten, wo Präsentationen fast ausschließlich digital gehalten werden, sicherlich eine sehr gute Idee.</p>
+<p>So wird das in Zukunft aussehen:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view.png" data-rel="lightbox-gallery-rfzXj9D5" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78346" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view.png" alt="Referenten-Ansicht für PowerPoint in Microsoft Teams" width="624" height="376" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view.png 624w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view-300x181.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></a></p>
+<p>Sobald man als Präsentierender eine PowerPoint-Datei in einem Teams-Meeting öffnet, wird die neue Ansicht automatisch geöffnet. Der Vortragende sieht die aktuelle Folie, die zugehörigen Notizen und außerdem eine Thumbnail-Ansicht der nachfolgenden oder vorhergehenden Folien. So kann man bei Rückfragen beispielsweise direkt zur entsprechenden Folie springen, auf der die gewünschte Information zu sehen ist.</p>
+<p>Diese Präsentations-Ansicht ist immer nur für eine Person verfügbar. Sobald beispielsweise ein Moderator auf &#8222;Steuerung übernehmen&#8220; klickt, wird ihm diese Ansicht angezeigt und der zuvor Präsentierende wird zum Zuschauer.</p>
+<p>Die neue Präsentations-Ansicht soll ab Mitte Januar 2021 bei den ersten Nutzern ankommen und bis Mitte Februar für alle Teams-Nutzer verfügbar sein.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-erhaelt-praesentations-ansicht-fuer-powerpoint/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft: 85 Prozent aller Endkunden nutzen Windows Hello für die Anmeldung an Windows 10</title>
+		<link>https://www.drwindows.de/news/microsoft-85-prozent-aller-endkunden-nutzen-windows-hello-fuer-die-anmeldung-an-windows-10</link>
+					<comments>https://www.drwindows.de/news/microsoft-85-prozent-aller-endkunden-nutzen-windows-hello-fuer-die-anmeldung-an-windows-10#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 08:44:35 +0000</pubDate>
+				<category><![CDATA[Sicherheit]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78370</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Hello" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft ist auf einer Mission mit dem Ziel, Passwörter abzuschaffen und sie durch alternative Authentifizierungen zu ersetzen. In Windows 10 gibt es dafür die Funktion &#8222;Windows Hello&#8220;. In einem aktuellen Blogpost, in dem Microsoft eine Bilanz zum Fortschritt passwortloser Technologien im Jahr 2020 zieht, fällt eine beeindruckende Zahl: 84,7 Prozent aller Consumer nutzen Windows Hello, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Hello" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft ist auf einer Mission mit dem Ziel, Passwörter abzuschaffen und sie durch alternative Authentifizierungen zu ersetzen. In Windows 10 gibt es dafür die Funktion &#8222;Windows Hello&#8220;. In einem aktuellen <strong><a href="https://www.microsoft.com/security/blog/2020/12/17/a-breakthrough-year-for-passwordless-technology/" target="_blank" rel="noopener noreferrer">Blogpost</a></strong>, in dem Microsoft eine Bilanz zum Fortschritt passwortloser Technologien im Jahr 2020 zieht, fällt eine beeindruckende Zahl: 84,7 Prozent aller Consumer nutzen Windows Hello, um sich an Windows 10 anzumelden.</p>
+<p>Die Zahl ist nicht nur beeindruckend, sondern geradezu unglaublich. Dass es sich nicht um einen Tippfehler handelt, zeigt der gezogene Vergleich mit dem letzten Jahr, da sollen es 69,4 Prozent gewesen sein.</p>
+<p>Wenn von Windows Hello die Rede ist, dann denkt man dabei in erster Linie an die Anmeldung per Gesichtserkennung über eine Kamera, die wiederum besondere Anforderungen erfüllen muss. Tatsächlich gehört zu Windows Hello aber noch mehr, nämlich sowohl die Anmeldung per Fingerabdruck als auch mittels einer PIN. Während man für die Fingerabdruck-Anmeldung einen kompatiblen Sensor benötigt, ist die Anmeldung mittels PIN auf wirklich jedem Windows 10 PC verfügbar.</p>
+<p>Das Festlegen einer PIN wird während der Einrichtung von Windows 10 ausdrücklich empfohlen. Offenbar mit großem Erfolg, wenn die oben genannte Zahl tatsächlich stimmen sollte. Ich hätte nicht gedacht, dass so viele Nutzer dem Aufruf tatsächlich folgen, zumal es hinsichtlich der PIN immer wieder Missverständnisse gibt. &#8222;Wie kann eine vierstellige Zahl sicherer sein als ein komplexes Passwort?&#8220; werde ich nach wie vor oft gefragt.</p>
+<p>Der &#8222;Trick&#8220; ist: Die PIN funktioniert nur auf dem Gerät, auf dem sie eingerichtet wurde. Wer einem anderen Nutzer bei der Eingabe der PIN über die Schulter schaut, kann mit dieser Information nichts anfangen, ohne Zugang zu exakt diesem Computer zu haben, während ein auf diese Weise ausgespähtes Passwort weitaus größeren Schaden anrichten kann.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-85-prozent-aller-endkunden-nutzen-windows-hello-fuer-die-anmeldung-an-windows-10/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bitte nachmachen, Microsoft: Sony wirft Cyberpunk 2077 raus, Spieler erhalten Geld zurück</title>
+		<link>https://www.drwindows.de/news/bitte-nachmachen-microsoft-sony-wirft-cyberpunk-2077-raus-spieler-erhalten-geld-zurueck</link>
+					<comments>https://www.drwindows.de/news/bitte-nachmachen-microsoft-sony-wirft-cyberpunk-2077-raus-spieler-erhalten-geld-zurueck#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 07:32:12 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78367</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Sony macht ernst: Cyberpunk 2077 wurde aus dem Playstation Store entfernt. Spieler, die es bereits gekauft haben, erhalten ohne Wenn und Aber ihr Geld zurück. Es ist die (richtige) Reaktion auf einen absoluten Fehlstart des Spiels, das für viele Gamer nicht weniger als DER Titel des Jahres 2020 hätte werden sollen. Nach mehreren Verschiebungen wurde [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Sony macht ernst: Cyberpunk 2077 wurde aus dem Playstation Store entfernt. Spieler, die es bereits gekauft haben, erhalten ohne Wenn und Aber ihr Geld zurück. Es ist die (richtige) Reaktion auf einen absoluten Fehlstart des Spiels, das für viele Gamer nicht weniger als DER Titel des Jahres 2020 hätte werden sollen.</p>
+<p>Nach mehreren Verschiebungen wurde Cyberpunk 2077 am 10.12.20 veröffentlicht. Dass CD Projekt Red nicht vom nach wie vor schlechten Reifegrad des Spiels wusste, scheint unvorstellbar, zu offensichtlich waren die Probleme vor allen Dingen auf der Xbox One und der Playstation 4. Mit einer Entschuldigung versuchte man zu retten, was noch zu retten ist, und bot den Spielern eine <a href="https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an" target="_blank" rel="noopener noreferrer">Erstattung</a> an. Davon wussten aber weder Sony noch Microsoft, sodass die Versuche der Käufer, das Spiel zurückzugeben, oft nicht von Erfolg gekrönt waren.</p>
+<p>Sony hat nun Nägel mit Köpfen gemacht: Auf einer <a href="https://www.playstation.com/de-de/cyberpunk-2077-refunds/" target="_blank" rel="noopener noreferrer">Supportseite</a> schreibt man, dass alle Spieler, die Cyberpunk 2077 aus dem Playstation Store gekauft haben, eine Rückerstattung erhalten. Noch radikaler ist die zweite Maßnahme: Cyberpunk 2077 wird bis auf Weiteres aus dem Playstation Store entfernt.</p>
+<p>Beide Schritte dürften Sony nicht leicht gefallen sein, sind sie doch mit hohen eigenen finanziellen Einbußen verbunden. Sie tun der Spielewelt und irgendwie auch CD Projekt Red damit einen Gefallen, denn sie werden somit aus der Schusslinie genommen und können sich auf das konzentrieren, was sie schon vor dem 10.12. hätten tun sollen: Cyberpunk 2077 fertigstellen.</p>
+<p>Microsoft, bitte nachmachen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bitte-nachmachen-microsoft-sony-wirft-cyberpunk-2077-raus-spieler-erhalten-geld-zurueck/feed</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Google: Drittes Antitrust-Verfahren knöpft sich die Suchmaschine vor</title>
+		<link>https://www.drwindows.de/news/google-drittes-antitrust-verfahren-knoepft-sich-die-suchmaschine-vor</link>
+					<comments>https://www.drwindows.de/news/google-drittes-antitrust-verfahren-knoepft-sich-die-suchmaschine-vor#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 00:16:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78364</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Weihnachtsfest dürfte für Google in diesem Jahr auch abseits von Corona alles andere als besinnlich werden, denn nach nicht einmal 24 Stunden sieht sich der Technologieriese aus Mountain View seinem dritten Antitrust-Verfahren gegenüber. Unter der Leitung von Arizona, Colorado, Iowa, Nebraska, New York, North Carolina, Tennessee und Utah haben insgesamt 38 der 50 US-Bundesstaaten [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Weihnachtsfest dürfte für Google in diesem Jahr auch abseits von Corona alles andere als besinnlich werden, denn nach nicht einmal 24 Stunden sieht sich der Technologieriese aus Mountain View seinem dritten Antitrust-Verfahren gegenüber. Unter der Leitung von Arizona, Colorado, Iowa, Nebraska, New York, North Carolina, Tennessee und Utah haben insgesamt 38 der 50 US-Bundesstaaten wieder die Suchmaschine ins Visier genommen und gehen dabei noch deutlich weiter als das Verfahren, welches im Oktober durch das Justizministerium und 11 weitere Bundesstaaten eingeleitet wurde.</p>
+<p>Google werden in dem neuen Verfahren weitreichende Schritte vorgeworfen, um seine dominante Stellung bei den Suchmaschinen zu verteidigen und die eigenen Services zu bevorzugen. Dabei soll das Unternehmen Suchergebnisse von Konkurrenten aus Bereichen wie Reisen, Heimwerken oder Entertainment deutlich abgewertet oder sogar geblockt haben. Im Zuge dessen wird auch das illegale Monopol bei der Werbefinanzierung wieder aufgegriffen und der Vorwurf geäußert, Google habe auch durch das massenhafte Sammeln der Nutzerdaten neue Barrieren hochgezogen und diese zudem als &#8222;Waffen&#8220; missbraucht, um Konkurrenten auszuschalten und weniger Auswahl für die Nutzer zu generieren.</p>
+<p>Im weiteren Verlauf soll das nun eröffnete Antitrust-Verfahren mit dem des Justizministeriums kombiniert werden. Über eine Beteiligung am bereits bekannten <a href="https://www.drwindows.de/news/der-naechste-bitte-zehn-us-bundesstaaten-leiten-weiteres-kartellverfahren-gegen-google-und-facebook-ein">Kartellverfahren</a> wegen illegaler Absprachen mit Facebook wurde noch nicht entschieden, man analysiert die Vorwürfe aber genau. So oder so haben die kombinierten Verfahren aber spätestens jetzt eine ähnliche Wucht wie das große Verfahren, was vor wenigen Wochen gegen <a href="https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen">Facebook</a> eingeleitet wurde. Letztlich dürfte das auch eine Zerschlagung als das Instrument der Wahl immer wahrscheinlicher machen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/google-drittes-antitrust-verfahren-knoepft-sich-die-suchmaschine-vor/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp: Anrufe im Desktop Client starten in den Testbetrieb</title>
+		<link>https://www.drwindows.de/news/whatsapp-anrufe-im-desktop-client-starten-in-den-testbetrieb</link>
+					<comments>https://www.drwindows.de/news/whatsapp-anrufe-im-desktop-client-starten-in-den-testbetrieb#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 18:14:59 +0000</pubDate>
+				<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78350</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="WhatsApp" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Seit geraumer Zeit arbeitet WhatsApp an einer Anruffunktion für die Desktop-App unter Windows. Nun scheint es bald soweit zu sein, denn die ersten User können bereits Sprach- und Videoanrufe über den Desktop führen. Wie die Insider-Seite WABeta berichtet, hat der Testbetrieb begonnen. Nach dem Zufallsprinzip wird die Anruffunktion Zug um Zug und sehr langsam ausgerollt. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="WhatsApp" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Seit geraumer Zeit arbeitet WhatsApp an einer Anruffunktion für die Desktop-App unter Windows. Nun scheint es bald soweit zu sein, denn die ersten User können bereits Sprach- und Videoanrufe über den Desktop führen.</p>
+<p>Wie die Insider-Seite <a href="https://wabetainfo.com/whatsapp-beta-calls-available-on-whatsapp-web-desktop/" target="_blank" rel="noopener noreferrer">WABeta</a> berichtet, hat der Testbetrieb begonnen. Nach dem Zufallsprinzip wird die Anruffunktion Zug um Zug und sehr langsam ausgerollt. Offenbar möchte man behutsam vorgehen und beobachten, wie gut die Funktion angenommen wird und wie zuverlässig es funktioniert. Für den Rollout sind mehrere Wochen angesetzt, es kann also durchaus sein, dass sich einige von euch noch eine Weile gedulden müssen.</p>
+<p>Ich habe gerade nachgesehen, bei mir zeigt sich das Feature noch nicht.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9nksqgp7f2nh) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9nksqgp7f2nh" title="WhatsApp Desktop">WhatsApp Desktop (Kostenlos, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/whatsapp-anrufe-im-desktop-client-starten-in-den-testbetrieb/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Der Nächste bitte: Zehn US-Bundesstaaten leiten weiteres Kartellverfahren gegen Google und Facebook ein</title>
+		<link>https://www.drwindows.de/news/der-naechste-bitte-zehn-us-bundesstaaten-leiten-weiteres-kartellverfahren-gegen-google-und-facebook-ein</link>
+					<comments>https://www.drwindows.de/news/der-naechste-bitte-zehn-us-bundesstaaten-leiten-weiteres-kartellverfahren-gegen-google-und-facebook-ein#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 12:11:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78335</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn es um neue Antitrust-Verfahren gegen die großen Technologiekonzerne in den USA geht, überschlagen sich in den vergangenen Monaten hier förmlich die Ereignisse. Zunächst wurde Google im Oktober mit mehreren Verfahren bedacht, wo unter anderem auch über einen möglichen Verkauf von Google Chrome spekuliert wurde. In diesem Monat folgte gegen Facebook die größte Kartellklage in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn es um neue Antitrust-Verfahren gegen die großen Technologiekonzerne in den USA geht, überschlagen sich in den vergangenen Monaten hier förmlich die Ereignisse. Zunächst wurde Google im Oktober mit mehreren Verfahren <a href="https://www.drwindows.de/news/bericht-google-koennte-zum-verkauf-von-chrome-gezwungen-werden-auch-werbegeschaeft-betroffen">bedacht</a>, wo unter anderem auch über einen möglichen Verkauf von Google Chrome spekuliert wurde. In diesem Monat folgte gegen <a href="https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen">Facebook</a> die größte Kartellklage in der jüngeren US-Geschichte, die Instagram und WhatsApp wieder vom Mutterkonzern trennen und dessen Marktmacht einbremsen soll. Nun folgt das nächste Kartellverfahren gegen die beiden Unternehmen.</p>
+<p>Auch wenn sich die Vorwürfe zunächst nur gegen Google richten, werfen zehn US-Bundesstaaten unter Federführung von Texas auch Facebook illegale Absprachen im Bereich der Online-Werbung vor. Konkret sollen Google und Facebook im Jahr 2018, nachdem das Unternehmen aus Palo Alto mit Header Bidding ein neues Verfahren zur leichteren Einholung von Konkurrenzangeboten eingeführt hatte, Absprachen getroffen haben, um den Werbemarkt unter sich aufzuteilen. Daraufhin habe Facebook das Header Bidding eingeschränkt und im Gegenzug Vorzüge bei Echtzeit-Versteigerungen von Werbeflächen auf Googles Servern erhalten.</p>
+<p>Auf die großen Technologieriesen kommen damit auch unabhängig vom Handelskonflikt mit China stürmische Zeiten zu. Während die neuen Gesetzesvorhaben in der Europäischen Union mit dem Digitale-Dienste-Gesetz (DSA) und dem Digitale-Märkte-Gesetz (DMA) neben der schon bestehenden Datenschutzgrundverordnung (DSGVO/GDPR) vorerst einen eher symbolischen Wert haben, geht es in der Heimat für Google und Facebook mittlerweile ums Ganze, denn hier liegt mit der Zerschlagung das bei weitem härteste Instrument ausdrücklich auf dem Tisch. Die Verfahren gegen Apple und Amazon lassen noch auf sich warten, auch eine Überprüfung von Microsoft ist noch nicht ausgeschlossen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/der-naechste-bitte-zehn-us-bundesstaaten-leiten-weiteres-kartellverfahren-gegen-google-und-facebook-ein/feed</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ruffle: Wie man Flash-Inhalte auch in Zukunft sicher wiedergeben kann</title>
+		<link>https://www.drwindows.de/news/ruffle-wie-man-flash-inhalte-auch-in-zukunft-sicher-wiedergeben-kann</link>
+					<comments>https://www.drwindows.de/news/ruffle-wie-man-flash-inhalte-auch-in-zukunft-sicher-wiedergeben-kann#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 11:41:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78312</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Adobe Flash" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Am vergangenen Patchday hat Adobe das letzte Sicherheitsupdate für den eigenen Adobe Flash Player veröffentlicht und damit das Ende für die mittlerweile so umstrittene wie überflüssige Technologie besiegelt. Die reguläre Version wird zum Jahreswechsel für Consumer ihre Funktion einstellen und die wesentlichen Unternehmen wie Microsoft, Mozilla oder Google haben bereits lange detaillierte Pläne, wie der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Adobe Flash" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/06/adobe-flashplayer_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Am vergangenen Patchday hat Adobe das letzte Sicherheitsupdate für den eigenen Adobe Flash Player veröffentlicht und damit das Ende für die mittlerweile so umstrittene wie überflüssige Technologie besiegelt. Die reguläre Version wird zum Jahreswechsel für Consumer ihre Funktion einstellen und die wesentlichen Unternehmen wie Microsoft, Mozilla oder Google haben bereits lange detaillierte Pläne, wie der Flash Player in ihren Produkten abgewickelt wird. Nur für Firmenkunden will Adobe unter Umständen noch einen gewissen Support garantieren.</p>
+<p>Trotzdem gibt es zahlreiche Inhalte, die weiterhin nur in Flash vorliegen und die von vielen als Vermächtnis des Internets bewahrt werden wollen. Damit man hierfür nicht auf irgendwelche zweifelhaften Tricks mit veralteten Versionen des Adobe Flash Players zurückgreifen muss, gibt es mit <a href="https://ruffle.rs/">Ruffle</a> schon länger ein OpenSource-Projekt, was auf WebAssembly zurückgreift und als Flash-Emulator einen sicheren Ersatz auf Basis der Programmiersprache Rust bieten soll. Neben diversen Unternehmen, die früher schon Flash-Games entwickelt haben, wird Ruffle auch von Größen wie der New York Times und dem Internet Archive unterstützt.</p>
+<p>Ruffle selbst will den Adobe Flash Player auf drei Weisen ersetzen. Neben eigenständigen Desktop-Apps für Windows, Mac und Linux sind auch Browser-Erweiterungen für Firefox, Chrome, Safari und Edge in Arbeit. Außerdem soll sich Ruffle recht einfach in bestehende Internetseiten einbetten lassen, sodass keine zusätzlichen Konfigurationen notwendig sind. Was außerdem für das Projekt spricht, ist die Sprache, in der es entwickelt wird. Rust gehört zu den Memory Safe Languages und verwendet im Gegensatz zu den meisten anderen populären Vertretern keine Garbage Collection, sondern ein besonderes Typensystem. Das sorgt vor allem im Bereich der Speicherfehler dafür, dass viele Probleme, die der Adobe Flash Player hier hatte, von Beginn an im Keim erstickt oder zumindest nahezu unmöglich gemacht werden.</p>
+<p>Ruffle selbst ist noch in einem recht frühen Stadium und wird auf <a href="https://github.com/ruffle-rs/ruffle">GitHub</a> entwickelt. Die Roadmap des Projekts könnt ihr <a href="https://github.com/ruffle-rs/ruffle/wiki/Roadmap">hier</a> einsehen. Klar ist jedenfalls, dass Ruffle nach derzeitigem Stand die mit Abstand sicherste Möglichkeit darstellen dürfte, um Flash-Inhalte, die nicht mit Alternativen wie HTML5 ersetzt werden können oder sollen, auch in Zukunft zu erhalten. Eine entsprechende Alternative für Microsoft Silverlight hatte ich euch in Form von OpenSilver bereits im März <a href="https://www.drwindows.de/news/opensilver-userware-kuendigt-reimplementierung-von-silverlight-an">vorgestellt</a>. Allerdings kommen hier mit Blazor, C# und XAML ausschließlich Microsoft-Technologien zum Einsatz.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ruffle-wie-man-flash-inhalte-auch-in-zukunft-sicher-wiedergeben-kann/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cyberpunk 2077: Macher entschuldigen sich und bieten Erstattungen an - nur ein PR-Stunt? (Update)</title>
+		<link>https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an</link>
+					<comments>https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 10:18:48 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78142</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Siehe Update am Ende des Artikels. Immer dann, wenn dem Start eines neuen Produkts ein großer Hype vorausgeht, kann man zuverlässig davon ausgehen, dass es Enttäuschungen geben wird. Da macht Cyberpunk 2077 keine Ausnahme. Kaum ein anderes Spiel hatte so viel öffentliche Aufmerksamkeit, nicht zuletzt aufgrund der mehrmaligen Verschiebungen. Was CD Projekt Red am Ende [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Siehe Update am Ende des Artikels.</p>
+<p>Immer dann, wenn dem Start eines neuen Produkts ein großer Hype vorausgeht, kann man zuverlässig davon ausgehen, dass es Enttäuschungen geben wird. Da macht Cyberpunk 2077 keine Ausnahme. Kaum ein anderes Spiel hatte so viel öffentliche Aufmerksamkeit, nicht zuletzt aufgrund der mehrmaligen Verschiebungen. Was CD Projekt Red am Ende veröffentlicht hat, war &#8211; maximal diplomatisch ausgedrückt &#8211; eine Frechheit.</p>
+<p>Das Spiel ist rundum unfertig, auf die vielen Probleme im Einzelnen einzugehen, lohnt sich daher kaum. Nun haben sich die Entwickler via Twitter zu Wort gemeldet. Es gibt Entschuldigungen, die Aussicht auf Fehlerbehebungen und das Angebot, das Spiel gegen Erstattung des Kaufpreises zurückzugeben.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="und" dir="ltr"><a href="https://t.co/jtF5WKCiro">pic.twitter.com/jtF5WKCiro</a></p>
+<p>&mdash; Cyberpunk 2077 (@CyberpunkGame) <a href="https://twitter.com/CyberpunkGame/status/1338390123373801472?ref_src=twsrc%5Etfw">December 14, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Im ersten Absatz entschuldigt man sich dafür, dass man den Spielern, die eine Xbox One oder Playstation 4 besitzen, im Vorfeld zu wenig Gameplay auf diesen Konsolen gezeigt hat, damit diese eine &#8222;informierte Kaufentscheidung&#8220; treffen können. Das ist die verklausulierte Form von &#8222;Sorry, aber wenn wir euch vorher gezeigt hätten, wie bescheiden das aussieht, hättet ihr es niemals gekauft &#8211; und das wollten wir verhindern.&#8220;</p>
+<p>Immerhin möchte man nun bei der Fehlerbeseitigung Gas geben. In den kommenden sieben Tagen soll ein Patch veröffentlicht werden, welche Fehler dieser behebt, wird aber nicht genannt. Im Januar und Februar sind dann weitere umfangreiche Updates geplant, mit denen &#8222;die prominentesten Probleme&#8220; auf den Konsolen der letzten Generation behoben werden sollen.</p>
+<p>Wer nicht warten möchte oder kein Vertrauen (mehr) hat, der kann binnen einer Woche eine Rückerstattung des Kaufpreises beantragen. Bei digitalen Kopien läuft das über die jeweiligen Stores, bei Einzelhandelsversionen sollten die Spieler zunächst versuchen, das Spiel im Laden zurückzugeben. Wer damit keinen Erfolg hat, soll sich per E-Mail an helpmerefund@cdprojektred.com wenden.</p>
+<p>An der Börse hat CD Projekt Red durch den holprigen Start von Cyberpunk 2077 beinahe 40 Prozent seines Wertes eingebüßt, das war sicher anders geplant. Das haben sie sich allerdings selbst zuzuschreiben, denn sie sind sehenden Auges in diese Situation marschiert.</p>
+<p><strong>Update vom 17. Dezember:</strong> Es hat leider den Anschein, dass die angekündigte Erstattung ein vorschneller PR-Stunt war. Sowohl PS- als auch Xbox-Spieler berichten mehrheitlich davon, dass ihnen die Erstattung verweigert wurde. Das ist kein Wunder, denn für die Rückgabe digitaler Produkte gelten strenge Richtlinien, die nur dann außer Kraft gesetzt werden können, wenn der Herausgeber eines Spiels entsprechende Vereinbarungen mit dem Anbieter der jeweiligen Plattform trifft. Genau das ist aber offensichtlich nicht geschehen, CD Projekt Red hat seine Kunden im Grunde gegen die Wand laufen lassen.</p>
+<p>Wer sich an die angegebene E-Mail-Adresse wendet, erhält eine lapidare Standard-Antwort, siehe unten. Ein wirklich armseliges Schauspiel.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement.jpg" data-rel="lightbox-gallery-9wQasJMp" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78326" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement.jpg" alt="Statement von CDPR zu den Erstattungen für Cyberpunk 2077" width="1157" height="972" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement.jpg 1157w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement-300x252.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement-1024x860.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement-768x645.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/cdpr_statement-643x540.jpg 643w" sizes="(max-width: 1157px) 100vw, 1157px" /></a></p>
+<p>(<a href="https://kotaku.com/cdpr-is-no-longer-telling-playstation-owners-to-ask-son-1845894890" target="_blank" rel="noopener noreferrer">Kotaku</a>, via <a href="https://stadt-bremerhaven.de/cd-projekt-rudert-bei-erstattungen-fuer-cyberpunk-2077-teilweise-zurueck/" target="_blank" rel="noopener noreferrer">Caschy</a>)</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Edge Canary: Erste Version für macOS mit Apple M1 kann nun getestet werden</title>
+		<link>https://www.drwindows.de/news/edge-canary-erste-version-fuer-macos-mit-apple-m1-kann-nun-getestet-werden</link>
+					<comments>https://www.drwindows.de/news/edge-canary-erste-version-fuer-macos-mit-apple-m1-kann-nun-getestet-werden#respond</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 09:09:44 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78320</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Canary" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Wenn ihr mutig seid und gleichzeitig auch mit einem Mac unterwegs, der über den neuen M1-Chip von Apple verfügt, könnt ihr nun Microsoft Edge in einer ersten Preview testen. Microsoft hat seinen eigenen Browser im Canary Channel mit der entsprechenden Unterstützung für Apple Silicon ausgestattet, sodass während der Installation unter macOS jetzt zwischen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Canary" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_can-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Wenn ihr mutig seid und gleichzeitig auch mit einem Mac unterwegs, der über den neuen M1-Chip von Apple verfügt, könnt ihr nun Microsoft Edge in einer ersten Preview testen. Microsoft hat seinen eigenen Browser im <a href="https://www.microsoftedgeinsider.com/de-de/download/canary">Canary Channel</a> mit der entsprechenden Unterstützung für Apple Silicon ausgestattet, sodass während der Installation unter macOS jetzt zwischen der bisherigen Intel-Version und der neueren Version für Apples eigener Plattform gewählt werden kann.</p>
+<p>Damit folgt dann auch der letzte der vier großen Browserhersteller dem Beispiel von Apple und stattet seinen Browser zumindest in den instabileren Kanälen mit einer entsprechenden Unterstützung aus. Google Chrome hat dies bereits im November mit dem Update auf Version 87.x umgesetzt, Mozilla Firefox folgte am vergangenen Dienstag, als mit Firefox 84.0 das letzte große Update des Jahres erschien. Die Finalisierung in den anderen Channels bei Microsoft wird in den kommenden Monaten erwartet.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/edge-canary-erste-version-fuer-macos-mit-apple-m1-kann-nun-getestet-werden/feed</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cloud-Gaming im Browser unter iOS: Google Stadia geht schon mal vor</title>
+		<link>https://www.drwindows.de/news/cloud-gaming-im-browser-unter-ios-google-stadia-geht-schon-mal-vor</link>
+					<comments>https://www.drwindows.de/news/cloud-gaming-im-browser-unter-ios-google-stadia-geht-schon-mal-vor#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 08:43:04 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78317</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Stadia" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Apple erlaubt Anbietern von Cloud-Gaming nicht, ihre Dienste als native Apps auf iOS anzubieten. Oder besser gesagt: Realitätsfremde Richtlinien machen es Google, Nvidia oder Microsoft unmöglich, Stadia, GeForce Now oder xCloud in den App Store zu bringen, denn Apple verlangt für jedes einzelne Spiel, welches über diese Dienste angeboten wird, eine separate Zertifizierung. Außerdem wird [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Stadia" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/03/google_stadia-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Apple erlaubt Anbietern von Cloud-Gaming nicht, ihre Dienste als native Apps auf iOS anzubieten. Oder besser gesagt: Realitätsfremde Richtlinien machen es Google, Nvidia oder Microsoft unmöglich, Stadia, GeForce Now oder xCloud in den App Store zu bringen, denn Apple verlangt für jedes einzelne Spiel, welches über diese Dienste angeboten wird, eine separate Zertifizierung. Außerdem wird darüber gestritten, in welcher Form Apple an den Umsätzen partizipieren darf.</p>
+<p>Google hatte zuerst angekündigt, seinen Dienst Stadia als Web App auf iOS zu bringen und somit Cloud-Gaming über den Browser zu ermöglichen &#8211; das verbieten die Apple-Richtlinien nicht. Microsoft hat inzwischen bekannt gegeben, dass sie den <a href="https://www.drwindows.de/news/xbox-game-streaming-ab-fruehjahr-2021-auf-pc-und-ios" target="_blank" rel="noopener noreferrer">gleichen Weg</a> gehen wollen, im Frühjahr 2021 soll es soweit sein. Ich bin gespannt, wie Apple darauf reagiert &#8211; meine Vermutung ist, dass es in Wahrheit darum geht, sich Konkurrenz für Apple Arcade vom Hals zu halten, insofern sollte es mich nicht überraschen, wenn Cupertino auch dieses Vorgehen in irgendeiner Weise zu unterbinden versucht.</p>
+<p>Ob meine Befürchtung richtig ist, werden wir vielleicht schon bald erfahren, denn seit Mittwoch kann mit Google Stadia unter iOS im Browser gespielt werden. <a href="https://www.theverge.com/2020/12/16/22176273/google-stadia-ios-beta-live-now-mobile-safari-iphone-ipad-cloud-gaming" target="_blank" rel="noopener noreferrer">TheVerge</a> hatte vorab Zugriff und schreibt, dass es beispielsweise auf dem iPad wirklich gut funktioniert, eine schnelle und stabile WLAN-Verbindung vorausgesetzt.</p>
+<p>Google spielt also in doppeltem Sinne &#8222;Rohrputzer&#8220; für Microsoft: Einerseits werden wir sehen, ob Apple Stadia gewähren lässt, andererseits wird man einen Eindruck davon bekommen, wie gut eine solche Lösung im Browser generell funktioniert. Aufgrund der unterschiedlichen Infrastrukturen sind die technischen Ergebnisse selbstverständlich nicht übertragbar. Wenn Stadia gut läuft, bedeutet das nicht zwangsläufig, dass dies auch für xCloud gilt &#8211; und umgekehrt.</p>
+<p>(Randbemerkung: Ich verwende &#8222;xCloud&#8220;, obwohl dieser Name nicht mehr gültig ist, weil &#8222;Cloud Gaming with Xbox Game Pass Ultimate&#8220; jeden Satzbau zerstört. Wer hat sich das nur ausgedacht &#8211; aber das ist ein anderes Thema).</p>
+<p>Unter iOS zuerst am Start zu sein, könnte Stadia in der Tat ein wenig Momentum bescheren, bislang bleibt der Service hinter den Erwartungen zurück, insbesondere was das Spieleangebot im Vergleich zu Microsoft angeht. Cyberpunk 2077 hätte durchaus als Beschleuniger wirken können, wegen der fehlenden technischen Reife musste Google sein Marketing in diesem Zusammenhang allerdings schon wieder zurückfahren.</p>
+<p>Ich bleibe allerdings dabei: Es ist ein langes Rennen, das gerade erst begonnen hat, und noch sind nicht alle Teilnehmer auf der Strecke. Obwohl Amazon mit Luna noch gar nicht produktiv gestartet ist, schätze ich es &#8222;gefährlicher&#8220; für Microsoft ein als Stadia. Langfristig wünsche ich mir keinen Gewinner, sondern bunte, vielfältige Ökosysteme mit eigenen Stärken und Schwächen, aus denen der Spieler das für sich beste picken kann.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/cloud-gaming-im-browser-unter-ios-google-stadia-geht-schon-mal-vor/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
