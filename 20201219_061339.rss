@@ -1,0 +1,227 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Fri, 18 Dec 2020 22:07:30 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Bericht: Microsoft soll an eigenem ARM-Prozessor für die Surface-Reihe arbeiten</title>
+		<link>https://www.drwindows.de/news/bericht-microsoft-soll-an-eigenem-arm-prozessor-fuer-die-surface-reihe-arbeiten</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 06:07:10 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78408</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es wäre eine logische Reaktion, auf die die Fachpresse von Microsoft schon länger wartet: Nach Informationen des Branchendienstes Bloomberg sollen die Redmonder bereits an einem eigenen ARM-Prozessor arbeiten, der im Gegensatz zu den Vorgängern SQ1 und SQ2 aber nicht mehr in Kooperation mit Qualcomm, sondern vollständig in-house entwickelt werden soll. Das Ganze kann auch als [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es wäre eine logische Reaktion, auf die die Fachpresse von Microsoft schon länger wartet: Nach Informationen des Branchendienstes Bloomberg sollen die Redmonder bereits an einem eigenen ARM-Prozessor arbeiten, der im Gegensatz zu den Vorgängern SQ1 und SQ2 aber nicht mehr in Kooperation mit Qualcomm, sondern vollständig in-house entwickelt werden soll. Das Ganze kann auch als eine Reaktion auf die Arbeiten an Apple Silicon und den aktuellen Apple M1 gewertet werden, allerdings soll Microsoft hier noch einige größere Pläne verfolgen.</p>
+<p>Glaubt man den aktuellen Berichten, werden zumindest zwei verschiedene Varianten der neuen ARM-CPU entwickelt. Eine davon ist speziell für die Surface-Reihe gedacht und dürfte über kurz oder lang auch im Surface Pro X landen. Die andere Version soll in Microsofts Rechenzentren eingesetzt werden und soll die Cloudserver hinter Microsoft Azure und ähnlichen Diensten befeuern. Wann genau die neue CPU vorgestellt wird, ist derweil noch nicht bekannt.</p>
+<p><em>(Momentan kann wegen dem Umstieg auf die neue Forensoftware nicht kommentiert werden. Wir bitten euch um Verständnis.)</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In eigener Sache: Hallo neues Forum &#8211; Adieu, DrWindows Apps</title>
+		<link>https://www.drwindows.de/news/in-eigener-sache-hallo-neues-forum-adieu-drwindows-apps</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 15:55:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78199</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Dr. Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Was lange währt wird endlich gut. An diesem Wochenende ist es endlich soweit: Wir stellen unser runderneuertes Forum an den Start. Während wir uns darauf wirklich sehr freuen, ist der Start des neuen Forums leider auch mit einem schmerzlichen Abschied verbunden: Wie bereits angekündigt, werden die DrWindows-Apps für Android, iOS und Windows ab diesem Zeitpunkt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Dr. Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Was lange währt wird endlich gut. An diesem Wochenende ist es endlich soweit: Wir stellen unser runderneuertes Forum an den Start. Während wir uns darauf wirklich sehr freuen, ist der Start des neuen Forums leider auch mit einem schmerzlichen Abschied verbunden: Wie bereits angekündigt, werden die DrWindows-Apps für Android, iOS und Windows ab diesem Zeitpunkt nicht mehr funktionieren.</p>
+<p>Bringen wir den schmerzhaften Teil zuerst hinter uns, dazu zitiere ich mich selbst aus der <a href="https://www.drwindows.de/news/ein-update-zu-unserem-neuen-deal" target="_blank" rel="noopener noreferrer">ursprünglichen Ankündigung</a> zum Ende der Apps vom September:</p>
+<p><em>Der Hauptgrund, warum es die Apps für Android, iOS und davor auch für Windows Phone gab, war jener, dass unsere Seite über lange Zeit nicht komfortabel mit dem Smartphone nutzbar war. Das neue Forum wird ebenfalls mobiltauglich sein, sodass unsere Seite dann mit jedem Endgerät einwandfrei nutzbar ist. Die Seite mit allen Funktionen in einer App „nachzubauen“, ist schlicht unwirtschaftlich. Selbstverständlich tut mir das selbst auch weh und ich weiß, dass eine native App durchaus für zusätzliche Bindung sorgt, daher ist mir diese Entscheidung wirklich sehr schwergefallen.</em></p>
+<p>Ich habe von einigen Lesern die Rückmeldung erhalten, dass eine mobile Webseite zwar schön sei, aber einfach nicht Dasselbe wie eine App. Dieser Meinung kann ich mich nur anschließen, es ändert aber nichts an den oben erwähnten Umständen. Wenn wir ehrlich sind, dann sind unsere Apps zwar nutzbar, aber dennoch nur Stückwerk. Bei der Windows App herrscht seit Jahren Stillstand, die Apps für Android und iOS wurden nie wirklich fertig. Im Gegenzug hat die Rücksichtnahme auf die Kompatibilität mit dem App-Backend dazu geführt, dass die Seite selbst technisch immer rückständiger wurde, und es fiel zunehmend schwer, diesen Umstand zu &#8222;verheimlichen&#8220;. Nicht nur das Forum, sondern auch Teile der Server-Software hängen dadurch auf alten technischen Ständen fest, die beinahe nicht mehr zu verantworten sind.</p>
+<p>Mit der Umstellung auf das neue Forum gehen daher auch weitere technische Aktualisierungen einher, wir versprechen uns davon einen stabileren Betrieb und vor allen Dingen eine bessere Performance für die Webseite, die ja im Grunde &#8222;zwei Webseiten&#8220; ist. Der Newsbereich arbeitet mit WordPress, das Forum aktuell mit vBulletin und ab dem kommenden Wochenende mit XenForo. Darum gibt es das &#8222;Ersatzprogramm&#8220; in Zukunft ebenfalls zweimal: Sowohl die News (das funktioniert jetzt schon) als auch das Forum lassen sich als Progressive Web App nutzen. In beiden Fällen ist der PWA-Support allerdings rudimentär, ich will da keine falschen Hoffnungen wecken. Ich habe auch nicht vor, daraus eine neue Baustelle zu machen. Was auf jeden Fall für Anfang 2021 vorgesehen ist, sind Push-Benachrichtigungen für neue Artikel. Damit hätten wir dann ein wichtiges Feature, das in den echten Apps immer vermisst wurde.</p>
+<p>Zum neuen Forum kann ich nur sagen: Freut euch drauf! Für unsere eingefleischten &#8222;Foristen&#8220; wird es selbstverständlich eine gewisse Zeit der Eingewöhnung benötigen, wie das immer so ist, wenn etwas Neues kommt, ich bin mir aber ganz sicher, dass es positiv aufgenommen wird, weil die Bedienung leichter von der Hand geht und es diverse Neuerungen gibt, die dabei helfen, keine Informationen mehr zu übersehen. Dazu gehört beispielsweise die Möglichkeit, andere User per &#8222;@username&#8220; anzusprechen, worüber diese dann auch aktiv informiert werden. Standard in allen modernen Kommunikations-Werkzeugen, aber in unserem alten Forum gibt es das eben nicht. Alte Foren-Haudegen werden vielleicht auch so manchen &#8222;neumodischen Kram&#8220; entdecken &#8211; auch das gehört eben dazu.</p>
+<p>Zum Ablauf: Die Umstellung wird im Lauf des Freitagnachmittags beginnen. Einige vorbereitende Arbeiten können im laufenden Betrieb durchgeführt werden, irgendwann wird das Forum dann allerdings in den &#8222;Lesemodus&#8220; geschaltet. Das heißt, man kann zwar auf alle Inhalte zugreifen, es können sich aber keine neuen Benutzer registrieren und man kann keine Beiträge mehr schreiben. Im Idealfall ist das neue Forum ab Samstagabend zu erreichen, ich rechne allerdings eher damit, dass es bis Sonntag dauert &#8211; irgendwann muss ich zwischendurch ja auch mal schlafen.</p>
+<p>Der News-Bereich wird mit wenigen Unterbrechungen durchgängig online sein, während das Forum abgeschaltet ist, können allerdings keine Kommentare geschrieben werden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GitHub: Alle nicht notwendigen Cookies werden von der Plattform entfernt</title>
+		<link>https://www.drwindows.de/news/github-alle-nicht-notwendigen-cookies-werden-von-der-plattform-entfernt</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 14:21:48 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78403</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Bevor auch das Team um Microsofts Entwicklerplattform GitHub in den Weihnachtsurlaub geht, hatte CEO Nat Friedman noch eine interessante Neuigkeit für seine Nutzer im Gepäck. Ab sofort werden alle Cookies, die nicht zwingend für den Betrieb von GitHub notwendig sind, von der Plattform entfernt. Auch die entsprechenden Banner, die sonst nach EU-Recht vorgeschrieben [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Bevor auch das Team um Microsofts Entwicklerplattform GitHub in den Weihnachtsurlaub geht, hatte CEO Nat Friedman noch eine interessante Neuigkeit für seine Nutzer im Gepäck. Ab sofort werden alle Cookies, die nicht zwingend für den Betrieb von GitHub notwendig sind, von der Plattform entfernt. Auch die entsprechenden Banner, die sonst nach EU-Recht vorgeschrieben wären, wurden so beseitigt.</p>
+<p>In Zukunft soll sich GitHub auf die Cookies beschränken, die alleine für GitHub selbst notwendig sind. Außerdem wurde nach eigener Aussage auch das Senden von Daten an Analysedienste von Drittanbietern vollständig eingestellt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows File Recovery: Datenrettungs-Programm für Windows 10 wird umgebaut</title>
+		<link>https://www.drwindows.de/news/windows-file-recovery-datenrettungs-programm-fuer-windows-10-wird-umgebaut</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 13:40:14 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78355</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows File Revcovery Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Frühjahr hatte Microsoft ein Datenrettungs-Programm für Windows 10 veröffentlicht. Mit &#8222;Windows File Recovery&#8220; lassen sich versehentlich gelöschte Dateien wiederherstellen. Das Programm hat keine Oberfläche, wird also auf der Kommandozeile ausgeführt und richtet sich eher an fortgeschrittene Nutzer. Wer im Umgang mit Kommandozeilentools ein wenig Übung hat, kommt mit Windows File Recovery auf Anhieb problemlos [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows File Revcovery Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/06/windows_file_recovery_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Frühjahr hatte Microsoft ein Datenrettungs-Programm für Windows 10 veröffentlicht. Mit &#8222;Windows File Recovery&#8220; lassen sich versehentlich gelöschte Dateien wiederherstellen. Das Programm hat keine Oberfläche, wird also auf der Kommandozeile ausgeführt und richtet sich eher an fortgeschrittene Nutzer. Wer im Umgang mit Kommandozeilentools ein wenig Übung hat, kommt mit Windows File Recovery auf Anhieb problemlos zurecht, denn die verfügbaren Optionen und Schalter sind gut dokumentiert.</p>
+<p>Wer das Programm schon kennt und genutzt hat, muss sich allerdings umgewöhnen. Mit dem jüngsten Update, welches dieser Tage im Microsoft Store angekommen ist, wird Windows File Recovery umgebaut. Die Unterstützung für das Dateisystem ReFS, welches auf Windows Server und Windows 10 Pro for Workstations zum Einsatz kommt, wurde in diesem Zusammenhang entfernt, es werden jetzt nur noch NTFS, FAT und exFAT unterstützt.</p>
+<p>Die beiden Betriebsmodi &#8222;Segment&#8220; und &#8222;Signature&#8220; wurden außerdem zusammengefasst, es gibt jetzt nur noch die zwei Modi &#8222;Regular&#8220; und &#8222;Extensive&#8220;.</p>
+<p>Weiterhin werden für eine Datenrettung zwei Laufwerke benötigt, gelöschte Daten können also nicht auf demselben Laufwerk wiederhergestellt werden.</p>
+<p>Bei der Wiederherstellung gelöschter Dateien kann man diverse Filter setzen, um nur Dateien mit einer spezifischen Endung wie .pdf, .jpg, oder .docx wiederherzustellen. Wenn man den Namen der gelöschten Datei kennt, lässt sich danach ebenfalls suchen, das funktioniert auch teilqualifiziert</p>
+<p>Wie jedes andere Datenrettungsprogramm ist auch Windows File Recovery an die Gesetze der Physik gebunden: Wenn die gelöschten Daten anderweitig überschrieben wurden, ist eine Wiederherstellung schwierig bis unmöglich. Eine vom Systemlaufwerk gelöschte Datei mehrere Tage später noch zu retten, ist daher ein reines Glücksspiel.</p>
+<p>Wer sich das Programm anschauen möchte, kann es sich aus dem Microsoft Store laden (für die Ausführung sind Administratorrechte erforderlich). Beim Start erscheint eine kurze Einführung:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release.jpg" data-rel="lightbox-gallery-T87fzbBy" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78398" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release.jpg" alt="Windows File Recovery" width="1103" height="638" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release.jpg 1103w, https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release-300x174.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release-1024x592.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release-768x444.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/winfr_winter_20_release-643x372.jpg 643w" sizes="(max-width: 1103px) 100vw, 1103px" /></a></p>
+<p>Eine vollständige Dokumenation mit Erläuterungen zu den einzelnen Befehlen und Schaltern mit zahlreichen Beispielen gibt es bei Microsoft: <a href="https://support.microsoft.com/en-us/windows/recover-lost-files-on-windows-10-61f5b28a-f5b8-3cc2-0f8e-a63cb4e1d4c4" target="_blank" rel="noopener noreferrer">Recover lost files on Windows 10 (microsoft.com)</a></p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9n26s50ln705) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9n26s50ln705" title="Windows File Recovery">Windows File Recovery (Kostenlos, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams erhält Präsentations-Ansicht für PowerPoint</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-erhaelt-praesentations-ansicht-fuer-powerpoint</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 10:21:14 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78345</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wer öfter PowerPoint-Präsentationen hält, der ist sicherlich mit der Präsentations-Ansicht vertraut. Während die Zuschauer nur die Folien sehen, hat man selbst eine Übersicht über alle Folien, sieht die verstrichene Zeit und vor allen Dingen die Sprechernotizen, die man hinterlegt, um während des Vortrags nichts Wichtiges zu vergessen. Eine ähnliche Funktion wird derzeit für Microsoft Teams [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wer öfter PowerPoint-Präsentationen hält, der ist sicherlich mit der Präsentations-Ansicht vertraut. Während die Zuschauer nur die Folien sehen, hat man selbst eine Übersicht über alle Folien, sieht die verstrichene Zeit und vor allen Dingen die Sprechernotizen, die man hinterlegt, um während des Vortrags nichts Wichtiges zu vergessen.</p>
+<p>Eine ähnliche Funktion wird derzeit für Microsoft Teams entwickelt. In Zeiten, wo Präsentationen fast ausschließlich digital gehalten werden, sicherlich eine sehr gute Idee.</p>
+<p>So wird das in Zukunft aussehen:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view.png" data-rel="lightbox-gallery-Tcc0Yx5X" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78346" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view.png" alt="Referenten-Ansicht für PowerPoint in Microsoft Teams" width="624" height="376" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view.png 624w, https://www.drwindows.de/news/wp-content/uploads/2020/12/microsoft_teams_presenter_view-300x181.png 300w" sizes="(max-width: 624px) 100vw, 624px" /></a></p>
+<p>Sobald man als Präsentierender eine PowerPoint-Datei in einem Teams-Meeting öffnet, wird die neue Ansicht automatisch geöffnet. Der Vortragende sieht die aktuelle Folie, die zugehörigen Notizen und außerdem eine Thumbnail-Ansicht der nachfolgenden oder vorhergehenden Folien. So kann man bei Rückfragen beispielsweise direkt zur entsprechenden Folie springen, auf der die gewünschte Information zu sehen ist.</p>
+<p>Diese Präsentations-Ansicht ist immer nur für eine Person verfügbar. Sobald beispielsweise ein Moderator auf &#8222;Steuerung übernehmen&#8220; klickt, wird ihm diese Ansicht angezeigt und der zuvor Präsentierende wird zum Zuschauer.</p>
+<p>Die neue Präsentations-Ansicht soll ab Mitte Januar 2021 bei den ersten Nutzern ankommen und bis Mitte Februar für alle Teams-Nutzer verfügbar sein.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft: 85 Prozent aller Endkunden nutzen Windows Hello für die Anmeldung an Windows 10</title>
+		<link>https://www.drwindows.de/news/microsoft-85-prozent-aller-endkunden-nutzen-windows-hello-fuer-die-anmeldung-an-windows-10</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 08:44:35 +0000</pubDate>
+				<category><![CDATA[Sicherheit]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78370</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Hello" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft ist auf einer Mission mit dem Ziel, Passwörter abzuschaffen und sie durch alternative Authentifizierungen zu ersetzen. In Windows 10 gibt es dafür die Funktion &#8222;Windows Hello&#8220;. In einem aktuellen Blogpost, in dem Microsoft eine Bilanz zum Fortschritt passwortloser Technologien im Jahr 2020 zieht, fällt eine beeindruckende Zahl: 84,7 Prozent aller Consumer nutzen Windows Hello, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Hello" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/windows_hello-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft ist auf einer Mission mit dem Ziel, Passwörter abzuschaffen und sie durch alternative Authentifizierungen zu ersetzen. In Windows 10 gibt es dafür die Funktion &#8222;Windows Hello&#8220;. In einem aktuellen <strong><a href="https://www.microsoft.com/security/blog/2020/12/17/a-breakthrough-year-for-passwordless-technology/" target="_blank" rel="noopener noreferrer">Blogpost</a></strong>, in dem Microsoft eine Bilanz zum Fortschritt passwortloser Technologien im Jahr 2020 zieht, fällt eine beeindruckende Zahl: 84,7 Prozent aller Consumer nutzen Windows Hello, um sich an Windows 10 anzumelden.</p>
+<p>Die Zahl ist nicht nur beeindruckend, sondern geradezu unglaublich. Dass es sich nicht um einen Tippfehler handelt, zeigt der gezogene Vergleich mit dem letzten Jahr, da sollen es 69,4 Prozent gewesen sein.</p>
+<p>Wenn von Windows Hello die Rede ist, dann denkt man dabei in erster Linie an die Anmeldung per Gesichtserkennung über eine Kamera, die wiederum besondere Anforderungen erfüllen muss. Tatsächlich gehört zu Windows Hello aber noch mehr, nämlich sowohl die Anmeldung per Fingerabdruck als auch mittels einer PIN. Während man für die Fingerabdruck-Anmeldung einen kompatiblen Sensor benötigt, ist die Anmeldung mittels PIN auf wirklich jedem Windows 10 PC verfügbar.</p>
+<p>Das Festlegen einer PIN wird während der Einrichtung von Windows 10 ausdrücklich empfohlen. Offenbar mit großem Erfolg, wenn die oben genannte Zahl tatsächlich stimmen sollte. Ich hätte nicht gedacht, dass so viele Nutzer dem Aufruf tatsächlich folgen, zumal es hinsichtlich der PIN immer wieder Missverständnisse gibt. &#8222;Wie kann eine vierstellige Zahl sicherer sein als ein komplexes Passwort?&#8220; werde ich nach wie vor oft gefragt.</p>
+<p>Der &#8222;Trick&#8220; ist: Die PIN funktioniert nur auf dem Gerät, auf dem sie eingerichtet wurde. Wer einem anderen Nutzer bei der Eingabe der PIN über die Schulter schaut, kann mit dieser Information nichts anfangen, ohne Zugang zu exakt diesem Computer zu haben, während ein auf diese Weise ausgespähtes Passwort weitaus größeren Schaden anrichten kann.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bitte nachmachen, Microsoft: Sony wirft Cyberpunk 2077 raus, Spieler erhalten Geld zurück</title>
+		<link>https://www.drwindows.de/news/bitte-nachmachen-microsoft-sony-wirft-cyberpunk-2077-raus-spieler-erhalten-geld-zurueck</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 07:32:12 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78367</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Sony macht ernst: Cyberpunk 2077 wurde aus dem Playstation Store entfernt. Spieler, die es bereits gekauft haben, erhalten ohne Wenn und Aber ihr Geld zurück. Es ist die (richtige) Reaktion auf einen absoluten Fehlstart des Spiels, das für viele Gamer nicht weniger als DER Titel des Jahres 2020 hätte werden sollen. Nach mehreren Verschiebungen wurde [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Sony macht ernst: Cyberpunk 2077 wurde aus dem Playstation Store entfernt. Spieler, die es bereits gekauft haben, erhalten ohne Wenn und Aber ihr Geld zurück. Es ist die (richtige) Reaktion auf einen absoluten Fehlstart des Spiels, das für viele Gamer nicht weniger als DER Titel des Jahres 2020 hätte werden sollen.</p>
+<p>Nach mehreren Verschiebungen wurde Cyberpunk 2077 am 10.12.20 veröffentlicht. Dass CD Projekt Red nicht vom nach wie vor schlechten Reifegrad des Spiels wusste, scheint unvorstellbar, zu offensichtlich waren die Probleme vor allen Dingen auf der Xbox One und der Playstation 4. Mit einer Entschuldigung versuchte man zu retten, was noch zu retten ist, und bot den Spielern eine <a href="https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an" target="_blank" rel="noopener noreferrer">Erstattung</a> an. Davon wussten aber weder Sony noch Microsoft, sodass die Versuche der Käufer, das Spiel zurückzugeben, oft nicht von Erfolg gekrönt waren.</p>
+<p>Sony hat nun Nägel mit Köpfen gemacht: Auf einer <a href="https://www.playstation.com/de-de/cyberpunk-2077-refunds/" target="_blank" rel="noopener noreferrer">Supportseite</a> schreibt man, dass alle Spieler, die Cyberpunk 2077 aus dem Playstation Store gekauft haben, eine Rückerstattung erhalten. Noch radikaler ist die zweite Maßnahme: Cyberpunk 2077 wird bis auf Weiteres aus dem Playstation Store entfernt.</p>
+<p>Beide Schritte dürften Sony nicht leicht gefallen sein, sind sie doch mit hohen eigenen finanziellen Einbußen verbunden. Sie tun der Spielewelt und irgendwie auch CD Projekt Red damit einen Gefallen, denn sie werden somit aus der Schusslinie genommen und können sich auf das konzentrieren, was sie schon vor dem 10.12. hätten tun sollen: Cyberpunk 2077 fertigstellen.</p>
+<p>Microsoft, bitte nachmachen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google: Drittes Antitrust-Verfahren knöpft sich die Suchmaschine vor</title>
+		<link>https://www.drwindows.de/news/google-drittes-antitrust-verfahren-knoepft-sich-die-suchmaschine-vor</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 00:16:34 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78364</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Weihnachtsfest dürfte für Google in diesem Jahr auch abseits von Corona alles andere als besinnlich werden, denn nach nicht einmal 24 Stunden sieht sich der Technologieriese aus Mountain View seinem dritten Antitrust-Verfahren gegenüber. Unter der Leitung von Arizona, Colorado, Iowa, Nebraska, New York, North Carolina, Tennessee und Utah haben insgesamt 38 der 50 US-Bundesstaaten [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Weihnachtsfest dürfte für Google in diesem Jahr auch abseits von Corona alles andere als besinnlich werden, denn nach nicht einmal 24 Stunden sieht sich der Technologieriese aus Mountain View seinem dritten Antitrust-Verfahren gegenüber. Unter der Leitung von Arizona, Colorado, Iowa, Nebraska, New York, North Carolina, Tennessee und Utah haben insgesamt 38 der 50 US-Bundesstaaten wieder die Suchmaschine ins Visier genommen und gehen dabei noch deutlich weiter als das Verfahren, welches im Oktober durch das Justizministerium und 11 weitere Bundesstaaten eingeleitet wurde.</p>
+<p>Google werden in dem neuen Verfahren weitreichende Schritte vorgeworfen, um seine dominante Stellung bei den Suchmaschinen zu verteidigen und die eigenen Services zu bevorzugen. Dabei soll das Unternehmen Suchergebnisse von Konkurrenten aus Bereichen wie Reisen, Heimwerken oder Entertainment deutlich abgewertet oder sogar geblockt haben. Im Zuge dessen wird auch das illegale Monopol bei der Werbefinanzierung wieder aufgegriffen und der Vorwurf geäußert, Google habe auch durch das massenhafte Sammeln der Nutzerdaten neue Barrieren hochgezogen und diese zudem als &#8222;Waffen&#8220; missbraucht, um Konkurrenten auszuschalten und weniger Auswahl für die Nutzer zu generieren.</p>
+<p>Im weiteren Verlauf soll das nun eröffnete Antitrust-Verfahren mit dem des Justizministeriums kombiniert werden. Über eine Beteiligung am bereits bekannten <a href="https://www.drwindows.de/news/der-naechste-bitte-zehn-us-bundesstaaten-leiten-weiteres-kartellverfahren-gegen-google-und-facebook-ein">Kartellverfahren</a> wegen illegaler Absprachen mit Facebook wurde noch nicht entschieden, man analysiert die Vorwürfe aber genau. So oder so haben die kombinierten Verfahren aber spätestens jetzt eine ähnliche Wucht wie das große Verfahren, was vor wenigen Wochen gegen <a href="https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen">Facebook</a> eingeleitet wurde. Letztlich dürfte das auch eine Zerschlagung als das Instrument der Wahl immer wahrscheinlicher machen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>WhatsApp: Anrufe im Desktop Client starten in den Testbetrieb</title>
+		<link>https://www.drwindows.de/news/whatsapp-anrufe-im-desktop-client-starten-in-den-testbetrieb</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 18:14:59 +0000</pubDate>
+				<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78350</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="WhatsApp" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Seit geraumer Zeit arbeitet WhatsApp an einer Anruffunktion für die Desktop-App unter Windows. Nun scheint es bald soweit zu sein, denn die ersten User können bereits Sprach- und Videoanrufe über den Desktop führen. Wie die Insider-Seite WABeta berichtet, hat der Testbetrieb begonnen. Nach dem Zufallsprinzip wird die Anruffunktion Zug um Zug und sehr langsam ausgerollt. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="WhatsApp" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/WhatsApp-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Seit geraumer Zeit arbeitet WhatsApp an einer Anruffunktion für die Desktop-App unter Windows. Nun scheint es bald soweit zu sein, denn die ersten User können bereits Sprach- und Videoanrufe über den Desktop führen.</p>
+<p>Wie die Insider-Seite <a href="https://wabetainfo.com/whatsapp-beta-calls-available-on-whatsapp-web-desktop/" target="_blank" rel="noopener noreferrer">WABeta</a> berichtet, hat der Testbetrieb begonnen. Nach dem Zufallsprinzip wird die Anruffunktion Zug um Zug und sehr langsam ausgerollt. Offenbar möchte man behutsam vorgehen und beobachten, wie gut die Funktion angenommen wird und wie zuverlässig es funktioniert. Für den Rollout sind mehrere Wochen angesetzt, es kann also durchaus sein, dass sich einige von euch noch eine Weile gedulden müssen.</p>
+<p>Ich habe gerade nachgesehen, bei mir zeigt sich das Feature noch nicht.</p>
+<!-- WP-Appbox (Version: 4.3.4 // Store: microsoftstore // ID: 9nksqgp7f2nh) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9nksqgp7f2nh" title="WhatsApp Desktop">WhatsApp Desktop (Kostenlos, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Der Nächste bitte: Zehn US-Bundesstaaten leiten weiteres Kartellverfahren gegen Google und Facebook ein</title>
+		<link>https://www.drwindows.de/news/der-naechste-bitte-zehn-us-bundesstaaten-leiten-weiteres-kartellverfahren-gegen-google-und-facebook-ein</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 17 Dec 2020 12:11:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78335</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn es um neue Antitrust-Verfahren gegen die großen Technologiekonzerne in den USA geht, überschlagen sich in den vergangenen Monaten hier förmlich die Ereignisse. Zunächst wurde Google im Oktober mit mehreren Verfahren bedacht, wo unter anderem auch über einen möglichen Verkauf von Google Chrome spekuliert wurde. In diesem Monat folgte gegen Facebook die größte Kartellklage in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/google_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn es um neue Antitrust-Verfahren gegen die großen Technologiekonzerne in den USA geht, überschlagen sich in den vergangenen Monaten hier förmlich die Ereignisse. Zunächst wurde Google im Oktober mit mehreren Verfahren <a href="https://www.drwindows.de/news/bericht-google-koennte-zum-verkauf-von-chrome-gezwungen-werden-auch-werbegeschaeft-betroffen">bedacht</a>, wo unter anderem auch über einen möglichen Verkauf von Google Chrome spekuliert wurde. In diesem Monat folgte gegen <a href="https://www.drwindows.de/news/facebook-neue-klage-in-den-usa-soll-trennung-von-instagram-und-whatsapp-durchsetzen">Facebook</a> die größte Kartellklage in der jüngeren US-Geschichte, die Instagram und WhatsApp wieder vom Mutterkonzern trennen und dessen Marktmacht einbremsen soll. Nun folgt das nächste Kartellverfahren gegen die beiden Unternehmen.</p>
+<p>Auch wenn sich die Vorwürfe zunächst nur gegen Google richten, werfen zehn US-Bundesstaaten unter Federführung von Texas auch Facebook illegale Absprachen im Bereich der Online-Werbung vor. Konkret sollen Google und Facebook im Jahr 2018, nachdem das Unternehmen aus Palo Alto mit Header Bidding ein neues Verfahren zur leichteren Einholung von Konkurrenzangeboten eingeführt hatte, Absprachen getroffen haben, um den Werbemarkt unter sich aufzuteilen. Daraufhin habe Facebook das Header Bidding eingeschränkt und im Gegenzug Vorzüge bei Echtzeit-Versteigerungen von Werbeflächen auf Googles Servern erhalten.</p>
+<p>Auf die großen Technologieriesen kommen damit auch unabhängig vom Handelskonflikt mit China stürmische Zeiten zu. Während die neuen Gesetzesvorhaben in der Europäischen Union mit dem Digitale-Dienste-Gesetz (DSA) und dem Digitale-Märkte-Gesetz (DMA) neben der schon bestehenden Datenschutzgrundverordnung (DSGVO/GDPR) vorerst einen eher symbolischen Wert haben, geht es in der Heimat für Google und Facebook mittlerweile ums Ganze, denn hier liegt mit der Zerschlagung das bei weitem härteste Instrument ausdrücklich auf dem Tisch. Die Verfahren gegen Apple und Amazon lassen noch auf sich warten, auch eine Überprüfung von Microsoft ist noch nicht ausgeschlossen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
