@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/tobiasscholze/RiderProjects/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
+      "projectUniqueName": "/Users/tobiasscholze/Code/github-actions-download-feed/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
       "projectName": "RssToJsonConverter",
-      "projectPath": "/Users/tobiasscholze/RiderProjects/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
+      "projectPath": "/Users/tobiasscholze/Code/github-actions-download-feed/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
       "packagesPath": "/Users/tobiasscholze/.nuget/packages/",
-      "outputPath": "/Users/tobiasscholze/RiderProjects/ConsoleApp1/RssToJsonConverter/obj/",
+      "outputPath": "/Users/tobiasscholze/Code/github-actions-download-feed/ConsoleApp1/RssToJsonConverter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/tobiasscholze/.config/NuGet/NuGet.Config"

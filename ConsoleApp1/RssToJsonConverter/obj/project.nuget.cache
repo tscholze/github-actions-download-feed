@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "hdU/J+8v+vPMnoCQZAc33i5Z1PCsl8gCi2dcE93eaOC0pI6NE2I267u89KCDvoEFaxg4NOZ+y09k16ag6RwGyA==",
+  "dgSpecHash": "7e2a5mIAhiL1OfwNqNNhGLj0rm8nwEpDkrDeE7pZDwQ40PlAgtBJA2X331sZ8zXZNykt3Bm13EIF0abBCoI6Wg==",
   "success": true,
-  "projectFilePath": "/Users/tobiasscholze/RiderProjects/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
+  "projectFilePath": "/Users/tobiasscholze/Code/github-actions-download-feed/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
   "expectedPackageFiles": [
     "/Users/tobiasscholze/.nuget/packages/system.servicemodel.syndication/5.0.0/system.servicemodel.syndication.5.0.0.nupkg.sha512"
   ],

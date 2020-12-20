@@ -36,7 +36,7 @@ namespace ConsoleApp1
                 reader.Close();
                 foundItems.AddRange(formatter.Feed.Items);
             }
-            
+
             // Make a distinct list of found items.
             // and transfer items to new data object structure.
             var items = foundItems
@@ -46,22 +46,20 @@ namespace ConsoleApp1
                 .Select(i => new Post(item: i))
                 .ToList();
 
-
             // 1. Try
             // Serialize distinct items to JSON.
             // and write json file to disk.
-            //await using var createStream = File.Create("/Users/tobiasscholze/Desktop/result.json");
-            //await JsonSerializer.SerializeAsync(createStream, items);
+            using FileStream createStream = File.Create("/Users/tobiasscholze/Desktop/result.json"); await JsonSerializer.SerializeAsync(createStream, items);
 
             // 2. Try
-            // await File.WriteAllBytesAsync("/Users/tobiasscholze/Desktop/result.json", Encoding.UTF8.GetBytes(JsonSerializer.Serialize(items)));
+            //await File.WriteAllBytesAsync("/Users/tobiasscholze/Desktop/result.json", Encoding.UTF8.GetBytes(JsonSerializer.Serialize(items)));
 
             // 3. Try
-            var foo = JsonSerializer.SerializeToUtf8Bytes(items);
-            using (StreamWriter writer = new(File.Open("/Users/tobiasscholze/Desktop/result.json", FileMode.Create), Encoding.UTF8))
-            {
-                await writer.WriteAsync(Encoding.UTF8.GetString(foo));
-            }
+            //var foo = JsonSerializer.SerializeToUtf8Bytes(items);
+            //using (StreamWriter writer = new(File.Open("/Users/tobiasscholze/Desktop/result.json", FileMode.Create), Encoding.UTF8))
+            //{
+            //    await writer.WriteAsync(Encoding.UTF8.GetString(foo));
+            //}
         }
     }
 }
@@ -146,8 +144,7 @@ internal class Post
     /// <returns>Pure text from html.</returns>
     private static string GetTextFromHtml(string html)
     {
-        return html;
-        //return Regex.Replace(html, "<.*?>", Empty);
+        return Regex.Replace(html, "<.*?>", string.Empty);
     }
 
     /// <summary>
