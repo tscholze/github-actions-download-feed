@@ -46,10 +46,14 @@ namespace ConsoleApp1
                 .Select(i => new Post(item: i))
                 .ToList();
 
+            var jsonString = JsonSerializer.Serialize(items);
+            File.WriteAllText("/Users/tobiasscholze/Desktop/result.json", jsonString);
+
             // 1. Try
             // Serialize distinct items to JSON.
             // and write json file to disk.
-            using FileStream createStream = File.Create("/Users/tobiasscholze/Desktop/result.json"); await JsonSerializer.SerializeAsync(createStream, items);
+            //var createStream = File.Create("/Users/tobiasscholze/Desktop/result.json");
+            //await JsonSerializer.SerializeAsync(createStream, items);
 
             // 2. Try
             //await File.WriteAllBytesAsync("/Users/tobiasscholze/Desktop/result.json", Encoding.UTF8.GetBytes(JsonSerializer.Serialize(items)));
