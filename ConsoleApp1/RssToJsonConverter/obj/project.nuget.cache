@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "h5gfBriFmt+56FqHy2eWMmGnnlB+bhAp6iFngXTn8/jvxWziutjRChiDkx98Ku3ww62kqP13BTcj+y6r+Qh1cQ==",
+  "dgSpecHash": "hdU/J+8v+vPMnoCQZAc33i5Z1PCsl8gCi2dcE93eaOC0pI6NE2I267u89KCDvoEFaxg4NOZ+y09k16ag6RwGyA==",
   "success": true,
   "projectFilePath": "/Users/tobiasscholze/RiderProjects/ConsoleApp1/RssToJsonConverter/RssToJsonConverter.csproj",
   "expectedPackageFiles": [

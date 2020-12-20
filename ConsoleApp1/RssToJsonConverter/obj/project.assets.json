@@ -61,7 +61,7 @@
       "outputPath": "/Users/tobiasscholze/RiderProjects/ConsoleApp1/RssToJsonConverter/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/tobiasscholze/.nuget/NuGet/NuGet.Config"
+        "/Users/tobiasscholze/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
