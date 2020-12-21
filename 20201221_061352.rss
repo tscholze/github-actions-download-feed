@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Sun, 20 Dec 2020 19:15:51 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Android Rundschau KW 51/20 mit Microsoft Teams, To Do, Edge und mehr</title>
+		<link>https://www.drwindows.de/news/android-rundschau-kw-51-20-mit-microsoft-teams-to-do-edge-und-mehr</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 17:00:33 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78314</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau Weihnachten" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Hatte ich letzte Woche geschrieben, dies sei die letzte Android-Rundschau im Jahr 2020? Tut mir leid, das war gelogen &#8211; hier kommt noch eine. Entgegen meiner Erwartungen sind kurz vor Weihnachten noch einige interessante Updates veröffentlicht worden und ich habe trotz der Umstellung unseres Forums auf die neue Plattform noch die Zeit gefunden, diese zusammenzutragen. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau Weihnachten" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Hatte ich letzte Woche geschrieben, dies sei die letzte Android-Rundschau im Jahr 2020? Tut mir leid, das war gelogen &#8211; hier kommt noch eine. Entgegen meiner Erwartungen sind kurz vor Weihnachten noch einige interessante Updates veröffentlicht worden und ich habe trotz der Umstellung unseres Forums auf die neue Plattform noch die Zeit gefunden, diese zusammenzutragen.</p>
+<p>Bitte sehr:</p>
+<h3>Microsoft Teams</h3>
+<p>Auch in der mobilen App von Microsoft Teams ist es jetzt genau wie am Desktop möglich, den eigenen Status auf &#8222;offline&#8220; zu setzen, um Kollegen zu signalisieren, dass man nicht erreichbar ist.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.teams) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.teams" title="Microsoft Teams">Microsoft Teams (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft To Do</h3>
+<p>Die Einstellungen zu den Benachrichtigungen lassen sich jetzt für jedes hinterlegte Konto getrennt konfigurieren. So kann man beispielsweise im Urlaub die Benachrichtigungen für das geschäftliche Konto deaktivieren, ohne mit dem privaten Konto etwas zu verpassen.</p>
+<p>Außerdem neu: Push-Nachrichten für Aufgaben in geteilten Listen sind jetzt auch für Business-Konten verfügbar.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.todos) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.todos" title="Microsoft To Do: Liste, Aufgabe und Erinnerung">Microsoft To Do: Liste, Aufgabe und Erinnerung (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft Edge (Beta)</h3>
+<p>Seit dieser Woche wird in der Beta-Version die <a href="https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android" target="_blank" rel="noopener noreferrer">Synchronisation des Verlaufs und der geöffneten Tabs</a> unterstützt. Da diese Funktion nicht in der App, sondern im hinterlegten Konto freigeschaltet wird, ist sie noch nicht bei allen Nutzern verfügbar.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.emmx) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.emmx" title="Microsoft Edge">Microsoft Edge (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft Launcher (Beta)</h3>
+<p>Die Einrichtung von geschäftlichen Konten über die Feed-Seite wurde vereinfacht, außerdem wurden die App-Ordner kosmetisch überarbeitet.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.launcher) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.launcher" title="Microsoft Launcher">Microsoft Launcher (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Xbox Game Pass Beta</h3>
+<p>Spiele, die ohne Controller per Touch bedient werden können, sind nun in der Galerie hervorgehoben, sodass man besser erkennt, welche Spiele man unterwegs auch ohne Zubehör spielen kann.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.gamepass.beta) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.gamepass.beta" title="Xbox Game Pass (Beta)">Xbox Game Pass (Beta) (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Xbox und Xbox Beta</h3>
+<p>In Chats können jetzt Bilder aus der lokalen Galerie oder direkt über die Kamera eingefügt werden.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.xboxone.smartglass) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass" title="Xbox">Xbox (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.xboxone.smartglass.beta) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass.beta" title="Xbox beta">Xbox beta (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>Hinweis: (Beta) in Klammern bedeutet, dass diese Version über den Beta-Kanal der offiziellen App zu bekommen ist. Bei den Betas ohne Klammer handelt es sich um eigenständige Apps, die parallel zur produktiven Version installiert und genutzt werden können.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>343 Industries stellt Halo Xbox 360 Game Services im Dezember 2021 ein</title>
+		<link>https://www.drwindows.de/news/343-industries-stellt-halo-xbox-360-game-services-im-dezember-2021-ein</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 16:13:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78484</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Rahmen der Bemühungen, die Spieler zu den moderneren Versionen der Halo: The Master Chief Collection zu migrieren, haben die Entwickler von 343 Industries am vergangenen Freitag nun weitere Schritte angekündigt, um die bisherigen Halo Xbox 360 Game Services, die mittlerweile den Legacy-Status erhalten haben, im kommenden Jahr abzuschalten. Nun wurde Phase 2 dieser Migration [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Rahmen der Bemühungen, die Spieler zu den moderneren Versionen der Halo: The Master Chief Collection zu migrieren, haben die Entwickler von 343 Industries am vergangenen Freitag nun weitere Schritte angekündigt, um die bisherigen Halo Xbox 360 Game Services, die mittlerweile den Legacy-Status erhalten haben, im kommenden Jahr abzuschalten. Nun wurde Phase 2 dieser Migration eingeleitet.</p>
+<p>Neben der nun erfolgten Ankündigung wird auch der Verkauf der Legacy-Versionen für die Xbox 360 eingestellt. Die entsprechenden DLCs können weiterhin ohne zusätzliche Kosten erworben werden. Im weiteren Verlauf sollen die Spieler immer wieder an die kommende Einstellung der Legacy-Services erinnert werden, ehe diese im kommenden Dezember 2021 final abgeschaltet werden. Ein entsprechendes FAQ haben die Entwickler im verlinkten Blogpost beigefügt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 10X: Microsoft ändert Treibermodell für das neue Betriebssystem</title>
+		<link>https://www.drwindows.de/news/windows-10x-microsoft-aendert-treibermodell-fuer-das-neue-betriebssystem</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 13:07:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78476</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Schon mit der Veröffentlichung der Version 2004 von Windows 10 im Mai diesen Jahres hat Microsoft die Installation von Treibern grundlegend umgestellt. Entsprechende Optionen sind im alten Geräte-Manager verschwunden, stattdessen ist Windows Update jetzt zu großen Teilen für diese Aufgabe zuständig. Für das kommende Betriebssystem Windows 10X, was im Frühjahr zunächst für klassische Formfaktoren erscheinen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Schon mit der Veröffentlichung der Version 2004 von Windows 10 im Mai diesen Jahres hat Microsoft die Installation von Treibern grundlegend umgestellt. Entsprechende Optionen sind im alten Geräte-Manager verschwunden, stattdessen ist Windows Update jetzt zu großen Teilen für diese Aufgabe zuständig. Für das kommende Betriebssystem Windows 10X, was im Frühjahr zunächst für klassische Formfaktoren erscheinen und nur im Business- und Bildungsbereich eingesetzt werden soll, wird Microsoft das Treibermodell erneut anpassen.</p>
+<p>Ein entsprechendes <a href="https://docs.microsoft.com/en-us/windows-hardware/drivers/develop/getting-started-with-windows-drivers">Dokument</a> wurde jetzt von den Kollegen von Windows Latest entdeckt. Die neuen DCH-Treiber sind eine Weiterentwicklung der bisherigen UWD-Plattform, isoliert und sollten sich dementsprechend leichter aktualisieren lassen sowie weniger Probleme auslösen. Sie laufen dann auch auf dem klassischen Windows 10, während die normalen Windows Desktop-Treiber, die über eine .inf-Datei installiert werden können, weiterhin ausschließlich bei Windows 10 verfügbar sein werden. Nähere Informationen findet ihr dazu im verlinkten Supportdokument.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iOS Rundschau KW 51/20 mit OneDrive, Office Apps, Xbox und Power BI</title>
+		<link>https://www.drwindows.de/news/ios-rundschau-kw-51-20-mit-onedrive-office-apps-xbox-und-power-bi</link>
+		
+		<dc:creator><![CDATA[Maik Wlodarczyk]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 09:26:39 +0000</pubDate>
+				<category><![CDATA[Microsoft auf iOS]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78462</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das iOS Rundschau Team wünscht euch einen schönen 4. Advent und präsentiert euch wie gewohnt trotz einer eigentlich ruhigen Zeit eine Menge an Updates. Microsoft macht noch keine Pause und hat für uns noch einige Neuerungen parat. Microsoft OneDrive bietet unter iOS nun die Unterstützung von Live Photos beim Upload und Microsoft Office auf dem [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/iOS-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das iOS Rundschau Team wünscht euch einen schönen 4. Advent und präsentiert euch wie gewohnt trotz einer eigentlich ruhigen Zeit eine Menge an Updates. Microsoft macht noch keine Pause und hat für uns noch einige Neuerungen parat. Microsoft OneDrive bietet unter iOS nun die Unterstützung von Live Photos beim Upload und Microsoft Office auf dem Mac bekommt die M1-Optimierung. Weiterhin bekamen die Xbox App, die Office Apps und die Power BI App neue Features unter iOS. Außerdem gab es noch 10 Wartungs- und 4 Beta-Updates. Lassen wir uns überraschen, was Microsoft kommende Woche noch unter den Weihnachtsbaum legt.</p>
+<p>&nbsp;</p>
+<p><strong>Microsoft Office &#8211; Version 2.44</strong></p>
+<p>Filtern von Inhalten auf der Startseite: Sie können jetzt Inhalte eines bestimmten Typs finden.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 541164041) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-office/id541164041" title="‎Microsoft Office">‎Microsoft Office (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Microsoft Excel, PowerPoint, Word &#8211; Version 2.44</strong></p>
+<p>Schnelles Wechseln zwischen Geschäfts- und privaten Konten: fügen Sie mehrere Geschäfts- und private Konten zu Excel hinzu und wechseln Sie dann schnell zwischen ihnen, um genau die benötigten Informationen zu erhalten.  Verwenden eines Zeigegeräts auf dem iPad: Schließen Sie ein Trackpad oder eine Maus an Ihr iPad an, und Sie erhalten ein reichhaltiges visuelles Feedback und genau das richtige Maß an Präzision, das Sie zur Steigerung Ihrer Produktivität benötigen.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 586683407) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-excel/id586683407" title="‎Microsoft Excel">‎Microsoft Excel (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 586449534) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-powerpoint/id586449534" title="‎Microsoft PowerPoint">‎Microsoft PowerPoint (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 586447913) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-word/id586447913" title="‎Microsoft Word">‎Microsoft Word (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Xbox &#8211; Version 2012.1207.2321</strong></p>
+<p>Senden Sie benutzerdefinierte Bilder in Chats! Wir haben die Möglichkeit hinzugefügt, aus Ihren Fotos auszuwählen oder ein Bild direkt mit Ihrer Kamera aufzunehmen und mit Ihren Xbox-Freunden zu teilen.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 736179781) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/xbox/id736179781" title="‎Xbox">‎Xbox (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Microsoft Power BI &#8211; Version 22.0</strong></p>
+<p>&#8211; Wenn der Ersteller des Berichts die Anomalieerkennung für ein Berichtsvisual eingerichtet hat, können Sie sehen, ob unerwartete Spitzen oder Einbrüche in Ihren Daten durch Datenausreißer (d. h. Anomalien) verursacht werden.<br />
+&#8211; Inhalte, die im Power BI-Dienst beworben (empfohlen) oder zertifiziert wurden, werden jetzt mit einem Badge in der App markiert. Durch das Empfehlen ihrer Inhalte können die Berichtsersteller zeigen, dass die Inhalte zu Ihrer Verwendung bereitstehen. Durch eine Zertifizierung ihrer Inhalte können die Entwickler zeigen, dass die Inhalte durch Ihre Organisation genehmigt wurden.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 929738808) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-power-bi/id929738808" title="‎Microsoft Power BI">‎Microsoft Power BI (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Microsoft OneDrive &#8211; Version 12.11.6</strong></p>
+<p>Sie können jetzt Kameraupload verwenden, um Live Photos in all ihrer beeindruckenden Schönheit zu sichern.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 477537958) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onedrive/id477537958" title="‎Microsoft OneDrive">‎Microsoft OneDrive (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Wartungs- und Bugfix-Updates</h3>
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 951937596) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-outlook/id951937596" title="‎Microsoft Outlook">‎Microsoft Outlook (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 1212616790) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-to-do/id1212616790" title="‎Microsoft To Do">‎Microsoft To Do (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 1047318566) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/power-apps/id1047318566" title="‎Power Apps">‎Power Apps (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 1352499399) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-whiteboard/id1352499399" title="‎Microsoft Whiteboard">‎Microsoft Whiteboard (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 289559439) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/yammer/id289559439" title="‎Yammer">‎Yammer (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 1288723196) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-edge/id1288723196" title="‎Microsoft Edge">‎Microsoft Edge (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 979729863) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-advertising/id979729863" title="‎Microsoft Advertising">‎Microsoft Advertising (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 410395246) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onenote/id410395246" title="‎Microsoft OneNote">‎Microsoft OneNote (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 983156458) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-authenticator/id983156458" title="‎Microsoft Authenticator">‎Microsoft Authenticator (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: appstore // ID: 1113153706) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-teams/id1113153706" title="‎Microsoft Teams">‎Microsoft Teams (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>BETA-Updates</h3>
+<ul>
+<li>Microsoft Outlook &#8211; Version 4.2050.0</li>
+<li>Microsoft Xbox Family Settings &#8211; Version 20201127.201214</li>
+<li>Microsoft OneNote &#8211; Version 16.44.1</li>
+<li>Microsoft Skype für iPhone &#8211; Version 8.68.30</li>
+</ul>
+<p>&nbsp;</p>
+<h3>macOS Updates</h3>
+<p>Microsoft hat bereits beim Start der Apple M1-Geräte eine M1-optimierte Version im Betakanal bereitgestellt. Nun wurde Microsoft Office mit seinen Kern-Apps Excel, PowerPoint, Word, OneNote und Outlook in der M1 angepassten Version im aktuellen Kanal veröffentlicht. Diese Anpassung verspricht eine höhere Geschwindigkeit beim Start der Apps und beim Öffnen der Office-Dokumente. Für weitere Microsoft Apps, wie Microsoft Teams, OneDrive und To Do soll die M1-Optimierung auch noch folgen. Aber natürlich haben die Office-Apps noch weitere Funktionen erhalten, unter anderem die iCloud-Unterstützung für Outlook. An der Oberfläche wurde auch noch herum geschraubt. Einige neue Funktionen werden in den nächsten Wochen nach und nach ausgerollt.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: macappstore // ID: 462058435) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-excel/id462058435?mt=12" title="‎Microsoft Excel">‎Microsoft Excel (Kostenlos<sup>+</sup>, Mac App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: macappstore // ID: 462054704) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-word/id462054704?mt=12" title="‎Microsoft Word">‎Microsoft Word (Kostenlos<sup>+</sup>, Mac App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: macappstore // ID: 462062816) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-powerpoint/id462062816?mt=12" title="‎Microsoft PowerPoint">‎Microsoft PowerPoint (Kostenlos<sup>+</sup>, Mac App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: macappstore // ID: 784801555) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onenote/id784801555?mt=12" title="‎Microsoft OneNote">‎Microsoft OneNote (Kostenlos<sup>+</sup>, Mac App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: macappstore // ID: 985367838) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-outlook/id985367838?mt=12" title="‎Microsoft Outlook">‎Microsoft Outlook (Kostenlos<sup>+</sup>, Mac App Store) →</a></p><!-- /WP-Appbox -->
+<p>Wenn wir hier schon die M1-Optimierung betonen, soll auch erwähnt sein, dass Microsoft Edge in der Canary Variante ebenfalls die M1-Optimierung erhalten hat. Kevin hat vor kurzem darüber <a href="https://www.drwindows.de/news/edge-canary-erste-version-fuer-macos-mit-apple-m1-kann-nun-getestet-werden" target="_blank" rel="noopener">berichtet</a>. Wer testfreudig ist, kann den Edge (Canary Channel) <a href="https://www.microsoftedgeinsider.com/de-de/download/canary" target="_blank" rel="noopener">hier</a> runterladen.</p>
+<p>In dieser <a href="https://www.drwindows.de/microsoft-apps-und-dienste-auf-ios/126849-allgemeine-informationen-ios-rundschau.html">Liste</a> stehen alle Microsoft Apps für iOS, die in den iOS-Rundschauen auf Updates überprüft werden. Falls ihr uns Hinweise zu App-Updates senden möchtet, könnt ihr sie gerne an iOSRundschau(at)drwindows.de senden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Flight Simulator: Microsoft nennt Zahlen und spricht über die Zukunft</title>
+		<link>https://www.drwindows.de/news/microsoft-flight-simulator-microsoft-nennt-zahlen-und-spricht-ueber-die-zukunft</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 13:44:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78427</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das vergangene Jahr war für den Microsoft Flight Simulator ein durchaus erfolgreiches, das belegen auch neue Zahlen, die Microsoft nun in einem neuen Blogpost veröffentlicht hat. Bei den diesjährigen Game Awards konnte das Spiel als nur einer von zwei Titeln der Xbox Game Studios &#8211; der andere war Tell Me Why in der Kategorie &#8222;Games [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das vergangene Jahr war für den Microsoft Flight Simulator ein durchaus erfolgreiches, das belegen auch neue Zahlen, die Microsoft nun in einem neuen Blogpost veröffentlicht hat. Bei den diesjährigen Game Awards konnte das Spiel als nur einer von zwei Titeln der Xbox Game Studios &#8211; der andere war Tell Me Why in der Kategorie &#8222;Games for Impact&#8220; &#8211; einen Preis als beste Simulation mit nach Hause nehmen. Und auch sonst sind die Zahlen beeindruckend.</p>
+<p>Bisher wurden von der Community mehr als 50 Millionen Flüge mit einer Gesamtdistanz von rund 3,5 Milliarden Meilen (bzw. rund 5.6 Milliarden Kilometern) zurückgelegt, was der 19-fachen Distanz der Erde zur Sonne oder mehr als 400.000 Erdumrundungen entspricht. Auch die Entwickler und Modder in der Community waren bereits sehr aktiv und haben mit dem verfügbaren SDK bisher über 500 Flughäfen, Flugzeuge und andere Addons in den wenigen Monaten seit dem offiziellen Launch erarbeitet.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-78431" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Momentum_2M_Final_HERO-1.jpg" alt="" width="1200" height="675" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Momentum_2M_Final_HERO-1.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Momentum_2M_Final_HERO-1-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Momentum_2M_Final_HERO-1-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Momentum_2M_Final_HERO-1-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Momentum_2M_Final_HERO-1-643x362.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></p>
+<p>Noch in diesem Jahr will Microsoft einige Überraschungen für die Community veröffentlichen, die den offiziellen Release des VR-Updates am 22. bzw. 23. Dezember begleiten sollen. Im kommenden Jahr steht dann nicht nur der offizielle Launch auf den neuen Konsolen Xbox Series X und Xbox Series S an, sondern es soll auch drei große Updates für das Spiel an sich geben. Außerdem wollen die Entwickler 4-5 größere Updates für die Spielwelt sowie zahlreiche kleinere Updates bereitstellen, um den Microsoft Flight Simulator noch besser zu machen.</p>
+<p><em>(Momentan könnt ihr aufgrund des Umstiegs auf die neue Forensoftware nicht kommentieren. Wir bitten euch um Verständnis.)</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Skype: Microsoft bringt Together-Mode aus Microsoft Teams in die Anwendung</title>
+		<link>https://www.drwindows.de/news/skype-microsoft-bringt-together-mode-aus-microsoft-teams-in-die-anwendung</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 13:26:42 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78422</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Logos von Teams und Skype" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Rechtzeitig vor den kommenden Feiertagen hat Skype noch ein größeres Update spendiert bekommen und Microsoft bringt hier ein Feature in die App, welches wir schon aus Microsoft Teams kennen und was manchen auch das Weihnachten im Lockdown etwas einfacher machen dürfte. Wie nun bekannt wurde, ist der Together-Mode, bei dem man unterschiedliche Ansichten in Videokonferenzen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Logos von Teams und Skype" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/teams_und_skype-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Rechtzeitig vor den kommenden Feiertagen hat Skype noch ein größeres Update spendiert bekommen und Microsoft bringt hier ein Feature in die App, welches wir schon aus Microsoft Teams kennen und was manchen auch das Weihnachten im Lockdown etwas einfacher machen dürfte. Wie nun bekannt wurde, ist der Together-Mode, bei dem man unterschiedliche Ansichten in Videokonferenzen auswählen kann, nun auch in Microsofts Consumer-Plattform offiziell verfügbar.</p>
+<p>Neben dem Together-Mode wurden auch weitere Verbesserungen wie ein Large Grid-Modus sowie weitere vordefinierte Kategorien und Hintergründe hinzugefügt. Außerdem besteht nun die Möglichkeit, jemanden mit Hilfe seiner Telefonnummer zu einem Skype-Call hinzu zu fügen. Die Neuerungen sollen in den kommenden Tagen spätestens bei allen ankommen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Cyberpunk 2077: Microsoft äußert sich zu möglichen Refunds im Microsoft Store</title>
+		<link>https://www.drwindows.de/news/cyberpunk-2077-microsoft-aeussert-sich-zu-moeglichen-refunds-im-microsoft-store</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 06:20:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78413</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn ihr euch Cyberpunk 2077 im Microsoft Store gekauft habt und ebenfalls unzufrieden mit der Performance und der technischen Qualität des Spiels seid, hat Microsoft für euch gute Nachrichten. Nachdem Sony neben den Refunds auch entschieden hat, den Titel von CD Projekt Red vorerst aus dem Playstation Store zu nehmen, hat sich nun auch der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Cyberpunk 2077" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Cyber-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn ihr euch Cyberpunk 2077 im Microsoft Store gekauft habt und ebenfalls unzufrieden mit der Performance und der technischen Qualität des Spiels seid, hat Microsoft für euch gute Nachrichten. Nachdem Sony neben den Refunds auch entschieden hat, den Titel von CD Projekt Red vorerst aus dem Playstation Store zu nehmen, hat sich nun auch der Support von Team Xbox gemeldet und eine Ausweitung seiner eigenen Refund Policy angekündigt.</p>
+<p>Solange nichts Anderes von Microsoft angekündigt wird, können alle, die mit dem Spiel unzufrieden sind, über <a href="https://support.xbox.com/de-de/help/subscriptions-billing/buy-games-apps/refund-orders">diesen</a> Link eine entsprechende Erstattung des Kaufpreises anfordern, sofern Cyberpunk 2077 digital im Microsoft Store erworben wurde. Microsoft hat nach eigener Aussage der überwiegenden Mehrheit den Kaufpreis auch erstattet. Der Titel soll aber nicht temporär aus dem Microsoft Store entfernt werden.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Cyberpunk 2077: To ensure that every player can get the experience they expect on Xbox, we will be expanding our existing refund policy to offer full refunds to anyone who purchased Cyberpunk 2077 digitally from the Microsoft Store, until further notice. <a href="https://t.co/04TcniwVzy">https://t.co/04TcniwVzy</a></p>
+<p>&mdash; Xbox Support (@XboxSupport) <a href="https://twitter.com/XboxSupport/status/1339983446865801224?ref_src=twsrc%5Etfw">December 18, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bericht: Microsoft soll an eigenem ARM-Prozessor für die Surface-Reihe arbeiten</title>
+		<link>https://www.drwindows.de/news/bericht-microsoft-soll-an-eigenem-arm-prozessor-fuer-die-surface-reihe-arbeiten</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 19 Dec 2020 06:07:10 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78408</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es wäre eine logische Reaktion, auf die die Fachpresse von Microsoft schon länger wartet: Nach Informationen des Branchendienstes Bloomberg sollen die Redmonder bereits an einem eigenen ARM-Prozessor arbeiten, der im Gegensatz zu den Vorgängern SQ1 und SQ2 aber nicht mehr in Kooperation mit Qualcomm, sondern vollständig in-house entwickelt werden soll. Das Ganze kann auch als [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/arm_cortex_a76-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es wäre eine logische Reaktion, auf die die Fachpresse von Microsoft schon länger wartet: Nach Informationen des Branchendienstes Bloomberg sollen die Redmonder bereits an einem eigenen ARM-Prozessor arbeiten, der im Gegensatz zu den Vorgängern SQ1 und SQ2 aber nicht mehr in Kooperation mit Qualcomm, sondern vollständig in-house entwickelt werden soll. Das Ganze kann auch als eine Reaktion auf die Arbeiten an Apple Silicon und den aktuellen Apple M1 gewertet werden, allerdings soll Microsoft hier noch einige größere Pläne verfolgen.</p>
+<p>Glaubt man den aktuellen Berichten, werden zumindest zwei verschiedene Varianten der neuen ARM-CPU entwickelt. Eine davon ist speziell für die Surface-Reihe gedacht und dürfte über kurz oder lang auch im Surface Pro X landen. Die andere Version soll in Microsofts Rechenzentren eingesetzt werden und soll die Cloudserver hinter Microsoft Azure und ähnlichen Diensten befeuern. Wann genau die neue CPU vorgestellt wird, ist derweil noch nicht bekannt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>In eigener Sache: Hallo neues Forum &#8211; Adieu, DrWindows Apps</title>
+		<link>https://www.drwindows.de/news/in-eigener-sache-hallo-neues-forum-adieu-drwindows-apps</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 15:55:51 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78199</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Dr. Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Was lange währt wird endlich gut. An diesem Wochenende ist es endlich soweit: Wir stellen unser runderneuertes Forum an den Start. Während wir uns darauf wirklich sehr freuen, ist der Start des neuen Forums leider auch mit einem schmerzlichen Abschied verbunden: Wie bereits angekündigt, werden die DrWindows-Apps für Android, iOS und Windows ab diesem Zeitpunkt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Dr. Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/drwindows_intern_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Was lange währt wird endlich gut. An diesem Wochenende ist es endlich soweit: Wir stellen unser runderneuertes Forum an den Start. Während wir uns darauf wirklich sehr freuen, ist der Start des neuen Forums leider auch mit einem schmerzlichen Abschied verbunden: Wie bereits angekündigt, werden die DrWindows-Apps für Android, iOS und Windows ab diesem Zeitpunkt nicht mehr funktionieren.</p>
+<p>Bringen wir den schmerzhaften Teil zuerst hinter uns, dazu zitiere ich mich selbst aus der <a href="https://www.drwindows.de/news/ein-update-zu-unserem-neuen-deal" target="_blank" rel="noopener noreferrer">ursprünglichen Ankündigung</a> zum Ende der Apps vom September:</p>
+<p><em>Der Hauptgrund, warum es die Apps für Android, iOS und davor auch für Windows Phone gab, war jener, dass unsere Seite über lange Zeit nicht komfortabel mit dem Smartphone nutzbar war. Das neue Forum wird ebenfalls mobiltauglich sein, sodass unsere Seite dann mit jedem Endgerät einwandfrei nutzbar ist. Die Seite mit allen Funktionen in einer App „nachzubauen“, ist schlicht unwirtschaftlich. Selbstverständlich tut mir das selbst auch weh und ich weiß, dass eine native App durchaus für zusätzliche Bindung sorgt, daher ist mir diese Entscheidung wirklich sehr schwergefallen.</em></p>
+<p>Ich habe von einigen Lesern die Rückmeldung erhalten, dass eine mobile Webseite zwar schön sei, aber einfach nicht Dasselbe wie eine App. Dieser Meinung kann ich mich nur anschließen, es ändert aber nichts an den oben erwähnten Umständen. Wenn wir ehrlich sind, dann sind unsere Apps zwar nutzbar, aber dennoch nur Stückwerk. Bei der Windows App herrscht seit Jahren Stillstand, die Apps für Android und iOS wurden nie wirklich fertig. Im Gegenzug hat die Rücksichtnahme auf die Kompatibilität mit dem App-Backend dazu geführt, dass die Seite selbst technisch immer rückständiger wurde, und es fiel zunehmend schwer, diesen Umstand zu &#8222;verheimlichen&#8220;. Nicht nur das Forum, sondern auch Teile der Server-Software hängen dadurch auf alten technischen Ständen fest, die beinahe nicht mehr zu verantworten sind.</p>
+<p>Mit der Umstellung auf das neue Forum gehen daher auch weitere technische Aktualisierungen einher, wir versprechen uns davon einen stabileren Betrieb und vor allen Dingen eine bessere Performance für die Webseite, die ja im Grunde &#8222;zwei Webseiten&#8220; ist. Der Newsbereich arbeitet mit WordPress, das Forum aktuell mit vBulletin und ab dem kommenden Wochenende mit XenForo. Darum gibt es das &#8222;Ersatzprogramm&#8220; in Zukunft ebenfalls zweimal: Sowohl die News (das funktioniert jetzt schon) als auch das Forum lassen sich als Progressive Web App nutzen. In beiden Fällen ist der PWA-Support allerdings rudimentär, ich will da keine falschen Hoffnungen wecken. Ich habe auch nicht vor, daraus eine neue Baustelle zu machen. Was auf jeden Fall für Anfang 2021 vorgesehen ist, sind Push-Benachrichtigungen für neue Artikel. Damit hätten wir dann ein wichtiges Feature, das in den echten Apps immer vermisst wurde.</p>
+<p>Zum neuen Forum kann ich nur sagen: Freut euch drauf! Für unsere eingefleischten &#8222;Foristen&#8220; wird es selbstverständlich eine gewisse Zeit der Eingewöhnung benötigen, wie das immer so ist, wenn etwas Neues kommt, ich bin mir aber ganz sicher, dass es positiv aufgenommen wird, weil die Bedienung leichter von der Hand geht und es diverse Neuerungen gibt, die dabei helfen, keine Informationen mehr zu übersehen. Dazu gehört beispielsweise die Möglichkeit, andere User per &#8222;@username&#8220; anzusprechen, worüber diese dann auch aktiv informiert werden. Standard in allen modernen Kommunikations-Werkzeugen, aber in unserem alten Forum gibt es das eben nicht. Alte Foren-Haudegen werden vielleicht auch so manchen &#8222;neumodischen Kram&#8220; entdecken &#8211; auch das gehört eben dazu.</p>
+<p>Zum Ablauf: Die Umstellung wird im Lauf des Freitagnachmittags beginnen. Einige vorbereitende Arbeiten können im laufenden Betrieb durchgeführt werden, irgendwann wird das Forum dann allerdings in den &#8222;Lesemodus&#8220; geschaltet. Das heißt, man kann zwar auf alle Inhalte zugreifen, es können sich aber keine neuen Benutzer registrieren und man kann keine Beiträge mehr schreiben. Im Idealfall ist das neue Forum ab Samstagabend zu erreichen, ich rechne allerdings eher damit, dass es bis Sonntag dauert &#8211; irgendwann muss ich zwischendurch ja auch mal schlafen.</p>
+<p>Der News-Bereich wird mit wenigen Unterbrechungen durchgängig online sein, während das Forum abgeschaltet ist, können allerdings keine Kommentare geschrieben werden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>GitHub: Alle nicht notwendigen Cookies werden von der Plattform entfernt</title>
+		<link>https://www.drwindows.de/news/github-alle-nicht-notwendigen-cookies-werden-von-der-plattform-entfernt</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 18 Dec 2020 14:21:48 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78403</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Bevor auch das Team um Microsofts Entwicklerplattform GitHub in den Weihnachtsurlaub geht, hatte CEO Nat Friedman noch eine interessante Neuigkeit für seine Nutzer im Gepäck. Ab sofort werden alle Cookies, die nicht zwingend für den Betrieb von GitHub notwendig sind, von der Plattform entfernt. Auch die entsprechenden Banner, die sonst nach EU-Recht vorgeschrieben [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/github.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/github-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Bevor auch das Team um Microsofts Entwicklerplattform GitHub in den Weihnachtsurlaub geht, hatte CEO Nat Friedman noch eine interessante Neuigkeit für seine Nutzer im Gepäck. Ab sofort werden alle Cookies, die nicht zwingend für den Betrieb von GitHub notwendig sind, von der Plattform entfernt. Auch die entsprechenden Banner, die sonst nach EU-Recht vorgeschrieben wären, wurden so beseitigt.</p>
+<p>In Zukunft soll sich GitHub auf die Cookies beschränken, die alleine für GitHub selbst notwendig sind. Außerdem wurde nach eigener Aussage auch das Senden von Daten an Analysedienste von Drittanbietern vollständig eingestellt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
