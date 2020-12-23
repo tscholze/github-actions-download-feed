@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Tue, 22 Dec 2020 17:22:54 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Vorzeitige Startfreigabe: Microsoft Flight Simulator VR-Update veröffentlicht</title>
+		<link>https://www.drwindows.de/news/vorzeitige-startfreigabe-microsoft-flight-simulator-vr-update-veroeffentlicht</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 17:16:59 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78605</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Einen Tag früher als geplant hat Microsoft das Virtual Reality Update für den Microsoft Flight Simulator 2020 veröffentlicht. Ein passendes Headset vorausgesetzt, soll damit ein noch beeindruckenderes Flugerlebnis möglich werden. Grundsätzlich werden alle Windows Mixed Reality Headsets sowie Oculus- und mit SteamVR kompatible VR-Brillen wie beispielsweise die HTC Vive unterstützt. Gleichwohl heißt es in den [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Einen Tag früher als geplant hat Microsoft das Virtual Reality Update für den Microsoft Flight Simulator 2020 veröffentlicht. Ein passendes Headset vorausgesetzt, soll damit ein noch beeindruckenderes Flugerlebnis möglich werden.</p>
+<p>Grundsätzlich werden alle Windows Mixed Reality Headsets sowie Oculus- und mit SteamVR kompatible VR-Brillen wie beispielsweise die HTC Vive unterstützt. Gleichwohl heißt es in den <a href="https://forums.flightsimulator.com/t/read-first-vr-faq/336918/2" target="_blank" rel="noopener">FAQ</a>, die VR-Version sei für die HP Reverb G1 und G2 sowie für das Samsung Odyssey+ optimiert.</p>
+<p>Die jeweiligen Motion Controller können beim VR-Flug im Schrank bleiben, diese werden nicht unterstützt, man benutzt stattdessen Controller, Tastatur oder Joystick. Je nach Eingabegerät wird es natürlich schwierig werden, die richtigen Tasten und Knöpfe zu finden, denn wenn man die Brille aufhat, sieht man das ja logischerweise nicht mehr.</p>
+<p>Die VR-Umgebung kann zu jeder Zeit aus dem Spiel heraus mit der Tastenkombination CTRL+TAB aufgerufen werden. Wenn man auf dem Desktop fliegen möchte, sollte man allerdings das Windows Mixed Reality Portal schließen, weil es sonst zu erheblichen Performanceeinbußen kommen kann. Weitere Hinweise zu möglichen Problemen findet man im <a href="https://forums.flightsimulator.com/t/read-first-vr-known-issues/337930" target="_blank" rel="noopener">offiziellen Forum</a>.</p>
+<p>Wer heute noch in Virtual Reality fliegen möchte, sollte das Spiel umgehend starten: Das Update ist 42 GB groß.</p>
+<p>Hier gibt&#8217;s ein paar visuelle Eindrücke vom VR-Flug mit dem Microsoft Flight Simulator:</p>
+<p><iframe title="Feature Discovery Series Episode 9: VR" width="500" height="281" src="https://www.youtube.com/embed/dtfx_rF16Yc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ransomware: Microsoft und weitere gründen neue Ransomware Task Force</title>
+		<link>https://www.drwindows.de/news/ransomware-microsoft-und-weitere-gruenden-neue-ransomware-task-force</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 16:09:09 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78599</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/security.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Security" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/security.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/security-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/security-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Ransomware ist immer noch eine wachsende Gefahr und bringt neben Privatleuten auch für Unternehmen, Organisationen und den öffentlichen Dienst immer größere Herausforderungen mit sich. Um dieser besser gewachsen zu sein, tut sich Microsoft mit 17 anderen Unternehmen und Organisationen zusammen und gründet eine neue Ransomware Task Force. Zu den bekanntesten Mitgliedern gehören neben den Redmondern [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/09/security.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Security" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/09/security.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/09/security-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/09/security-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Ransomware ist immer noch eine wachsende Gefahr und bringt neben Privatleuten auch für Unternehmen, Organisationen und den öffentlichen Dienst immer größere Herausforderungen mit sich. Um dieser besser gewachsen zu sein, tut sich Microsoft mit 17 anderen Unternehmen und Organisationen zusammen und gründet eine neue Ransomware Task Force. Zu den bekanntesten Mitgliedern gehören neben den Redmondern zudem auch McAfee, Citrix oder das IST.</p>
+<p>Die komplette Mitgliederliste umfasst zudem Aspen Digital, The Cyber Threat Alliance, Cyberreason, The CyberPeace Institute, The Cybersecurity Coalition, The Global Cyber Alliance, Rapid7, Resilience, SecurityScoreboard, Shadowserver Foundation, Stratigos Security, Team Cymru, Third Way, UT Austin Stauss Center und Venable LLP. Eine eigene Website, die auch die Mitgliedschaften sowie Führungsrollen auflistet, soll im Januar 2021 aufgeschaltet werden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>EECC: Microsoft äußert sich zum neuen EU-Kodex für elektronische Kommunikation</title>
+		<link>https://www.drwindows.de/news/eecc-microsoft-aeussert-sich-zum-neuen-eu-kodex-fuer-elektronische-kommunikation</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 14:10:08 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78575</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es ist eine neue EU-Verordnung, die zum Ende des Jahres weiterhin die Massen spaltet: Der neue europäische Kodex für elektronische Kommunikation, kurz EECC, ist in dieser Woche in Kraft getreten und definiert erstmals nummernunabhängige interpersonelle Kommunikationsdienste. Was im ersten Moment ziemlich sperrig klingt, besagt einfach, dass das Versenden von E-Mails oder die Nutzung von Messengern [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es ist eine neue EU-Verordnung, die zum Ende des Jahres weiterhin die Massen spaltet: Der neue europäische Kodex für elektronische Kommunikation, kurz EECC, ist in dieser Woche in Kraft getreten und definiert erstmals nummernunabhängige interpersonelle Kommunikationsdienste. Was im ersten Moment ziemlich sperrig klingt, besagt einfach, dass das Versenden von E-Mails oder die Nutzung von Messengern wie WhatsApp, Telegram oder Skype nun unter die seit 2002 geltene E-Privacy-Richtlinie fallen. Eine vertrauliche Kommunikation hierüber ist in der EU damit garantiert.</p>
+<p>Parallel dazu arbeitet man in Brüssel seit einiger Zeit an neuen Maßnahmen, um Straftaten im digitalen Bereich wie Terrorismus oder Kinderpornografie besser zu verfolgen. Hierfür setzen die Gesetzgeber vor allem auf eine automatische Überprüfung von Kommunikationsinhalten, sodass E-Mails und Chatverläufe künftig ähnlich überprüft werden sollen, wie das bei Clouddiensten wie OneDrive schon länger der Fall ist. Genau hier spaltet das Vorhaben schon seit Monaten die Politik, denn durch den EECC fehlt aktuell eine rechtliche Grundlage für die freiwillige Umsetzung in Unternehmen und entsprechende Filtersysteme wären in der EU streng genommen nicht mehr zulässig.</p>
+<p>Die deutschen Parteien reagieren aktuell gemischt auf das Vorhaben. Während die SPD deutliche Nachbesserungen für einen rechtskonformen Einsatz fordert, lehnen die Grünen das Vorhaben aus Datenschutzgründen gänzlich ab und die Piratenpartei warnt gar vor einer neuen Denunziationsmaschine. Auch aus der Technologiebranche haben Unternehmen wie Microsoft, seine Tochter LinkedIn, Google, Roblox und Yubo schon in einer gemeinsamen Erklärung reagiert, nun legte Microsoft am gestrigen Montag aber nochmal mit einem eigenen Blogpost nach.</p>
+<p>Darin verweisen Casper Klynge, VP für Angelegenheiten in der EU, und Courtney Gregoire, Chief Digital Safety Officer bei Microsoft, auf die Bemühungen, die die Redmonder schon jetzt etwa bei Xbox Live unternehmen, um besonders Kinder vor rechtswidrigen Inhalten bestmöglich zu schützen, und kündigen gleichzeitig an, bis auf Weiteres auch unverändert an dieser Praxis in der Europäischen Union festhalten zu wollen. Man wolle wie bisher konstruktiv mit den Mitgliedsstaaten in der EU an einem einheitlichen Rechtsrahmen arbeiten. Gleichzeitig wird auch die zunehmende Komplexität kritisiert, da die Gesetzgebung noch auf veraltete Technologien ausgerichtet ist und die aktuelle Realität nicht mehr wirklich abbildet.</p>
+<p>Das weitere Verfahren ist momentan noch nicht ganz klar. Die SPD erwartet einen ersten Vorschlag für einen dauerhaften Rechtsrahmen erst im 2. Quartal 2021. Sollte der Vorschlag der EU-Kommission durchkommen, soll die neue Verordnung aber vielleicht auch schon früh in 2021 in Kraft treten und zunächst bis Ende 2025 gelten. Einen zusätzlichen Rechtsrahmen will die EU-Kommission dann in der Zwischenzeit verabschieden, um vor allem Anbieter von Online-Diensten zu verpflichten, Material über sexuellen Missbrauch aufzudecken und den Behörden zu melden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Enpass: Neuer Familientarif erweitert das Angebot des Passwortmanagers</title>
+		<link>https://www.drwindows.de/news/enpass-neuer-familientarif-erweitert-das-angebot-des-passwortmanagers</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 12:52:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78570</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Enpass" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Viele unserer Nutzer erinnern sich ja sicherlich noch an Enpass. Über den Passwortmanager haben wir an anderer Stelle im Blog und im Forum schon häufiger gesprochen und bei so manchem ist er sicherlich auch bis heute die bevorzugte Wahl, wenn es darum geht, wem man seine Zugangsdaten anvertrauen soll. Seit einiger Zeit bieten die Entwickler [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Enpass" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/enpass_subscription-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Viele unserer Nutzer erinnern sich ja sicherlich noch an Enpass. Über den Passwortmanager haben wir an anderer Stelle im Blog und im Forum schon häufiger gesprochen und bei so manchem ist er sicherlich auch bis heute die bevorzugte Wahl, wenn es darum geht, wem man seine Zugangsdaten anvertrauen soll. Seit einiger Zeit bieten die Entwickler neben dem bisherigen Einmalkauf auch ein Abomodell an, welches entweder jährlich oder halbjährlich bezahlt werden kann. Nun wird dieses Angebot erweitert.</p>
+<p>Enpass führt ab sofort einen neuen <a href="https://www.enpass.io/pricing/">Familientarif</a> ein, der mit bis zu 6 Mitgliedern genutzt werden kann und aktuell mit einem Rabatt von 25 % für 32,24 € in den ersten 12 Monaten angeboten wird. Anschließend kostet er 42,99 €, wobei die halbjährliche Bezahlmöglichkeit hier entfällt. Der Funktionsumfang ändert sich gegenüber den anderen Optionen nicht, auch die Preise der anderen bleiben gleich. Der Einmalkauf kostet weiterhin 71,19 €, das Einzel-Abo bei jährlicher Bezahlung 21,49 €, bei der halbjährlichen Variante werden 14,99 € fällig.</p>
+<p>Ob man sich auf Enpass einlassen möchte, muss natürlich jeder selbst wissen. Ich nutze persönlich Bitwarden, aber daneben gibt es natürlich noch den Klassiker KeePass sowie diverse andere kommerzielle Anbieter, zwischen denen ihr wählen könnt. Schaut einfach mal rein.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Teams: Microsoft verlängert Ausnahmeregelung für Live-Events um weitere 6 Monate</title>
+		<link>https://www.drwindows.de/news/teams-microsoft-verlaengert-ausnahmeregelung-fuer-live-events-um-weitere-6-monate</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 10:23:31 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78555</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn ihr im Unternehmen oder in Bildungseinrichtungen Microsoft Teams nutzt, um Live-Events für Vorlesungen und ähnlichem abzuhalten, könnt ihr nun weitere sechs Monate von der Ausnahmeregelung profitieren, die Microsoft zu Beginn der Corona-Pandemie verkündet hat. Mindestens bis zum 30. Juni 2021 können entsprechende Kunden also auch weiterhin digitale Veranstaltungen mit bis zu 20.000 Teilnehmern, 50 [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn ihr im Unternehmen oder in Bildungseinrichtungen Microsoft Teams nutzt, um Live-Events für Vorlesungen und ähnlichem abzuhalten, könnt ihr nun weitere sechs Monate von der Ausnahmeregelung profitieren, die Microsoft zu Beginn der Corona-Pandemie verkündet hat. Mindestens bis zum 30. Juni 2021 können entsprechende Kunden also auch weiterhin digitale Veranstaltungen mit bis zu 20.000 Teilnehmern, 50 Events pro Mieter und einer maximalen Dauer von 16 Stunden abhalten, ohne dafür zusätzliche Kosten fürchten zu müssen.</p>
+<p>Microsoft kündigte das Ganze im Microsoft 365 Admin Center an, zudem gilt diese Regelung zusätzlich auch für Yammer und Microsoft Stream. Über ein spezielles Assistenzprogramm können zudem auch Veranstaltungen mit bis zu 100.000 Teilnehmern durchgeführt werden. Nach Auslaufen der Sonderregelung ist wieder eine Advanced Communication license notwendig, andernfalls werden die Möglichkeiten wieder auf 10.000 Teilnehmer und einer Maximaldauer von 4 Stunden begrenzt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Google bringt Chrome OS künftig offiziell auf vorhandene Computer</title>
+		<link>https://www.drwindows.de/news/google-bringt-chrome-os-kuenftig-offiziell-auf-vorhandene-computer</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 22 Dec 2020 10:17:01 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78551</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Googles Chrome OS gab es bislang nur in Verbindung mit einem entsprechenden Chromebook zu kaufen. Zwar gibt es diverse inoffizielle Möglichkeiten, Chrome OS auf einen vorhandenen PC zu installieren, diese sind aber allesamt inoffiziell und werden demnach nicht unterstützt. Für heimische Experimente ausreichend, für den professionellen Einsatz aber wegen dem fehlenden Support nicht geeignet. Für [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Googles Chrome OS gab es bislang nur in Verbindung mit einem entsprechenden Chromebook zu kaufen. Zwar gibt es diverse inoffizielle Möglichkeiten, Chrome OS auf einen vorhandenen PC zu installieren, diese sind aber allesamt inoffiziell und werden demnach nicht unterstützt. Für heimische Experimente ausreichend, für den professionellen Einsatz aber wegen dem fehlenden Support nicht geeignet.</p>
+<p>Für kommerzielle Kunden hatte das Unternehmen <a href="https://www.neverware.com/freedownload#intro-text" target="_blank" rel="noopener">Neverware</a> mit dem Produkt &#8222;CloudReady&#8220; eine Alternative. Hierbei handelt es sich um einen Fork von Chrome OS, der auf vorhandenen PCs installiert werden kann. Vollständig war diese Lösung aber ebenfalls nicht, denn es fehlten beispielsweise die Google Play Services, welche die Nutzung von Android Apps unter Chrome OS ermöglichen.</p>
+<p>In der letzten Woche <a href="https://cloudreadykb.neverware.com/s/article/Neverware-is-now-part-of-Google-FAQ" target="_blank" rel="noopener">gab Neverware bekannt</a>, von Google übernommen worden zu sein. Damit wird in Zukunft das möglich sein, was bisher nicht möglich war: Die vollwertige Nutzung von Chrome OS auf einem vorhandenen Computer.</p>
+<p>Ob, wann und in welcher Form Google ein frei installierbares Chrome OS lautstark vermarktet, wird man abwarten müssen.</p>
+<p>Wenn es außerdem stimmen sollte, was über Windows 10X gemunkelt wird, nämlich dass es als Gegenpol zu Chrome OS in Stellung gebracht, aber nur zusammen mit neuen PCs verkauft werden soll, dann könnte man sich daraus eine ungünstige Konstellation zusammenreimen. Man stelle sich vor, Microsoft will den Schulen Windows 10x zusammen mit neuen Geräten verkaufen, während Google die kostenlose Umrüstung der betagten Windows-PCs auf Chrome OS anbietet.</p>
+<p>Das ist selbstverständlich Kaffeesatzleserei, und wenn mir solche Gedanken kommen, dann hat man ein solches Szenario in Redmond sicherlich ebenfalls auf dem Schirm.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Weihnachtsferien für die Windows Insider haben begonnen</title>
+		<link>https://www.drwindows.de/news/weihnachtsferien-fuer-die-windows-insider-haben-begonnen</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 21 Dec 2020 11:52:27 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78528</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das vergangene Wochenende stand ganz im Zeichen der Technik und dem (geglückten) Umstieg auf die neue Forensoftware, dabei sind ein paar Nachrichten auf der Strecke geblieben. Zum Beispiel die Botschaft, dass sich die Windows Insider nun ganz in Ruhe mit ihren Weihnachtsvorbereitungen beschäftigen können. Eine neue Insider-Version wird es in diesem Jahr nämlich nicht mehr [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das vergangene Wochenende stand ganz im Zeichen der Technik und dem (geglückten) Umstieg auf die neue Forensoftware, dabei sind ein paar Nachrichten auf der Strecke geblieben. Zum Beispiel die Botschaft, dass sich die Windows Insider nun ganz in Ruhe mit ihren Weihnachtsvorbereitungen beschäftigen können. Eine neue Insider-Version wird es in diesem Jahr nämlich nicht mehr geben.</p>
+<p>Zum Ende der vierten Adventwoche war eine neue Build geplant, aus dieser wurde aber nichts, weil zu viele Fehler enthalten waren, teilte das Windows Insider Team via Twitter mit.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Hey <a href="https://twitter.com/hashtag/WindowsInsiders?src=hash&amp;ref_src=twsrc%5Etfw">#WindowsInsiders</a>, we really tried hard to get a new RS_PRERELEASE build out but it didn&#39;t hit the quality bar. Our team is heading out for the holidays so no more flights until January as we spend this downtime to recharge for what&#39;s in store for 2021.  ^AL <a href="https://t.co/GeeT9Cm2gw">pic.twitter.com/GeeT9Cm2gw</a></p>
+<p>&mdash; Windows Insider (@windowsinsider) <a href="https://twitter.com/windowsinsider/status/1340005720763236352?ref_src=twsrc%5Etfw">December 18, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Da sich nun auch bei Microsoft schon viele Mitarbeiter in die Weihnachtsferien verabschieden, gibt es die nächste Vorabversion von Windows 10 erst im neuen Jahr.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Android Rundschau KW 51/20 mit Microsoft Teams, To Do, Edge und mehr</title>
+		<link>https://www.drwindows.de/news/android-rundschau-kw-51-20-mit-microsoft-teams-to-do-edge-und-mehr</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 17:00:33 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78314</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau Weihnachten" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Hatte ich letzte Woche geschrieben, dies sei die letzte Android-Rundschau im Jahr 2020? Tut mir leid, das war gelogen &#8211; hier kommt noch eine. Entgegen meiner Erwartungen sind kurz vor Weihnachten noch einige interessante Updates veröffentlicht worden und ich habe trotz der Umstellung unseres Forums auf die neue Plattform noch die Zeit gefunden, diese zusammenzutragen. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau Weihnachten" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/Android-Rundschau-Weihnachten-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Hatte ich letzte Woche geschrieben, dies sei die letzte Android-Rundschau im Jahr 2020? Tut mir leid, das war gelogen &#8211; hier kommt noch eine. Entgegen meiner Erwartungen sind kurz vor Weihnachten noch einige interessante Updates veröffentlicht worden und ich habe trotz der Umstellung unseres Forums auf die neue Plattform noch die Zeit gefunden, diese zusammenzutragen.</p>
+<p>Bitte sehr:</p>
+<h3>Microsoft Teams</h3>
+<p>Auch in der mobilen App von Microsoft Teams ist es jetzt genau wie am Desktop möglich, den eigenen Status auf &#8222;offline&#8220; zu setzen, um Kollegen zu signalisieren, dass man nicht erreichbar ist.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.teams) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.teams" title="Microsoft Teams">Microsoft Teams (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft To Do</h3>
+<p>Die Einstellungen zu den Benachrichtigungen lassen sich jetzt für jedes hinterlegte Konto getrennt konfigurieren. So kann man beispielsweise im Urlaub die Benachrichtigungen für das geschäftliche Konto deaktivieren, ohne mit dem privaten Konto etwas zu verpassen.</p>
+<p>Außerdem neu: Push-Nachrichten für Aufgaben in geteilten Listen sind jetzt auch für Business-Konten verfügbar.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.todos) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.todos" title="Microsoft To Do: Liste, Aufgabe und Erinnerung">Microsoft To Do: Liste, Aufgabe und Erinnerung (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft Edge (Beta)</h3>
+<p>Seit dieser Woche wird in der Beta-Version die <a href="https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android" target="_blank" rel="noopener noreferrer">Synchronisation des Verlaufs und der geöffneten Tabs</a> unterstützt. Da diese Funktion nicht in der App, sondern im hinterlegten Konto freigeschaltet wird, ist sie noch nicht bei allen Nutzern verfügbar.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.emmx) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.emmx" title="Microsoft Edge">Microsoft Edge (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft Launcher (Beta)</h3>
+<p>Die Einrichtung von geschäftlichen Konten über die Feed-Seite wurde vereinfacht, außerdem wurden die App-Ordner kosmetisch überarbeitet.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.launcher) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.launcher" title="Microsoft Launcher">Microsoft Launcher (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Xbox Game Pass Beta</h3>
+<p>Spiele, die ohne Controller per Touch bedient werden können, sind nun in der Galerie hervorgehoben, sodass man besser erkennt, welche Spiele man unterwegs auch ohne Zubehör spielen kann.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.gamepass.beta) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.gamepass.beta" title="Xbox Game Pass (Beta)">Xbox Game Pass (Beta) (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Xbox und Xbox Beta</h3>
+<p>In Chats können jetzt Bilder aus der lokalen Galerie oder direkt über die Kamera eingefügt werden.</p>
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.xboxone.smartglass) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass" title="Xbox">Xbox (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.5 // Store: googleplay // ID: com.microsoft.xboxone.smartglass.beta) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.xboxone.smartglass.beta" title="Xbox beta">Xbox beta (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>Hinweis: (Beta) in Klammern bedeutet, dass diese Version über den Beta-Kanal der offiziellen App zu bekommen ist. Bei den Betas ohne Klammer handelt es sich um eigenständige Apps, die parallel zur produktiven Version installiert und genutzt werden können.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>343 Industries stellt Halo Xbox 360 Game Services im Dezember 2021 ein</title>
+		<link>https://www.drwindows.de/news/343-industries-stellt-halo-xbox-360-game-services-im-dezember-2021-ein</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 16:13:17 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78484</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im Rahmen der Bemühungen, die Spieler zu den moderneren Versionen der Halo: The Master Chief Collection zu migrieren, haben die Entwickler von 343 Industries am vergangenen Freitag nun weitere Schritte angekündigt, um die bisherigen Halo Xbox 360 Game Services, die mittlerweile den Legacy-Status erhalten haben, im kommenden Jahr abzuschalten. Nun wurde Phase 2 dieser Migration [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/06/halo_tv-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im Rahmen der Bemühungen, die Spieler zu den moderneren Versionen der Halo: The Master Chief Collection zu migrieren, haben die Entwickler von 343 Industries am vergangenen Freitag nun weitere Schritte angekündigt, um die bisherigen Halo Xbox 360 Game Services, die mittlerweile den Legacy-Status erhalten haben, im kommenden Jahr abzuschalten. Nun wurde Phase 2 dieser Migration eingeleitet.</p>
+<p>Neben der nun erfolgten Ankündigung wird auch der Verkauf der Legacy-Versionen für die Xbox 360 eingestellt. Die entsprechenden DLCs können weiterhin ohne zusätzliche Kosten erworben werden. Im weiteren Verlauf sollen die Spieler immer wieder an die kommende Einstellung der Legacy-Services erinnert werden, ehe diese im kommenden Dezember 2021 final abgeschaltet werden. Ein entsprechendes FAQ haben die Entwickler im verlinkten Blogpost beigefügt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 10X: Microsoft ändert Treibermodell für das neue Betriebssystem</title>
+		<link>https://www.drwindows.de/news/windows-10x-microsoft-aendert-treibermodell-fuer-das-neue-betriebssystem</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sun, 20 Dec 2020 13:07:54 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78476</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Schon mit der Veröffentlichung der Version 2004 von Windows 10 im Mai diesen Jahres hat Microsoft die Installation von Treibern grundlegend umgestellt. Entsprechende Optionen sind im alten Geräte-Manager verschwunden, stattdessen ist Windows Update jetzt zu großen Teilen für diese Aufgabe zuständig. Für das kommende Betriebssystem Windows 10X, was im Frühjahr zunächst für klassische Formfaktoren erscheinen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Schon mit der Veröffentlichung der Version 2004 von Windows 10 im Mai diesen Jahres hat Microsoft die Installation von Treibern grundlegend umgestellt. Entsprechende Optionen sind im alten Geräte-Manager verschwunden, stattdessen ist Windows Update jetzt zu großen Teilen für diese Aufgabe zuständig. Für das kommende Betriebssystem Windows 10X, was im Frühjahr zunächst für klassische Formfaktoren erscheinen und nur im Business- und Bildungsbereich eingesetzt werden soll, wird Microsoft das Treibermodell erneut anpassen.</p>
+<p>Ein entsprechendes <a href="https://docs.microsoft.com/en-us/windows-hardware/drivers/develop/getting-started-with-windows-drivers">Dokument</a> wurde jetzt von den Kollegen von Windows Latest entdeckt. Die neuen DCH-Treiber sind eine Weiterentwicklung der bisherigen UWD-Plattform, isoliert und sollten sich dementsprechend leichter aktualisieren lassen sowie weniger Probleme auslösen. Sie laufen dann auch auf dem klassischen Windows 10, während die normalen Windows Desktop-Treiber, die über eine .inf-Datei installiert werden können, weiterhin ausschließlich bei Windows 10 verfügbar sein werden. Nähere Informationen findet ihr dazu im verlinkten Supportdokument.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
