@@ -1,0 +1,663 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Sat, 02 Jan 2021 11:15:48 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Proton: Firefox soll noch im Mai ein neues Design bekommen</title>
+		<link>https://www.drwindows.de/news/proton-firefox-soll-noch-im-mai-ein-neues-design-bekommen</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 02 Jan 2021 11:15:48 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78897</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nachdem das letzte Jahr von Mozilla vor allem durch die Pandemie und dadurch bedingte Entlassungen geprägt war, steht mit 2021 nun das erste Jahr an, in dem sich die Organisation in deutlich verkleinerter Form bewähren muss. Im vergangenen Jahr konnten die Entwickler noch zahlreiche Projekte wie den Rollout von Fenix als neuem Android-Browser oder das [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nachdem das letzte Jahr von Mozilla vor allem durch die Pandemie und dadurch bedingte Entlassungen geprägt war, steht mit 2021 nun das erste Jahr an, in dem sich die Organisation in deutlich verkleinerter Form bewähren muss. Im vergangenen Jahr konnten die Entwickler noch zahlreiche Projekte wie den Rollout von Fenix als neuem Android-Browser oder das Warp-Update der JavaScript-Engine SpiderMonkey abschließen, während außerhalb von Firefox zahlreiche andere Projekte eingestellt oder verlagert wurden.</p>
+<p>Nun soll eines der größeren Projekte in 2021 ein neues Design für den Browser kommen, wie Sören Hentzschel auf seinem Blog berichtet. Das unter dem Namen Proton entwickelte Design könnte dabei schon in etwa viereinhalb Monaten bei den Nutzern ankommen, wenn Firefox 89.0 am 18. Mai 2021 veröffentlicht werden soll. Das wäre auch so schon ein extrem kurzer Zeitraum zwischen der ersten Erwähnung und dem finalen Release, bei den Vorgängern Photon und Australis dauerte es jeweils bis zu einem Jahr, bis die Änderungen alle in der stabilen Version gelandet sind.</p>
+<p>Es gibt mittlerweile auch erste Mockups, die aktuell aber noch nicht öffentlich zugänglich sind. Neben eine optischen Erneuerung soll Proton aber auch Änderungen bei der Benutzererfahrung bringen, die wir teilweise schon von anderen Browsern wie Edge und Vivaldi kennen. Zu den möglichen Verbesserungen gehören hier neben vertikalen Tabs auch Tab-Umgebungen, die sich wie in Vivaldi entsprechend verschachteln lassen &#8211; quasi eine native Integration des Addons Tree Style Tabs.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Verteilung der Browser und Betriebssysteme im Dezember 2020</title>
+		<link>https://www.drwindows.de/news/verteilung-der-browser-und-betriebssysteme-im-dezember-2020</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 01 Jan 2021 19:26:13 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78885</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Statistiken" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Auch im neuen Jahr pflegen wir die Tradition weiter, zu Beginn eines jeden Monats einen Blick auf die Verteilung der Browser und Betriebssysteme zu werfen. Im letzten Monat haben wir dabei einen erzwungenen Neustart hingelegt, weil Netmarketshare seinen Dienst eingestellt hat. In Zukunft verlassen wir uns also auf die Zahlen von Statcounter. In der zweiten [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Statistiken" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Auch im neuen Jahr pflegen wir die Tradition weiter, zu Beginn eines jeden Monats einen Blick auf die Verteilung der Browser und Betriebssysteme zu werfen. Im letzten Monat haben wir dabei einen erzwungenen Neustart hingelegt, weil Netmarketshare seinen Dienst eingestellt hat. In Zukunft verlassen wir uns also auf die Zahlen von Statcounter. In der zweiten Ausgabe der &#8222;neuen&#8220; Statistik werden nun auch wieder die Differenzen zum Vormonat ausgewiesen.</p>
+<p>Legen wir los.</p>
+<h3>Betriebssysteme allgemein</h3>
+<p>Android kann im Dezember seinen Status als plattformübergreifend führendes Betriebssystem festigen. Die Abweichung zum Vormonat erscheint mir dennoch unnatürlich hoch, da aber gleichzeitig der Wert für &#8222;Unbekannt&#8220; bei Statcounter stark gesunken ist, erkläre ich es mir damit, dass der Wert bei Android im November mutmaßlich zu niedrig war.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Android</td>
+<td width="81">41,58%</td>
+<td width="78">+2,70</td>
+</tr>
+<tr>
+<td>Windows</td>
+<td>31,73%</td>
+<td>-0,59</td>
+</tr>
+<tr>
+<td>iOS</td>
+<td>16,58%</td>
+<td>-0,02</td>
+</tr>
+<tr>
+<td>OS X</td>
+<td>7,08%</td>
+<td>-0,22</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>0,81%</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Unbekannt</td>
+<td>1,19%</td>
+<td>-1,76</td>
+</tr>
+<tr>
+<td>Sonstige</td>
+<td>1,02%</td>
+<td>-0,09</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Betriebssysteme Desktop</h3>
+<p>Auch bei den Desktop-Statistiken macht Windows einen unnatürlich anmutenden Sprung, auch hier ist es so, dass Statcounter im November einen hohen Anteil als &#8222;Unbekannt&#8220; ausgewiesen hatte. Das müssen wir wohl noch ein wenig beobachten.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Windows</td>
+<td width="81">76,56%</td>
+<td width="78">+3,35</td>
+</tr>
+<tr>
+<td>OS X</td>
+<td>17,10%</td>
+<td>+0,56</td>
+</tr>
+<tr>
+<td>Chrome OS</td>
+<td>1,72%</td>
+<td>-0,19</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>1,93%</td>
+<td>+0,12</td>
+</tr>
+<tr>
+<td>Sonstige</td>
+<td>2,69%</td>
+<td>n/a</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Verteilung der Windows-Anteile</h3>
+<p>Innerhalb der Windows-Welt hat sich im Dezember praktisch gar nichts getan, die geringen Abweichungen kann man als statistische Ungenauigkeiten abtun.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Windows 10</td>
+<td width="81">75,68%</td>
+<td width="78">-0,25</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>18,03%</td>
+<td>+0,33</td>
+</tr>
+<tr>
+<td>Windows 8.1</td>
+<td>3,95%</td>
+<td>-0,03</td>
+</tr>
+<tr>
+<td>Windows 8.0</td>
+<td>1,10%</td>
+<td>+0,01</td>
+</tr>
+<tr>
+<td>Windows XP</td>
+<td>0,80%</td>
+<td>+0,01</td>
+</tr>
+<tr>
+<td>Windows Vista</td>
+<td>0,41%</td>
+<td>-0,05</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Browser allgemein</h3>
+<p>Bei den Browsern gibt es ebenfalls nur leichte Verschiebungen. Sucht euch euren Favoriten aus.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Google Chrome</td>
+<td width="81">63,38%</td>
+<td width="78">-0,14</td>
+</tr>
+<tr>
+<td>Safari</td>
+<td>19,25%</td>
+<td>-0,01</td>
+</tr>
+<tr>
+<td>Mozilla Firefox</td>
+<td>3,77%</td>
+<td>-0,01</td>
+</tr>
+<tr>
+<td>Samsung Internet</td>
+<td>3,47%</td>
+<td>-0,02</td>
+</tr>
+<tr>
+<td>Microsoft Edge</td>
+<td>3,08%</td>
+<td>+0,08</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>2,26%</td>
+<td>+0,14</td>
+</tr>
+<tr>
+<td>Internet Explorer</td>
+<td>1,05%</td>
+<td>-0,08</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Browser Desktop</h3>
+<p>Am Desktop hat Google Chrome ein paar Anteile an seine &#8222;Verfolger&#8220; verloren, wirklich weh dürfte das Google allerdings sicher nicht tun. Der &#8222;neue&#8220; Edge, der bald seinen ersten Geburtstag feiert, legt im Dezember ebenfalls wieder ein wenig zu.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Google Chrome</td>
+<td width="81">65,96%</td>
+<td width="78">-1,73</td>
+</tr>
+<tr>
+<td>Safari</td>
+<td>10,43%</td>
+<td>+0,59</td>
+</tr>
+<tr>
+<td>Firefox</td>
+<td>8,39%</td>
+<td>+0,43</td>
+</tr>
+<tr>
+<td>Microsoft Edge</td>
+<td>7,43%</td>
+<td>+0,42</td>
+</tr>
+<tr>
+<td>Internet Explorer</td>
+<td>2,54%</td>
+<td>-0,01</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>2,59%</td>
+<td>+1,89</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>DrWindows-Besucherstatistik</h3>
+<p>Die DrWindows-Besucherstatistik bietet wie immer ein anderes Bild, was an unserer speziellen Zielgruppe liegt. Mehr als bemerkenswert ist allerdings der Umstand, dass uns zusammengerechnet vier von zehn Besuchern nicht mit dem System besuchen, welches dieser Seite seinen Namen leiht.</p>
+<p>Zur Browser-Statistik sei noch angemerkt, dass Google Analytics seit Dezember alle Aufrufe via Android WebView automatisch dem Chrome-Browser zurechnet. Rein technisch ist das zwar korrekt, da es sich hierbei aber um gerenderte Webinhalte innerhalb von Apps handelt und der Nutzer hier keine Wahl hat, wird das Verhältnis zu den konkurrierenden Browsern dadurch dennoch verfälscht.</p>
+<p><strong>Betriebssysteme</strong></p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Windows 10</td>
+<td width="81">50,82%</td>
+<td width="78">-2,14</td>
+</tr>
+<tr>
+<td>Android</td>
+<td>26,07%</td>
+<td>+4,02</td>
+</tr>
+<tr>
+<td>iOS</td>
+<td>9,99%</td>
+<td>-0,52</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>4,80%</td>
+<td>-0,82</td>
+</tr>
+<tr>
+<td>Mac OS</td>
+<td>3,49%</td>
+<td>-0,10</td>
+</tr>
+<tr>
+<td>Windows 8.0</td>
+<td>1,93%</td>
+<td>-0,38</td>
+</tr>
+<tr>
+<td>Windows 8.1</td>
+<td>1,16%</td>
+<td>-0,03</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>0,79%</td>
+<td>-0,06</td>
+</tr>
+<tr>
+<td>Windows XP</td>
+<td>0,22%</td>
+<td>+0,03</td>
+</tr>
+<tr>
+<td>Windows Vista</td>
+<td>0,12%</td>
+<td>-0,01</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Browser</strong></p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Google Chrome</td>
+<td width="81">43,73%</td>
+<td width="78">+5,30</td>
+</tr>
+<tr>
+<td>Mozilla Firefox</td>
+<td>18,90%</td>
+<td>+0,41</td>
+</tr>
+<tr>
+<td>Microsoft Edge</td>
+<td>13,82%</td>
+<td>-2,32</td>
+</tr>
+<tr>
+<td>Safari</td>
+<td>12,15%</td>
+<td>-0,66</td>
+</tr>
+<tr>
+<td>Internet Explorer</td>
+<td>3,51%</td>
+<td>-0,95</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>3,13%</td>
+<td>+0,09</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;<br />
+<strong>Quellen:</strong></p>
+<ul>
+<li><a href="https://gs.statcounter.com/os-market-share#monthly-202012-202012-bar" target="_blank" rel="noopener noreferrer">Statcounter / Betriebssysteme</a></li>
+<li><a href="https://gs.statcounter.com/os-market-share/desktop/worldwide/#monthly-202012-202012-bar" target="_blank" rel="noopener noreferrer">Statcounter / Desktop-Betriebssysteme</a></li>
+<li><a href="https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/#monthly-202012-202012-bar" target="_blank" rel="noopener noreferrer">Statcounter / Windows-Versionen</a></li>
+<li><a href="https://gs.statcounter.com/browser-market-share#monthly-202012-202012-bar" target="_blank" rel="noopener noreferrer">Statcounter / Browser</a></li>
+<li><a href="https://gs.statcounter.com/browser-market-share/desktop/worldwide/#monthly-202012-202012-bar" target="_blank" rel="noopener noreferrer">Statcounter / Desktop-Browser</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft: 10 Dinge, die sich 2021 ändern</title>
+		<link>https://www.drwindows.de/news/microsoft-10-dinge-die-sich-2021-aendern</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2020 13:31:27 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77954</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Mit dem 31. Dezember befinden wir uns im letzten Tag des Jahres und erleben in wenigen Stunden einen Jahreswechsel, wie ihn viele von uns zu Beginn von 2020 sicherlich nicht erwartet hätten. Die Corona-Pandemie hält die Welt seit gut zehn Monaten in Atem und es wird noch einige Monate dauern, bis wir Schritt für Schritt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Firmenlogo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/microsoft_logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Mit dem 31. Dezember befinden wir uns im letzten Tag des Jahres und erleben in wenigen Stunden einen Jahreswechsel, wie ihn viele von uns zu Beginn von 2020 sicherlich nicht erwartet hätten. Die Corona-Pandemie hält die Welt seit gut zehn Monaten in Atem und es wird noch einige Monate dauern, bis wir Schritt für Schritt wieder zu mehr und mehr Normalität zurückkehren können und werden. Auch Microsoft hatte diesmal ein wirtschaftlich starkes Jahr, aber die Durchführung vieler Neuerungen und virtueller Veranstaltungen hat auch hier vieles verändert.</p>
+<p>Trotzdem wollen wir zum Jahresende die Gelegenheit nutzen und wie im vergangenen Jahr mal einen Blick auf einige Sachen werfen, die bei Microsoft in den kommenden zwölf Monaten anstehen und auf die wir uns in den meisten Fällen sicherlich auch schon freuen können. Deswegen habe ich wieder zehn Kernbereiche zusammengestellt, in denen wir für 2021 mit wesentlichen Entwicklungen rechnen können.</p>
+<p><strong>01. Windows</strong></p>
+<p>Seitdem Panos Panay vor einigen Monaten auch die Führung von Windows auf der Client-Seite übernommen hat, will Microsoft sich in Zukunft wieder mehr auf sein ehemaliges Kernprodukt konzentrieren. Der Fokus wird dabei wohl zunächst auf dem leichteren und modernen Windows 10X liegen, das aber für den eigentlichen Massenmarkt (vorerst) uninteressant bleibt und vor allem den Bildungssektor anpeilen wird. Das finale Release soll irgendwann im Frühjahr 2021 erfolgen, die Unterstützung für Win32-Anwendungen ist da aber noch nicht an Bord.</p>
+<p>Das klassische Windows 10 soll nach derzeitigen Berichten zunächst nur ein weiteres kleineres Release im Stile der Versionen 1909 und 20H2 bekommen, ehe im Herbst 2021 ein großes Funktionsupdate wartet. Mit der neuen Android Runtime namens Project Latte und dem unter dem Codenamen Sun Valley laufenden Design-Refresh werden bisher zwei wesentliche Verbesserungen vermutet. Ohnehin kann Microsoft aber auch so über die Windows Feature Experience Packs künftig noch schneller neue, kleinere Funktionen ausliefern.</p>
+<p><strong>02. WinGet</strong></p>
+<p>Der neue Paketmanager WinGet wurde erstmals auf der BUILD Conference in diesem Jahr vorgestellt und soll die sichere Installation von Anwendungen für Windows noch stärker vereinfachen. Mit der Ankündigung im Mai hatte sich Microsoft aber nicht nur Freunde gemacht und so kam es zu einigen Reibereien mit dem AppGet-Projekt, was Microsoft des Diebstahls bezichtigte und die eigene Weiterentwicklung daraufhin einstellen wollte. Bis die Differenzen hier ausgeräumt wurden, dauerte das auch seine Zeit.</p>
+<p>Verläuft weiterhin alles nach Plan, soll WinGet spätestens im Frühsommer 2021 über ein Update des AppInstallers in Windows 10 via dem Microsoft Store dann allen Nutzern zur Verfügung stehen. Neben den klassischen Binaries und dem Microsoft Store selbst wird so eine dritte Möglichkeit eröffnet. Ob WinGet auch größeren Einfluss auf den Microsoft Store selbst ausüben und neben einer möglichen Portierung von Project Mercury, dem neuen Microsoft Store der Xbox, auf Windows 10 stärker integriert wird, bleibt noch abzuwarten.</p>
+<p><strong>03. Microsoft Edge</strong></p>
+<p>Mitte Januar wurde die Legacy-Version von Microsoft Edge auf Basis von EdgeHTML durch seinen Nachfolger auf Chromium-Basis abgelöst und seit Version 20H2 ist dieser auch fester Bestandteil von Windows 10. Parallel dazu wurde auch eine Version für macOS veröffentlicht und es flossen etliche neue Funktionen wie die Sammlungen, die Screenshot-Funktion und Verbesserungen beim PDF-Reader integriert. Seit Oktober ist der Dev Channel auch mit den ersten Linux-Versionen vertreten und das wird im kommenden Jahr schließlich zur stabilen Version unter Linux führen.</p>
+<p>Derweil sind bereits zahlreiche neue Funktionen bekannt, auf die wir uns schon früh im kommenden Jahr freuen können. Einige davon wie die vertikalen Tabs oder das leicht überarbeitete Design bei den Icons werden schon Mitte Januar mit Edge 88.x kommen, andere wie die neue Tabgruppen, Picture-in-Picture und die Global Media Controls werden im weiteren Verlauf des Jahres erwartet.</p>
+<p><strong>04. Xbox Cloud Streaming</strong></p>
+<p>Neben der neuen Konsolengeneration war der allgemeine Start von Project xCloud im Rahmen des Xbox Game Pass Ultimate für Microsoft die große Ankündigung des vergangenen Jahres. Seitdem können zumindest Nutzer unter Android das entsprechende Angebot nutzen, und Besitzer von Samsung-Geräten bekommen nochmal einige zusätzliche Vorteile spendiert, sofern sie sich die App aus dem Galaxy Store herunterladen.</p>
+<p>Im kommenden Jahr sollen nun auch iOS und Windows 10 in den Genuss des Xbox Cloud Streamings kommen. Bei iOS soll dies über den Browser geschehen, während unter Windows 10 die neue Xbox-App zum Einsatz kommt. Weitere Plattformen schloss Phil Spencer zudem nicht aus. Ausdrücklich wurde zumindest die Erwartung geäußert, dass bis Ende des kommenden Jahres auf nahezu jedem Smart TV eine entsprechende Xbox-App zu finden sein dürfte.</p>
+<p><strong>05. Bethesda</strong></p>
+<p>Die Übernahme von ZeniMax Media, die bis zum Sommer 2021 abgeschlossen werden soll, war eine der großen Überraschungen in der Gaming-Branche und hat sowohl für Microsoft als auch Bethesda viel Aufmerksamkeit gebracht. Bethesda soll nach eigener Aussage zwar weiter als unabhängiges Unternehmen unter dem Dach von Microsoft arbeiten, aber trotzdem stärken die Redmonder ihr Portfolio so mit einer großen Zahl wichtiger Franchises wie DOOM, Fallout, The Elder Scrolls, Rage, Prey, Dishonored, Starfield oder The Evil Within.</p>
+<p>Trotzdem bleiben weiterhin einige Fragen offen, die in den kommenden Monaten noch geklärt werden müssen. Wir wissen nicht, wie exklusiv Microsoft künftige Entwicklungen von Bethesda für die eigenen Plattformen Xbox und Windows 10 behandeln wird und wie die Weiterentwicklung des Bethesda.net-Launchers weitergehen wird, der theoretisch auch durch die neue Xbox-App ersetzt werden könnte. Wie es in solchen Punkten weitergehen wird, muss die Zeit noch zeigen. Auch die Bedeutung der Orion-Technologie, die für Microsoft bei Project xCloud und dem Microsoft Game Stack von großer Relevanz sein könnte, wird sich noch herausstellen müssen.</p>
+<p><strong>06. Games, Games, Games</strong></p>
+<p>Noch in den letzten Monaten des alten Jahres wurden bereits einige wichtige Veränderungen bekannt, die bei Microsofts anderen Franchises im kommenden Jahr anstehen werden. Für Fans von Gears POP! bedeutet das den Abschied, denn das Spiel für Windows 10, iOS und Android wird im ersten Quartal eingestellt. Bei Sea of Thieves stehen dagegen Veränderungen denn, denn Rare will sich künftig auf saisonale Updates, die alle drei Monate erscheinen, sowie den Adventure Mode konzentrieren. Einen neuen Battle Pass gibt es noch obendrauf.</p>
+<p>Neue Inhalte stehen derweil für Minecraft an, wo im Sommer 2021 das neue Caves &amp; Cliffs-Update für alle Nutzer ausgerollt wird. Den wahrscheinlich größen Titel wird aber 343 Industries gegen Jahresende veröffentlichen, wenn Halo Infinite mit gut einjähriger Verspätung erscheinen soll und gleich einen kostenlosen Multiplayer beinhalten wird. Neue Nachrichten zu anderen Franchises wie etwa dem von Obsidian entwickelten Avowed dürfen wir wohl ebenfalls erwarten.</p>
+<p><strong>07. Project Reunion</strong></p>
+<p>Die Aussage von Microsoft vor einigen Monaten hätte nicht deutlicher ausfallen können: Wir kennen keine Win32-Anwendungen oder Universal Apps mehr, sondern nur noch Windows-Apps. Project Reunion heißt das seitdem laufende Vorhaben, was die alten UI-Frameworks WinForms und WPF mit dem jüngeren WinUI zusammenbringen soll. Die neue Version 3.0 von WinUI hatte es noch nicht bis zum finalen Release von .NET 5 geschafft, das soll aber früh in 2021 nachgeholt werden.</p>
+<p>Mit WinUI 3.0 wird dann auch der Rollout von WebView 2 komplettiert. Die neue Komponente zum Anzeigen von Webinhalten, die auf dem neuen Microsoft Edge Chromium basiert, steht bisher für .NET-Anwendungen sowie für C/C++ zur Verfügung, mit WinUI wird hier Anfang 2021 die letzte Plattform folgen.</p>
+<p><strong>08. .NET MAUI</strong></p>
+<p>Ähnlich wie WinGet hatte auch .NET MAUI nach seiner Vorstellung auf der diesjährigen BUILD Conference für einigen Wirbel und Zwist mit der OpenSource-Community gesorgt. Wegen großer Ähnlichkeiten beim Namen hat sich das unter dem Dach des KDE e.V. firmierende Team hinter der Linux-Distribution Nitrux OS in einem entsprechenden Blogpost beschwert, da es unter dem Namen MAUI ebenfalls ein eigenes Framework entwickelt, welches allerdings auf dem Qt-Toolkit aufbaut.</p>
+<p>Ob diese Streitigkeiten mittlerweile ausgeräumt wurden, kann ich auch nicht mit letzter Sicherheit sagen. Jedenfalls soll der Nachfolger von Xamarin mit dem Release von .NET 6 erstmals für alle Entwickler zur Verfügung stehen. Entsprechend dem neuen Zyklus von Microsoft wird das dann im November 2021 soweit sein.</p>
+<p><strong>09. Surface</strong></p>
+<p>Eine Auffrischung der eigenen Premium-Hardware nimmt Microsoft jedes Jahr vor, aber auch für 2021 stehen bereits einige Berichte im Raum, die einen ersten Ausblick auf die kommenden Geräte erlauben. Ein neues Surface Pro 8 steht im ersten Halbjahr genauso im Raum wie das Surface Laptop 4, wenn man entsprechenden Gerüchten glauben darf. Sicher ist allerdings, dass mit dem Release von Windows 10X auch die ersten klassischen Formfaktoren für Unternehmen und Bildungseinrichtungen verfügbar werden sollen. Ob hier ein Surface dabei ist, wird sich zeigen.</p>
+<p>Von den bestehenden Geräten steht vor allem für das Surface Duo einiges an, denn hier wird die Veröffentlichung in deutlich mehr Märkten erwartet. Ob das die Kaufzahlen der dann schon relativ betagten Hardware nochmal deutlich ankurbeln wird, darf man aber wohl bezweifeln. Ein neues Surface Duo 2 soll sich bereits in Entwicklung befinden. Angesichts der jährlichen Releasezyklen, mit denen andere Android-OEMs ihre Flaggschiffe auf den Markt bringen, ist Microsoft gut beraten, hier bald nachzuziehen.</p>
+<p><strong>10. Die Folgen von Corona</strong></p>
+<p>Unabhängig von den Ereignissen, mit denen das neue Coronavirus die Welt immer noch beschäftigt, hatten die Folgen für Microsoft bereits unmittelbare Auswirkungen. Die Zahl der regelmäßigen Livestreams in Form der Community Standups und Community Calls wurde stark ausgebaut, aber auch daneben hat Microsoft sehr intensiv darüber gesprochen, wie die eigenen Fähigkeiten auf das Niveau von TV-Produktionen ausgebaut wurde. Demnächst wird man das wieder sehen können, wenn Microsoft als Technologiepartner für die virtuelle CES 2021 in Erscheinung tritt.</p>
+<p>Für Mitarbeiter in den USA stellen die Redmonder zudem die Möglichkeiten, wie sie innerhalb des Konzerns agieren können, um und verstetigen die Maßnahmen aus der Pandemie zumindest teilweise. So werden zeitweise oder auch dauerhafte Arbeiten im Home Office möglich, sofern die Mitarbeiter das auch wollen. In der Regel reicht eine Absprache mit den Vorgesetzten dafür aus.</p>
+<p>In diesem Sinne wünschen wir euch vom Team hinter Dr. Windows einen guten Rutsch ins neue und hoffentlich deutlich bessere Jahr 2021. Bleibt alle gesund und passt auf eure Liebsten auf, diesmal noch mehr als sonst. Wir sehen uns drüben!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Firefox: Mozilla verzichtet auf geplante Unterstützung für Progressive Web Apps</title>
+		<link>https://www.drwindows.de/news/firefox-mozilla-verzichtet-auf-geplante-unterstuetzung-fuer-progressive-web-apps</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2020 11:20:10 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78879</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der jüngeren Vergangenheit sind Progressive Web Apps zu einem immer größeren Thema in der Welt der Webtechnologien geworden und auch die Unternehmen arbeiten zunehmend daran, ihre Websites auf einen entsprechenden Stand umzurüsten. Wenn es um die Integrationen in die jeweiligen Betriebssysteme geht, arbeiten vor allem Microsoft und Google gemeinsam an einer Umsetzung, daneben werden [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der jüngeren Vergangenheit sind Progressive Web Apps zu einem immer größeren Thema in der Welt der Webtechnologien geworden und auch die Unternehmen arbeiten zunehmend daran, ihre Websites auf einen entsprechenden Stand umzurüsten. Wenn es um die Integrationen in die jeweiligen Betriebssysteme geht, arbeiten vor allem Microsoft und Google gemeinsam an einer Umsetzung, daneben werden PWAs aber auch noch von anderen Browsern wie Brave bereits unterstützt.</p>
+<p>Wie Mozilla in Person von Firefox-Architekt Dave Townsend nun verlauten ließ, werden die Entwickler den entsprechenden Code für die Technologie aus Firefox entfernen und planen auch längerfristig, PWAs nicht zu unterstützen. Bisher konnte man eine erste rudimentäre Implementierung über eine versteckte Option bereits aktivieren, diese war aber immer noch ziemlich fehleranfällig und eine Weiterentwicklung hätte laut aktuellen Nutzungsstudien von Mozilla sowieso kaum Vorteile geboten. Folglich sei eine Erhaltung des Codes das falsche Signal und Mozilla wird wahrscheinlich auch keine (weiteren) Patches akzeptieren, um die aktuelle Implementierung zu verbessern.</p>
+<p>Ob das letztlich eine richtige Entscheidung ist, sich hier entgegen der allgemeinen Entwicklung zu positionieren und hier auch einen deutlich anderen Weg als die große Chromium-Konkurrenz einzuschlagen, sei mal dahin gestellt. Mozilla mag nach den Layoffs im Spätsommer seine Ressourcen besser einteilen müssen, aber sie haben auch so etliche Entscheidungen getroffen, die man nur als unklug bezeichnen kann, etwa den Passwortmanager Firefox Lockwise am Desktop alleine an Firefox zu koppeln, obwohl der eine wichtige Einnahmequelle werden soll.</p>
+<p>Das kommende Jahr wird zeigen müssen, ob Mozilla auch in kleinerer Form seinen Abwärtstrend stoppen kann und Wege findet, sich als Unternehmen auch unabhängig von Google besser zu monetarisieren. Persönlich bin ich da momentan jedenfalls eher skeptisch und hab auch meine eigene Nutzung von Mozilla-Projekten bis auf Weiteres erstmal auf Firefox und Pocket beschränkt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Mein Fazit zum Surface Laptop Go</title>
+		<link>https://www.drwindows.de/news/mein-fazit-zum-surface-laptop-go</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 31 Dec 2020 09:38:38 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78401</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Laptop Go" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das alte Jahr geht zu Ende. Letzte Gelegenheit, Dinge von der ToDo-Liste zu streichen, die man noch 2020 erledigen will. Auf meiner Liste, die wie üblich nicht geleert wurde, steht unter anderem noch dieser Punkt: &#8222;Fazit zum Surface Laptop Go&#8220;. Der steht da schon eine ganze Weile. Nicht, weil ich bislang keine Zeit dafür gefunden [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Laptop Go" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das alte Jahr geht zu Ende. Letzte Gelegenheit, Dinge von der ToDo-Liste zu streichen, die man noch 2020 erledigen will. Auf meiner Liste, die wie üblich nicht geleert wurde, steht unter anderem noch dieser Punkt: &#8222;Fazit zum Surface Laptop Go&#8220;.</p>
+<p>Der steht da schon eine ganze Weile. Nicht, weil ich bislang keine Zeit dafür gefunden hätte, sondern weil ich in meinen <strong><a href="https://www.drwindows.de/news/erste-eindruecke-vom-surface-laptop-go" target="_blank" rel="noopener">ersten Eindrücken</a></strong> im Grunde schon fast alles aufgeschrieben habe. Alle positiven Eindrücke haben sich bestätigt, die negativen leider auch. Viele neue Erkenntnisse kann ich also nicht hinzufügen.</p>
+<p>Display, Tastatur und Touchpad sind auf Surface-Niveau und somit gewohnt erstklassig. Auch das qualitativ abgespeckte Gehäuse, dessen Unterseite nicht aus Magnesium, sondern aus einem Kunststoff/Glasfaser-Verbund besteht, kann überzeugen und fühlt sich keineswegs billig an.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go.jpg" data-rel="lightbox-gallery-FI5L3QGq" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-77330" src="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go.jpg" alt="Surface Laptop Go" width="1500" height="1092" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go-300x218.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go-1024x745.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go-768x559.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/11/surface_laptop_go-643x468.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Das kompakte Format des Surface Laptop Go hatte mich auf Anhieb überzeugt und ich habe es als perfekte Couch-Begleitung bezeichnet. Das hat sich im Lauf der Zeit bestätigt, es fiel mir mit zunehmender Nutzung lediglich auf, dass die seitlichen Kanten etwas stärker abgerundet sein dürften, weil die Hände aufgrund des schmalen Gehäuses permanent auf den Rändern aufliegen.</p>
+<p>Bestätigt hat sich leider ebenfalls, dass die fehlende Tastenbeleuchtung der K.O.-Faktor ist, der das Surface Laptop Go für mich persönlich disqualifiziert.</p>
+<p>Meine Vermutung ist, dass man aus Gründen der Akkulaufzeit auf die Tastenbeleuchtung verzichtet hat, denn die ist beim Surface Laptop Go leider nur mäßig. Bei meinem typischen Office-Mix (Internet, E-Mail, Office, Bildbearbeitung, nebenher ein wenig Musik) kam ich bei 55% Helligkeit auf eine Laufzeit von etwas mehr als fünf Stunden. Da man sich in der derzeitigen Situation niemals mehr als zwei Meter von einer Steckdose entfernt, fällt das weniger stark ins Gewicht, außerdem kann man über den USB-C Anschluss auch unterwegs mittels einer Powerbank &#8222;nachtanken&#8220;. Entgegen meiner sonstigen Gewohnheiten habe ich auch einen Rundown-Test gemacht: Im Netflix-Dauerstreaming via WLAN hält das Surface Laptop Go rund zehn Stunden durch, das ist wiederum ordentlich.</p>
+<p>Es wird sich zwar kaum jemand ein Surface Laptop Go als Desktop-Ersatz kaufen, es hat mich aber dennoch interessiert, wie gut es sich am Surface Dock 2 schlägt und ob ich meinen Breitbild-Monitor mit einer Auflösung von 3.840 mal 1.600 Pixel damit befeuern kann. Das hat perfekt und ruckelfrei funktioniert.</p>
+<p>Offiziell unterstützt das das Surface Laptop Go ein externes Display mit einer Auflösung von bis zu 5.120 x 4.096 bei 30hz oder 5.120 x 3.200 Pixel bei 60hz. Wenn zwei externe Bildschirme angesteuert werden, beträgt die maximale Auflösung 3.840 x 2.160 Pixel (4K UHD) bei 30hz. Das konnte ich nicht verifizieren, aufgrund meiner eigenen Versuche zweifle ich diese Angaben allerdings auch nicht an.</p>
+<p>Die Performance des Intel Core i5-1035G1 hat sich als absolut alltagstauglich erwiesen.</p>
+<p>Das Fazit fällt insgesamt positiv aus: Das Surface Laptop Go ist ein echtes Surface und fügt sich in die Familie ein. Wie üblich muss man bereit sein, den Aufpreis zu bezahlen, aber auch diese Erkenntnis ist nicht neu. Ein Surface kauft man sich immer, weil man das will.</p>
+<p>Falls jemand mit dem Surface Laptop Go liebäugelt, dann ist heute vielleicht eine gute Gelegenheit. <strong><a href="https://amzn.to/3lPAPyO" target="_blank" rel="noopener noreferrer">Amazon</a> </strong>bietet die Variante mit 8 GB RAM und 128 GB SSD für 735 Euro an, ab morgen wird der Preis wohl schon allein wegen der dann wieder 19%igen Mehrwertsteuer steigen.</p>
+<p><strong>Technische Daten des Surface Laptop Go:</strong></p>
+<ul>
+<li>Display: 12,45 Zoll PixelSense Display, 1.536 x 1.024 Pixel (148 PPI), 3:2, Multi-Touch</li>
+<li>CPU: Intel Core i5-1035G1 mit Intel UHD Grafik</li>
+<li>RAM: 4, 8 oder 16 GB</li>
+<li>Speicher: 64 GB eMMC, 128 oder 256 GB SSD</li>
+<li>WiFi 6</li>
+<li>Bluetooth 5.0</li>
+<li>Kamera: 720p Frontkamera</li>
+<li>Mikrofon: 2 Far Field Microfone</li>
+<li>Dolby Audio Premium Sound</li>
+<li>Sicherheit: Windows Hello Fingerprintsensor im Hauptschalter (nicht in der Version mit 4GB/64GB)</li>
+<li>Anschlüsse, 1x USB-C, 1x USB-A, 3,5mm Audio, Surface Connect</li>
+<li>Betriebssystem: Windows 10 Home im S Modus oder Windows 10 Pro</li>
+<li>Netzteil: 39 Watt</li>
+<li>Akkulaufzeit: bis zu 13 Stunden</li>
+<li>Maße: 278x205x15,7mm</li>
+<li>Gewicht: 1.110 Gramm</li>
+<li>verfügbare Farben: Platin, Eisblau und Sandstein (die 4 GB-Version ist nur in Platin erhältlich)</li>
+</ul>
+<p>Disclaimer: Enthält Affiliate Links. Das Testgerät wurde von Microsoft leihweise zur Verfügung gestellt. Eine Einflussnahme auf die Berichterstattung oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Der große Xbox Jahresrückblick &#8211; Zweiter Teil</title>
+		<link>https://www.drwindows.de/news/der-grosse-xbox-jahresrueckblick-zweiter-teil</link>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2020 16:09:09 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Review]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78643</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Willkommen zum zweiten Teil unseres Xbox Jahresrückblick und unserem Ausblick auf das nächste Jahr! (Teil 1 verpasst &#8211; dann hier starten) Der Juli, der hatte es in sich. Alles stand im Zeichen des Summer Game Fest, der von Geoff Keighly organisierten Ersatzveranstaltung für die E3, in deren Rahmen Microsoft sein sein 1st Party Lineup der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Willkommen zum zweiten Teil unseres Xbox Jahresrückblick und unserem Ausblick auf das nächste Jahr! (Teil 1 verpasst &#8211; dann <a href="https://www.drwindows.de/news/der-grosse-xbox-jahresrueckblick-erster-teil" target="_blank" rel="noopener">hier</a> starten)</p>
+<p>Der Juli, der hatte es in sich. Alles stand im Zeichen des Summer Game Fest, der von Geoff Keighly organisierten Ersatzveranstaltung für die E3, in deren Rahmen Microsoft sein sein 1st Party Lineup der näheren Zukunft vorstellte.</p>
+<p>Den Anfang machte <a href="https://www.drwindows.de/news/xbox-game-pass-grounded-und-weitere-titel-fuer-konsole-und-pc-in-kuerze">„Grounded“</a> aka „Liebling, ich habe die Kinder geschrumpft und im Garten ausgesetzt“, welches dann auch als Game Preview im Xbox Game Pass erschien.</p>
+<p>Insgesamt war der Game Pass vor der Show schon im Scheinwerferlicht, denn das Xbox Streaming, bislang Project xCloud genannt, wurde ab September kostenlos in den Xbox Game Pass Ultimate <a href="https://www.drwindows.de/news/xbox-game-pass-grounded-und-weitere-titel-fuer-konsole-und-pc-in-kuerze" target="_blank" rel="noopener">integriert</a>. Für ein weiteres Highlight sorgte ein Statement von Phil Spencer, der nochmals betonte, <a href="https://www.drwindows.de/news/flight-simulator-halo-und-konsolengefluester-die-xbox-woche-im-rueckblick" target="_blank" rel="noopener">dass jeder 1st Party Titel</a>, sei es für Konsole oder PC, ab dem Erscheinungsdatum ebenfalls im Xbox Game Pass verfügbar sein wird.</p>
+<p>Der erste Titel, der dieses erneuerte Versprechen einlöste, war der <a href="https://www.drwindows.de/news/microsoft-flight-simulator-2020-abflug-fuer-pc-am-18-august" target="_blank" rel="noopener">Microsoft Flight Simulator</a>, der im August im Xbox Game Pass für PC (und selbstverständlich auch zum Einzelkauf) bereitstand.</p>
+<p>Eher eine Randnotiz war, dass die Xbox One X, bis dahin das Flaggschiff Xbox Konsolen, nicht mehr produziert wird. Unsere Vermutung, dass die One X mit der Series S in Preisgestaltung oder Leistung kollidieren könnte, waren nicht ganz falsch. Schamane Martin Geuß in der <a href="https://www.drwindows.de/news/kommentar-zum-ende-der-xbox-one-x-ploetzlich-ergibt-alles-einen-sinn" target="_blank" rel="noopener">Vorhersage</a>: <em>Es ergibt sich so ein rundes Bild: Die Xbox One S bleibt als Einstiegskonsole weiterhin bestehen, die Xbox Series S bedient die Mittelklasse, und die Xbox Series X ist das Flaggschiff. Dank Project xCloud und Abwärtskompatibilität von Spielen und Zubehör verfügt dennoch jede Leistungsklasse über das volle Angebot und ein Wechsel zwischen den Konsolen ist keine große Sache.</em></p>
+<p>Und damit kommen wir zum Abschluss des Monats Juli mit dem <a href="https://www.drwindows.de/news/der-grosse-xbox-tag-der-xbox-games-showcase" target="_blank" rel="noopener">Xbox Games Showcase</a>.</p>
+<p>Ein Wechselbad der Gefühle. Wie erhielten einen großartigen Ausblick auf die Spiele der Xbox Game Studios. Sei es eine Überarbeitung der Forza Motorsport Engine mit 4k, 60FPS und Raytracing, Rares neues Projekt „Everwild“ mit einem liebevollen Ghibli-Anime Grafikstil, oder Avowed, einem mittelalterlichen Fantasyspiel.</p>
+<p>Die erste größere Überraschung boten dann STALKER 2, bislang PC-exklusiver Shooter, sowie Destiny 2, welches als jahrelanger Playstation-Vorzeigetitel für den Xbox Game Pass angekündigt wurde. Destiny 2 kommt mit allen bereits veröffentlichten und zukünftigen DLCs. Ein echtes Ausrufezeichen für den Wert des Game Pass. Dieses wurde noch dadurch unterstrichen, dass alle gezeigten Spiele, auch das als Überraschung angeteaste Fable, ab dem ersten Tag im Xbox Game Pass und/oder Game Pass für PC erscheinen werden.</p>
+<p>Einen Trailer mit allen Spielen könnt ihr euch hier noch einmal anschauen:</p>
+<p><iframe title="Xbox Series X - Xbox Games Showcase - Games Announce Trailer" width="500" height="281" src="https://www.youtube.com/embed/YJ_rg69LdVU?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Nun muss man auch nochmal über das heiße Eisen der Show berichten: Die ersten Bewegtbilder von Halo Infinite.</p>
+<p>Sah der Opener noch wunderschön gerendert aus, folgte sehr schnell Ernüchterung. Im Gegensatz zu bisherigen Halo-Spielen wird Infinite ein Open World Abenteuer sein. Level, Wetter und Umgebung sind also dynamisch, während frühere Titel dem klassischen Schlauchprinzip folgten und dementsprechend in Perfektion durchgesigned werden konnten.</p>
+<p>Nichtsdestotrotz sahen Gegner, Flora und Fauna nicht nach dem aus, was wir uns als ersten Eindruck unter dem Zugpferd der Xbox Series X im November vorstellten.</p>
+<p>Schon damals schrieb ich in meinem <a href="https://www.drwindows.de/news/ein-kommentar-zum-xbox-games-showcase-und-halo-infinite" target="_blank" rel="noopener">Kommentar</a>, dass die Xbox-Abteilung von den Auswirkungen der Corona Pandemie und der Work From Home Situation härter getroffen wurde als angenommen. Sieht man die aktuelle Diskussion und Situation von Cyberpunk 2077, so ist die spätere Ankündigung, das Spiel zu verschieben, doch der richtige Schritt gewesen.</p>
+<p>Der August war dementsprechend nicht weniger ereignisreich.</p>
+<p>Wurde Anfang des Monats noch auf die <a href="https://www.drwindows.de/news/xbox-reagiert-auf-kritik-der-halo-gameplay-demo-und-infos-zum-multiplayer" target="_blank" rel="noopener">Kritik an Halo Infinite eingegangen</a> und versuchte man sich zu erklären, so erkannte man kurze Zeit später, dass dieses Spiel nicht als Referenz für die neuen Xbox-Konsolengeneration dienen kann. Schließlich <a href="https://www.drwindows.de/news/good-news-bad-news-die-xbox-series-x-kommt-im-november-halo-infinite-nicht" target="_blank" rel="noopener">verschob man das Release von Halo Infinite auf (hoffentlich) 2021</a>.</p>
+<p>Good News, Bad News gab es dann auch für das Xbox Gamestreaming.</p>
+<p>Game Pass Ultimate Nutzer Abonnenten konnten es schon kurz vor dem offiziellen Start bereits unter Android <a href="https://www.drwindows.de/news/project-xcloud-abonnenten-des-game-pass-ultimate-koennen-schon-ab-heute-streamen" target="_blank" rel="noopener">nutzen</a>. Die schlechte Nachricht war, dass die Beta für iOS vorzeitig beendet und die App <a href="https://www.drwindows.de/news/apple-bestaetigt-kein-cloud-gaming-fuer-unsere-kunden-microsoft-uebt-kritik" target="_blank" rel="noopener">komplett entfernt</a> wurde. Grund dafür ist, wie bei Fortnite, dass Apple bei Ingame-Käufen gerne seine 30% Anteil hätte. Und damit das auch durchgesetzt werden kann, hatte Apple sich gewünscht, dass jedes Spiel, dass gestreamt werden soll, einzeln für den Store zertifiziert wird. Seitdem warten wir auf eine Lösung, die sich in der Form abzeichnet, dass unter iOS über den Browser gestreamt werden soll</p>
+<p>Die Xbox Series S bliebt vorerst noch ein Geheimnis. Zumindest offiziell. Durch die vorzeitige Auslieferung von Zubehör <a href="https://www.drwindows.de/news/controller-verpackung-bestaetigt-die-xbox-series-s" target="_blank" rel="noopener">in Form von Controllern</a> wussten wir aber dennoch sicher, dass sie kommen wird.</p>
+<p>Mitte des Monats August bekamen wir <a href="https://www.drwindows.de/news/alles-aus-einem-guss-microsoft-enthuellt-das-neue-xbox-erlebnis" target="_blank" rel="noopener">das neue Xbox Dashboard</a>, das wir mittlerweile aufgrund der flotten Bedienbarkeit zu schätzen wissen.</p>
+<p>Fast zwei Jahre nach der Ankündigung kehrten im August die prügelnden und pöbelnden Kampfkröten, die <a href="https://www.drwindows.de/news/pruegelnde-kroeten-battletoads-ab-heute-verfuegbar" target="_blank" rel="noopener">Battletoads</a>, wieder auf Xbox und PC zurück.</p>
+<p>Schlusspunkt und leider kein Highlight des Monats August war die <a href="https://www.drwindows.de/news/ein-kommentar-zur-gamescom-opening-night-und-zur-xbox-series-x" target="_blank" rel="noopener">virtuelle Gamescom</a>, die mich wirklich enttäuscht hat, aber auch ein Spiegelbild der Deutschen Digitalisierung war. Es gab den Hauptstream von Geoff Keighly im Rahmen des Summer Game Fest, aber ansonsten gabs die meisten Ankündigungen per E-Mail und Social Media. Mein Fazit: Sollte die Gamescom nächstes Jahr nicht physisch stattfinden können, dann lieber gar nicht.</p>
+<p>Der September startete mit einem Leak, der ein Geheimnis lüftete, welches schon lange keines mehr war. Die für Journalisten zugängliche Aufzeichnung und <a href="https://www.drwindows.de/news/xbox-series-s-microsoft-geht-tiefer-in-die-details" target="_blank" rel="noopener">Ankündigung der Xbox Series S</a> geriet früher ans Tageslicht und nahm dem Ganzen das Momentum. Mir persönlich tat es für die verantwortliche Marketing Chefin der Series S, Cindy Walker leid, die mehrere Wochen mit der Vorbereitung der Show verbracht hatte.</p>
+<p>Dem weit verbreiteten Vorurteil, die Series S sei ein &#8222;Budget Modell&#8220;, trat ich mit einem Kommentar entgegen: Ich sehe sie als <a href="https://www.drwindows.de/news/die-xbox-series-s-kein-budgetmodell-sondern-eine-echte-next-gen-konsole" target="_blank" rel="noopener">Next-Gen Powerpaket</a> für Leute, die noch nicht das beste oder teuerste TV-Gerät haben.</p>
+<p>Wie geplant, ging im September für Android User das <a href="https://www.drwindows.de/news/project-xcloud-marktstart-bringt-neuen-namen-und-mehr-als-150-titel-mit" target="_blank" rel="noopener">Xbox Cloud Streaming an den Start</a>. Gleichzeitig kam <a href="https://www.drwindows.de/news/xbox-game-pass-zweite-runde-an-september-neuzugaengen-bringt-halo-3-odst-destiny-2-und-mehr" target="_blank" rel="noopener">Destiny 2</a> wie versprochen mit allen verfügbaren Erweiterungen im Xbox Game Pass an.</p>
+<p>Was sonst noch im September? Nichts, oder?</p>
+<p>Ah, Moment…ein, zwei Kleinigkeiten gab es dann doch noch.</p>
+<p>Zum Beispiel eine kleine, unscheinbare Übernahme eines Spielepublishers durch Microsoft. Während Viele wegen Destiny 2 mit Bungie rechneten, war der Paukenschlag ein viel größerer. <a href="https://www.drwindows.de/news/microsoft-uebernimmt-zenimax-media-bethesda-und-seine-franchises-verstaerken-team-xbox" target="_blank" rel="noopener">Microsoft kauft ZeniMax Media</a>!</p>
+<p>Wer? Manch Einem sagt Bethesda wohl eher was. Andere kennen vielleicht nur Doom oder Skyrim, ihnen seien auch andere Franchises wie The Elder Scrolls, Fallout, Prey, Dishonored, Starfield, Wolfenstein, Quake und The Evil Within genannt, die allesamt zu diesem Deal gehören. Angesichts der Menge an Franchises und Studios, die damit zu den Xbox Game Studios stoßen, wirken die 7,5 Milliarden Dollar Kaufpreis angemessen.</p>
+<p>Am 22. September war es dann soweit: Man konnte die <a href="https://www.drwindows.de/news/hinweis-falls-ihr-die-xbox-series-s-und-x-vorbestellen-und-uns-etwas-gutes-tun-wollt" target="_blank" rel="noopener">Xbox Series X und Series S vorbestellen!</a></p>
+<p>Ich wage die kecke Behauptung: Wer Punkt 9 Uhr auf einer der Angebotsseiten war, sollte auch eine bekommen haben. In jedem Fall lief die Vorbestellung besser als bei Sony, die zwei Wochen zuvor ein wenig tollkühn die Vorbestellungen weltweit zur selben Zeit und ohne Mengenbegrenzung freischalteten, was „Scalping-Bots“ Tür und Tor öffnete, wodurch wiederum viele Playstation-Fans leer ausgingen.</p>
+<p>Microsoft hat die digitalen Xbox-Stores jeweils um 9 Uhr Ortszeit geöffnet und jedem erlaubt, genau eine Konsole pro Konto zu kaufen. So wurde sichergestellt, dass für fast jeden frühen Vogel eine Konsole seiner Wahl verfügbar war.</p>
+<p>Den Abschluss des Monats bildete dann wieder eine Meldung zum Xbox Game Pass: Xbox und EA gingen eine Partnerschaft ein und Xbox Game Pass Ultimate Abonnenten Besitzer bekamen <a href="https://www.drwindows.de/news/xbox-game-pass-ultimate-und-ea-play-vereinigung-am-10-november-2020" target="_blank" rel="noopener">EA Play</a> (vormals EA Access) gratis dazu.</p>
+<p>Das ist für beide Seiten eine große Sache. War EA Access damals „exklusiv“ auf der Xbox One erschienen, da Sony für sich selbst proklamierte, es hätte aufgrund von Playstation Now keinen Mehrwert, so haben Xbox- und PC-Nutzer es zu schätzen gelernt. Sei es wegen der 10stündigen Testoption für alle Neuveröffentlichungen oder aber der EA Vault, in der jeder Abonnent unbegrenzt auf die darin enthaltenen Spiele zugreifen kann.</p>
+<p><iframe title="WHATS POPPIN? EA Play just hopped in Xbox Game Pass Ultimate" width="500" height="281" src="https://www.youtube.com/embed/mX6ytsNtlqA?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Der Oktober war vergleichsweise ruhig. Die Ruhe vor dem Sturm. Es gab viele kleine News und Gerüchte, die aber auch nicht lange nachhallten.</p>
+<p>Eine Mitteilung war, dass es Beschwerden von Kunden gab, deren Xbox Elite Controller 2 kurz vor Ablauf der Garantie Materialprobleme aufwies. Die Mängel sind nicht so gravierend wie beim ersten Controller, bedenkt man aber den Verkaufspreis, erwartet man natürlich mehr. Während wir in Deutschland mit 12 Monaten Garantie auf Zubehör gesegnet sind, beträgt diese in den USA gerade einmal 90Tage(!).</p>
+<p>Microsoft reagierte und sprach eine <a href="https://www.drwindows.de/news/xbox-elite-controller-2-microsoft-verlaengert-gewaehrleistung-und-erstattet-reparaturkosten" target="_blank" rel="noopener">Garantieverlängerung</a> aus. Für Nutzer, die schon eine kostenpflichtige Reparatur in Anspruch genommen hatten, wurden Erstattungen versprochen.</p>
+<p>Außerdem wurde im Oktober eine neue Kooperation verkündet: Gamestop teilte in einer Investoren-Konferenz mit, dass Microsoft und Gamestop eine langfristige Partnerschaft eingehen. Microsoft beliefert Gamestop mit Cloud-Diensten und Surface-Hardware, außerdem erhält Gamestop eine Beteiligung an den digitalen Spieleumsätzen, die auf den von Gamestop verkauften Xbox-Konsolen generiert werden.</p>
+<p>Im Oktober schrieb ich außerdem einen kleinen <a href="https://www.drwindows.de/news/wie-finde-ich-den-passenden-nextgen-fernseher-zur-nextgen-konsole-ein-aufklaerungsversuch" target="_blank" rel="noopener">Leitfaden</a>, was zu beachten ist, wenn man einen neuen Fernseher kaufen möchte und das Beste aus den neuen Konsolen rausholen will.</p>
+<p>Zum Monatsabschluss gab es dann noch ein Highlight, wenn auch nur ein &#8222;internes&#8220;: Microsoft hat uns die <a href="https://www.drwindows.de/news/ausgepackt-die-xbox-series-s-ist-eingetroffen" target="_blank" rel="noopener">Xbox Series S</a> und <a href="https://www.drwindows.de/news/xbox-series-x-ausgepackt-den-ersten-endgegner-schon-unterwegs-besiegt" target="_blank" rel="noopener">Xbox Series X</a> zugesandt. Dabei fiel Martin vor allem die besonders stabile Verpackung der Xbox Series X auf, die auf dem Transport schon so Einiges erlebt haben musste.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_unboxing_titelbild.jpg" data-rel="lightbox-gallery-BFtGM7e2" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-76136" src="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_unboxing_titelbild.jpg" alt="Xbox Series X Unboxing Titelbild" width="660" height="330" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_unboxing_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_unboxing_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_unboxing_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></a></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung.jpg" data-rel="lightbox-gallery-BFtGM7e2" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-76133" src="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung.jpg" alt="Xbox Series X in der Retail Verpackung" width="1500" height="1125" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_series_x_in_der_verpackung-643x482.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Der November gehörte selbstverständlich voll und ganz dem Start der Xbox Series X und Series X!</p>
+<p>Die Berichterstattung war an ein gestaffeltes Embargo gebunden, da softwareseitig bis zum letzten Tag am System und Dashboard gearbeitet wurde. Deshalb war unser erstes Review <a href="https://www.drwindows.de/news/der-neue-xbox-wireless-controller" target="_blank" rel="noopener">dem neuen Xbox Series Controller gewidmet</a>, der nicht das Rad neu erfindet, dafür aber viele feine und sinnvolle Überarbeitungen hat.</p>
+<p>Auch die komfortable <a href="https://www.drwindows.de/news/so-simpel-ist-die-einrichtung-einer-neuen-xbox-konsole-mit-der-mobilen-app" target="_blank" rel="noopener">Ersteinrichtung mittels Xbox Mobile App</a> hatte esuns sehr angetan.</p>
+<p>Die tatsächlichen Eindrücke der neuen Konsolen findet ihr hier: <a href="https://www.drwindows.de/news/erste-eindruecke-von-xbox-series-x-und-s-du-fuehlst-die-neue-generation-bevor-du-sie-siehst" target="_blank" rel="noopener">Erste Eindrücke von Xbox Series X und S: Du fühlst die neue Generation, bevor du sie siehst</a></p>
+<p>Für Viele ist das Highlight der Konsolen die Geschwindigkeit und natürlich das Quick Resume Feature. Ich muss selbst auch sagen, dass mich das Quick Resume am meisten beindruckt. Vor allem Forza Horizon 4, das auf der One X lange zum Laden brauchte, ist &#8222;ruck-zuck&#8220; da und man landet wieder direkt im Spiel.</p>
+<p>Nach diesem, im Vergleich zur Xbox One recht geschmeidigen Launch, kam dann eine Meldung von Phil Spencer, welche die Zukunft des Game Streaming betrifft: Man <a href="https://www.drwindows.de/news/xbox-phil-spencer-erwartet-apps-auf-nahezu-jedem-smart-tv-in-2021" target="_blank" rel="noopener">arbeitet daran</a>, dass im nächsten Jahr ein Großteil der Smart TVs eine Xbox App bekommt. Damit ergeben sich viele neue Möglichkeiten, man denke zum Beispiel an Smart TVs in Hotels und Ferienhäusern.</p>
+<p>Der Dezember war mit wenigen Ausnahmen eher unspektakulär.</p>
+<p>Ein Highlight war aber zweifellos, dass der Xbox Game Pass über den Dezember verteilt ganze <a href="https://www.drwindows.de/news/schoene-bescherung-jede-menge-neue-spiele-fuer-den-xbox-game-pass-im-dezember" target="_blank" rel="noopener">17 neue Spiele</a> spendiert bekam! Dies beinhaltete Highlights wie DOOM Eternal oder Control von Remedy.</p>
+<p>Eher eine Randnotiz war die Übernahme der Esports-Event Plattform <a href="https://www.drwindows.de/news/smash-gg-microsoft-uebernimmt-plattform-fuer-esport-events" target="_blank" rel="noopener">Smash.gg</a> durch Microsoft.</p>
+<p>Für <a href="https://www.drwindows.de/news/sea-of-thieves-rare-kuendigt-groessere-veraenderungen-fuer-2021-an" target="_blank" rel="noopener">Sea of Thieves</a> wurden einige Änderungen angekündigt. Das Spiel ist nun knapp zwei Jahre verfügbar und seitdem hat es eine beträchtliche Fan-Gemeinde versammelt, nicht zuletzt durch monatliche kostenlose Updates. Soll ein Spiel aber weiter Updates und auch Neuerungen erhalten, muss das irgendwie gegenfinanziert werden. Und so gibt es neben weiterhin kostenlosen saisonalen Updates auch einen Battle-Pass, in dem kostenlose Extras freigeschaltet werden können. Auf der anderen Seite gibt es dann den kostenpflichtigen Plunder-Pass, der exklusive Extras freischaltet.</p>
+<p>Halo Infinite, der verhinderte Top-Titel der neuen Konsolengeneration, wird nun für das<a href="https://www.drwindows.de/news/halo-infinite-erscheint-im-spaetjahr-2021" target="_blank" rel="noopener"> Spätjahr 2021</a> erwartet. Wie bei den Verschiebungen von Cyberpunk 2077 erwarten sich Spieler davon eine Menge Verbesserungen des Spiels im Vergleich zu der weiter oben erwähnten ersten Präsentation. Als diese Nachricht eintraf, wussten wir noch nicht, wie uns Cyberpunk 2077 beeindrucken würde…</p>
+<p>Bevor wir dazu kommen, hatten wir aber noch die Video Game Awards auf der Agenda. Während die Preise standardmäßig oft an exklusive Playstation-Titel gehen, sind Xbox Fans eher auf die Zwischentöne und auf News gespannt. Microsoft lieferte: In einem CGI-Teaser erfuhren wir endlich, woran „The Initiative“, das komplett neu gegründete Spielestudio von Xbox, arbeitet: Wir dürfen uns auf ein <a href="https://www.drwindows.de/news/game-awards-2020-die-wichtigsten-neuigkeiten-rund-um-microsoft" target="_blank" rel="noopener">neues Spiel der „Perfect Dark“ Reihe</a> freuen &#8211; eine gelungene Überraschung.</p>
+<p><iframe title="Perfect Dark - Official Announce Trailer - The Game Awards 2020" width="500" height="281" src="https://www.youtube.com/embed/S--lFTxAVs8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Und dann kam <a href="https://www.drwindows.de/news/cyberpunk-2077-ab-heute-verfuegbar" target="_blank" rel="noopener">Cyberpunk 2077</a>.</p>
+<p>Nach dreifacher Verschiebung im Frühjahr, im Sommer und dann nochmal von November zu Dezember, erschien am 10. Dezember das Spiel, auf das Viele seit einem beeindruckenden CGI-Teaser im Jahr 2013 warten.</p>
+<p>Ich sollte eine Review-Kopie erhalten. Normalerweise werden diese 7-10 Tage vor Erscheinen versendet, damit man am Erscheinungstag etwas zu schreiben hat. Als ich wenige Tage vor Release noch nichts hörte, fragte ich bei der PR-Abteilung vorsichtig nach, da sie ja sicher im Stress waren. Man sagte mir, dass die Kopien kurz vor oder nach dem Launch rausgehen, da man bis zuletzt für das beste Erlebnis am Day One Patch arbeitet. Ich war geduldig.</p>
+<p>Dann war es soweit, das Spiel war draußen. Spieler auf PC, Xbox Series X, PS5 und Stadia bewunderten eine wunderschöne, Blade-Runner ähnliche Welt. Kleine Bugs oder Glitches gehören dazu.</p>
+<p>Was sich dann aber schnell mehrte, waren Meldungen, wonach Cyberpunk 2077 auf der Xbox One S und X sowie auf der PS4/PS4 Pro keinen Spaß macht bzw. sich am Rande der Unspielbarkeit bewegt. Dabei sprechen wir nicht von kleinen Bugs oder Glitches, sondern von erheblichen Fehlern in der Darstellung der Cyberwelt, die sich auch auf das Gameplay auswirken.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Ps4 screenshot.<br />The game looks lovely in certain places, and absolutely terrible in others. </p>
+<p>(The blurred area is a door you could walk right through into a shop, and when graphics loaded the door was locked and you couldn’t escape. Had to reload last save) <a href="https://t.co/1kDqLEO6dw">pic.twitter.com/1kDqLEO6dw</a></p>
+<p>&mdash; Noel (@praesentaneus) <a href="https://twitter.com/praesentaneus/status/1340646637912412160?ref_src=twsrc%5Etfw">December 20, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Diese Probleme sind so gravierend, die Entwickler von CDPR sich dazu genötigt sahen, <a href="https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an" target="_blank" rel="noopener">sich öffentlich zu entschuldigen</a> und unzufriedenen Kunden sogar eine kulante Erstattung des Kaufpreises anzubieten.</p>
+<p>Das Problem war allerdings, dass dieses Angebot <a href="https://www.drwindows.de/news/cyberpunk-2077-macher-entschuldigen-sich-und-bieten-erstattungen-an" target="_blank" rel="noopener">nicht im Vorfeld mit Xbox oder Sony abgesprochen war </a>und betroffene Spieler vor allem bei Sony abprallten, da ohne diese Absprache die sehr strikte Refund-Policy von Sony griff, die nur selten Erstattungen erlaubt. Microsoft ist da, sagen wir mal flexibler, mit einem automatischen Prozess, den man nutzen kann.</p>
+<p>Wie sich das Ganze weiterentwickelt, ist schwer zu sagen. CDPR hat bereits eine Ankündigung gemacht, dass man intensiv an einem Kompatibilitäts-Patch arbeitet, der nach der Jahreswende dann für die „Last-Gen“ erscheinen soll.</p>
+<p>Bei dieser Meldung habe ich gemischte Gefühle, denn die Entwickler haben die letzten Jahre hart an dem Spiel gearbeitet. Im Sommer wurde von einem „freiwilligen“ Crunch, also Überstunden/Mehrarbeit“ gesprochen. Dann kam die weitere Verzögerung und natürlich mehr Druck. Inzwischen mehren sich die Stimmen, dass es den Entwicklern selbst bewusst war, dass das Spiel für Next Gen und PC bestimmt war und eine spielbare Version Wunschdenken ist.</p>
+<p>Für das Management kam aber eine weitere Verzögerung oder ein gestaffeltes Release nicht in Frage. Das zeigt sich daran, dass CDPR ein aktiennotiertes Unternehmen ist und Teile des Managements und des Aufsichtsrats erhebliche Anteile haben. Allein in der ersten Woche nach Release verlor das Unternehmen an der Börse 40% an Wert. Ich kenne Leute aus der Gaming Branche, die nicht unerhebliche Beträge in Aktien investiert hatten und eigentlich mit einem Gewinn zum Jahresende rechneten. Da erste Investoren bereits über Klagen nachdenken, wird uns das Thema Cyberpunk 2077 auch im neuen Jahr noch eine Weile beschäftigen.</p>
+<p>Ich persönlich habe letzte Woche eine Disc Version vom PR-Team erhalten und muss sagen, dass es auf der Xbox Series X sehr entspannt und angenehm läuft.</p>
+<p><strong>Worauf wir uns 2021 freuen können?</strong></p>
+<p>Auf eine ganze Menge!</p>
+<p>Wenn ihr den Jahresrückblick gelesen habt, werdet ihr bemerkt haben, dass es eine Menge Themen gab, aber eines war fast immer mit involviert: Der Xbox Game Pass. Microsoft hat es geschafft, &#8222;Xbox&#8220; von der Konsolen-zentrischen Marke hin zu einem allesvereinenden Branding zu portieren. Xbox-as-a-Service. Genauso wie Azure oder Microsoft 365.</p>
+<p>Ja, Xbox spielt sich am besten mit einer Konsole. Aber nicht nur. Der Xbox Game Pass für PC hat das Tor weit für PC-Spieler geöffnet, die auch endlich Konsolenklassiker wie Forza, Gears und Halo spielen können. Der Xbox Game Pass erlaubt euch auf Android und auch bald wieder auf iOS das Spielen von unterwegs, egal wo ihr seid.</p>
+<p>Mehr noch, mit den geplanten Xbox Apps für Smart TVs braucht ihr vielleicht nicht mal mehr Extra-Hardware, sondern jeder beliebige Bluetooth Controller kann funktionieren, wie schon jetzt der Playstation Dualshock beim Streaming.</p>
+<p>Mit der Fülle an Studios, ich erinnere nochmals an die Zenimax/Bethesda-Übernahme, ist ein regelmäßiger Output an Spielen gewährleistet. Ich persönlich freue mich schon jetzt auf den Microsoft Flight Simulator auf der Konsole.</p>
+<p>Natürlich werden Konsolen weiterhin fester Bestandteil der Xbox-Strategie sein. Betrachtet man dieses Jahr insgesamt, so ist der neue Big Player dennoch der Xbox Game Pass, vor allem der Xbox Game Pass Ultimate mit Cloud Streaming, EA Play und Xbox Live Gold.</p>
+<p>Abseits davon hoffe ich, dass sich die Dinge im nächsten Jahr etwas normalisieren und vielleicht auch die eine oder andere Messe stattfinden kann. Schön wär&#8217;s.</p>
+<p>Ich hoffe, euch gefiel der Dr. Windows Xbox Jahresrückblick und ihr seid genauso wie wir gespannt auf das, was da noch kommen wird!</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Chromium: Google und Microsoft verbessern den Umgang mit Antivirus und Darstellung</title>
+		<link>https://www.drwindows.de/news/chromium-google-und-microsoft-verbessern-den-umgang-mit-antivirus-und-darstellung</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2020 15:13:23 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78861</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz vor dem Jahreswechsel haben Google und Microsoft noch eine ganze Reihe von Patches in Chromium integriert, die diverse Probleme und Inkonsistenzen in den Browsern wie Google Chrome und Microsoft Edge beheben und vielleicht schon mit den Updates auf Version 88.x Mitte Januar die Nutzer erreichen. So hat Google ein Problem behoben, wo diverse Chromium-Browser [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz vor dem Jahreswechsel haben Google und Microsoft noch eine ganze Reihe von Patches in Chromium integriert, die diverse Probleme und Inkonsistenzen in den Browsern wie Google Chrome und Microsoft Edge beheben und vielleicht schon mit den Updates auf Version 88.x Mitte Januar die Nutzer erreichen. So hat Google ein Problem behoben, wo diverse Chromium-Browser Probleme mit den Speichern von Bookmarks und anderen Dateien bekamen, sofern das verwendete Antivirus ungünstig konfiguriert war. Betroffen ist hiervon nur Windows.</p>
+<p>Beide Unternehmen brachten zudem einige Patches in Chromium ein, die fehlende Teile im Dark Mode ergänzen. Microsoft bestätigte entsprechende Bemühungen unter anderem für Audio- und Video-Popups, während Google die Scrollbars an das Systemthema angepasst hat. Google kündigte zudem an, dass schon mit dem nächsten Update auf Google Chrome eine deutliche Ausweitung des Dark Modes zu erwarten ist, unter anderem bei mehr internen Browserseiten, Menühintergründen sowie den Farben von Texten und Buttons.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gadgetcheck: Anker USB-C-Hub (nicht nur) für das iPad Pro</title>
+		<link>https://www.drwindows.de/news/gadgetcheck-anker-usb-c-hub-nicht-nur-fuer-das-ipad-pro</link>
+		
+		<dc:creator><![CDATA[Manuel Blaschke]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2020 10:11:14 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=77847</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Anker USB-C Hub" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wie man an der Überschrift unschwer erkennen kann, wurde das nachfolgend präsentierte Produkt primär für das iPad Pro konzipiert. Somit könntet ihr ab hier bereits aufhören zu lesen, sofern ihr sowieso kein iPad habt. Aber: Mit einem kleinen &#8222;Trick&#8220; lässt sich der USB-Hub auch an anderen Geräten verwenden. In der Verpackung liegt neben dem Hub [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Anker USB-C Hub" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-C-Hub_iPad-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wie man an der Überschrift unschwer erkennen kann, wurde das nachfolgend präsentierte Produkt primär für das iPad Pro konzipiert. Somit könntet ihr ab hier bereits aufhören zu lesen, sofern ihr sowieso kein iPad habt. Aber: Mit einem kleinen &#8222;Trick&#8220; lässt sich der USB-Hub auch an anderen Geräten verwenden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing.jpg" data-rel="lightbox-gallery-9nOLTIw7" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78680 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing.jpg" alt="Anker PowerExpand Direct 6-in-1 USB-C Hub" width="1000" height="750" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing.jpg 1000w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Unboxing-643x482.jpg 643w" sizes="(max-width: 1000px) 100vw, 1000px" /></a><br />
+In der Verpackung liegt neben dem Hub auch eine kleine Tasche für den Transport.</p>
+<p>Vor allem für iPad Pro Nutzer ist dieser USB-Hub explizit geschaffen. Durch seine Aussparung schmiegt er sich förmlich an das iPad und passt sprichwörtlich wie angegossen. Dies funktioniert aber leider nur, sofern man keine Hülle angelegt hat. Einzig und allein das Smart Keyboard &#8222;darf&#8220; verwendet werden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1.JPG.jpg" data-rel="lightbox-gallery-9nOLTIw7" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78686 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1.JPG.jpg" alt="Anker PowerExpand Direct 6-in-1 USB-C Hub" width="750" height="1000" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1.JPG.jpg 750w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1.JPG-225x300.jpg 225w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1.JPG-643x857.jpg 643w" sizes="(max-width: 750px) 100vw, 750px" /></a></p>
+<p>Deshalb entschloss ich mich, mir eine USB-C-Verlängerung zu besorgen. Denn leider war auch der USB-C-Stecker am Hub zu kurz, um trotz der Hülle noch richtig angesteckt werden zu können. Klar verliert man dadurch eines der Highlights des USB-Hubs, das Aussehen, aber wichtig waren für mich in diesem Fall die Funktionen.</p>
+
+<a href='https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Verlängerung1.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Verlängerung1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Aussparung1-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Verlängerung3.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Verlängerung3-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Verlängerung2.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Verlängerung2-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="" loading="lazy" /></a>
+
+<p>Dank dieser Verlängerung ist es nun auch möglich, den Hub an anderen Geräten zu verwenden, beispielweise sollte auch das Koppeln mit einem neuen Surface gelingen oder eben jedem anderen Gerät, welches einen USB-C Anschluss hat. Bei mir persönlich kann ich es auch am MacBook Air ohne Probleme verwenden. Dort kann ich dann bspw. wie auch am iPad kurzerhand einen USB-Stick (Typ A) anschließen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3.jpg" data-rel="lightbox-gallery-9nOLTIw7" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78684 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3.jpg" alt="Anker PowerExpand Direct 6-in-1 USB-C Hub" width="1000" height="750" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3.jpg 1000w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse3-643x482.jpg 643w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>Damit kommen wir direkt zum Thema Anschlüsse, denn der Anker USB-Hub bietet gleich sechs Anschlussmöglichkeiten. Neben dem USB-Port sind noch ein 3,5 mm Klinkenanschluss (AUX), ein SD- und microSD-Kartenanschluss sowie ein USB-C- und 4K-HDMI-Anschluss mit an Bord. Somit sollte man also bestens ausgestattet sein und verfügt über alle gängigen Anschlüsse. Durch seine Größe ist der Hub auch für unterwegs sehr gut geeignet. Selbst Präsentationen kann man mit dem Hub abhalten. Ich konnte dabei auch meinen Präsenter per USB anschließen und mich durch die einzelnen Folien klicken.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4.jpg" data-rel="lightbox-gallery-9nOLTIw7" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-78690 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4.jpg" alt="Anker PowerExpand Direct 6-in-1 USB-C Hub" width="1000" height="750" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4.jpg 1000w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2020/12/Anker_USB-Hub_iPadPro_Anschlüsse4-643x482.jpg 643w" sizes="(max-width: 1000px) 100vw, 1000px" /></a></p>
+<p>Letztendlich kann ich den USB Hub klar empfehlen, sofern man ein iPad hat, denn für andere Geräte gibt es besser geeignete Hubs, die ohne &#8222;Bastelei&#8220; funktionieren. Wer sowohl ein Windows-Laptop als auch ein iPad hat, kann sich mit der kleinen Verlängerung aber den Kauf von zwei verschiedenen Hubs sparen. Wer das iPad Pro oder auch das neue Air als Hauptarbeitsgerät verwendet und weitere Anschlüsse benötigt, der ist mit dem USB-C-Hub von Anker bestens bedient. Ich persönlich würde jedoch bei einer neuen Generation des Hubs von Anker erwarten, dass auch die Verwendung einer Hülle Berücksichtigung findet.</p>
+<p>Erhältlich ist der USB-Hub bei <a href="https://amzn.to/3aRSaoj" target="_blank" rel="noopener">Amazon</a> für durchaus stolze 45,99 Euro, meiner Meinung nach ist das ein bisschen zu viel. Wer das Geld investiert, erhält allerdings die gewohnte Anker-Qualität. Die hochwertigen Materialien (hauptsächlich Aluminium) treffen dabei auf eine sehr gute Verarbeitung. Falls ihr noch Fragen habt, dann könnt ihr mir diese gerne in den Kommentaren stellen.</p>
+<p>Disclaimer: Das Testmuster wurde uns von Anker kostenlos überlassen. Eine Einflussnahme auf den Testbericht oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Zwischen den Jahren: Microsoft gibt PowerToys 0.29 mit kleinen Neuerungen frei</title>
+		<link>https://www.drwindows.de/news/zwischen-den-jahren-microsoft-gibt-powertoys-0-29-mit-kleinen-neuerungen-frei</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 30 Dec 2020 06:31:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78836</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerToys" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Während die meisten Kollegen aus Redmond sich aktuell noch im wohlverdienten Weihnachtsurlaub befinden, schiebt das Team hinter den Microsoft PowerToys immer noch Überstunden. Etwas überraschend hat Microsoft deswegen mit Version 0.29 nochmal ein Update mit kleineren Verbesserungen veröffentlicht, bevor es morgen dann ins neue Jahr geht. Das neue Werkzeug für Videokonferenzen ist aber immer noch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerToys" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Während die meisten Kollegen aus Redmond sich aktuell noch im wohlverdienten Weihnachtsurlaub befinden, schiebt das Team hinter den Microsoft PowerToys immer noch Überstunden. Etwas überraschend hat Microsoft deswegen mit Version 0.29 nochmal ein Update mit kleineren Verbesserungen veröffentlicht, bevor es morgen dann ins neue Jahr geht. Das neue Werkzeug für Videokonferenzen ist aber immer noch nicht dabei und steht weiter nur in der experimentellen Version zur Verfügung.</p>
+<p>Vieles am neuen Release entpuppt sich dabei als Basisarbeit. Der Color Picker und die FancyZones bekamen weitere Bugfixes, während bei PowerToys Run die Performance optimiert und quer durch die Anwendung auch die Lokalisierung verbessert wurde. Die Entwickler haben außerdem ein neues Bug Report Tool integriert und das Logging weiter verbessert. Die Portierung für Windows 10 on ARM ist weiter fortgeschritten und es gibt hier nur noch wenige Restabhängigkeiten, während Enterprise-Nutzer den MSI-Installer für die eigenen Zwecke aus dem .exe-Installationspaket extrahieren können.</p>
+<p>Was sich ansonsten noch so getan hat, könnt ihr in den Release Notes auf <a href="https://github.com/microsoft/PowerToys/releases/tag/v0.29.0">GitHub</a> nachlesen. Hier steht wie immer auch der aktuelle Installer zur Verfügung.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 Verteilung: Neueste Versionen dominieren, 1903 überlebt ihr eigenes Ende</title>
+		<link>https://www.drwindows.de/news/windows-10-verteilung-neueste-versionen-dominieren-1903-ueberlebt-ihr-eigenes-ende</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 29 Dec 2020 16:09:49 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78833</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Zum letzten Mal in diesem Jahr hat das Werbenetzwerk AdDuplex seine zwar inoffiziellen, aber dennoch repräsentativen Statistiken zur Verteilung der einzelnen Versionen von Windows 10 aktualisiert. Wenig überraschend verzeichnet die neueste Version 20H2 (November 2020 Update) das größte Wachstum, ihre Verbreitung steigt von 8,8 Prozent im Vormonat auf jetzt 13,6 Prozent. Aber auch die Vorgängerversion [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Zum letzten Mal in diesem Jahr hat das Werbenetzwerk AdDuplex seine zwar inoffiziellen, aber dennoch repräsentativen Statistiken zur Verteilung der einzelnen Versionen von Windows 10 <a href="https://reports.adduplex.com/#/r/2020-12" target="_blank" rel="noopener">aktualisiert</a>. Wenig überraschend verzeichnet die neueste Version 20H2 (November 2020 Update) das größte Wachstum, ihre Verbreitung steigt von 8,8 Prozent im Vormonat auf jetzt 13,6 Prozent.</p>
+<p>Aber auch die Vorgängerversion kann um rund drei Prozentpunkte zulegen. das liegt daran, dass sich Microsoft mit der Ablösung der Version 1903 beeilt, deren Unterstützung mit dem Dezember-Patchday ausgelaufen ist.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/12/adduplex_dezember_2020.jpg" data-rel="lightbox-gallery-6LrI89x3" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78834" src="https://www.drwindows.de/news/wp-content/uploads/2020/12/adduplex_dezember_2020.jpg" alt="AdDuplex Statistik für Dezember 2020" width="836" height="468" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/12/adduplex_dezember_2020.jpg 836w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adduplex_dezember_2020-300x168.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adduplex_dezember_2020-768x430.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/12/adduplex_dezember_2020-643x360.jpg 643w" sizes="(max-width: 836px) 100vw, 836px" /></a></p>
+<p>Vor zwei Monaten lief noch fast ein Viertel aller Windows 10 PCs mit der nun veralteten Version 1903, jetzt sind noch 7,1 Prozent übrig. Es wurde also viel geschafft, dennoch ist nun klar, dass Microsoft zu spät zum Schlussspurt angesetzt hat, weshalb wir das Statistik-Jahr mit der erneuten Erkenntnis abschließen können: Zwei Updates im Jahr sind eines zu viel, auch die Strategie &#8222;echtes&#8220; Feature-Update gefolgt von Service Pack funktioniert nicht.</p>
+<p>Aber es deutet sich ja ohnehin an, dass die Windows-Entwicklung im Jahr 2021 <a href="https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015" target="_blank" rel="noopener">neue Wege einschlagen wird</a> und die technische Basis ein weit weniger wichtige Rolle spielen wird als bisher.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
