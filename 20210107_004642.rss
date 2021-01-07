@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Wed, 06 Jan 2021 19:10:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Windows 10 Build 21286: Erste Insider-Version im neuen Jahr bringt News in die Taskleiste</title>
+		<link>https://www.drwindows.de/news/windows-10-build-21286-erste-insider-version-im-neuen-jahr-bringt-news-in-die-taskleiste</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 19:10:52 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79129</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Windows Insider Programm startet offiziell ins Jahr 2021: Die Build 21286 steht ab sofort für die Insider im Developer Kanal zum Abruf bereit. Sie bringt eine Vereinheitlichung, denn ab jetzt bekommen wieder alle Nutzer in diesem Kanal wieder die identische Version. Außerdem sind drei Neuerungen enthalten. News in der Taskleiste Neu ist die Funktion [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Windows Insider Programm startet offiziell ins Jahr 2021: Die Build 21286 steht ab sofort für die Insider im Developer Kanal zum Abruf bereit. Sie bringt eine Vereinheitlichung, denn ab jetzt bekommen wieder alle Nutzer in diesem Kanal wieder die identische Version. Außerdem sind drei Neuerungen enthalten.</p>
+<h3>News in der Taskleiste</h3>
+<p>Neu ist die Funktion &#8222;News and Interests&#8220; &#8211; ein Newsfeed, der in der Taskleiste residiert und dort eine Wettervorschau sowie einen durch den Nutzer anpassbaren Nachrichtenfeed anzeigt, der sich öffnet, sobald man mit der Maus darauf zeigt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests.jpg" data-rel="lightbox-gallery-JuSD0RMe" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79130" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests.jpg" alt="News in der Taskleiste von Windows 10" width="1500" height="1495" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests-300x300.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests-1024x1021.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests-150x150.jpg 150w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests-768x765.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_taskleiste_news_interests-643x641.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Um die mutmaßlich häufigste Rückfrage direkt zu beantworten: Ja, das kann man abschalten. Ein einfacher Rechtsklick in der Taskleiste genügt laut Microsoft, um diese Infos auszublenden. Wer den Newsfeed nutzen möchte, der kann ihn trainieren, indem interessante oder uninteressante Artikel mit entsprechendem Feedback versehen werden, dass man mehr bzw. weniger zu diesem Thema lesen möchte.</p>
+<p>Deutsche Insider müssen sich jetzt noch nicht entscheiden, ob sie das ausprobieren wollen oder nicht, die Funktion steht ohnehin nur in den USA, Kanada, Großbritannien, Australien und Indien zur Verfügung.</p>
+<h3>Speicherplätze kommen in die Settings App</h3>
+<p>Die Funktion &#8222;Speicherplätze&#8220; (engl. &#8222;Storage Spaces&#8220;), mit der man beispielsweise mehrere physikalische Festplatten zu einem logischen Laufwerk kombinieren kann, wird in die Settings App von Windows integriert. Neue Speicherplätze können in den PC-Settings erstellt sowie bestehende verwaltet werden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/storage_spaces.gif" data-rel="lightbox-gallery-JuSD0RMe" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79132" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/storage_spaces.gif" alt="Windows 10 Storage Spaces" width="795" height="629" /></a></p>
+<h3>Autostart-Befehle für WSL</h3>
+<p>Das Windows-Subsystem for Linux wird um die Möglichkeit erweitert, Befehle zu hinterlegen, welche direkt beim Start des WSL ausgeführt werden. Diese werden in der Datei /etc/wsl.conf hinterlegt. Details dazu sowie die üblichen weiterführenden Infos zu behobenen Fehlern und bekannten Problemen in der aktuellen Insider Version könnt ihr wie üblich dem <a href="https://blogs.windows.com/windows-insider/2021/01/06/announcing-windows-10-insider-preview-build-21286/" target="_blank" rel="noopener">offiziellen Blogpost</a> von Microsoft entnehmen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>DrWndR: Wir basteln uns mit GitHub Actions und Xamarin.Forms heiße News zum Swipen</title>
+		<link>https://www.drwindows.de/news/drwndr-wir-basteln-uns-mit-github-actions-und-xamarin-forms-heisse-news-zum-swipen</link>
+		
+		<dc:creator><![CDATA[Tobias Scholze]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 14:13:47 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=78672</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="DrWndR Xamarin App" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-660x330.png 660w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-1024x512.png 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-768x384.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-643x322.png 643w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1.png 1320w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es ist wieder diese Zeit des Jahres, in welcher man mehr dem Schneeregen beim Fallen zusieht, als sich selbst im Freien zu betätigen. Für mich begann mit dem Winterurlaub auch die Zeit der „schnellen und glücklich machenden“-Projekte, welche keinen tieferen Sinn erfüllen müssen, sondern einfach aus einem spontanen Hirngespinst aus Spaß an der Freude entstehen. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-660x330.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="DrWndR Xamarin App" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-660x330.png 660w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-1024x512.png 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-768x384.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1-643x322.png 643w, https://www.drwindows.de/news/wp-content/uploads/2021/12/Dr.-Windows-Titelbild-1.png 1320w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es ist wieder diese Zeit des Jahres, in welcher man mehr dem Schneeregen beim Fallen zusieht, als sich selbst im Freien zu betätigen. Für mich begann mit dem Winterurlaub auch die Zeit der „schnellen und glücklich machenden“-Projekte, welche keinen tieferen Sinn erfüllen müssen, sondern einfach aus einem spontanen Hirngespinst aus Spaß an der Freude entstehen.</p>
+<p>Deswegen gibt es nun eine erste Version von DrWndr (<a href="https://github.com/tscholze/xamarin-drwndr-app" target="_blank" rel="noopener">GitHub</a>). Eine Tinder-eske App, wo nicht Menschen wie Dinge von links nach rechts gewischt werden, sondern unsere genauso anziehenden Artikel. Dir gefällt eine News von Dr. Windows nicht? Tja, wische nach rechts und weg ist sie.</p>
+<p>Erfassen wir die Daten? Nein. Wird das irgendwie gespeichert? Nope, auch hier alles nur flüchtig zur Laufzeit. Bringt das dann überhaupt irgendetwas? Nein. Ihr seht also, es ging hier mehr um „wie könnte man eigentlich X umsetzen“ verbunden mit ein wenig Bastelei. Was ein schöner Zeitvertreib.</p>
+<p>Einen Überblick über alle von Dr. Windows gebastelten Entwicklerprojekte findet ihr als entsprechende Forks auf <a href="https://github.com/drwindows" target="_blank" rel="noopener">unserem GitHub Account @drwindows</a>.</p>
+<h3>Rohdatensammeln mit GitHub Actions</h3>
+<p>Da die App mehr Daten haben sollte als das, was ich über unseren RSS-Feed abrufen konnte, habe ich mir auf GitHub einen Action Workflow geschrieben, welcher alle sechs Stunden den aktuellen Feed lädt, lesbar umbenennt und in mein <a href="https://github.com/tscholze/github-actions-download-feed" target="_blank" rel="noopener">GitHub Repository „github-actions-download-feed“</a> hochlädt. Alles in Absprache mit Martin.</p>
+<p>Rohdaten sind immer gut. Nur sind sie ohne eine Auswertung und Post Processing nutzlos. Aus diesem Grund gibt es das C# Konsolen-Projekt „WndR.Converter“ innerhalb der Visual Studio Solution für die App. In diesem kleinen Programm lese ich jede einzelne XML-Datei (<a href="https://de.wikipedia.org/wiki/Extensible_Markup_Language" target="_blank" rel="noopener">Wiki</a>) ein, verarbeite dessen Inhalte, bereite diese auf und erzeuge am Schluss eine große JSON-Datei (<a href="https://de.wikipedia.org/wiki/JavaScript_Object_Notation" target="_blank" rel="noopener">Wiki</a>), welche als lokale Datenquelle für die eigentliche App dient.</p>
+<h3>Mit Xamarin.Forms werden Daten erst sichtbar</h3>
+<p>Da nun unsere Rohdaten zu nutzbaren Daten umgewandelt wurden, fehlt noch ein weiterer elementarer Schritt: Die Visualisierung, also die aufbereiteten Daten sichtbar zu gestalten.</p>
+<p>Wie auch sonst bei unseren Dr. Windows Projekten dient hier <a href="https://docs.microsoft.com/de-de/xamarin/xamarin-forms/" target="_blank" rel="noopener">Xamarin.Forms</a> als Grundlage, um mit demselben Quelltext neben Android- auch iOS-Apps aus Visual Studio (for Mac) herauspurzeln zu lassen.</p>
+<p>Da der Grundgedanke der App sich stark an die Dating-Plattform „Tinder“ anlehnt, ich jedoch für ein schnelles Bastelprojekt nicht extra die so typische „Swipe“-Karte selbst implementieren wollte, nutzte ich eine externe Abhängigkeit namens „<a href="https://github.com/markolazic88/SwipeCardView" target="_blank" rel="noopener">SwipeCardView</a>“ von dem Entwickler <a href="https://github.com/markolazic88" target="_blank" rel="noopener">Marko Lazic</a>. Wie so oft findet ihr mehr Informationen dazu im <a href="https://github.com/markolazic88/SwipeCardView" target="_blank" rel="noopener">entsprechenden Repository auf GitHub</a>.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/12/input.mp4.gif" data-rel="lightbox-gallery-gx1oFJkK" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-78675" src="https://www.drwindows.de/news/wp-content/uploads/2021/12/input.mp4.gif" alt="DrWndR Oberflächenanimation" width="720" height="405" /></a></p>
+<h3>Diesmal mit etwas mehr Schmerzen</h3>
+<p>Im Gegensatz zu unseren vorherigen Xamarin.Forms Wochenendprojekten wie „<a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-10-die-krux-kein-testgeraet-zu-haben" target="_blank" rel="noopener">Road To Surface Duo</a>“ oder „<a href="https://www.drwindows.de/news/wir-bauen-uns-glueckliche-nachrichten-mit-xamarin-und-azure" target="_blank" rel="noopener">Happy News mit Azure</a>“ gab es diesmal doch etliche Schmerzen. Dies führt im Moment des Erstellzeitpunkt dieses Beitrages dazu, dass die iOS Version keine Bilder aus dem Web anzeigt – trotz validen https Handshakes. Auch sonst musste ich mich erst wieder daran gewöhnen, in den XAML-Dateien, mit denen man die Oberfläche beschreibt, keine Autovervollständigung der Daten Bindings zu haben. Außerdem haben im Auslieferungszustand Visual Studio for Mac und Windows augenscheinlich unterschiedliche Standard-Auto-Formatierungseinstellungen. Dies kann jedoch auch am fehlenden Wissen meinerseits liegen, ich bin für hilfreiche Ratschläge in den Kommentaren oder im Repository via dessen Issues sehr dankbar.</p>
+<h3>Jede/r ist eingeladen mitzuwirken</h3>
+<p>Das Projekt liegt wie immer zur <a href="https://github.com/tscholze/xamarin-surface-duo-hinge-it" target="_blank" rel="noopener">freien Verfügung auf GitHub bereit</a>. Schaut es euch an, baut daran weiter, habt Spaß mit der neuen Technik! Zum Kompilieren benötigt ihr nur ein <a href="https://visualstudio.microsoft.com/de/downloads/" target="_blank" rel="noopener">kostenfreies Visual Studio</a>. Da dies eine Xamarin Applikation ist, muss zusätzlich noch über den Installer die entsprechende Xamarin-Erweiterung installiert werden.</p>
+<p>Da wie geschrieben die iOS-Variante noch nicht so möchte, wie ich das gerne hätte und auch das SwipeState-Handling (dass sich die Karten je nach „like“ oder „dislike“ im Aussehen ändern) noch nicht funktioniert, wäre auch dies ein guter Einstieg für Interessierte.</p>
+<p>So oder so freue ich mich über jegliche Beteiligung am Projekt, egal in welcher Art auch immer.</p>
+<h3>Bitte beachtet</h3>
+<p>Wie auch sonst bei unseren Bastelprojekten auf Dr. Windows handelt es sich auch bei diesem hier um eine Machbarkeitsstudie. Sie ist weder fehlerfrei noch ideal und sollte somit in keiner Weise außerhalb einer Beispiel- und Lernumgebung eingesetzt werden.</p>
+<p>In diesem Falle ist sie sogar bisher nicht einmal funktions-vollständig da ich einfach noch nicht weiß, welche Funktionen die App noch brauchen könnte.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bergamot: Neuer Übersetzungsdienst von Firefox macht Fortschritte</title>
+		<link>https://www.drwindows.de/news/bergamot-neuer-uebersetzungsdienst-von-firefox-macht-fortschritte</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 14:02:05 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79117</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Auch wenn Mozilla in Folge der Entlassungen im vergangenen Spätsommer zahlreiche Projekte eingestellt, umgebaut oder an andere Organisationen abgetreten hat, geht die Weiterentwicklung bei anderen Projekten und Produkten des Unternehmens weiter. Eines davon, welches glücklicherweise (bisher) nicht betroffen ist, ist das Bergamot Project, welches Firefox mit einem neuen Übersetzungsdienst ausstatten soll. Der technische Ansatz basiert [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Auch wenn Mozilla in Folge der Entlassungen im vergangenen Spätsommer zahlreiche Projekte eingestellt, umgebaut oder an andere Organisationen abgetreten hat, geht die Weiterentwicklung bei anderen Projekten und Produkten des Unternehmens weiter. Eines davon, welches glücklicherweise (bisher) nicht betroffen ist, ist das Bergamot Project, welches Firefox mit einem neuen Übersetzungsdienst ausstatten soll. Der technische Ansatz basiert wie bei DeepL auf neuronalen Netzwerken und Machine Learning, kommt aber im Gegensatz hierzu ohne Cloud aus und läuft lokal auf dem eigenen Rechner.</p>
+<p>Das Projekt ist eine Kooperation von Mozilla mit der Universität Tartu (Estland), der Charles University (Tschechien) sowie den Universitäten von Sheffield und Edinburgh aus Großbritannien und wird von der Europäischen Union mit drei Millionen Euro gefördert. Gemeinsam haben die Verantwortlichen im Dezember ein Video veröffentlicht, was den ersten Prototypen in Form einer WebExtension in Aktion zeigt. Um das Video zu sehen, folgt einfach dem Link im verlinkten Tweet. Wann Bergamot fest in Firefox integriert wird, steht derweil noch nicht fest.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Sneak peak of some incredible progress on integrating Neural Machine Translation in a browser extension. Check out a video of the Bergamot prototype WebExtension for <a href="https://twitter.com/hashtag/Firefox?src=hash&amp;ref_src=twsrc%5Etfw">#Firefox</a> <a href="https://t.co/xmiCCK4Mfb">https://t.co/xmiCCK4Mfb</a></p>
+<p>&mdash; Bergamot (@BergamotProject) <a href="https://twitter.com/BergamotProject/status/1336436690404052992?ref_src=twsrc%5Etfw">December 8, 2020</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Die unendliche Geschichte: Cloud-Signaturen für Outlook erneut verschoben</title>
+		<link>https://www.drwindows.de/news/die-unendliche-geschichte-cloud-signaturen-fuer-outlook-erneut-verschoben</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 13:49:13 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79115</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Outlook" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Seit mittlerweile einem Jahr arbeitet Microsoft daran, die in Outlook gespeicherten Signaturen unter Windows über alle genutzten Geräte hinweg zu synchronisieren. Für Juni 2020 war die Einführung ursprünglich geplant, nach mehreren Verschiebungen sollte es mit dem Dezember-Update soweit sein &#8211; doch daraus wurde wieder nichts. In der Vorschau auf das Dezember-Update hatte ich unseren Lesern [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Outlook" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Outlook-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Seit mittlerweile einem Jahr arbeitet Microsoft daran, die in Outlook gespeicherten Signaturen unter Windows über alle genutzten Geräte hinweg zu synchronisieren. Für Juni 2020 war die Einführung ursprünglich geplant, nach mehreren Verschiebungen sollte es mit dem Dezember-Update soweit sein &#8211; doch daraus wurde wieder nichts.</p>
+<p>In der <a href="https://www.drwindows.de/news/vorschau-auf-das-dezember-update-fuer-microsoft-office-cloud-signaturen-unterm-weihnachtsbaum" target="_blank" rel="noopener">Vorschau auf das Dezember-Update</a> hatte ich unseren Lesern noch vollmundig &#8222;Cloud-Signaturen unterm Weihnachtsbaum&#8220; versprochen und mich dabei auf die <a href="https://insider.office.com/en-us/releasenotes/windows/slow/version-2012-build-13530-20064" target="_blank" rel="noopener">Release Notes</a> verlassen. Diese bezogen sich zwar auf das Insider-Programm, im &#8222;Current Channel&#8220; wird aber üblicherweise genau die Version getestet, die kurz darauf für die produktive Nutzung freigegeben wird.</p>
+<p>Dass die Office-Version 2012 nicht mehr im alten Jahr freigegeben wurde, machte mich noch nicht nervös, es kommt öfter mal vor, dass das monatliche Update in den Folgemonat rutscht. Gestern wurde es veröffentlicht, und wie ich durch einen <a href="https://www.drwindows.de/xf/threads/vorschau-auf-das-dezember-update-f%C3%BCr-microsoft-office-cloud-signaturen-unterm-weihnachtsbaum.173070/#post-1855955" target="_blank" rel="noopener">Hinweis aus der Community</a> erfahren musste, waren die Cloud-Signaturen wieder nicht dabei.</p>
+<p>Ich schaute in der <a href="https://www.microsoft.com/en-us/microsoft-365/roadmap?featureid=60371" target="_blank" rel="noopener">Roadmap</a> nach und fand dort immerhin den Hinweis, dass der Rollout der Cloud-Signaturen vorerst gestoppt wurde. Neuer Zieltermin ist jetzt Februar 2021.</p>
+<p>Man macht es sich als Nutzer mit der Kritik oft zu einfach und fragt &#8222;was kann denn da so kompliziert sein?&#8220;. Es wird sicher gute Gründe dafür geben, dass die Funktion erneut verschoben wurde, dass es wieder und wieder passiert, ist dann aber doch ärgerlich. Ich werde nun jedenfalls erst wieder darüber schreiben, wenn die Funktion auch tatsächlich zur Verfügung steht.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Wireless Controller für Xbox Series X und S: Fix für Verbindungsprobleme in Arbeit</title>
+		<link>https://www.drwindows.de/news/wireless-controller-fuer-xbox-series-x-und-s-fix-fuer-verbindungsprobleme-in-arbeit</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 06 Jan 2021 11:34:48 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79112</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Wireless Controller neue Generation" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Mit der neuen Konsolengeneration Xbox Series X und S ist auch ein neuer Wireless Controller eingeführt worden, der mit sinnvollen Neuerungen zu überzeugen weiß. Leider wird der Spielspaß bei einigen Nutzern dadurch getrübt, dass der Controller sporadisch die Verbindung zur Konsole verliert. Im Microsoft Answers Forum haben sich bereits sehr viele Betroffene gemeldet, interessanterweise scheint [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Wireless Controller neue Generation" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_wireless_controller_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Mit der neuen Konsolengeneration Xbox Series X und S ist auch ein neuer Wireless Controller eingeführt worden, der mit sinnvollen Neuerungen <a href="https://www.drwindows.de/news/der-neue-xbox-wireless-controller" target="_blank" rel="noopener">zu überzeugen weiß</a>. Leider wird der Spielspaß bei einigen Nutzern dadurch getrübt, dass der Controller sporadisch die Verbindung zur Konsole verliert.</p>
+<p>Im <a href="https://answers.microsoft.com/en-us/xbox/forum/xba_console/xbox-series-x-controller-keeps-disconnecting/16d9f462-57c0-4b6c-93fd-b03711e632ee?page=1" target="_blank" rel="noopener">Microsoft Answers Forum</a> haben sich bereits sehr viele Betroffene gemeldet, interessanterweise scheint der Fehler schwerpunktmäßig bei den Spielen aufzutreten, die für die neue Konsolengeneration optimiert wurden &#8211; umgekehrt wäre es irgendwie plausibler. Durch ein erneutes Pairing lässt sich der Fehler bei den Betroffenen vorübergehend beheben, kommt dann aber wieder.</p>
+<p>Ich selbst konnte das Problem bei mir bislang nicht beobachten, allerdings spiele ich derzeit hauptsächlich Spiele wie F1 2020, das noch kein Next Gen-Update erhalten hat, außerdem verwende ich meistens den Xbox Elite Controller v2. Dass der neue Controller für Probleme sorgen kann, ist mir aber in Verbindung mit meinem Headset aufgefallen. Microsoft hatte mir <strong><a href="https://www.drwindows.de/news/microsoft-bestaetigt-soundprobleme-mit-drahtlosen-headsets-an-der-xbox-series-x-es-liegt-am-controller" target="_blank" rel="noopener">mitgeteilt</a></strong>, dass der Controller die Ursache ist und dass man an einem entsprechenden Update arbeitet.</p>
+<p>Gegenüber <strong><a href="https://www.drwindows.de/news/microsoft-bestaetigt-soundprobleme-mit-drahtlosen-headsets-an-der-xbox-series-x-es-liegt-am-controller" target="_blank" rel="noopener">TheVerge</a></strong> hat Microsoft die oben erwähnten Aussetzer bestätigt und ein Update in Aussicht gestellt. Ich vermute, es handelt sich dabei um das gleiche Statement, welches ich ebenfalls erhalten habe, die Probleme scheinen ja zumindest &#8222;artverwandt&#8220; zu sein.</p>
+<p>Hat von unseren Lesern jemand Probleme mit dem neuen Xbox Wireless Controller?</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Minecraft Earth: Mojang Studios stellen Entwicklung des AR-Games ein</title>
+		<link>https://www.drwindows.de/news/minecraft-earth-mojang-studios-stellen-entwicklung-des-ar-games-ein</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 18:38:34 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[Microsoft auf iOS]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79083</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Minecraft Earth" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Solltet ihr noch Interesse an Minecraft Earth haben und das Mobile Game zocken, müsst ihr euch etwas beeilen. Wie die Entwickler heute in einem entsprechenden Blogpost mitteilen, wird die Entwicklung und Unterstützung des AR-Ablegers von Minecraft zum 30. Juni 2021 eingestellt. Bevor es soweit ist, veröffentlichen die Mojang Studios noch ein letztes Update, welches einige [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Minecraft Earth" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/minecraft_earth-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Solltet ihr noch Interesse an Minecraft Earth haben und das Mobile Game zocken, müsst ihr euch etwas beeilen. Wie die Entwickler heute in einem entsprechenden Blogpost mitteilen, wird die Entwicklung und Unterstützung des AR-Ablegers von Minecraft zum 30. Juni 2021 eingestellt. Bevor es soweit ist, veröffentlichen die Mojang Studios noch ein letztes Update, welches einige Anpassungen vornimmt, um Minecraft Earth in der verbleibenden Zeit auch noch zu Hause möglichst gut erleben zu können.</p>
+<p>Spieler, die jemals Geld in Minecraft Earth investiert haben, sollen mit einer kostenlosen Lizenz für die Minecraft: Bedrock Edition entschädigt werden. Wurde außerdem Geld für Ruby Balances ausgegeben, werden die verbliebenen davon in Minecoins umgewandelt, die im Minecraft Marketplace für Skins, Texture Packs, Minigames und Maps investiert werden können. Nähere Informationen haben die Entwickler in einem <a href="https://help.minecraft.net/hc/en-us/articles/360054525152">FAQ</a> zusammengefasst.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Huawei: Harmony OS könnte in Zukunft auch anderen Herstellern offen stehen</title>
+		<link>https://www.drwindows.de/news/huawei-harmony-os-koennte-in-zukunft-auch-anderen-herstellern-offen-stehen</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 16:05:11 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79078</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Erst in der vergangenen Woche sorgte ein entsprechender Beitrag von XDA Developers für Aufsehen, wonach sich Huaweis kommendes Betriebssystem Harmony OS 2.0 doch nur als ein weitgehend auf Android basierendes Produkt entpuppte und man wohl doch nicht so unabhängig von Googles Technologien ist, wie man es gerne von sich behauptete. Die bestehenden Probleme mit dem [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/huawei_mate_10_lite-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Erst in der vergangenen Woche sorgte ein entsprechender Beitrag von XDA Developers für Aufsehen, wonach sich Huaweis kommendes Betriebssystem Harmony OS 2.0 doch nur als ein weitgehend auf Android basierendes Produkt <a href="https://www.drwindows.de/news/huawei-neues-harmony-os-2-0-entpuppt-sich-wohl-als-android-derivat">entpuppte</a> und man wohl doch nicht so unabhängig von Googles Technologien ist, wie man es gerne von sich behauptete. Die bestehenden Probleme mit dem AppGap, den wir persönlich auch noch aus Zeiten von Windows Phone und Windows 10 Mobile kennen, wird man so nicht los, gleichzeitig will Huawei nun aber andere Hersteller für den eigenen Android-Fork gewinnen.</p>
+<p>Richard Yu von Huawei erklärte nun in einem Interview, dass das hauseigene Harmony OS auch für andere Hersteller offen stehen könnte, sofern sie bisher mit dem klassischen Android von Google gearbeitet haben und etwa ebenfalls von Sanktionen der US-Regierung betroffen wären. Sofern Huawei hier speziell chinesische Firmen meinen, könnte ein entsprechender Vorstoß auch für Google zumindest regional einen unangenehmen Effekt annehmen. Die mögliche Front wäre schließlich nicht zu verachten, schließlich würde ein solche Maßnahme theoretisch auch sehr große Hersteller wie Xiaomi, Lenovo (inkl. der Töchter Medion und Motorola), Oppo, Realme, Honor oder Vaio umfassen.</p>
+<p>Ob sowas tatsächlich auch spürbare Auswirkungen in Europa hätte, kann man zumindest momentan noch bezweifeln. Fakt ist jedenfalls, dass es auch in der Europäischen Union entsprechende Entwicklungen gibt und zum Beispiel in Frankreich mit /e/ OS aktuell ein eigener Fork auf Basis von Android <a href="https://e.foundation/de/">entwickelt</a> wird, der statt den Google Play Services mit dem quelloffenen Nachbau microG daher kommt und auch vorinstalliert auf entsprechenden Smartphones von Samsung, Fairphone und Gigaset im eigenen <a href="https://esolutions.shop/de/">Shop</a> gekauft werden kann.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Xbox Game Pass im Januar 2021: PES 2021, Injustice 2 und viele Indie-Titel</title>
+		<link>https://www.drwindows.de/news/xbox-game-pass-im-januar-2021-pes-2021-injustice-2-und-viele-indie-titel</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 15:09:26 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79073</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Januar 21" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Neues Jahr, neue Spiele für den Xbox Game Pass. Auch im Januar erweitert Microsoft sein Abo-Angebot wieder um neue Titel. Fußballfans dürfen sich auf PES 2021 Season Update freuen, das ab Donnerstag auf der Xbox verfügbar ist und auch auf Android gestreamt werden kann. Wer es zünftiger mag, darf ebenfalls ab Donnerstag in die Superhelden-Prügelei [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Januar 21" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Neues Jahr, neue Spiele für den Xbox Game Pass. Auch im Januar erweitert Microsoft sein Abo-Angebot wieder um neue Titel. Fußballfans dürfen sich auf PES 2021 Season Update freuen, das ab Donnerstag auf der Xbox verfügbar ist und auch auf Android gestreamt werden kann. Wer es zünftiger mag, darf ebenfalls ab Donnerstag in die Superhelden-Prügelei Injustice 2 einsteigen.</p>
+<p>Davon abgesehen ist die erste Welle der neuen Spiele für den Xbox Game Pass im neuen Jahr vielleicht nicht ganz so spektakulär, ich begrüße es allerdings, dass Microsoft den Game Pass auch immer wieder benutzt, um Indie-Spiele aus dem ID@Xbox Programm ins Rampenlicht zu stellen.</p>
+<p>Das hier sind die Neuzugänge der kommenden Tage:</p>
+<p><strong>7. Januar</strong></p>
+<ul>
+<li>eFootball PES 2021 Season Update (Android und Konsole)</li>
+<li>Injustice 2 (Android, Konsole und PC)</li>
+<li>The Little Acre (Android und Konsole) ID@Xbox</li>
+</ul>
+<p><strong>14. Januar </strong></p>
+<ul>
+<li>Neoverse (PC) ID@Xbox</li>
+<li>Torchlight III (Android und Konsole) ID@Xbox</li>
+<li>What Remains of Edith Finch (PC) ID@Xbox</li>
+<li>YIIK: A Postmodern RPG (PC) ID@Xbox</li>
+</ul>
+<p>Verabschieden müssen sich die Game Pass Abonnenten zum 15. Januar von den folgenden Titeln, die jedoch wie üblich mit einem Nachlass von 20 Prozent gekauft werden können:</p>
+<ul>
+<li>FTL: Faster Than Light (PC)</li>
+<li>My Friend Pedro (Konsole und PC)</li>
+<li>Sword Art Online: Fatal Bullet (Konsole)</li>
+<li>Tekken 7 (Konsole)</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Xbox-Splitter: Microsoft arbeitet an Lieferengpässen und registriert neue Wortmarke Xbox Series XS</title>
+		<link>https://www.drwindows.de/news/xbox-splitter-microsoft-arbeitet-an-lieferengpaessen-und-registriert-neue-wortmarke-xbox-series-xs</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 09:55:55 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79044</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series S und X Review" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die beiden neuen Xbox-Konsolen Series X und Series S sind nach wie vor nur schwer zu bekommen. Wer die kleine Xbox Series S haben möchte, hat größere Chancen, sie taucht regelmäßig in kleineren Stückzahlen bei diversen Onlineshops auf. Die große Xbox Series X zu ergattern, ist dagegen beinahe unmöglich. Leider wird das noch eine Weile [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series S und X Review" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/11/xbox_series_review_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die beiden neuen Xbox-Konsolen Series X und Series S sind nach wie vor nur schwer zu bekommen. Wer die kleine Xbox Series S haben möchte, hat größere Chancen, sie taucht regelmäßig in kleineren Stückzahlen bei diversen Onlineshops auf. Die große Xbox Series X zu ergattern, ist dagegen beinahe unmöglich. Leider wird das noch eine Weile so bleiben, Microsoft rechnet damit, dass sich die Lage erst im zweiten Quartal 2021 entspannt.</p>
+<p>Dass es sich dabei um einen Marketingstunt handelt, um mit künstlicher Verknappung eine höhere Nachfrage zu simulieren, kann man ausschließen, denn eine solche Methode wendet man eigentlich nur an, wenn man trotzdem etwas zu verkaufen hat, aber das ist ja nicht der Fall. Im <a href="https://majornelson.com/podcast/728-closing-out-2020-with-phil-spencer/" target="_blank" rel="noopener">Silvester-Podcast</a> von Larry Hryb alias Major Nelson kommt Xbox-Chef Phil Spencer zu Wort und erklärt, dass man alles tut, um so viele Konsolen wie möglich zu produzieren. Es gab sogar auf höchster Ebene ein Gespräch mit AMD, in dem es darum ging, mehr Prozessoren für die Xbox-Konsolen zu ergattern.</p>
+<p>Wer auf die Xbox Series X wartet, braucht also weiterhin Geduld oder das Glück, zum richtigen Zeitpunkt den richtigen Onlineshop anzuklicken.</p>
+<h3>Microsoft registriert Wortmarke Xbox Series XS</h3>
+<p>Beim amerikanischen Markenpatentamt USPTO hat sich Microsoft die Wortmarke &#8222;Xbox Series XS&#8220; <a href="https://uspto.report/TM/90426532" target="_blank" rel="noopener">gesichert</a>. Ich bin bei <a href="https://www.xboxdynasty.de/news/xbox-series-x/markenregistrierung-deutet-xs-slim-version-an/" target="_blank" rel="noopener">Xboxdynasty</a> zuerst über diese Nachricht gestolpert, wo man spekuliert, dass es sich hierbei um eine Slim-Version der Xbox Series X handeln könnte.</p>
+<p>Es gibt nicht Wenige, welche die Namenswahl &#8222;Series S&#8220; und &#8222;Series X&#8220; für unglücklich halten. Ich gehöre aus dem Grund dazu, weil ich mich in meinen Artikeln andauernd vertippe und versehentlich S oder X schreibe, eigentlich aber die andere Konsole meine. Mit einer &#8222;Xbox Series XS&#8220; wäre das Durcheinander perfekt.</p>
+<p>Ich bin allerdings überzeugt, dass der Grund für die Markenregistrierung maximal unspektakulär ist. Microsoft verwendet, wenn es um Themen geht, die beide neuen Konsolen betreffen, gerne die Bezeichnung &#8222;Xbox Series X|S&#8220;. Vermutlich will man nur verhindern, dass irgendein Trittbrettfahrer die Hand aufhält.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Synchronisation von Verlauf und geöffneten Tabs wird ausgerollt</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-synchronisation-von-verlauf-und-geoeffneten-tabs-wird-ausgerollt</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 05 Jan 2021 08:39:09 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79037</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Synchronisationsfunktionen von Microsoft sind ein Jahr nach der Veröffentlichung des Browsers komplett. Das klingt vielleicht zynischer, als es gemeint ist, aber es hat nun mal so lange gedauert. Die letzten beiden noch fehlenden Optionen, nämlich die Synchronisation des Verlaufs und der geöffneten Tabs, lassen sich jetzt aktivieren. Im Dezember hatten sich die beiden neuen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Synchronisationsfunktionen von Microsoft sind ein Jahr nach der Veröffentlichung des Browsers komplett. Das klingt vielleicht zynischer, als es gemeint ist, aber es hat nun mal so lange gedauert. Die letzten beiden noch fehlenden Optionen, nämlich die Synchronisation des Verlaufs und der geöffneten Tabs, lassen sich jetzt aktivieren.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation.jpg" data-rel="lightbox-gallery-1wfduMW8" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79038" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation.jpg" alt="Synchronisation von Verlauf und Tabs in Microsoft Edge" width="1147" height="732" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation.jpg 1147w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation-300x191.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation-1024x654.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation-768x490.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_edge_synchronisation-643x410.jpg 643w" sizes="(max-width: 1147px) 100vw, 1147px" /></a></p>
+<p>Im Dezember hatten sich die beiden neuen Sync-Funktionen bereits in der Android-Version von Microsoft Edge <a href="https://www.drwindows.de/news/microsoft-edge-synchronisation-von-geoeffneten-tabs-und-verlauf-erreicht-android" target="_blank" rel="noopener">gezeigt</a>, mit der Ausweitung auf den Desktop wurde für den Januar gerechnet. Ich war wie viele andere Nutzer davon ausgegangen, dass es zusammen mit der Veröffentlichung von Edge 88 in der zweiten Monatshälfte passiert, allerdings handelt es sich bei den Synchronisations-Features um Funktionen, die am Nutzerkonto hängen und nicht am Browser selbst, insofern konnte Microsoft jederzeit den Schalter umlegen.</p>
+<p>Die letztgenannte Tatsache ist dann auch der Grund, warum aktuell möglicherweise noch nicht alle Nutzer die beiden Optionen aktivieren können, in aller Regel schaltet Microsoft die Konten nach und nach frei.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
