@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Tue, 12 Jan 2021 19:16:14 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Microsoft Patchday im Januar 2021: Frische Updates für Windows 10</title>
+		<link>https://www.drwindows.de/news/microsoft-patchday-im-januar-2021-frische-updates-fuer-windows-10</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 19:16:14 +0000</pubDate>
+				<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79409</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Patchday" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das neue Jahr verläuft endgültig wieder in seinen routinemäßigen Bahnen, wenn der Januar-Patchday ins Haus steht. Auch im Jahr 2021 gibt es an jedem zweiten Dienstag des Monats die neuesten Sicherheitsupdates von Microsoft und somit auch frische kumulative Updates für Windows 10. Es sind nur drei Versionen von Windows 10, die offiziell noch unterstützt werden, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Patchday" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Microsoft-Patchday-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das neue Jahr verläuft endgültig wieder in seinen routinemäßigen Bahnen, wenn der Januar-Patchday ins Haus steht. Auch im Jahr 2021 gibt es an jedem zweiten Dienstag des Monats die neuesten Sicherheitsupdates von Microsoft und somit auch frische kumulative Updates für Windows 10.</p>
+<p>Es sind nur drei Versionen von Windows 10, die offiziell noch unterstützt werden, die Version 1903 ist im Dezember aus dem Support gegangen. Eigentlich sind es ja sogar nur zwei, denn die Versionen 2004 und 20H2 sind bekanntermaßen identisch und erhalten deshalb auch die exakt gleichen Update-Pakete. Die Build 19042.746 ist außerdem auch für die Windows Insider in den Kanälen Beta und Release Preview verfügbar.</p>
+<p>Hier geht es zu den Changelogs:</p>
+<ul>
+<li>Windows 10 Version 2004 und 20H2: <a href="https://support.microsoft.com/de-de/help/4598242" target="_blank" rel="noopener">KB4598242 (OS Builds 19041.746 und 19042.746)</a></li>
+<li>Windows 10 Version 1909: <a href="https://support.microsoft.com/en-us/help/4598229" target="_blank" rel="noopener">KB4598229 (OS Build 18363.1316)</a></li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gamestreaming auf den Fernseher: Microsoft darf sich nicht zu lange Zeit lassen</title>
+		<link>https://www.drwindows.de/news/gamestreaming-auf-den-fernseher-microsoft-darf-sich-nicht-zu-lange-zeit-lassen</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 17:54:23 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79401</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Project xCloud Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Im noch jungen und kleinen Markt des Cloud-Gaming scheint Microsoft gut aufgestellt. Kein anderer Anbieter kann ein derart breites Angebot an Spielen vorweisen, die man über den Xbox Game Pass aus der Cloud streamen kann. Bislang allerdings nur auf Android-Smartphones und -Tablets. Eine Erweiterung ist geplant, schon bald will man über den Browser den Sprung [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Project xCloud Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Project_xCloud1-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Im noch jungen und kleinen Markt des Cloud-Gaming scheint Microsoft gut aufgestellt. Kein anderer Anbieter kann ein derart breites Angebot an Spielen vorweisen, die man über den Xbox Game Pass aus der Cloud streamen kann. Bislang allerdings nur auf Android-Smartphones und -Tablets. Eine Erweiterung ist geplant, schon bald will man über den Browser den Sprung auf iOS schaffen und so Apples Blockade umgehen, eine App für Windows 10 ist ebenfalls in Vorbereitung.</p>
+<p>Im November kündigte Xbox-Chef Phil Spencer außerdem an, dass man im Jahr 2021 auch eine App für Smart TVs <a href="https://www.drwindows.de/news/xbox-phil-spencer-erwartet-apps-auf-nahezu-jedem-smart-tv-in-2021" target="_blank" rel="noopener">an den Start bringen möchte</a>. Ich glaube, dass Microsoft daran wirklich mit Hochdruck arbeiten muss, wenn sie in Führung bleiben wollen. Die CES sendet diesbezüglich erste Signale. LG will alle <a href="https://stadt-bremerhaven.de/nvidia-geforce-now-und-google-stadia-kommen-auf-lgs-neue-tv-geraete" target="_blank" rel="noopener">2021er Modelle</a> ab Werk mit Google Stadia und GeForce Now bestücken, bestehende Geräte sollen die Apps über ein Update erhalten. Auf den Smarten Fernsehern mit Android TV ist Google Stadia selbstredend ebenfalls am Start.</p>
+<p>Bei den Gamern ist Stadia bislang noch nicht sonderlich populär, das spielt allerdings keine Rolle. Die heutigen Konsolen- und PC-Gamer werden nämlich nicht über Sieger und Verlierer im Cloud-Gaming entscheiden.</p>
+<p>Ich habe es in früheren Beiträgen zu dem Thema schon öfter gesagt: Das größte Wachstumspotenzial beim Cloud-Gaming liegt in der Gruppe der Menschen, die heute noch keine Gamer sind, beispielsweise weil sie die Investition in eine Konsole oder einen Gaming-PC scheuen. Wenn das aber auf dem neuen Fernseher einfach so da ist und ein schlauer Marketing-Mensch einen Controller und einen Dreimonats-Gutschein in die Verpackung gelegt hat, dann ändert sich das möglicherweise. Dann probiert man das aus, und möglicherweise bleibt man hängen. Diese Nicht-Gamer ziehen dann auch keine Vergleiche, wer den größeren Katalog an Spielen vorweisen kann, zumindest nicht im ersten Schritt.</p>
+<p>Was ich ebenfalls in einem früheren Artikel schon mal gesagt habe: Microsoft hat den Vorteil, dass sie im Gaming bereits ein dicker Fisch sind. Das ist aber gleichzeitig auch ein Nachteil, weil sie in diesen neuen Markt vordringen müssen, ohne gleichzeitig den Xbox- und PC-Spielern das Gefühl zu vermitteln, sie würden vernachlässigt. Neue Anbieter wie Google oder bald auch Amazon können dagegen sozusagen ohne Rücksicht auf Verluste &#8222;all in&#8220; gehen und sich voll und ganz aufs Cloud-Gaming konzentrieren.</p>
+<p>Es lässt sich im Moment noch schwer einschätzen, ob die breite Verfügbarkeit von Google Stadia auf Smart TVs tatsächlich dazu führt, dass Cloud-Gaming im Jahr 2021 deutlich mehr Aufmerksamkeit erhält. Microsoft sollte das aber nicht abwarten, sondern ebenfalls &#8222;all in&#8220; gehen. Als möglicher Partner böte sich Samsung an, die im TV-Bereich ebenfalls ein Big Player sind.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Kooperation mit Lucasfilm: Bethesda arbeitet an neuem Spiel zu Indiana Jones</title>
+		<link>https://www.drwindows.de/news/kooperation-mit-lucasfilm-bethesda-arbeitet-an-neuem-spiel-zu-indiana-jones</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 17:47:33 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79403</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox und Bethesda" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Bevor Microsoft die Übernahme von ZeniMax Media im kommenden Sommer abgeschlossen haben möchte, kündigten die Verantwortlichen von Bethesda über Twitter heute eine neue Kooperation mit Lucasfilm an, die kürzlich mit LucasfilmGames eine eigene Spieleabteilung gegründet haben. Ziel der Kooperation ist ein neuer Titel aus dem Universum von Indiana Jones, das auch eine neue Original Story [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox und Bethesda" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/xbox_bethesda-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Bevor Microsoft die Übernahme von ZeniMax Media im kommenden Sommer abgeschlossen haben möchte, kündigten die Verantwortlichen von Bethesda über Twitter heute eine neue Kooperation mit Lucasfilm an, die kürzlich mit LucasfilmGames eine eigene Spieleabteilung gegründet haben. Ziel der Kooperation ist ein neuer Titel aus dem Universum von Indiana Jones, das auch eine neue Original Story beinhalten wird. Verantwortlich für die Umsetzung ist die Tochter MachineGames, die bisher vor allem durch die verschiedenen Teile von Wolfenstein für Furore sorgte.</p>
+<p>Nähere Informationen zu dem Titel sollen erst in einiger Zeit veröffentlicht werden. Die Aufsicht über das Projekt wird von Todd Howard übernommen.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="und" dir="ltr"><a href="https://t.co/XSaIwjgiOF">pic.twitter.com/XSaIwjgiOF</a></p>
+<p>&mdash; Bethesda (@bethesda) <a href="https://twitter.com/bethesda/status/1349023307228704770?ref_src=twsrc%5Etfw">January 12, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Universal Apps in 2021: Lohnt sich das eigentlich noch?</title>
+		<link>https://www.drwindows.de/news/universal-apps-in-2021-lohnt-sich-das-eigentlich-noch</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 13:17:25 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79335</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Universal Windows Plattform UWP" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wie Windows 10 am 29. Juli 2015 erstmals veröffentlicht und als kostenloses Upgrade für alle Nutzer von Windows 7 und Windows 8.1 freigegeben wurde, erblickte auch die Universal Windows Platform erstmals für alle Nutzer das Licht der Welt. Die neuen UWP-Apps sollten das Rückrad von Windows 10 werden, markierten eine scharfe Grenze zu den traditionellen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Universal Windows Plattform UWP" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/uwp-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wie Windows 10 am 29. Juli 2015 erstmals veröffentlicht und als kostenloses Upgrade für alle Nutzer von Windows 7 und Windows 8.1 freigegeben wurde, erblickte auch die Universal Windows Platform erstmals für alle Nutzer das Licht der Welt. Die neuen UWP-Apps sollten das Rückrad von Windows 10 werden, markierten eine scharfe Grenze zu den traditionellen Win32-Anwendungen und sollten mit wenigen entsprechenden Anpassungen auf nahezu jedem Gerät im Microsoft-Ökosystem lauffähig sein.</p>
+<p>Seitdem hat sich Einiges verändert und die meisten Plattformen wie Windows 10 Mobile oder Windows 10 IoT wurden entweder eingestellt oder zumindest stark zurückgefahren, sodass eigentlich nur noch Windows 10 Desktop, die Xbox und &#8211; mit Einschränkungen &#8211; Windows Mixed Reality als lohnenswerte Ziele im Consumer-Bereich zurückbleiben. Neue Universal Apps erscheinen immer noch und diverse werden auch noch relativ gut mit einigermaßen regelmäßigen Updates gepflegt, aber auch hier ging das Tempo abseits der Enthusiasten deutlich zurück. Lohnen sich Universal Apps also überhaupt noch?</p>
+<p>Die Antwort von Microsoft dürfte zumindest hinter vorgehaltener Hand eindeutig sein, denn wenn man Project Reunion einmal ausklammert, gibt es bei den Redmondern einen eindeutigen Trend, die bisherigen UWP-Apps durch Lösungen aller Art zu ersetzen, die auf Webtechnologien basieren. An verschiedenen Stellen wie der Office-App, OneDrive, dem Microsoft Store, Skype und der neuen Xbox-App ist die neue Realität bereits eingezogen, bei Mail &amp; Kalender ist es nur eine Frage der Zeit. Gleichzeitig ist es kein Geheimnis, dass es zahlreiche weitere Kandidaten gibt, denen in Zukunft ein ähnliches Schicksal drohen könnte: Die UWP-Apps von Word, Excel, PowerPoint und OneNote, Microsoft Whiteboard und Microsoft To Do sind andere Beispiele, wo eine webbasierte Lösung auf Basis von React Native UWP die bisherige App ersetzen dürfte.</p>
+<p>Die Zahl der Universal Apps, die ich persönlich einsetze, hat sich mit der Zeit auch deutlich reduziert. Es gibt einige wenige, die ich immer noch gerne einsetze. Dazu gehören neben myTube! unter anderem auch der Texteditor Notepads und die Konzentrations-App Ambie. Bei anderen wie dem Aquile Reader, einer neuen eBook-App, denke ich zumindest über einen (erneuten) Test nach. Im Großen und Ganzen stelle ich für mich aber fest, dass ich mit anderen Möglichkeiten deutlich schneller bin und ich hier auch andere Entwickler als Microsoft zunehmend in Betracht ziehe.</p>
+<p>Teilweise liegt das daran, dass ich mit Microsoft selbst da nicht wirklich zufrieden bin. Your Phone ist zwar ganz nett, in vielen Fällen aber unzuverlässig. Parallel werden andere Produkte wie die Microsoft Sticky Notes nur selten mit Updates versorgt oder haben wie der Xbox Avatar Editor oder der Microsoft Translator unter Windows 10 schon eine halbe Ewigkeit kein neues Update mehr gesehen. Unterm Strich hat das letztlich dafür gesorgt, dass ich mich in dem Punkt nicht mehr alleine auf Microsoft verlassen will und andere Anbieter wie Notion für das Projektmanagement (parallel zu OneNote), DeepL als Übersetzer und Milanote (als Alternative zu Microsoft Whiteboard) sind hier zumindest schon in der engeren Auswahl.</p>
+<p>Damit wir uns richtig verstehen: Das bedeutet nicht, dass ich einen größeren Exodus von Microsoft plane und große Teile der Software aus Redmond abziehen will. Es gibt immer noch zahlreiche Produkte wie Edge, Office oder Werkzeuge wie Visual Studio (Code), von denen ich überzeugt bin. Gleichzeitig wird Windows 10 hier nicht verschwinden und ich denke bei Produkten wie der Xbox oder den PowerToys nach, ob die für mich langfristig einen größeren Sinn machen. Trotzdem bin ich unter anderem bei Microsoft an einem Punkt, wo man bei einzelnen Bereichen die richtigen Schlussfolgerungen ziehen sollte, und speziell bei dem, was allgemein von den UWP-Apps noch übrig ist, sehe ich in den meisten Fällen auch keine große Zukunft mehr, auch wenn in Redmond mit Windows 10X, Project Reunion und dem Surface Neo hier wieder etwas gezeigt wurde.</p>
+<p><em>Wie seht ihr das denn? Setzt ihr immer noch im großen Stil die klassischen Universal Apps ein? Schreibt es gerne in die Kommentare.</em></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>PowerToys: Microsoft arbeitet an neuer Ansicht für Einführungen und Updates</title>
+		<link>https://www.drwindows.de/news/powertoys-microsoft-arbeitet-an-neuer-ansicht-fuer-einfuehrungen-und-updates</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 12:19:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79369</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerToys" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das neue Jahr ist kaum gestartet und die Entwickler hinter den Microsoft PowerToys arbeiten zusammen mit der Community schon an den ersten konkreten Verbesserungen für das OpenSource-Projekt. Nachdem bereits verschiedene Mockups dazu auf GitHub veröffentlicht wurden, nehmen die Arbeiten an einer neuen Benutzerführung für alle, die die PowerToys erstmals installieren, nun konkrete Formen an. Clint [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="PowerToys" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/05/powertoys-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das neue Jahr ist kaum gestartet und die Entwickler hinter den Microsoft PowerToys arbeiten zusammen mit der Community schon an den ersten konkreten Verbesserungen für das OpenSource-Projekt. Nachdem bereits verschiedene Mockups dazu auf GitHub veröffentlicht wurden, nehmen die Arbeiten an einer neuen Benutzerführung für alle, die die PowerToys erstmals installieren, nun konkrete Formen an. Clint Rutkas, der bei Microsoft die Arbeiten an dem Projekt leitet, hat dazu jetzt eine erste Animation auf <a href="https://github.com/microsoft/PowerToys/issues/1285#issuecomment-758278155">GitHub</a> veröffentlicht.</p>
+<p><img loading="lazy" class="alignnone size-full wp-image-79371" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/PowerToys-OOBE-2021.gif" alt="" width="1000" height="620" /></p>
+<p>Neben der Ersteinrichtung soll der neue Bildschirm auch nach der Installation von Updates erscheinen und über die Neuerungen informieren. Außerdem werden die Icons für die einzelnen Module angepasst. Insgesamt ähnelt das neue Design also sehr der Microsoft Tips-App, die wir bereits für Windows 10 her kennen. Wann das neue Design eingeführt wird, ist aber noch unbekannt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lenovo ThinkPad X12: Näher am Business-Kunden als das Surface Pro 7+</title>
+		<link>https://www.drwindows.de/news/lenovo-thinkpad-x12-naeher-am-business-kunden-als-das-surface-pro-7</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 09:31:27 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79353</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Lenovo Thinkpad X12" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Am Montagnachmittag hat Microsoft das Surface Pro 7+ vorgestellt, welches sich explizit an Businesskunden richtet. Am Abend &#8222;konterte&#8220; Lenovo mit dem ThinkPad X12, einem Detachable im identischen Formfaktor. Das Lenovo-Gerät mag weniger schick sein und ein wenig rustikaler wirken, präsentiert sich aber zumindest auf dem Papier als das bessere Business-Paket. Das beginnt schon damit, dass [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Lenovo Thinkpad X12" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Am Montagnachmittag hat Microsoft das <a href="https://www.drwindows.de/news/statt-surface-pro-8-microsoft-bringt-das-surface-pro-7-mit-lte-und-austauschbarer-ssd" target="_blank" rel="noopener">Surface Pro 7+ vorgestellt</a>, welches sich explizit an Businesskunden richtet. Am Abend &#8222;konterte&#8220; Lenovo mit dem ThinkPad X12, einem Detachable im identischen Formfaktor. Das Lenovo-Gerät mag weniger schick sein und ein wenig rustikaler wirken, präsentiert sich aber zumindest auf dem Papier als das bessere Business-Paket.</p>
+<p>Das beginnt schon damit, dass Lenovo beim ThinkPad X12 die Tastatur mit in die Verpackung legt, ohne die ein Windows-Gerät schlicht unvollständig ist. Den Stift muss man allerdings ebenfalls separat erwerben.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04.jpg" data-rel="lightbox-gallery-8J9Fql6V" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79345" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04.jpg" alt="Lenovo Thinkpad X12" width="1200" height="686" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04-300x172.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04-1024x585.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04-768x439.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_04-643x368.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p>Auch das ThinkPad X12 hat ein 12,3 Zoll Display im 3:2 Format, es bietet mit 1.920 mal 1.280 Pixel allerdings eine geringere Auflösung als das Surface Pro 7+ (2.736 mal 1.824 Pixel).</p>
+<p>Bei den Prozessoren setzt Lenovo auf die frisch vorgestellten vPro-Varianten von Intels 11. Core-Generation (Tiger Lake), hier ist man also einen Schritt weiter gegangen als Microsoft. Exakte Details zu den einzelnen Ausstattungsvarianten und deren Preisen verrät Lenovo noch nicht, bis zum geplanten Start Mitte März wird man diese nachreichen. In der Pressemitteilung spricht man von &#8222;bis zu&#8220; Intel Core i7, 16 GB RAM und 1 TB SSD. Das Einstiegsmodell wird ab 999 Euro zu haben sein.</p>
+<p>Eine LTE-Option wird es ebenfalls geben, außerdem packt Lenovo auch einen Thunderbolt 4 Anschluss ins ThinkPad X12. Windows Hello ist per IR-Kamera und Fingerabdruckscanner an Bord. Die Akkulaufzeit ist mit 10 Stunden angegeben.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02.jpg" data-rel="lightbox-gallery-8J9Fql6V" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79343" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02.jpg" alt="Lenovo Thinkpad X12" width="1200" height="794" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02-300x199.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02-1024x678.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02-768x508.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x12_02-643x425.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Marktforscher: Der PC-Markt ist &#8222;on Fire&#8220;: 2020 wurden mehr als 300 Millionen Geräte verkauft</title>
+		<link>https://www.drwindows.de/news/marktforscher-der-pc-markt-ist-on-fire-2020-wurden-mehr-als-300-millionen-geraete-verkauft</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 08:56:25 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79348</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 6 und Surface Laptop 2 im Test" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Entwicklung der PC-Absätze zu verfolgen und als Berichterstatter zu kommentieren, fühlte sich seit rund 10 Jahren eher wie Sterbebegleitung an. Bis um das Jahr 2010 herum war ein PC der einzige Computer, den man besaß. Dann kamen Smartphones und Tablets, gleichzeitig sorgte die technische Weiterentwicklung dafür, dass es immer seltener nötig wurde, einen neuen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 6 und Surface Laptop 2 im Test" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/10/surface_pro_6_surface_laptop_2-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Entwicklung der PC-Absätze zu verfolgen und als Berichterstatter zu kommentieren, fühlte sich seit rund 10 Jahren eher wie Sterbebegleitung an. Bis um das Jahr 2010 herum war ein PC der einzige Computer, den man besaß. Dann kamen Smartphones und Tablets, gleichzeitig sorgte die technische Weiterentwicklung dafür, dass es immer seltener nötig wurde, einen neuen PC anzuschaffen.</p>
+<p>Der Markt befand sich im stetigen Sinkflug. Ich habe mich allerdings immer geweigert, darin eine Katastrophe zu sehen, weil die so genannte Krise eine Folge ausschließlich positiver Entwicklungen und war und ich außerdem wusste, dass der PC immer eine Daseinsberechtigung haben würde. Vor rund zwei Jahren schrieb ich deshalb: <strong><a href="https://www.drwindows.de/news/der-pc-geht-nirgendwo-hin" target="_blank" rel="noopener">Der PC geht nirgendwo hin</a></strong>.</p>
+<p>Allerdings wäre es mir im Traum nicht eingefallen, auf einen neuen PC-Boom zu wetten. Mit einer Pandemie habe ich allerdings auch nicht gerechnet. Die Corona-Krise hat der PC-Krise jedenfalls ein vorläufiges Ende beschert: Laut IDC wurden im Jahr 2020 erstmals wieder mehr 300 Millionen PCs verkauft, mit 13,1 Prozent wuchs der Markt so stark wie seit 2010 nicht mehr. <a href="https://www.idc.com/getdoc.jsp?containerId=prUS47274421" target="_blank" rel="noopener">PC Sales Remain on Fire</a> betiteln die Marktforscher ihre aktuelle Analyse.</p>
+<p>Befeuert wurde das Wachstum selbstredend durch den rasanten Anstieg der Heimarbeit, allerdings ist auch die Nachfrage nach Gaming-PCs kräftig gestiegen. Auch das ist zumindest eine indirekte Folge der Pandemie &#8211; irgendwie muss man sich ja zuhause beschäftigen. Ein Ende des aktuellen Booms ist laut IDC nicht in Sicht, gleichwohl könne derzeit niemand sagen, wie lange die aktuelle Entwicklung anhält.</p>
+<p>Im vierten Quartal des Jahres 2020 jedenfalls stiegen die PC-Absätze um mehr als Viertel. Die größten prozentualen Gewinner dabei waren Apple und Acer, die ihren Absatz um rund die Hälfte steigern konnten. Marktführer bleibt Lenovo mit rund 23 Millionen verkauften Geräten und einem Marktanteil von knapp 25 Prozent. Dahinter folgen HP und Dell auf den Plätzen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020.jpg" data-rel="lightbox-gallery-OyOHHwzA" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79349" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020.jpg" alt="PC-Verkäufe im vierten Quartal 2020" width="1129" height="659" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020.jpg 1129w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020-300x175.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020-1024x598.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020-768x448.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_q4_2020-643x375.jpg 643w" sizes="(max-width: 1129px) 100vw, 1129px" /></a></p>
+<p>Aufs Jahr 2020 gesehen bleiben die Anteile gleich verteilt, mit 72,6 bzw. 67,6 Millionen verkauften Einheiten führen Lenovo und HP den Markt an, über das gesamte Jahr hinweg gesehen hat Apple mit 29,1 Prozent das größte relative Wachstum hingelegt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020.jpg" data-rel="lightbox-gallery-OyOHHwzA" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79350" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020.jpg" alt="PC-Verkäufe im Jahr 2020" width="1220" height="656" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020.jpg 1220w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020-300x161.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020-1024x551.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020-768x413.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/pc_absatz_2020-643x346.jpg 643w" sizes="(max-width: 1220px) 100vw, 1220px" /></a></p>
+<p>In den Zahlen sind auch Chromebooks enthalten, deren Absätze laut IDC ebenfalls spürbar gestiegen sind. Mit insgesamt rund 9,5 Millionen Stück bleibt der Anteil am Gesamtmarkt aber vorerst weiter gering.</p>
+<p>Es hätte noch besser laufen können, schreibt IDC, hätten Notebook-Hersteller und Zulieferer nicht permanent mit knappen Komponenten zu kämpfen gehabt. Insofern ist es gut möglich, dass der Nachfrage-Stau noch nicht abgearbeitet ist und die positiven Auswirkungen bis weit ins Jahr 2021 spürbar bleiben.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lenovo ThinkPad X1 Titanium Yoga: Ist das noch ein ThinkPad?</title>
+		<link>https://www.drwindows.de/news/lenovo-thinkpad-x1-titanium-yoga-ist-das-noch-ein-thinkpad</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 12 Jan 2021 07:08:31 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79337</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Lenovo Thinkpad X1 Titanium" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn man wie ich schon ein paar Jahre in der IT auf dem Buckel hat, dann ist der Begriff ThinkPad untrennbar mit den praktisch unzerstörbaren schwarzen Laptops verbunden, die man nur dann wirklich als &#8222;mobil&#8220; bezeichnen konnte, wenn man körperlich fit war. Selbstverständlich sind diese Zeiten schon lange vorbei, spätestens mit dem ThinkPad X1 Carbon [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Lenovo Thinkpad X1 Titanium" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn man wie ich schon ein paar Jahre in der IT auf dem Buckel hat, dann ist der Begriff ThinkPad untrennbar mit den praktisch unzerstörbaren schwarzen Laptops verbunden, die man nur dann wirklich als &#8222;mobil&#8220; bezeichnen konnte, wenn man körperlich fit war.</p>
+<p>Selbstverständlich sind diese Zeiten schon lange vorbei, spätestens mit dem ThinkPad X1 Carbon hatte Lenovo bewiesen, dass Business-Laptops nicht langweilig sein müssen. Der in der Überschrift erwähnte Gedanke schoss mir dennoch durch den Kopf, als ich das neueste Modell gesehen habe: Anlässlich der CES hat Lenovo das ThinkPad X1 Titanium Yoga vorgestellt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03.jpg" data-rel="lightbox-gallery-FgslNzgR" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79340" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03.jpg" alt="Lenovo Thinkpad X1 Titanium" width="1100" height="119" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03.jpg 1100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03-300x32.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03-1024x111.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03-768x83.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_03-643x70.jpg 643w" sizes="(max-width: 1100px) 100vw, 1100px" /></a></p>
+<p>Wie man leicht sehen kann, ist es nicht schwarz, sondern, wie der Name schon sagt, titanfarben. Mit einer Bauhöhe von 11,5 Millimetern ist es außerdem das dünnste ThinkPad aller Zeiten. Das Gehäuse besteht aus Titan, Magnesium und Carbon, was zu einem Gesamtgewicht von ca. 1,15 Kg führt.</p>
+<p>Lenovo setzt außerdem auf das 3:2 Format, welches Microsoft mit der Surface-Reihe hoffähig gemacht hat und das sich für Geräte, die primär für die Arbeit verwendet werden, als das bessere Seitenverhältnis präsentiert (persönliche Meinung). Das 13,5 Zoll große Display bietet eine Auflösung von 2.256 mal 1.504 Pixel und eine maximale Helligkeit von 450 nits. Es unterstützt außerdem Dolby Vision.</p>
+<p>Wer die Produkte von Lenovo kennt, der weiß: &#8222;Yoga&#8220; steht für den Formfaktor der 360-Grad-Convertibles, der Bildschirm des ThinkPad X1 Titanium Yoga lässt sich also komplett nach hinten umklappen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02.jpg" data-rel="lightbox-gallery-FgslNzgR" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79339" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02.jpg" alt="Lenovo Thinkpad X1 Titanium" width="1100" height="640" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02.jpg 1100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02-300x175.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02-1024x596.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02-768x447.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lenovo_thinkpad_x1_titanium_yoga_02-643x374.jpg 643w" sizes="(max-width: 1100px) 100vw, 1100px" /></a></p>
+<p>Unter der Haube stecken beim ThinkPad X1 Titanium Yoga die Intel-CPUs der 11. Generation sowie bis zu 16 GB RAM und bis zu 1 TB SSD-Speicher. Die Preise starten bei 2.149 Euro, der Marktstart ist für Februar 2021 geplant.</p>
+<p>Weitere Ausstattungsmerkmale: Stifteingabe (im Lieferumfang), Windows Hello (Kamera und Fingerabdruck), Bluetooth 5.1, LTE oder 5G optional. Außerdem gibt es zwei Thunderbolt 4 Ports sowie einen Audio-Klinkenanschluss. Mit einer Akkuladung soll das ThinkPad X1 Titanium Yoga rund 11 Stunden durchhalten.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Xbox Wireless Controller in Pulse Red vorgestellt</title>
+		<link>https://www.drwindows.de/news/xbox-wireless-controller-in-pulse-red-vorgestellt</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 16:56:35 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79327</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red.png 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn du denkst, du hast wirklich genug Xbox Controller rumliegen, kommt Microsoft und stellt ein Modell in knallrot vor. &#8222;Pulse Red&#8220; heißt die neue Farbe, die ab dem 9. Februar 2021 lieferbar ist. Es handelt sich dabei selbstverständlich um die neue Generation des Xbox Wireless Controller, der mit der Xbox Series X und S ausgeliefert [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red.png 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_red-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn du denkst, du hast wirklich genug Xbox Controller rumliegen, kommt Microsoft und stellt ein Modell in knallrot vor. &#8222;Pulse Red&#8220; heißt die neue Farbe, die ab dem 9. Februar 2021 lieferbar ist. Es handelt sich dabei selbstverständlich um die neue Generation des Xbox Wireless Controller, der mit der Xbox Series X und S ausgeliefert wird und der mit seinen Neuerungen <a href="https://www.drwindows.de/news/der-neue-xbox-wireless-controller" target="_blank" rel="noopener">zu überzeugen</a> rot &#8211; äh, weiß. Diese Farbe macht mich ganz wuschig.</p>
+<p>Immerhin gibt mir Microsoft eine faire Chance &#8211; der Controller ist auf der <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.xbox.com%2Fde-de%2Faccessories%2Fcontrollers%2Fxbox-wireless-controller" target="_blank" rel="noopener">Produktseite</a> zwar schon gelistet, aber noch nicht bestellbar, ich muss also nicht gegen den Kaufimpuls ankämpfen. Wie die Varianten in weiß, schwarz und blau kostet auch der rote Controller 59,99 Euro.</p>
+<p>Ach komm, Einer geht noch. Ich hab ja erst acht Stück, darüber können andere Spieler sicher nur lachen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle.jpg" data-rel="lightbox-gallery-K481Zmks" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79329" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle.jpg" alt="Xbox Wireless Controller Pulse Red" width="1200" height="675" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_wireless_controller_pulse_red_lifestyle-643x362.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Statt Surface Pro 8: Microsoft bringt das Surface Pro 7+ mit LTE und austauschbarer SSD &#8211; Update</title>
+		<link>https://www.drwindows.de/news/statt-surface-pro-8-microsoft-bringt-das-surface-pro-7-mit-lte-und-austauschbarer-ssd</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 11 Jan 2021 16:23:19 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79263</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Man konnte in den letzten Wochen vermehrt Gerüchte lesen, dass Microsoft zu Jahresbeginn das Surface Pro 8 vorstellen wird. Daraus wird jedoch nichts, stattdessen hat man heute das Surface Pro 7+ enthüllt, das allerdings nur an Unternehmenskunden vermarktet wird. Kurios: Der Sprung vom Surface Pro 7 zum 7+ ist größer, als es der vom Pro [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Man konnte in den letzten Wochen vermehrt Gerüchte lesen, dass Microsoft zu Jahresbeginn das Surface Pro 8 vorstellen wird. Daraus wird jedoch nichts, stattdessen hat man heute das <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fsurface%2Fbusiness%2Fsurface-pro-7-plus" target="_blank" rel="noopener">Surface Pro 7+</a> enthüllt, das allerdings nur an Unternehmenskunden vermarktet wird.</p>
+<p>Kurios: Der Sprung vom Surface Pro 7 zum 7+ ist größer, als es der vom Pro 6 zum Pro 7 war: Neben Intel-CPUs der 11. Generation stecken im Surface Pro 7+ nämlich eine wechselbare SSD sowie optional ein LTE-Modul.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle.jpg" data-rel="lightbox-gallery-5t9VHeBJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79267" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle.jpg" alt="Surface Pro 7+" width="1500" height="1000" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle-300x200.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle-1024x683.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle-768x512.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_lifestyle-643x429.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Äußerlich verändert sich &#8211; man möchte schon beinahe &#8222;wie immer&#8220; sagen &#8211; rein gar nichts. Das Surface Pro 7+ steckt in dem Gehäuse, welches sich über Generationen hinweg nicht verändert hat. Trotzdem erkennt man das Surface Pro 7+ auf den ersten Blick, wenn man es sich von hinten anschaut: Dort findet man nämlich nun eine Wartungsklappe, hinter der die austauschbare SSD steckt.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd.jpg" data-rel="lightbox-gallery-5t9VHeBJ" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79268" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd.jpg" alt="Surface Pro 7+" width="1500" height="844" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_ssd-643x362.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Wie beim Surface Pro X und beim Surface Laptop 3 bedeutet &#8222;austauschbar&#8220; auch beim Surface Pro 7+: Vom Techniker, nicht vom Kunden. Microsoft verkauft die Wechsel-SSDs nicht separat, somit ist auch kein Speicher-Upgrade möglich.</p>
+<p>Bei den CPUs setzt man künftig auf die 11. Core-Generation von Intel, diese soll für mehr Leistung und gleichzeitig auch für längere Laufzeiten sorgen: Bis zu 15 Stunden beträgt die angegebene Betriebsdauer mit einer Akkuladung. Dank Fast Charging lässt sich der Akku in einer knappen Stunde auf 80 Prozent aufladen.</p>
+<p>Optional kann das Surface Pro 7+ mit einem LTE-Modul ausgestattet werden (nano SIM). 5G gibt es nicht, der Aufpreis fällt mit rund 180 Euro gegenüber dem Modell ohne LTE saftig aus.</p>
+<p>Beinahe überflüssig zu erwähnen: Sämtliches Zubehör wie die Type Cover oder der Surface Pen sind auch mit der neuen Generation kompatibel, deren technische Basisdaten unverändert sind. Es gibt also nach wie vor ein 12,3 Zoll Display mit einer Auflösung von 2.736 mal 1.824 Pixel, TPM 2.0, Bluetooth 5.0 und eine Windows Hello Kamera. Die Anschlüsse (USB-C, USB-A, Kopfhörer, Surface Connector) sind ebenfalls unverändert. Die Speichererweiterung per MicroSDXC ist weiterhin möglich.</p>
+<p>Das Surface Pro 7+ ist ab dem 15. Januar erhältlich, Vorbestellungen sind über den <strong><a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fstore%2Fb%2Fsurfaceforbusiness" target="_blank" rel="noopener">Microsoft Store</a></strong> sowie über autorisierte Reseller möglich. Auch wenn das Surface Pro 7+ offiziell nur für Geschäftskunden angeboten wird, ist es über den Microsoft Store frei bestellbar. Eine Überprüfung hat es in der Vergangenheit nicht gegeben, ich gehe davon aus, dass sich daran nichts ändert.</p>
+<div>
+<div>
+<div>
+<p>Nachfolgend die unterschiedlichen Versionen des Surface Pro 7+ nebst Preisen. Das Core i3 Modell markiert weiterhin den Einstieg, es kommt künftig aber mit 8 GB RAM (vormals 4 GB).</p>
+<p><strong>Surface Pro 7+: Varianten und Preise (inkl. MwSt.)</strong></p>
+<ul type="disc">
+<li>Intel Core i3-1115G4 / 8GB RAM / 128 GB SSD / Windows 10 Pro: 1.029 Euro</li>
+<li>Intel Core i5-1135G7 / 8 GB RAM / 128 GB SSD / Windows 10 Pro: 1.149 Euro</li>
+<li>Intel Core i5-1135G7 / 8 GB RAM / 256 GB SSD / Windows 10 Pro: 1.449 Euro</li>
+<li>Intel Core i5-1135G7 / 16 GB RAM /256 GB SSD / Windows 10 Pro: 1.679Euro</li>
+<li>Intel Core i7-1165G7 / 16 GB RAM / 256 GB SSD / Windows 10 Pro: 1.779Euro</li>
+<li>Intel Core i7-1165G7 / 16 GB RAM / 512 GB SSD / Windows 10 Pro: 2.219 Euro</li>
+<li>Intel Core i7-1165G7 / 16 GB RAM / 1 TB SSD / Windows 10 Pro: 2.699 Euro</li>
+<li>Intel Core i7-1165G7 / 32 GB RAM / 1 TB SSD / Windows 10 Pro: 3.149 Euro</li>
+</ul>
+<p><strong>Surface Pro 7+ mit LTE: Varianten und Preise (inkl. MwSt.)</strong></p>
+<ul type="disc">
+<li>Intel Core i5-1135G7 / 8GB RAM / 128GB SSD / Windows 10 Pro: 1.329 Euro</li>
+<li>Intel Core i5-1135G7 / 8 GB RAM / 256 GB SSD / Windows 10 Pro: 1.629 Euro</li>
+<li>Intel Core i5-1135G7 / 16 GB RAM / 256 GB SSD / Windows 10 Pro: 1.849 Euro</li>
+</ul>
+<p><strong>Surface Pro 7+ für Bildungseinrichtungen</strong></p>
+<ul type="disc">
+<li>Intel Core i5-1135G7 / 8GB RAM / 128GB SSD / Windows 10 Pro: 1.049Euro</li>
+</ul>
+<p><strong>Update:</strong> Preise hinzugefügt.</p>
+</div>
+</div>
+</div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
