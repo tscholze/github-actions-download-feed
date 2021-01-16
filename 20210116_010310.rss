@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Fri, 15 Jan 2021 19:51:35 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Chromium: Google schränkt Zugriff auf private Schnittstellen für andere Browser ein</title>
+		<link>https://www.drwindows.de/news/chromium-google-schraenkt-zugriff-auf-private-schnittstellen-fuer-andere-browser-ein</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 19:51:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79567</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn ihr mit einem alternativen Chromium-Browser unterwegs seid, der über keinen eigenen Sync wie Opera, Microsoft Edge, Vivaldi oder Brave verfügt, könntet ihr ab dem 15. März Probleme bekommen. Google hat bei einer eigenen Untersuchung festgestellt, dass alternative Browser von Drittanbietern unter Umständen in der Lage waren, diverse Funktionen wie den Chrome Sync in ihre [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn ihr mit einem alternativen Chromium-Browser unterwegs seid, der über keinen eigenen Sync wie Opera, Microsoft Edge, Vivaldi oder Brave verfügt, könntet ihr ab dem 15. März Probleme bekommen. Google hat bei einer eigenen Untersuchung festgestellt, dass alternative Browser von Drittanbietern unter Umständen in der Lage waren, diverse Funktionen wie den Chrome Sync in ihre eigenen Produkte zu integrieren, die sonst nur für Google Chrome vorgesehen waren. Die Nutzer konnten sich dort also mit ihrem Google-Account anmelden und Daten wie die Bookmarks synchronisieren.</p>
+<p>Der Zugriff auf die entsprechenden Schnittstellen wird Google nun ab Mitte März in Chromium einschränken. Nutzer, die bereits zuvor mit ihrem Google-Account in den Browsern eingeloggt waren, können lokal und über Googles Webplattform weiterhin auf ihre Daten zugreifen oder sie über Google Takeout herunterladen. Für Nutzer der anderen vier großen Chromium-Browser hat das aber keine Auswirkungen. Microsoft, Opera und Vivaldi haben eigene Sync-Dienste implementiert, während Brave einen komplett dezentralen Ansatz ohne Cloud verfolgt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Abgänge: Microsoft verliert zwei Führungskräfte &#8211; SAP greift wieder zu</title>
+		<link>https://www.drwindows.de/news/abgaenge-microsoft-verliert-zwei-langjaehrige-fuehrungskraefte-sap-greift-wieder-zu</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 19:26:14 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79558</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft muss sich wieder von zwei langjährigen Mitarbeitern verabschieden und SAP ist in einem Fall wieder der Nutznießer. Nachdem sich das deutsche Unternehmen im vergangenen Jahr bereits die Dienste von Sabine Bendiek, zuvor Chefin von Microsoft Deutschland, gesichert hat, stößt mit Julia White nun die bisherige Marketingchefin für Microsoft Azure, Servers und Developer Tools von [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft muss sich wieder von zwei langjährigen Mitarbeitern verabschieden und SAP ist in einem Fall wieder der Nutznießer. Nachdem sich das deutsche Unternehmen im vergangenen Jahr bereits die Dienste von <a href="https://news.sap.com/germany/2020/09/sabine-bendiek-vorstandsmitglied-personal-und-operations/">Sabine Bendiek</a>, zuvor Chefin von Microsoft Deutschland, gesichert hat, stößt mit Julia White nun die bisherige Marketingchefin für Microsoft Azure, Servers und Developer Tools von Microsoft direkt aus Redmond zum DAX-Konzern. Da gab White, die bei SAP ebenfalls den Posten der Marketingchefin übernehmen wird, selbst auf <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6755833029664632832/">LinkedIn</a> bekannt.</p>
+<p>Während White zuvor 20 Jahre lang für Microsoft gearbeitet hat, gab mit Brad Anderson früher in der Woche auch eine weitere Führungskraft ihren Abschied <a href="https://www.linkedin.com/posts/m365brad_the-17-years-i-have-been-at-microsoft-have-activity-6754464676656111616-GRES/">bekannt</a>. Anderson kam vor mehr als 17 Jahren von Novell zu Microsoft und war zuletzt als CVP für die Commercial Management Experiences zuständig. Er wechselt zu Qualtrics, wo er als President of Products and Services arbeiten wird. Qualtrics ist nebenbei eine größere Anlaufstelle für ehemalige Redmonder. Auch der aktuelle Unternehmenschef Zig Serafin, zuvor 17 Jahre bei Microsoft, und Julie Larson-Green, die zuvor als Chief Experience Officer bei Microsoft gearbeitet hat, sind Teil von Qualtrics geworden.</p>
+<p>Wer Julia White und Brad Anderson ersetzen wird, steht noch nicht fest. Microsoft zieht aber auch eine externe Lösung in Betracht.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Surface Pro 7+ ab heute bestellbar &#8211; for Business und for jedermann</title>
+		<link>https://www.drwindows.de/news/surface-pro-7-ab-heute-bestellbar-for-business-und-for-jedermann</link>
+					<comments>https://www.drwindows.de/news/surface-pro-7-ab-heute-bestellbar-for-business-und-for-jedermann#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 16:42:39 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79550</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das neue Surface Pro 7+ ist ab heute offiziell verfügbar. Die offizielle, vollständige Bezeichnung lautet &#8222;Surface Pro 7+ for Business&#8220;, weil Microsoft das neue Gerät aus Gründen, die sie nur selbst kennen, ausschließlich an Geschäftskunden vermarktet. Interessant ist das Gerät, weil im Vergleich zum &#8222;normalen&#8220; Surface Pro 7 aktuellere Prozessoren verbaut sind, nämlich die 11. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das neue Surface Pro 7+ ist ab heute offiziell verfügbar. Die offizielle, vollständige Bezeichnung lautet &#8222;Surface Pro 7+ for Business&#8220;, weil Microsoft das neue Gerät aus Gründen, die sie nur selbst kennen, ausschließlich an Geschäftskunden vermarktet.</p>
+<p>Interessant ist das Gerät, weil im Vergleich zum &#8222;normalen&#8220; Surface Pro 7 aktuellere Prozessoren verbaut sind, nämlich die 11. Generation der Intel Core-CPU. Ein &#8222;Plus&#8220; an Akkulaufzeit soll es ebenfalls geben: &#8222;Bis zu 15 Stunden&#8220; lautet die Herstellerangabe, das sind viereinhalb Stunden mehr als beim Surface Pro. Außerdem &#8211; und das ist beinahe die wichtigste Neuerung &#8211; gibt es das Surface Pro 7+ optional auch mit LTE-Modul.</p>
+<p>Die Bezeichnung &#8222;for Business&#8220; bezeichnet zwar die Zielgruppe, die sich Microsoft vorstellt, das bedeutet aber nicht, dass man das Gerät nicht frei kaufen kann.</p>
+<p>Im <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fsurface-pro-7-plus-for-business%2F8P43N3K93409%3Ficid%3DSurface_for_Business-CP1-Surface_Pro_7%2B_for_Business-01152021%26activetab%3Dpivot%253aoverviewtab" target="_blank" rel="noopener">Microsoft Store</a> (Affiliate Link) kann das Surface Pro 7+ for Business ganz regulär bestellt werden, es findet keinerlei Überprüfung statt, ob man es wirklich für geschäftliche Zwecke kauft.</p>
+<p>Alle Detailinfos findet ihr in unserer <a href="https://www.drwindows.de/news/statt-surface-pro-8-microsoft-bringt-das-surface-pro-7-mit-lte-und-austauschbarer-ssd" target="_blank" rel="noopener">Newsmeldung zum Surface Pro 7+</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-pro-7-ab-heute-bestellbar-for-business-und-for-jedermann/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bericht: Apple arbeitet an neuen Apps für Music und Podcasts für Windows 10</title>
+		<link>https://www.drwindows.de/news/bericht-apple-arbeitet-an-neuen-apps-fuer-music-und-podcasts-fuer-windows-10</link>
+					<comments>https://www.drwindows.de/news/bericht-apple-arbeitet-an-neuen-apps-fuer-music-und-podcasts-fuer-windows-10#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 16:25:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79545</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Verhältnis von Apple zur Entwicklung neuer Software für Windows hat sich in den vergangenen Jahren nach und nach geändert. Während mit dem Ende von Safari im Jahr 2012 und Quicktime im Jahr 2016 zunächst immer weniger in das Windows-Ökosystem investiert wurde und sich die hiesigen Nutzer immer noch mit dem altgedienten iTunes rumschlagen müssen, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Verhältnis von Apple zur Entwicklung neuer Software für Windows hat sich in den vergangenen Jahren nach und nach geändert. Während mit dem Ende von Safari im Jahr 2012 und Quicktime im Jahr 2016 zunächst immer weniger in das Windows-Ökosystem investiert wurde und sich die hiesigen Nutzer immer noch mit dem altgedienten iTunes rumschlagen müssen, tut sich seit einiger Zeit wieder mehr in die andere Richtung.</p>
+<p>Nachdem einige Dienste von iCloud bereits über das Web verfügbar waren, veröffentlichte Apple gemeinsam mit Microsoft eine neue Version von iCloud für Windows, die besser an Windows 10 angepasst wurde und exklusiv über den Microsoft Store verfügbar ist. Danach folgten die ProRes RAW Codecs, die zumindest im Zusammenspiel mit einigen Adobe-Produkten genutzt werden können, und eine erste Version der Programmiersprache Swift, mit der unter Windows zumindest sehr rudimentäre Arbeiten möglich sind. Zuletzt wurde im vergangenen November eine App für Apple TV nachgereicht, die zumindest auf der Xbox verfügbar ist.</p>
+<p>Glaubt man einem aktuellen Bericht, werden uns im laufenden Jahr zwei weitere Vertreter unter Windows erreichen. Wie die Kollegen von 9to5Mac berichten, sind die Arbeiten an neuen Apps für Apple Music und Apple Podcasts bereits im vollen Gange. Unklar ist, ob die beiden Neuzugänge auch für Windows 10 erscheinen oder wieder nur exklusiv für die Xbox veröffentlicht werden. Da es sich wie bei Apple TV aber um UWP-Apps handeln dürfte, wäre eine Veröffentlichung für beide Plattformen ohne weitere Probleme möglich.</p>
+<p>So oder so dürfte es für Apple das Wichtigste sein, seine neuen Abodienste zu einem möglichst großen Publikum zu bringen, wenn man von einzelnen Ausnahmen wie Apple Arcade derzeit einmal absieht. Außerdem bindet das alternde iTunes seit gut anderthalb bis zwei Jahren auch Ressourcen, die man zumindest teilweise mit neuen Apps für die eigenen Services vermeiden könnte. Man kann also gespannt sein, ob Apple TV auch noch für Windows 10 und welche Dienste sonst noch von Apple für Windows und Xbox kommen werden. Gerüchten zu neuen Diensten kamen zuletzt wieder auf.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bericht-apple-arbeitet-an-neuen-apps-fuer-music-und-podcasts-fuer-windows-10/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10X kurz angeschaut: Der erste Kontakt</title>
+		<link>https://www.drwindows.de/news/windows-10x-kurz-angeschaut-der-erste-kontakt</link>
+					<comments>https://www.drwindows.de/news/windows-10x-kurz-angeschaut-der-erste-kontakt#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 11:43:44 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79515</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Eine geleakte Version von Windows 10X kursiert im Internet. Mein offizieller Rat dazu lautet selbstverständlich &#8222;Finger weg&#8220;! Das ist eine inoffizielle, unfertige Testversion, die nicht mal ansatzweise zum Arbeiten geeignet ist. Der Nerd in mir kann aber selbstverständlich nicht anders, als sich das einfach mal anzuschauen. Wie schon in der gestrigen Meldung zu Windows 10X [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Eine geleakte Version von Windows 10X kursiert im Internet. Mein offizieller Rat dazu lautet selbstverständlich &#8222;Finger weg&#8220;! Das ist eine inoffizielle, unfertige Testversion, die nicht mal ansatzweise zum Arbeiten geeignet ist. Der Nerd in mir kann aber selbstverständlich nicht anders, als sich das einfach mal anzuschauen.</p>
+<p>Wie schon in der gestrigen <a href="https://www.drwindows.de/news/windows-10x-video-von-geleakter-version-bestaetigt-alle-geruechte" target="_blank" rel="noopener">Meldung zu Windows 10X</a> thematisiert, halte ich die Namenswahl für unglücklich, aber wir werden noch viel Zeit haben, das zu diskutieren.</p>
+<p>Ich selbst werde versuchen, mich Windows 10X so unbefangen wie möglich zu nähern, immer mit dem Hintergedanken: Das ist kein System für Windows-Nutzer. Klingt seltsam, ist aber so.</p>
+<p>Vor allen Dingen zum jetzigen Zeitpunkt, wo Microsoft noch nicht einmal erklärt hat, was sie mit Windows 10X eigentlich vorhaben, schaue ich mir das einfach nur mit Neugier und völlig wertfrei an.</p>
+<h3>Das Setup</h3>
+<p>Das Setup sieht aus wie eine modernisierte Version der bekannten Dialoge von Windows 10. Weil es genau das ist. Ich gehe fest davon aus, dass wir diese Optik in diesem Jahr auch beim &#8222;normalen&#8220; Windows 10 sehen werden.</p>
+
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_01.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_02.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_03.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_03-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_04.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_04-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_05.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_05-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_06.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_06-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_07.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_07-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+
+<p>Nach erfolgreicher Einrichtung landet man auf dem Desktop, der allerdings keiner ist. Seine einzige Funktion ist die Anzeige des Hintergrunds, man kann hier keine Verknüpfungen ablegen. Weil das eine Gemeinsamkeit mit Chrome OS ist, kann ich es an dieser Stelle gleich klar zum Ausdruck bringen. Windows 10X ist ein reinrassiger Nachbau von Chrome OS im Windows-Look, Microsoft macht sich gar nicht erst die Mühe, das zu verheimlichen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop.jpg" data-rel="lightbox-gallery-p90rqAD9" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79526" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop.jpg" alt="Windows 10X Desktop" width="1280" height="960" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-643x482.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Der Start-Button öffnet den Launcher, der mehrere Reihen von Apps anzeigt, darüber befindet sich ein Suchfeld. Das wurde ebenfalls 1:1 vom Vorbild übernommen. Aus früheren Screenshots und auch vom Surface Neo kennen wir diese Optik ja bereits.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher.jpg" data-rel="lightbox-gallery-p90rqAD9" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79527" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher.jpg" alt="" width="1280" height="960" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-643x482.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Über das Kontextmenü einer App kann diese an die Taskleiste angeheftet werden, außerdem kann man sie deinstallieren oder die Einstellungen aufrufen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue.jpg" data-rel="lightbox-gallery-p90rqAD9" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79528" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue.jpg" alt="Windows 10X Launcher Kontextmenue" width="703" height="408" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue.jpg 703w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue-300x174.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue-643x373.jpg 643w" sizes="(max-width: 703px) 100vw, 703px" /></a></p>
+<p>Die vorinstallierten Apps entsprechen denen, die wir aus Windows 10 kennen. Die Mail- und Kalender-App ist bereits nicht mehr dabei, was auf ihre bevorstehende Einstellung hinweist, aber auch das ist ja keine neue Information mehr.</p>
+<p>Geöffnete Programme öffnen sich im Vollbild, einen Fenstermodus gibt es nicht. Man kann aber zwei Programme nebeneinander &#8222;snappen&#8220;, wie man das noch aus Zeiten von Windows 8 kennt. Die einzige Installationsquelle für Software ist derzeit der Store, der aber in der geleakten Version nicht zuverlässig funktioniert. Ich denke nicht, dass das so bleibt, denn wenn man Windows 10X an Unternehmen und/oder Bildungseinrichten vermarkten will, dann muss man auch eine Möglichkeit schaffen, mit den vertrauten Administrations-Werkzeugen Software auf diese Geräte zu bringen.</p>
+<p>Ein Klick auf das kleine Symbol unten rechts öffnet das &#8222;Action Center&#8220;. Auch da werden Nutzer von Chrome OS sofort sagen: Huch, das kenne ich doch. Zur Veranschaulichung habe ich mal zwei Screenshots von Windows 10X und Chrome OS hier eingefügt. Oben die Kopie, unten das Original.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center.jpg" data-rel="lightbox-gallery-p90rqAD9" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79529" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center.jpg" alt="Windows 10X Action Center" width="1280" height="960" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-643x482.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter.jpg" data-rel="lightbox-gallery-p90rqAD9" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-36741" src="https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter.jpg" alt="Chrome OS Infocenter" width="1500" height="844" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-643x362.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Die Mission scheint also klar: Windows 10X soll die Nutzer von Chrome OS fernhalten. Es nachzubauen, wird nicht genügen, man muss schon ein bisschen mehr bieten. Vor diesem Hintergrund scheint nun auch das Gerücht, dass Microsoft den Windows 10 Store für Android Apps öffnen wird, wieder ein bisschen realistischer, auch wenn man es diesbezüglich auch in hundert Jahren nicht mit dem Original wird aufnehmen können.</p>
+<p>Aber ich habe mir geschworen, nicht zu werten, zumindest jetzt noch nicht. Auch wenn Windows 10X dem Vernehmen nach so gut wie fertig ist, kann Microsoft für die offizielle Präsentation vielleicht noch ein paar Überraschungen parat haben.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10x-kurz-angeschaut-der-erste-kontakt/feed</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams: Ein erster Blick auf die neue Verlaufs-Funktion</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-ein-erster-blick-auf-die-neue-verlaufs-funktion</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-ein-erster-blick-auf-die-neue-verlaufs-funktion#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 09:28:24 +0000</pubDate>
+				<category><![CDATA[Microsoft Teams]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79505</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft Teams erhält in Kürze eine neue Funktion mit dem Namen &#8222;History&#8220;. Sie ermöglicht das, was man seit Jahren aus dem Webbrowser kennt: Man kann mit einem Klick zu einem Ort zurückkehren, den man zuvor innerhalb von Teams aufgesucht hat. Das kann ein persönlicher Chat, ein Kanal, ein Kontakt, ein Dokument oder was auch immer [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft Teams erhält in Kürze eine neue Funktion mit dem Namen &#8222;History&#8220;. Sie ermöglicht das, was man seit Jahren aus dem Webbrowser kennt: Man kann mit einem Klick zu einem Ort zurückkehren, den man zuvor innerhalb von Teams aufgesucht hat. Das kann ein persönlicher Chat, ein Kanal, ein Kontakt, ein Dokument oder was auch immer sein.</p>
+<p>Diesen Verlauf speichert Teams schon heute, mit den kleinen Pfeilen oben links im Fenster des Desktop-Client kann man vorwärts und rückwärts durch vergangene Aktivitäten blättern. Wirklich neu ist also lediglich, dass dieser Verlauf nun sichtbar gemacht wird und man direkt zu einem bestimmten Punkt springen kann.</p>
+<p>Die Einführung dieser neuen Funktion ist für Februar 2021 geplant.</p>
+<p>So wird das dann aussehen:</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_teams_verlauf.png" data-rel="lightbox-gallery-BaAEl4MP" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79506" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_teams_verlauf.png" alt="Verlauf in Microsoft Teams" width="345" height="454" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_teams_verlauf.png 345w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_teams_verlauf-228x300.png 228w" sizes="(max-width: 345px) 100vw, 345px" /></a></p>
+<p>Sobald man mit der Maus auf einen der beiden Pfeile zeigt, öffnet sich der Verlauf und listet die zuletzt besuchten Orte auf. Man kann durch diese Liste blättern und auf den passenden Eintrag klicken und so direkt zu dem Punkt springen, wo man weiterarbeiten möchte.</p>
+<p>Vor allen Dingen in großen Teams stelle ich mir das sehr nützlich vor. Wir verwenden Teams bei Dr. Windows ebenfalls für die interne Kommunikation, und obwohl wir eine überschaubare Organisation sind, verlaufe ich mich manchmal. Da wird mir der Verlauf in Zukunft sicherlich eine Hilfe sein.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-ein-erster-blick-auf-die-neue-verlaufs-funktion/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Samsung Galaxy S21 Serie: Auf der Suche nach der neuen Vernunft</title>
+		<link>https://www.drwindows.de/news/samsung-galaxy-s21-serie-auf-der-suche-nach-der-neuen-vernunft</link>
+					<comments>https://www.drwindows.de/news/samsung-galaxy-s21-serie-auf-der-suche-nach-der-neuen-vernunft#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 14 Jan 2021 15:00:23 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79476</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung Galaxy S21 Serie" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Stell dir vor, du bist der Hersteller eines Geräts und dennoch der Letzte, der darüber spricht. So erging es Samsung einmal mehr mit seinen Smartphones der S21-Serie, die heute ganz offiziell enthüllt wurde. Außerdem geht mit den Galaxy Buds Pro die neueste In-Ear-Generation an den Start. Ein Geheimnis war nichts mehr von alldem. Spezifikationen, Bilder, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung Galaxy S21 Serie" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_titelbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Stell dir vor, du bist der Hersteller eines Geräts und dennoch der Letzte, der darüber spricht. So erging es Samsung einmal mehr mit seinen Smartphones der S21-Serie, die heute ganz offiziell enthüllt wurde. Außerdem geht mit den Galaxy Buds Pro die neueste In-Ear-Generation an den Start.</p>
+<p>Ein Geheimnis war nichts mehr von alldem. Spezifikationen, Bilder, Preise, ja selbst die Pressemitteilung &#8211; restlos alle Informationen machten bereits im Vorfeld die Runde.</p>
+<p>Ich habe in letzter Zeit keinen Hehl daraus gemacht, dass mich die Gerätekategorie Smartphone zunehmend langweilt. Es gibt hier keine besonderen Neuerungen mehr, so manche &#8222;Innovation&#8220; wird außerdem nur der Veränderung wegen eingeführt. Mein Lieblingsbeispiel sind in diesem Zusammenhang immer wieder die Fingerabdrucksensoren im Display, die in jeder Hinsicht eine Verschlechterung gegenüber den Sensoren im Gehäuse sind.</p>
+<p>Als Samsung im letzten Jahr beim S20 Ultra einen Kamera-Turm auf die Rückseite stellte, war für mich klar, dass die Dinge endgültig außer Kontrolle geraten sind.</p>
+<p>Die S21-Serie zeigt mir allerdings, dass es noch Hoffnung gibt. Samsung hat zumindest eine deutlich elegantere Design-Lösung für die immer noch sehr mächtige Kamera gefunden und sendet auch an anderer Stelle Signale der Vernunft. Ich habe angesichts der nach wie vor saftigen Preise dennoch mit mir gehadert, ob ich das so in die Überschrift schreiben kann.</p>
+<p>Samsung packt weder ein Ladegerät noch ein Headset in die Verpackung. Wenn das mit Nachhaltigkeit begründet wird, dann klingt das vernünftig, ist aber gleichzeitig verdächtig &#8211; wahrscheinlich will der Hersteller einfach nur sparen. Das stimmt, der Kunde spart allerdings mit: Das Samsung S21 Ultra ist in der Basisversion 100 Euro günstiger als das Vorjahresmodell, beim Topmodell sind es 120 Euro. Das S21 mit 128 GB Speicher kostet sogar 150 Euro weniger als die 5G-Version des S20 vom letzten Jahr.</p>
+<p>5G ist beim S21 übrigens Standard. Und wo wir gerade über Speicher reden: Dieser ist nicht mehr erweiterbar. Die S21-Modelle bieten zwar Dual SIM, unterstützen aber keine microSD-Karten mehr. Ich habe seit Jahren keine Speicherkarte mehr verwendet, es wird aber sicher Kunden geben, für die das ein schmerzhafter Einschnitt oder gar ein No-Go ist.</p>
+<p>In allen Geräten der S21-Serie steckt der dieser Tage vorgestellte Exynos 2100, der die vergleichsweise schwache Leistung der hauseigenen Samsung-Chips der letzten Jahre vergessen machen soll. Unter anderem deshalb, weil man sich bei Samsung vom eigenen Chipdesign verabschiedet und auf das ARM-Referenzmodell setzt. In diesem Punkt scheint man also ebenfalls zur Vernunft gekommen zu sein.</p>
+<p>Kommen wir zu den einzelnen Modellen. Wie gewohnt gibt es ein S21, ein S21+ und ein S21 Ultra, die sich in Displaygröße, Kamera-Ausstattung, Akkukapazität und einigen weiteren Details unterscheiden.</p>
+<ul>
+<li>Galaxy S21: 6,2 Zoll, 2.400x.1080 Pixel, 4.000 mAh Akku, 3fach-Hauptkamera mit 64/12/12 MP</li>
+<li>Galaxy S21+: 6,7 Zoll, 2.400&#215;1.080 Pixel, 4.800 mAh Akku, 3fach-Hauptkamera mit 64/12/12 MP</li>
+<li>Galaxy S21 Ultra: 6,8 Zoll, 3.200&#215;1.440 Pixel, 5.000 mAh Akku, 4fach-Hauptkamera mit 108/12/10/10 MP</li>
+</ul>
+<p>Wer alles ganz genau wissen möchte &#8211; nachfolgend die Datenblätter:</p>
+<ul>
+<li><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Produktdetails_Galaxy_S21_5G.pdf">Produktdetails_Galaxy_S21_5G</a></li>
+<li><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Produktdetails_Galaxy_S21_5G-1.pdf">Produktdetails_Galaxy_S21+_5G</a></li>
+<li><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Produktdetails_Galaxy_S21_Ultra_5G.pdf">Produktdetails_Galaxy_S21_Ultra_5G</a></li>
+</ul>
+<p>Den von mir vielgescholtenen Fingerabdrucksensor unter dem Display will Samsung enorm verbessert haben. Er ist deutlich größer und entsprechend leichter zu treffen, gleichzeitig soll er schneller und zuverlässiger sein. Ich bin gespannt.</p>
+<p>Bei der Microsoft-Integration bleibt alles beim Alten, anders als bei den letztjährigen Modellen gibt es keine neuen Funktionen, die exklusiv an das neue Gerät gebunden sind.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21.jpg" data-rel="lightbox-gallery-F3tEQoyd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79479" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21.jpg" alt="Samsung Galaxy S21" width="1500" height="821" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21-300x164.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21-1024x560.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21-768x420.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21-643x352.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a><br />
+Das Samsung S21 in den Farbvarianten Phantom Gray, Phantom White, Phantom Pink und Phantom Violet. Weitere Farben wie Phantom Red und Phantom Gold gibt es exklusiv im Samsung Shop.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus.jpg" data-rel="lightbox-gallery-F3tEQoyd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79480" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus.jpg" alt="Samsung S21 Plus" width="1500" height="854" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus-300x171.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus-1024x583.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus-768x437.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_plus-643x366.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Das Samsung Galaxy S21+ in den Farbvarianten Phantom Black, Phantom Violet und Phantom Silver. Weitere Farben wie Phantom Red und Phantom Gold gibt es exklusiv im Samsung Shop.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra.jpg" data-rel="lightbox-gallery-F3tEQoyd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79481" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra.jpg" alt="Samsung S21 Ultra" width="1500" height="989" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra-300x198.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra-1024x675.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra-768x506.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra-643x424.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Das Samsung Galaxy S21 Ultra in Phantom Black. Die zweite Farbe ist Phantom Silver, exklusiv im Samsung-Shop bekommt man es außerdem noch in Phantom Titanium,<br />
+Phantom Navy und Phantom Brown.</p>
+<p>Der S Pen ist selbstverständlich nicht nur zufällig auf dem Bild. Er lässt sich tatsächlich mit dem S21 Ultra verwenden, muss aber separat erworben werden. Da er sich nicht im Gehäuse versenken lässt, bietet Samsung eine Hülle an, in welcher der S Pen für den Transport untergebracht werden kann.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen.jpg" data-rel="lightbox-gallery-F3tEQoyd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79497" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen.jpg" alt="Samsung Galaxy S21 Ultra mit S Pen" width="1500" height="1000" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen-300x200.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen-1024x683.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen-768x512.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_s21_ultra_pen-643x429.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Damit kommen wir zur Verfügbarkeit und zu den Preisen: Die neuen Geräte kommen am 29. Januar auf den Markt, Vorbestellungen werden ab sofort angenommen. Vorbesteller von S21 und S21+ erhalten die Galaxy Buds Live und den Galaxy SmartTag gratis dazu, zum S21 Ultra gibt es die Galaxy Buds Pro und den SmartTag.</p>
+<p>Die Preise:</p>
+<ul>
+<li>Galaxy S21 5G mit 128 GB und 8 GB RAM:  849 Euro</li>
+<li>Galaxy S21 5G mit 256 GB und 8 GB RAM:  899 Euro</li>
+<li>Galaxy S21+ 5G mit 128 GB und 8 GB RAM: 1049 Euro</li>
+<li>Galaxy S21+ 5G mit 256 GB und 8 GB RAM: 1099 Euro</li>
+<li>Galaxy S21 Ultra 5G mit 128 GB und 12 GB RAM: 1.249 Euro</li>
+<li>Galaxy S21 Ultra 5G mit 256 GB und 12 GB RAM: 1.299 Euro</li>
+<li>Galaxy S21 Ultra 5G mit 512 GB und 16 GB RAM: 1.429 Euro</li>
+</ul>
+<h3>Samsung Galaxy Buds Pro</h3>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro.jpg" data-rel="lightbox-gallery-F3tEQoyd" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79498" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro.jpg" alt="Samsung Galaxy Buds Pro" width="1500" height="1020" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro-300x204.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro-1024x696.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro-768x522.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/samsung_galaxy_buds_pro-643x437.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Mit den Galaxy Buds Pro präsentiert Samsung heute außerdem die neueste Generation seiner drahtlosen Kopfhörer. Für bestmöglichen Sound hat Samsung einen 11mm-Tieftöner und einen 6,5mm-Hochtöner im Gehäuse untergebracht. Die intelligente aktive Geräuschunterdrückung soll außerdem bis zu 99 der Hintergrundgeräusche ausfiltern können.</p>
+<p>Die Galaxy Buds Pro sollen außerdem auf bestimmte Situationen reagieren. Sobald der Träger zu sprechen beginnt, wird beispielsweise die Lautstärke reduziert, sodass man ein Gespräch beginnen kann, ohne am Smartphone oder an den Ohrstöpseln herumfingern zu müssen.</p>
+<p>Mit IPX7 bieten die Galaxy Buds Pro außerdem die bisher höchste Wasserdichtigkeit unter den Galaxy Buds. Samsung verspricht eine Akkulaufzeit von bis zu 18 Stunden.</p>
+<p>Auch die Galaxy Buds Pro erscheinen am 29. Januar und können ab sofort zum Preis von 229 Euro vorbestellt werden. Die verfügbaren Farboptionen sind Phantom Black, Phantom Silver und Phantom Violet.</p>
+<ul>
+<li><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Produktdetails_Galaxy_Buds_Pro.pdf">Produktdetails_Galaxy_Buds_Pro</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/samsung-galaxy-s21-serie-auf-der-suche-nach-der-neuen-vernunft/feed</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Streit um Microsoft 365 an Baden-Württembergs Schulen</title>
+		<link>https://www.drwindows.de/news/streit-um-microsoft-365-in-baden-wuerttembergs-schulen</link>
+					<comments>https://www.drwindows.de/news/streit-um-microsoft-365-in-baden-wuerttembergs-schulen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 14 Jan 2021 11:20:59 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79472</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft 365" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wir können alles. Außer Hochdeutsch. Das ist der preisgekrönte Slogan meines Heimat-Bundeslandes Baden-Württemberg. Es gibt aber noch etwas, das wir nicht können: Digitalisierung im Bildungswesen. Das fällt allerdings weniger auf, denn das kann in Deutschland auch sonst niemand. Nicht einmal die Corona-Krise konnte diesen Prozess wirksam beschleunigen. Statt sich nach dem ersten Lockdown zu überlegen, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft 365" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-365-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wir können alles. Außer Hochdeutsch. Das ist der preisgekrönte Slogan meines Heimat-Bundeslandes Baden-Württemberg. Es gibt aber noch etwas, das wir nicht können: Digitalisierung im Bildungswesen. Das fällt allerdings weniger auf, denn das kann in Deutschland auch sonst niemand.</p>
+<p>Nicht einmal die Corona-Krise konnte diesen Prozess wirksam beschleunigen. Statt sich nach dem ersten Lockdown zu überlegen, wie man eine sinnvolle Strategie entwickeln und digitales Lernen zu einem festen Baustein werden lassen könnte, freute man sich im Sommer, dass es vorbei ist &#8211; um im Herbst ungebremst wieder vor die Wand zu fahren. Die Antwort der Schulen auf die zweite Welle war: &#8222;Fenster auf und durch&#8220;.</p>
+<p>In Baden-Württemberg will man nun endlich viel mehr digital erledigen und die Antwort des Kultusministeriums darauf lautet: Microsoft 365. Das aber wiederum schmeckt weder dem Landeselternbeirat noch der Gewerkschaft Erziehung und Wissenschaft. Auch die Stuttgarter Gruppe des Chaos Computer Club hat sich kritisch zu Wort gemeldet. Sie alle fürchten um den Datenschutz, sorgen sich um eine zu starke Abhängigkeit von Microsoft und fordern stattdessen den Einsatz von Open Source Lösungen wie beispielsweise der Lernplattform Moodle. Auch Bigbluebutton für Videokonferenzen, LibreOffice oder Nextcloud stehen auf der Liste der alternativen Technologien, welche die Gegner von Microsoft 365 viel lieber im schulischen Einsatz sehen würden.</p>
+<p>Das Kultusministerium hält allerdings an seiner Strategie fest und sagt unter anderem, man sei davon überzeugt, Microsoft würde sich &#8222;große Mühe geben, Datenschutzkonformität herzustellen.&#8220;</p>
+<p>Ich finde diese Auseinandersetzung sehr wichtig, es ist aber unfassbar bedauerlich, dass sie jetzt stattfinden muss. Darum hätte man sich schon vor Jahren kümmern müssen, stattdessen wird jetzt gestritten, während die Bugwelle des ausgefallenen Unterrichtsstoffs immer höher wird. Das ist für mich die eigentliche Katastrophe an dieser Geschichte.</p>
+<p>Die &#8222;Angst&#8220; vor Microsoft halte ich einerseits für übertrieben. Gleichzeitig kritisiere ich unser Kultusministerium aber dafür, dass sie mit Microsoft 365 den einfachen Weg gehen wollen, denn damit wird die Verantwortung erfolgreich auf ein externes Unternehmen abgewälzt. Im Zweifel kann man also sagen &#8222;dafür können wir nichts, das war Microsoft&#8220;. Mit dem Einsatz von Open Source ist dagegen nicht nur mehr Selbstbestimmung, sondern gleichzeitig auch ein deutlich höheres Maß an Selbstverantwortung verbunden. Davor darf man keine Angst haben.</p>
+<p>via <a href="https://www.golem.de/news/baden-wuerttemberg-breites-buendnis-gegen-microsoft-schulcloud-2101-153363.html" target="_blank" rel="noopener">Golem</a> und <a href="https://www.heise.de/news/Streit-um-Einsatz-von-Microsoft-Produkten-im-Digitalunterricht-5023299.html" target="_blank" rel="noopener">heise</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/streit-um-microsoft-365-in-baden-wuerttembergs-schulen/feed</wfw:commentRss>
+			<slash:comments>35</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10X: Video von geleakter Version bestätigt alle Gerüchte</title>
+		<link>https://www.drwindows.de/news/windows-10x-video-von-geleakter-version-bestaetigt-alle-geruechte</link>
+					<comments>https://www.drwindows.de/news/windows-10x-video-von-geleakter-version-bestaetigt-alle-geruechte#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 14 Jan 2021 10:07:23 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79468</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Irgendwann im Frühjahr wird Microsoft Windows 10X veröffentlichen &#8211; so jedenfalls besagen es zahlreiche Gerüchte. Windows 10X wird man nicht kaufen können, es wird nur in Verbindung mit neuen Geräten vertrieben. Zielgruppe sollen vornehmlich Businesskunden sowie der Bildungsbereich. Das sind aber wie gesagt noch alles Vermutungen. Alle Gerüchte hinsichtlich dessen, was Windows 10X ist, was [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Irgendwann im Frühjahr wird Microsoft Windows 10X veröffentlichen &#8211; so jedenfalls besagen es zahlreiche Gerüchte. Windows 10X wird man nicht kaufen können, es wird nur in Verbindung mit neuen Geräten vertrieben. Zielgruppe sollen vornehmlich Businesskunden sowie der Bildungsbereich. Das sind aber wie gesagt noch alles Vermutungen.</p>
+<p>Alle Gerüchte hinsichtlich dessen, was Windows 10X ist, was es kann (und was nicht), scheinen sich nun durch eine geleakte Version zu bestätigen, die bereits im Netz die Runde macht: Windows 10X wird eine Art Chrome OS im Windows-Look, und leider gibt Microsoft dem neuen Produkt von Anfang an wieder die größtmögliche Hypothek mit: Windows 10X ist nämlich nicht für Windows-Nutzer gedacht, der Name ist irreführend.</p>
+<p>&#8222;Windows&#8220; ist ein Desktop-Betriebssystem für Win32-Applikationen. Das ist es seit Jahrzehnten und wird es auch bleiben. Alle Versuche von Microsoft, diese Geschichte neu zu schreiben oder zu erweitern, haben in den letzten Jahren nur dazu geführt, dass sich diese Erkenntnis noch verstärkt hat. Es gibt links und rechts davon noch ein paar Technologien, für Windows selbst sind diese aber bedeutungslos. Ein Produkt auf den Markt zu bringen, das Windows heißt, aber genau das nicht kann, was Windows ausmacht, nämlich Win32-Applikationen ausführen, ist im Grunde Selbstmord. Daraus hat Microsoft offenbar aber noch immer nichts gelernt und startet mit Windows 10X einen neuen Versuch, ein Nicht-Windows als Windows zu verkaufen.</p>
+<p>Das ist deshalb so bedauerlich, weil es uns so ein bisschen die Möglichkeit nimmt, uns völlig unvoreingenommen mit dem neuen Produkt zu beschäftigen und sich zu überlegen, wo und für wen es denn sinnvoll sein könnte. Stattdessen wird Windows 10X auch in den Medien immer den Zusatz des &#8222;abgespeckten&#8220; und &#8222;kastrierten&#8220; Systems mit sich herumtragen. Schade.</p>
+<p>Nun endlich zu besagtem Video: Es zeigt, dass Windows 10X in der Tat keine Win32-Applikationen unterstützt und mit einer minimalistischen und aufgeräumten Oberfläche daherkommt. Den von Icons überfluteten Infobereich rechts unten gibt es nicht mehr, das Startmenü und die Taskleiste sind in die Mitte gewandert und wurden ebenfalls stark simplifiziert. Programme können ausschließlich im Vollbild gestartet werden, man kann aber zwei Programme nebeneinander &#8222;snappen&#8220; &#8211; Windows 8 lässt grüßen.</p>
+<p><iframe title="Hands-on with Windows 10X for single-screen PCs" width="500" height="281" src="https://www.youtube.com/embed/EPirgHua2sE?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Wenn ich das mit Chrome OS vergleiche &#8211; und das ist der einzige Vergleich, den man ziehen sollte &#8211; dann gefällt mir das sogar ausgesprochen gut. Ich werde sicher damit herumspielen und dabei versuchen, die katastrophale Namenswahl für dieses neue System zu ignorieren. Ich bin sehr gespannt, welche Marketing-Story Microsoft dazu erzählen wird. Windows 10X ist das System von Microsoft für alle, die kein Windows brauchen oder wollen &#8211; viel Spaß bei dem Versuch, das richtig zu verkaufen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10x-video-von-geleakter-version-bestaetigt-alle-geruechte/feed</wfw:commentRss>
+			<slash:comments>46</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Forms: Microsoft kündigt zahlreiche neue Funktionen für den Januar an</title>
+		<link>https://www.drwindows.de/news/forms-microsoft-kuendigt-neue-funktionen-fuer-den-januar-an</link>
+					<comments>https://www.drwindows.de/news/forms-microsoft-kuendigt-neue-funktionen-fuer-den-januar-an#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 13 Jan 2021 19:51:04 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79461</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Forms" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft hat für seinen Umfragedienst Forms einige neue Funktionen angekündigt, die noch in diesem Monat an alle Nutzer verteilt werden sollen. Neu sind dabei auch visuelle Überarbeitungen, denn die Redmonder führen eine neue Homepage ein, die neben dem Desktop auch für die mobilen Browser besser optimiert wurde. Außerdem wurde die Kapazität für Umfragen in anderen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Forms" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/10/microsoft_forms-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft hat für seinen Umfragedienst Forms einige neue Funktionen angekündigt, die noch in diesem Monat an alle Nutzer verteilt werden sollen. Neu sind dabei auch visuelle Überarbeitungen, denn die Redmonder führen eine neue Homepage ein, die neben dem Desktop auch für die mobilen Browser besser optimiert wurde. Außerdem wurde die Kapazität für Umfragen in anderen Apps von Microsoft 365 von 200 auf 400 Elemente verdoppelt, wenn die Umfragen ab diesem Monat erstellt wurden.</p>
+<p>Der Immersive Reader steht nun auch für anonyme Nutzer zur Verfügung. Zudem kann der Text in Umfragen nun formattiert werden und die Nutzer bekommen die Möglichkeit, ihre Antworten auf Umfragen auszudrucken oder herunter zu laden. Neu ist zudem, dass man den Personenkreis, der auf die Umfrage antworten kann, auch weiter einschränken kann. Nähere Informationen findet ihr dazu im verlinkten Blogpost, Microsoft Forms selbst steht neben Unternehmenskunden auch dem klassischen Consumer zur Verfügung und kann über die Office-Oberfläche aufgerufen werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/forms-microsoft-kuendigt-neue-funktionen-fuer-den-januar-an/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
