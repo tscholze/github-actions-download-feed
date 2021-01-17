@@ -1,0 +1,361 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Sun, 17 Jan 2021 09:05:25 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>iOS Rundschau KW 2/21 mit Office Suite und Yammer</title>
+		<link>https://www.drwindows.de/news/ios-rundschau-kw-2-21-mit-office-suite-und-yamme</link>
+		
+		<dc:creator><![CDATA[Alex Lüttgen]]></dc:creator>
+		<pubDate>Sun, 17 Jan 2021 09:05:10 +0000</pubDate>
+				<category><![CDATA[Microsoft auf iOS]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79584</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wir sind erst in der Mitte des Januars und doch scheint das Jahr schon wieder in vollen Schritten angelaufen zu sein. So scheint es auch im Hause Microsoft gesehen zu werden, sodass es nach drei sehr stillen Wochen gleich so richtig rund ging. Die einstigen Core-Applikationen der Office Suite wurden in die Iteration 2.45 geschickt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wir sind erst in der Mitte des Januars und doch scheint das Jahr schon wieder in vollen Schritten angelaufen zu sein.</p>
+<p>So scheint es auch im Hause Microsoft gesehen zu werden, sodass es nach drei sehr stillen Wochen gleich so richtig rund ging. Die einstigen Core-Applikationen der Office Suite wurden in die Iteration 2.45 geschickt und zumindest Excel, PowerPoint und Word haben gleich auch neue Funktionen dabei spendiert bekommen. Zusätzlich wurden neue Funktionen in OneDrive, Power BI und sogar eine komplett neue Major Version von Yammer released, die Community-Administratoren deutlich bessere Verwaltungsmöglichkeiten an die Hand gibt.</p>
+<p>Weiter wurden ganze 12 Apps mit Wartungsupdates versehen.</p>
+<p>&nbsp;</p>
+<p><strong>Microsoft Excel</strong> &#8211; <em>Version 2.45</em><br />
+Arbeiten mit mehreren Tabellenblättern gleichzeitig: Excel kann zwei oder mehr Tabellenblätter nebeneinander öffnen, damit Sie diese anzeigen und bearbeiten können. Dieses Feature ist für Benutzer mit iOS13 oder höher verfügbar.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 586683407) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-excel/id586683407" title="‎Microsoft Excel">‎Microsoft Excel (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft OneDrive</strong> &#8211; <em>Version 12.13.1</em><br />
+Mit Textanmerkung können Sie jetzt Apple Pencil verwenden, um überall zu schreiben und Scribble in typisierten Text konvertiert zu verwenden.</p>
+<p>Anmerkungen mit koreanischen Zeichen verschwanden zeitweise aus dem PDF-Dokument. Dieses Problem ist nun behoben.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 477537958) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onedrive/id477537958" title="‎Microsoft OneDrive">‎Microsoft OneDrive (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft Power BI</strong> &#8211; <em>Version 22.1</em><br />
+Ab sofort können Sie auswählen, wie das Power BI-App-Symbol auf Ihrem Startbildschirm angezeigt wird. Wechseln Sie in den App-Darstellungseigenschaften zwischen einem weißen und einem schwarzen Hintergrund.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 929738808) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-power-bi/id929738808" title="‎Microsoft Power BI">‎Microsoft Power BI (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft PowerPoint</strong> &#8211; <em>Version 2.45</em><br />
+Üben Sie Ihre Präsentation mit Presenter Coach: Erhalten Sie Feedback zu den Dingen, die dazu beitragen, das Publikum zu motivieren – wie Tempo, Tonhöhe, Füllwörter, sensible Phrasen und mehr.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 586449534) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-powerpoint/id586449534" title="‎Microsoft PowerPoint">‎Microsoft PowerPoint (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft Word</strong> &#8211; <em>Version 2.45</em><br />
+Unterstützung der Benutzeroberflächen-Textinteraktion: Verwenden Sie das Trackpad der brandneuen magischen Tastatur, um mit Ihrem Dokument zu interagieren.</p>
+<p>Verwendung eines Zeigegeräts: Schließen Sie ein Trackpad oder eine Maus an Ihr iPad an, um eine weitere Möglichkeit zum interagieren mit Word zu haben.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 586447913) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-word/id586447913" title="‎Microsoft Word">‎Microsoft Word (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Yammer</strong> &#8211; <em>Version 8.0.0</em><br />
+Neues Jahr, neue Version!<br />
+Wir haben in dieser Version die Community-Verwaltungsfunktionen erweitert. Zusätzlich zum Hinzufügen von Mitgliedern können Community-Administratoren Mitglieder entfernen, auf Administratoren höherstufen und die Rolle ihres Administrators widerrufen.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 289559439) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/yammer/id289559439" title="‎Yammer">‎Yammer (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p>&nbsp;</p>
+<h3>Wartungs- und Bugfix-Updates</h3>
+<p><!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 288429040) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/linkedin-business-netzwerk/id288429040" title="‎LinkedIn: Business-Netzwerk">‎LinkedIn: Business-Netzwerk (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 979729863) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-advertising/id979729863" title="‎Microsoft Advertising">‎Microsoft Advertising (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1288723196) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-edge/id1288723196" title="‎Microsoft Edge">‎Microsoft Edge (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1489209093) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-family-safety/id1489209093" title="‎Microsoft Family Safety">‎Microsoft Family Safety (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 945416273) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-news-nachrichten/id945416273" title="‎Microsoft News – Nachrichten">‎Microsoft News – Nachrichten (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 541164041) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-office/id541164041" title="‎Microsoft Office">‎Microsoft Office (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 410395246) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onenote/id410395246" title="‎Microsoft OneNote">‎Microsoft OneNote (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 951937596) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-outlook/id951937596" title="‎Microsoft Outlook">‎Microsoft Outlook (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1091505266) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-sharepoint/id1091505266" title="‎Microsoft SharePoint">‎Microsoft SharePoint (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1212616790) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-to-do/id1212616790" title="‎Microsoft To Do">‎Microsoft To Do (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1352499399) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-whiteboard/id1352499399" title="‎Microsoft Whiteboard">‎Microsoft Whiteboard (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1047318566) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/power-apps/id1047318566" title="‎Power Apps">‎Power Apps (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p>&nbsp;</p>
+<p>In dieser <a href="https://www.drwindows.de/microsoft-apps-und-dienste-auf-ios/126849-allgemeine-informationen-ios-rundschau.html"><span class="s1">Liste</span></a> stehen alle Microsoft Apps für iOS, die in den iOS-Rundschauen auf Updates überprüft werden. Falls ihr uns Hinweise zu App-Updates senden möchtet, könnt ihr sie gerne an iOSRundschau(at)drwindows.de senden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>#rTsd &#8211; Road to Surface Duo, das Entwicklertagebuch, Teil 11: Das Feuer brennt wieder</title>
+		<link>https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-11-das-feuer-brennt-wieder</link>
+					<comments>https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-11-das-feuer-brennt-wieder#comments</comments>
+		
+		<dc:creator><![CDATA[Tobias Scholze]]></dc:creator>
+		<pubDate>Sun, 17 Jan 2021 09:00:59 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79216</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="The Road to Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Neues Jahr, neues Glück. Mit dem Jahreswechsel ist seitens Microsofts nun auch wieder Feuer unter das erste Surface Smartphone gekommen. So wurden beispielsweise nicht nur die offiziellen Surface Duo SDK Beispiele (GitHub) aktualisiert und eine neue Version von Xamarin.Forms ist erschienen, sondern es steht auch zusätzlich noch die langerwartete Markteinführung in Deutschland kurz bevor. Somit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="The Road to Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Neues Jahr, neues Glück. Mit dem Jahreswechsel ist seitens Microsofts nun auch wieder Feuer unter das erste Surface Smartphone gekommen. So wurden beispielsweise nicht nur die offiziellen Surface Duo SDK Beispiele (<a href="https://github.com/microsoft/surface-duo-sdk-xamarin-samples" target="_blank" rel="noopener">GitHub</a>) aktualisiert und eine neue Version von Xamarin.Forms ist erschienen, sondern es steht auch zusätzlich noch die langerwartete Markteinführung in Deutschland kurz bevor. Somit habe ich mich entschlossen, auch selbst wieder an unserer Road To Surface Duo App (<a href="https://github.com/tscholze/xamarin-road-to-surface-duo" target="_blank" rel="noopener">GitHub</a>) Hand anzulegen. Was es sonst noch Neues rund um das Duo aus Redmond gibt und wie wir unsere App weiterentwickeln können, erfahrt ihr im elften Teil des Dr. Windows #rTsd Entwicklertagebuches.</p>
+<p>Für alle, denen diese Artikelreihe noch unbekannt ist – das habt ihr bislang verpasst, könnt euch aber natürlich nachträglich einlesen:</p>
+<ul>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-1" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 1</a> (Idee und Motivation)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/road-to-surface-duo-das-entwicklertagebuch-teil-2" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 2</a> (Erste Schritte)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-3" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 3</a> (Fragen und Antworten)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-4" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 4</a> (Service und Navigation)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-5" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 5</a> (Aufräumarbeiten)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-6-sdk-und-emulator" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 6</a> (Surface Duo Emulator)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-7-auf-dem-weg-zum-play-store" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 7</a> (Auf dem Weg zum PlayStore)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/erste-beta-version-unserer-rtsd-app-ist-nun-zum-testen-bereit-entwicklertagebuch-teil-8" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 8</a> (Die erste Beta Version!)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-9-abwarten" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 9</a> (Wartung ist das halbe Leben)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-10-die-krux-kein-testgeraet-zu-haben">Road To Surface Duo, das Entwicklertagebuch: Teil 10</a> (Die Krux kein)</li>
+<li>#rTsd &#8211; (aktuell) Road to Surface Duo, das Entwicklertagebuch 11: (Das Feuer brennt wieder)</li>
+</ul>
+<h2>Man fühlte sich verlassen</h2>
+<p>Bei aller Vorfreude auf das Microsoft Surface Duo muss ich zugegeben, dass ich mich in den letzten Monaten bisschen verlassen und verloren gefühlt habe, wenn ich über das Gerät an sich und um die Entwicklung für eben dieses gesprochen habe.</p>
+<p>Die Surface Duo TechNet Community ist leider immer noch sehr still. Das Interesse, sich mit diesem Thema zu beschäftigen, ist anscheinend auch in den unterschiedlichen Reddit Foren recht gering.</p>
+<p>Für Dr. Windows geplante Beiträge wie beispielsweise &#8222;Diese Apps sind ideal für dein Surface Duo&#8220; fielen in Ermangelung angepasster oder gar auf zwei Bildschirme spezialisierter Apps wie unserer #rTsd aus, zumindest konnte ich weder Customer Success Stories noch Microsoft-offizielle Listen dafür finden. Als Weihnachtsgeschenk hat mir der <a href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/639607" target="_blank" rel="noopener">TechNet Community Benutzer Jim Liddle</a> allerdings einen Link zu einer <a href="https://madbadgadgets.com/2020/12/13/an-in-depth-surface-duo-review-three-months-on/" target="_blank" rel="noopener">spannenden Sammlung von Surface Duo-fähigen Applikationen zukommen lassen.</a></p>
+<h2>Microsoft stellt Figma Surface Duo Design Kit bereit</h2>
+<p>Kurz zur Erklärung: Figma ist ein Mitglied der vektorbasierten UX-, UI- und Prototyping-Werkzeugfamlie und steht neben kostenpflichten Versionen auch in einer kostenfreien Variante zur Verfügung, um Oberflächen, Typographien, Farbpaletten und mehr zu erstellen, zu präsentieren und Entwicklern zugänglich zu machen. Alternativen beziehungsweise Mitbewerber in diesem Segment sind beispielsweise Adobe XD oder Sketch. Letzteres ist nur auf macOS erhältlich.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47.png" data-rel="lightbox-gallery-ItaqlAtv" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-79217 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47.png" alt="Surface Duo Design Kit" width="818" height="1142" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47.png 818w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-215x300.png 215w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-733x1024.png 733w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-768x1072.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-643x898.png 643w" sizes="(max-width: 818px) 100vw, 818px" /></a></p>
+<p><strong>Ausführliche Erklärungen mit Beispielen</strong></p>
+<p><a href="https://www.figma.com/community/file/925222050648034066" target="_blank" rel="noopener">Microsoft hat nun auf diesem Dienst eine Mappe</a> mit allerhand tiefgreifenden Informationen bezüglich der Gestaltung von Applikationen für das Surface Duo bereitgestellt.</p>
+<p>So gibt dieses Dokument Auskunft über die Safe Areas des Duo, also in welchen Bereichen eine App sich nicht zeichnen sollte, es zeigt etliche Beispiele für Do’s und Don&#8217;ts an, wie man mit den verschiedenen Layouts einer App speziell auf dem Surface Smartphone umgehen sollte und erklärt ebenso die verschiedenen Postures &#8211; also die Scharnierwinkel des Gerätes – und wie man diese am besten in seinem Programm verwenden kann.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung.png" data-rel="lightbox-gallery-ItaqlAtv" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-79218 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung.png" alt="Surface Duo Design Kit" width="937" height="430" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung.png 937w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung-300x138.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung-768x352.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung-643x295.png 643w" sizes="(max-width: 937px) 100vw, 937px" /></a></p>
+<p><strong>Kostenfrei verfügbar</strong></p>
+<p><a href="https://www.figma.com/community/file/925222050648034066" target="_blank" rel="noopener">Das Surface Duo Figma Design Kit</a> ist für jeden kostenlos einsehbar und mit einem ebenso kostenfreien Figma Account könnt ihr so leicht und an die entsprechenden Guidelines haltenden Apps euch gestalten.</p>
+<h2>Die Zukunft der #rTsd App</h2>
+<p>Dies alles lässt mich wieder zuversichtlicher in die Zukunft meiner Hobbyentwicklungen für das Duo blicken. Somit habe ich auch wieder Lust, mehr als nur Aktualisierungen der Abhängigkeiten bei der #rTsd App durchzuführen.</p>
+<p><strong>Was gemacht werden muss</strong></p>
+<p>In der Pflege von Software gibt es immer wieder Aufgaben, welche einem wenig Spaß machen, jedoch gemacht werden müssen. Hier macht auch eine Wochenend-App wie diese keine Ausnahme.</p>
+<p>Darunter fällt zum Beispiel das Update der Basis auf das kürzlich erschienene neue <a href="https://docs.microsoft.com/de-de/xamarin/xamarin-forms/" target="_blank" rel="noopener">Xamarin.Forms 5</a> oder ein Funktionstest auf einer neuen Version des Android Betriebssystems.</p>
+<p><strong>Aber was sonst?</strong></p>
+<p>Die Frage ist nur was? Sollte ich das Aussehen der App weg von einer sehr eigenen Designsprache hin zu <a href="https://docs.microsoft.com/de-de/windows/apps/fluent-design-system">Fluent Design</a> bringen, wie es im Figma Kit beschrieben ist? Was mache ich, durch das Wegfallen des verwenden Webservices, mit dem nicht mehr funktionierenden Twitter-Feature?</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo.png" data-rel="lightbox-gallery-ItaqlAtv" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-60993" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo.png" alt="Dr Windows Road To Surface Duo Emulator" width="748" height="500" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo.png 748w, https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo-300x201.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo-643x430.png 643w" sizes="(max-width: 748px) 100vw, 748px" /></a></p>
+<p><strong>Was wünscht ihr euch? </strong></p>
+<p>Typisch für den Jahresstart wünscht man sich etwas für das neue Jahr. Was würdet ihr gerne in unserer Surface Duo App sehen? Welches Design gefällt euch besser? Bitte behaltet im Hinterkopf, dass diese nicht ein Nachfolger der offiziellen Dr. Windows Apps werden soll, welche wir eingestellt haben, sondern ein Projekt mit Spaß an der Softwareentwicklung.</p>
+<h2>Auch im Jahr 2021 ist aktive Mitarbeit erwünscht</h2>
+<p>All diese Punkte, angefangen vom Xamarin.Forms Update auf Version 5 und auch die eventuell veränderte Oberfläche bieten viele Möglichkeiten, mit in die Entwickler der Dr. Windows Road To Surface Duo App einzusteigen.</p>
+<p>Wer nun Lust bekommen hat, sei es als Ideengeber:in, Gestalter:in oder Entwickler:in, kann sich sehr gerne in den Kommentaren melden, mailt mir an <a href="mailto:tobias@drwindows.de">tobias@drwindows.de</a> oder erstellt beziehungsweise schnappt sich gleich ein <a href="https://github.com/tscholze/xamarin-road-to-surface-duo/issues/">Issue auf GitHub</a>, wo der komplette Quelltext der App liegt.</p>
+<p>Wer die App auf einem Android-Telefon einmal ausprobieren möchte, der kann die etwas angestaubte, jedoch zumindest nach meinen Tests noch funktionierende  <a href="https://play.google.com/store/apps/details?id=io.github.tscholze.rtsd&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Betaversion aus dem Google PlayStore</a> laden. Wer die Kenntnisse hat, kann sie auch einfach via Visual Studio selbst im Emulator oder auf dem eigenen Testgerät kompilieren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-11-das-feuer-brennt-wieder/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox läutet das neue Jahr mit einem Line-Up Überblick für 2021 ein</title>
+		<link>https://www.drwindows.de/news/xbox-laeutet-das-neue-jahr-mit-einem-line-up-ueberblick-fuer-2021-ein</link>
+					<comments>https://www.drwindows.de/news/xbox-laeutet-das-neue-jahr-mit-einem-line-up-ueberblick-fuer-2021-ein#comments</comments>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2021 21:22:41 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79599</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach den Weihnachts-und Neujahrsferien läuft die Marketing Maschinerie langsam wieder an und Xbox eröffnet das Jahr mit einem News-Blog Artikel, der aufzeigt, worauf wir uns im Jahr 2021 exklusiv freuen können. Will Tuttle, Chief-Editor von Xbox Wire, dem Xbox News Segment, verfasste einen Artikel, in dem er alle Titel einmal auflistete. Wer sich die Mühe [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach den Weihnachts-und Neujahrsferien läuft die Marketing Maschinerie langsam wieder an und Xbox eröffnet das Jahr mit einem News-Blog Artikel, der aufzeigt, worauf wir uns im Jahr 2021 exklusiv freuen können.</p>
+<p>Will Tuttle, Chief-Editor von Xbox Wire, dem Xbox News Segment, <a href="https://news.xbox.com/en-us/2021/01/15/2021-xbox-exclusive-games/" target="_blank" rel="noopener">verfasste einen Artikel, in dem er alle Titel einmal auflistete.</a></p>
+<p>Wer sich die Mühe macht, alle Spiele einmal aufzuzählen, kommt dabei auf schlanke 28 Spiele.<br />
+Die Frage ist sicherlich, wie der Begriff „Exklusiv“ angesehen wird. Spiele wie Halo Infinite werden dabei natürlich die &#8222;exklusivste&#8220; Form auf Xbox Konsole und Windows 10 PC sein.</p>
+<p>Anderen Titeln wiederum werden sicherlich nur Zeit-Exklusiv der Konsolen-Exklusiv sein.</p>
+<p>Diese Konsolen-Exklusivität lässt sich auch noch weiter fassen, denn der Microsoft Flight Simulator wird als einer der ersten Titel nur für Xbox Series S|X verfügbar sein und die Xbox One|S|X hinter sich lassen.<br />
+Da der Flug Simulator bereits auf dem PC ein Ressourcen Monster ist, war dies wohl unvermeidbar.</p>
+<p>Ich habe zusätzlich meine Xbox PR-Kontakte bemüht und versucht zu erfahren, ob alle diese exklusiven Titel auch als Day One im Xbox Game Pass verfügbar sein werden.</p>
+<p>Antwort: &#8222;Nothing to comment at this time.&#8220; Das war zu erwarten, aber ich gehe fest davon aus, dass Titel der Microsoft Studios wie zuvor beim Xbox Games Showcase im Juli angekündigt, als Day One am Release Tag verfügbar sind.</p>
+<p>Ich persönlich freue mich, neben Halo als Flagship der Xbox-Marke, auf die kleineren Titel wie zum Beispiel Psychonauts 2, das vom legendären Tim Schafer erschaffen und vom Multitalent Jack Black vertont wird.</p>
+<p>Auch ist Tunic ein besonderes Spiel, das 2018 als Ein-Mann Entwicklung auf der E3 gezeigt wurde und auf der Gamescom 2018 bereits anspielbar war. Für mich persönlich eine wunderbare Hommage an Zelda – A Link to the Past auf Super Nintendo.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">✈️ Microsoft Flight Simulator <br />🌀 Psychonauts 2<br />⚔️ RPG Time<br />🗿Sable<br />🍃 The Wild at Heart<br />🍆 Scorn<br />💭 She Dreams Elsewhere<br />❄️ Shredders<br />🏰 Song of Iron<br />🦊 Tunic<br />🏔Unexplored 2: The Wayfarer’s Legacy<br />🔨 Warhammer 40K: Darktide<br />🌳 Way to the Woods</p>
+<p>&mdash; Samuel Bateman (@samuelofc) <a href="https://twitter.com/samuelofc/status/1350190802182561792?ref_src=twsrc%5Etfw">January 15, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Ein weiteres kleines Highlight ist, dass Ende Januar die ehemals Playstation-exklusive Yakuza Remastered Edition und im März Yakuza 6 in den Xbox Game Pass kommen und so alle Yakuza Teile von 0 bis 6 verfügbar sein werden.</p>
+<p>Auf welche Spiele freut Ihr euch am meisten?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-laeutet-das-neue-jahr-mit-einem-line-up-ueberblick-fuer-2021-ein/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Apple M1: Microsoft weitet Verfügbarkeit von Edge auf den Dev und Beta Channel aus</title>
+		<link>https://www.drwindows.de/news/apple-m1-microsoft-weitet-verfuegbarkeit-von-edge-auf-den-dev-und-beta-channel-aus</link>
+					<comments>https://www.drwindows.de/news/apple-m1-microsoft-weitet-verfuegbarkeit-von-edge-auf-den-dev-und-beta-channel-aus#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2021 11:21:23 +0000</pubDate>
+				<category><![CDATA[Microsoft auf MacOS]]></category>
+		<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79596</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Beta" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Wenn ihr Microsoft Edge auf einem Gerät mit dem neuen M1-Prozessor von Apple Silicon verwendet, müsst ihr ab sofort nicht mehr zwingend auf den Canary Channel zurückgreifen. Wie das Team hinter Microsofts Webbrowser auf Twitter verkündet hat, stehen nun auch die Versionen im Dev und Beta Channel nativ für entsprechende Geräte wie den [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Beta" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_beta-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Wenn ihr Microsoft Edge auf einem Gerät mit dem neuen M1-Prozessor von Apple Silicon verwendet, müsst ihr ab sofort nicht mehr zwingend auf den Canary Channel zurückgreifen. Wie das Team hinter Microsofts Webbrowser auf Twitter verkündet hat, stehen nun auch die Versionen im Dev und Beta Channel nativ für entsprechende Geräte wie den aktuellsten Mac Mini zur Verfügung.</p>
+<p>Interessierte können sich die entsprechende Version also ab sofort von der Edge Insider-Seite herunterladen. Wann Microsoft Edge auch in der stabilen Version für Apple Silicon erscheint, ist noch nicht bekannt.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Starting today, you can download your Microsoft Edge Insider channel of choice with native macOS ARM64 support! Head to our Insider website to download Canary, Dev, or Beta to see how it runs, and let us know what you think. 💪 <a href="https://t.co/GkOtE8JaCi">https://t.co/GkOtE8JaCi</a> <a href="https://t.co/4XGdzcE31d">https://t.co/4XGdzcE31d</a></p>
+<p>&mdash; Microsoft Edge Dev (@MSEdgeDev) <a href="https://twitter.com/MSEdgeDev/status/1350205277660995585?ref_src=twsrc%5Etfw">January 15, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/apple-m1-microsoft-weitet-verfuegbarkeit-von-edge-auf-den-dev-und-beta-channel-aus/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox: Microsoft testet neuen Updateprozess im Insider Program</title>
+		<link>https://www.drwindows.de/news/xbox-microsoft-testet-neuen-updateprozess-im-insider-program</link>
+					<comments>https://www.drwindows.de/news/xbox-microsoft-testet-neuen-updateprozess-im-insider-program#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2021 11:14:50 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79592</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Weiterentwicklung des Betriebssystems auf der Xbox soll agiler werden und neue Features schneller an die Nutzer ausliefern. Aus diesem Grund testet Microsoft seit gestern mit einem kleinen Teil der Omega-User im Xbox Insider Program einen neuen Updateprozess, der bestimmte Komponenten wie die Shell und die Einstellungen ohne ein vollständiges Update des gesamten Betriebssystems aktualisieren [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Weiterentwicklung des Betriebssystems auf der Xbox soll agiler werden und neue Features schneller an die Nutzer ausliefern. Aus diesem Grund testet Microsoft seit gestern mit einem kleinen Teil der Omega-User im Xbox Insider Program einen neuen Updateprozess, der bestimmte Komponenten wie die Shell und die Einstellungen ohne ein vollständiges Update des gesamten Betriebssystems aktualisieren kann. Das gab Brad Rossetti vom Xbox-Team auf Twitter bekannt.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Xbox Insiders &#8211; A subset of Omega Users will get a new build at 6.00pm today that updates some settings.  We are flighting a new build process in which we can flight new system experiences like Shell/settings/guide without a full system build (aka platform fixes) &#8211; agile!</p>
+<p>&mdash; Brad Rossetti (@WorkWombatman) <a href="https://twitter.com/WorkWombatman/status/1350214091583975426?ref_src=twsrc%5Etfw">January 15, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Falls euch das schon von Windows 10 her bekannt vorkommen sollte, liegt ihr damit auch nicht ganz falsch. Letztlich funktioniert das Ganze ähnlich wie das Windows Feature Experience Pack, was uns bereits neue Funktionen wie Meet Now zwischen den einzelnen Windows-Funktionsupdates gebracht hat. Nun sollen auch die Xbox-Nutzer von der gleichen Technologie profitieren. Wann sie aber für alle ausgerollt wird, steht noch nicht fest.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-microsoft-testet-neuen-updateprozess-im-insider-program/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Chromium: Google schränkt Zugriff auf private Schnittstellen für andere Browser ein</title>
+		<link>https://www.drwindows.de/news/chromium-google-schraenkt-zugriff-auf-private-schnittstellen-fuer-andere-browser-ein</link>
+					<comments>https://www.drwindows.de/news/chromium-google-schraenkt-zugriff-auf-private-schnittstellen-fuer-andere-browser-ein#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 19:51:35 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79567</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn ihr mit einem alternativen Chromium-Browser unterwegs seid, der über keinen eigenen Sync wie Opera, Microsoft Edge, Vivaldi oder Brave verfügt, könntet ihr ab dem 15. März Probleme bekommen. Google hat bei einer eigenen Untersuchung festgestellt, dass alternative Browser von Drittanbietern unter Umständen in der Lage waren, diverse Funktionen wie den Chrome Sync in ihre [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Google Chrome" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Chrome-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn ihr mit einem alternativen Chromium-Browser unterwegs seid, der über keinen eigenen Sync wie Opera, Microsoft Edge, Vivaldi oder Brave verfügt, könntet ihr ab dem 15. März Probleme bekommen. Google hat bei einer eigenen Untersuchung festgestellt, dass alternative Browser von Drittanbietern unter Umständen in der Lage waren, diverse Funktionen wie den Chrome Sync in ihre eigenen Produkte zu integrieren, die sonst nur für Google Chrome vorgesehen waren. Die Nutzer konnten sich dort also mit ihrem Google-Account anmelden und Daten wie die Bookmarks synchronisieren.</p>
+<p>Der Zugriff auf die entsprechenden Schnittstellen wird Google nun ab Mitte März in Chromium einschränken. Nutzer, die bereits zuvor mit ihrem Google-Account in den Browsern eingeloggt waren, können lokal und über Googles Webplattform weiterhin auf ihre Daten zugreifen oder sie über Google Takeout herunterladen. Für Nutzer der anderen vier großen Chromium-Browser hat das aber keine Auswirkungen. Microsoft, Opera und Vivaldi haben eigene Sync-Dienste implementiert, während Brave einen komplett dezentralen Ansatz ohne Cloud verfolgt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/chromium-google-schraenkt-zugriff-auf-private-schnittstellen-fuer-andere-browser-ein/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Abgänge: Microsoft verliert zwei Führungskräfte &#8211; SAP greift wieder zu</title>
+		<link>https://www.drwindows.de/news/abgaenge-microsoft-verliert-zwei-langjaehrige-fuehrungskraefte-sap-greift-wieder-zu</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 19:26:14 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79558</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft muss sich wieder von zwei langjährigen Mitarbeitern verabschieden und SAP ist in einem Fall wieder der Nutznießer. Nachdem sich das deutsche Unternehmen im vergangenen Jahr bereits die Dienste von Sabine Bendiek, zuvor Chefin von Microsoft Deutschland, gesichert hat, stößt mit Julia White nun die bisherige Marketingchefin für Microsoft Azure, Servers und Developer Tools von [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft muss sich wieder von zwei langjährigen Mitarbeitern verabschieden und SAP ist in einem Fall wieder der Nutznießer. Nachdem sich das deutsche Unternehmen im vergangenen Jahr bereits die Dienste von <a href="https://news.sap.com/germany/2020/09/sabine-bendiek-vorstandsmitglied-personal-und-operations/">Sabine Bendiek</a>, zuvor Chefin von Microsoft Deutschland, gesichert hat, stößt mit Julia White nun die bisherige Marketingchefin für Microsoft Azure, Servers und Developer Tools von Microsoft direkt aus Redmond zum DAX-Konzern. Da gab White, die bei SAP ebenfalls den Posten der Marketingchefin übernehmen wird, selbst auf <a href="https://www.linkedin.com/feed/update/urn%3Ali%3Aactivity%3A6755833029664632832/">LinkedIn</a> bekannt.</p>
+<p>Während White zuvor 20 Jahre lang für Microsoft gearbeitet hat, gab mit Brad Anderson früher in der Woche auch eine weitere Führungskraft ihren Abschied <a href="https://www.linkedin.com/posts/m365brad_the-17-years-i-have-been-at-microsoft-have-activity-6754464676656111616-GRES/">bekannt</a>. Anderson kam vor mehr als 17 Jahren von Novell zu Microsoft und war zuletzt als CVP für die Commercial Management Experiences zuständig. Er wechselt zu Qualtrics, wo er als President of Products and Services arbeiten wird. Qualtrics ist nebenbei eine größere Anlaufstelle für ehemalige Redmonder. Auch der aktuelle Unternehmenschef Zig Serafin, zuvor 17 Jahre bei Microsoft, und Julie Larson-Green, die zuvor als Chief Experience Officer bei Microsoft gearbeitet hat, sind Teil von Qualtrics geworden.</p>
+<p>Wer Julia White und Brad Anderson ersetzen wird, steht noch nicht fest. Microsoft zieht aber auch eine externe Lösung in Betracht.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Surface Pro 7+ ab heute bestellbar &#8211; for Business und for jedermann</title>
+		<link>https://www.drwindows.de/news/surface-pro-7-ab-heute-bestellbar-for-business-und-for-jedermann</link>
+					<comments>https://www.drwindows.de/news/surface-pro-7-ab-heute-bestellbar-for-business-und-for-jedermann#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 16:42:39 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79550</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das neue Surface Pro 7+ ist ab heute offiziell verfügbar. Die offizielle, vollständige Bezeichnung lautet &#8222;Surface Pro 7+ for Business&#8220;, weil Microsoft das neue Gerät aus Gründen, die sie nur selbst kennen, ausschließlich an Geschäftskunden vermarktet. Interessant ist das Gerät, weil im Vergleich zum &#8222;normalen&#8220; Surface Pro 7 aktuellere Prozessoren verbaut sind, nämlich die 11. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das neue Surface Pro 7+ ist ab heute offiziell verfügbar. Die offizielle, vollständige Bezeichnung lautet &#8222;Surface Pro 7+ for Business&#8220;, weil Microsoft das neue Gerät aus Gründen, die sie nur selbst kennen, ausschließlich an Geschäftskunden vermarktet.</p>
+<p>Interessant ist das Gerät, weil im Vergleich zum &#8222;normalen&#8220; Surface Pro 7 aktuellere Prozessoren verbaut sind, nämlich die 11. Generation der Intel Core-CPU. Ein &#8222;Plus&#8220; an Akkulaufzeit soll es ebenfalls geben: &#8222;Bis zu 15 Stunden&#8220; lautet die Herstellerangabe, das sind viereinhalb Stunden mehr als beim Surface Pro. Außerdem &#8211; und das ist beinahe die wichtigste Neuerung &#8211; gibt es das Surface Pro 7+ optional auch mit LTE-Modul.</p>
+<p>Die Bezeichnung &#8222;for Business&#8220; bezeichnet zwar die Zielgruppe, die sich Microsoft vorstellt, das bedeutet aber nicht, dass man das Gerät nicht frei kaufen kann.</p>
+<p>Im <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fsurface-pro-7-plus-for-business%2F8P43N3K93409%3Ficid%3DSurface_for_Business-CP1-Surface_Pro_7%2B_for_Business-01152021%26activetab%3Dpivot%253aoverviewtab" target="_blank" rel="noopener">Microsoft Store</a> (Affiliate Link) kann das Surface Pro 7+ for Business ganz regulär bestellt werden, es findet keinerlei Überprüfung statt, ob man es wirklich für geschäftliche Zwecke kauft.</p>
+<p>Alle Detailinfos findet ihr in unserer <a href="https://www.drwindows.de/news/statt-surface-pro-8-microsoft-bringt-das-surface-pro-7-mit-lte-und-austauschbarer-ssd" target="_blank" rel="noopener">Newsmeldung zum Surface Pro 7+</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-pro-7-ab-heute-bestellbar-for-business-und-for-jedermann/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bericht: Apple arbeitet an neuen Apps für Music und Podcasts für Windows 10</title>
+		<link>https://www.drwindows.de/news/bericht-apple-arbeitet-an-neuen-apps-fuer-music-und-podcasts-fuer-windows-10</link>
+					<comments>https://www.drwindows.de/news/bericht-apple-arbeitet-an-neuen-apps-fuer-music-und-podcasts-fuer-windows-10#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 16:25:07 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79545</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Verhältnis von Apple zur Entwicklung neuer Software für Windows hat sich in den vergangenen Jahren nach und nach geändert. Während mit dem Ende von Safari im Jahr 2012 und Quicktime im Jahr 2016 zunächst immer weniger in das Windows-Ökosystem investiert wurde und sich die hiesigen Nutzer immer noch mit dem altgedienten iTunes rumschlagen müssen, [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Apple-News-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Verhältnis von Apple zur Entwicklung neuer Software für Windows hat sich in den vergangenen Jahren nach und nach geändert. Während mit dem Ende von Safari im Jahr 2012 und Quicktime im Jahr 2016 zunächst immer weniger in das Windows-Ökosystem investiert wurde und sich die hiesigen Nutzer immer noch mit dem altgedienten iTunes rumschlagen müssen, tut sich seit einiger Zeit wieder mehr in die andere Richtung.</p>
+<p>Nachdem einige Dienste von iCloud bereits über das Web verfügbar waren, veröffentlichte Apple gemeinsam mit Microsoft eine neue Version von iCloud für Windows, die besser an Windows 10 angepasst wurde und exklusiv über den Microsoft Store verfügbar ist. Danach folgten die ProRes RAW Codecs, die zumindest im Zusammenspiel mit einigen Adobe-Produkten genutzt werden können, und eine erste Version der Programmiersprache Swift, mit der unter Windows zumindest sehr rudimentäre Arbeiten möglich sind. Zuletzt wurde im vergangenen November eine App für Apple TV nachgereicht, die zumindest auf der Xbox verfügbar ist.</p>
+<p>Glaubt man einem aktuellen Bericht, werden uns im laufenden Jahr zwei weitere Vertreter unter Windows erreichen. Wie die Kollegen von 9to5Mac berichten, sind die Arbeiten an neuen Apps für Apple Music und Apple Podcasts bereits im vollen Gange. Unklar ist, ob die beiden Neuzugänge auch für Windows 10 erscheinen oder wieder nur exklusiv für die Xbox veröffentlicht werden. Da es sich wie bei Apple TV aber um UWP-Apps handeln dürfte, wäre eine Veröffentlichung für beide Plattformen ohne weitere Probleme möglich.</p>
+<p>So oder so dürfte es für Apple das Wichtigste sein, seine neuen Abodienste zu einem möglichst großen Publikum zu bringen, wenn man von einzelnen Ausnahmen wie Apple Arcade derzeit einmal absieht. Außerdem bindet das alternde iTunes seit gut anderthalb bis zwei Jahren auch Ressourcen, die man zumindest teilweise mit neuen Apps für die eigenen Services vermeiden könnte. Man kann also gespannt sein, ob Apple TV auch noch für Windows 10 und welche Dienste sonst noch von Apple für Windows und Xbox kommen werden. Gerüchten zu neuen Diensten kamen zuletzt wieder auf.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bericht-apple-arbeitet-an-neuen-apps-fuer-music-und-podcasts-fuer-windows-10/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows 10X kurz angeschaut: Der erste Kontakt</title>
+		<link>https://www.drwindows.de/news/windows-10x-kurz-angeschaut-der-erste-kontakt</link>
+					<comments>https://www.drwindows.de/news/windows-10x-kurz-angeschaut-der-erste-kontakt#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 15 Jan 2021 11:43:44 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79515</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Eine geleakte Version von Windows 10X kursiert im Internet. Mein offizieller Rat dazu lautet selbstverständlich &#8222;Finger weg&#8220;! Das ist eine inoffizielle, unfertige Testversion, die nicht mal ansatzweise zum Arbeiten geeignet ist. Der Nerd in mir kann aber selbstverständlich nicht anders, als sich das einfach mal anzuschauen. Wie schon in der gestrigen Meldung zu Windows 10X [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Eine geleakte Version von Windows 10X kursiert im Internet. Mein offizieller Rat dazu lautet selbstverständlich &#8222;Finger weg&#8220;! Das ist eine inoffizielle, unfertige Testversion, die nicht mal ansatzweise zum Arbeiten geeignet ist. Der Nerd in mir kann aber selbstverständlich nicht anders, als sich das einfach mal anzuschauen.</p>
+<p>Wie schon in der gestrigen <a href="https://www.drwindows.de/news/windows-10x-video-von-geleakter-version-bestaetigt-alle-geruechte" target="_blank" rel="noopener">Meldung zu Windows 10X</a> thematisiert, halte ich die Namenswahl für unglücklich, aber wir werden noch viel Zeit haben, das zu diskutieren.</p>
+<p>Ich selbst werde versuchen, mich Windows 10X so unbefangen wie möglich zu nähern, immer mit dem Hintergedanken: Das ist kein System für Windows-Nutzer. Klingt seltsam, ist aber so.</p>
+<p>Vor allen Dingen zum jetzigen Zeitpunkt, wo Microsoft noch nicht einmal erklärt hat, was sie mit Windows 10X eigentlich vorhaben, schaue ich mir das einfach nur mit Neugier und völlig wertfrei an.</p>
+<h3>Das Setup</h3>
+<p>Das Setup sieht aus wie eine modernisierte Version der bekannten Dialoge von Windows 10. Weil es genau das ist. Ich gehe fest davon aus, dass wir diese Optik in diesem Jahr auch beim &#8222;normalen&#8220; Windows 10 sehen werden.</p>
+
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_01.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_01-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_02.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_02-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_03.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_03-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_04.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_04-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_05.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_05-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_06.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_06-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+<a href='https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_07.jpg' title="" data-rl_title="" class="rl-gallery-link" data-rl_caption="" data-rel="lightbox-gallery-1"><img width="150" height="150" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_07-150x150.jpg" class="attachment-thumbnail size-thumbnail" alt="Windows 10X Setup" loading="lazy" /></a>
+
+<p>Nach erfolgreicher Einrichtung landet man auf dem Desktop, der allerdings keiner ist. Seine einzige Funktion ist die Anzeige des Hintergrunds, man kann hier keine Verknüpfungen ablegen. Weil das eine Gemeinsamkeit mit Chrome OS ist, kann ich es an dieser Stelle gleich klar zum Ausdruck bringen. Windows 10X ist ein reinrassiger Nachbau von Chrome OS im Windows-Look, Microsoft macht sich gar nicht erst die Mühe, das zu verheimlichen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop.jpg" data-rel="lightbox-gallery-NU7KkMwC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79526" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop.jpg" alt="Windows 10X Desktop" width="1280" height="960" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_desktop-643x482.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Der Start-Button öffnet den Launcher, der mehrere Reihen von Apps anzeigt, darüber befindet sich ein Suchfeld. Das wurde ebenfalls 1:1 vom Vorbild übernommen. Aus früheren Screenshots und auch vom Surface Neo kennen wir diese Optik ja bereits.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher.jpg" data-rel="lightbox-gallery-NU7KkMwC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79527" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher.jpg" alt="" width="1280" height="960" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_launcher-643x482.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p>Über das Kontextmenü einer App kann diese an die Taskleiste angeheftet werden, außerdem kann man sie deinstallieren oder die Einstellungen aufrufen.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue.jpg" data-rel="lightbox-gallery-NU7KkMwC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79528" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue.jpg" alt="Windows 10X Launcher Kontextmenue" width="703" height="408" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue.jpg 703w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue-300x174.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_app_kontextmenue-643x373.jpg 643w" sizes="(max-width: 703px) 100vw, 703px" /></a></p>
+<p>Die vorinstallierten Apps entsprechen denen, die wir aus Windows 10 kennen. Die Mail- und Kalender-App ist bereits nicht mehr dabei, was auf ihre bevorstehende Einstellung hinweist, aber auch das ist ja keine neue Information mehr.</p>
+<p>Geöffnete Programme öffnen sich im Vollbild, einen Fenstermodus gibt es nicht. Man kann aber zwei Programme nebeneinander &#8222;snappen&#8220;, wie man das noch aus Zeiten von Windows 8 kennt. Die einzige Installationsquelle für Software ist derzeit der Store, der aber in der geleakten Version nicht zuverlässig funktioniert. Ich denke nicht, dass das so bleibt, denn wenn man Windows 10X an Unternehmen und/oder Bildungseinrichten vermarkten will, dann muss man auch eine Möglichkeit schaffen, mit den vertrauten Administrations-Werkzeugen Software auf diese Geräte zu bringen.</p>
+<p>Ein Klick auf das kleine Symbol unten rechts öffnet das &#8222;Action Center&#8220;. Auch da werden Nutzer von Chrome OS sofort sagen: Huch, das kenne ich doch. Zur Veranschaulichung habe ich mal zwei Screenshots von Windows 10X und Chrome OS hier eingefügt. Oben die Kopie, unten das Original.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center.jpg" data-rel="lightbox-gallery-NU7KkMwC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79529" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center.jpg" alt="Windows 10X Action Center" width="1280" height="960" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center.jpg 1280w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10x_action_center-643x482.jpg 643w" sizes="(max-width: 1280px) 100vw, 1280px" /></a></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter.jpg" data-rel="lightbox-gallery-NU7KkMwC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-36741" src="https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter.jpg" alt="Chrome OS Infocenter" width="1500" height="844" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-300x169.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-768x432.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-1024x576.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2019/09/chrome_os_desktop_infocenter-643x362.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Die Mission scheint also klar: Windows 10X soll die Nutzer von Chrome OS fernhalten. Es nachzubauen, wird nicht genügen, man muss schon ein bisschen mehr bieten. Vor diesem Hintergrund scheint nun auch das Gerücht, dass Microsoft den Windows 10 Store für Android Apps öffnen wird, wieder ein bisschen realistischer, auch wenn man es diesbezüglich auch in hundert Jahren nicht mit dem Original wird aufnehmen können.</p>
+<p>Aber ich habe mir geschworen, nicht zu werten, zumindest jetzt noch nicht. Auch wenn Windows 10X dem Vernehmen nach so gut wie fertig ist, kann Microsoft für die offizielle Präsentation vielleicht noch ein paar Überraschungen parat haben.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10x-kurz-angeschaut-der-erste-kontakt/feed</wfw:commentRss>
+			<slash:comments>29</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
