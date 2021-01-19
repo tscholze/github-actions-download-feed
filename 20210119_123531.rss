@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Tue, 19 Jan 2021 10:16:21 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>SSD-Upgrade beim Surface Pro 7+ und Surface Pro X: Unkompliziert, aber auf eigenes Risiko</title>
+		<link>https://www.drwindows.de/news/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko</link>
+					<comments>https://www.drwindows.de/news/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 10:09:19 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79683</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Toshiba SSD M.2 2230" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Beim neuen Surface Pro 7+ lässt sich die verbaute SSD mit wenigen Handgriffen wechseln. Ein Austausch oder ein Upgrade sind offiziell dennoch nicht möglich, laut Microsoft soll das nur von autorisierten Technikern durchgeführt werden. Wer selbst Hand anlegt, riskiert also grundsätzlich den Verlust der Garantie. Das bitte beim Weiterlesen im Hinterkopf behalten. Nicht nur das [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Toshiba SSD M.2 2230" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Beim neuen Surface Pro 7+ lässt sich die verbaute SSD mit wenigen Handgriffen wechseln. Ein Austausch oder ein Upgrade sind offiziell dennoch nicht möglich, laut Microsoft soll das nur von autorisierten Technikern durchgeführt werden. Wer selbst Hand anlegt, riskiert also grundsätzlich den Verlust der Garantie. Das bitte beim Weiterlesen im Hinterkopf behalten.</p>
+<p>Nicht nur das <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fsurface-pro-7-plus-for-business%2F8P43N3K93409%3Ficid%3DSurface_for_Business-CP1-Surface_Pro_7%2B_for_Business-01152021%26activetab%3Dpivot%253aoverviewtab" target="_blank" rel="noopener">Surface Pro 7+</a>, auch das Surface Pro X ermöglicht einen einfachen SSD-Tausch. Beim Surface Laptop 3 geht das ebenfalls, da hierfür aber das Gehäuse geöffnet werden muss, benötigt man dafür deutlich mehr handwerkliches Geschick.</p>
+<p>Microsoft verkauft die Surface SSD nicht als Ersatzteil, außerdem wird hier ein Formfaktor verwendet, den es so nicht frei zu kaufen gibt.</p>
+<p>Ein Speicherupgrade wäre deshalb so interessant, weil Microsoft die großen SSDs auch nur in Verbindung mit den leistungsstärksten CPUs anbietet. Wer 512 GB oder 1 TB SSD-Speicher haben möchte, muss beim Surface Pro 7+ zwangsläufig auch den Intel Core i7 nehmen, auch wenn man die Mehrleistung überhaupt nicht benötigt.</p>
+<p>Erschwerend kommt hinzu, dass die Preisunterschiede für die größeren SSDs schon beinahe unverschämt sind. Bekommt man das Upgrade von 128 auf 256 GB beim Surface Pro 7+ noch für moderate 120 Euro, muss man für 512 statt 256 GB satte 440 Euro drauflegen, zwischen 512 GB und 1 TB liegen 480 Euro. Auch beim Surface Pro X wird zugelangt: 300 Euro für 256 statt 128 GB und 350 Euro für 512 statt 256 GB.</p>
+<p>Nun sind wir aber im Internet und hier gibt es bekanntlich für jedes Problem eine Lösung. Ein findiger Techniker hat herausgefunden, welche SSD im Surface Pro 7+ steckt &#8211; und wo diese noch verbaut ist.</p>
+<p>Die externe SSD &#8222;Tuff Nano&#8220; von CalDigit verwendet genau das gleiche Format, eine <a href="https://www.tomshardware.com/reviews/toshiba-bg4-m.2-nvme-ssd-review,6330.html" target="_blank" rel="noopener">M.2 2230 von Toshiba</a>. Diese gibt es in zwei Größen: 512 GB von 189 Euro und 1 TB für 259 Euro. Wie der Austausch funktioniert, hat der YouTube Kanal &#8222;cbutters Tech&#8220; demonstriert:</p>
+<p><iframe title="Surface Pro 7+ SSD Swap (also Surface Pro X) 1TB for hundreds less!" width="500" height="281" src="https://www.youtube.com/embed/j9vp_lRsD5I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Die Tuff Nano muss geöffnet und im Grunde zerstört werden, um an die verbaute SSD zu kommen, hier ist die Garantie also garantiert beim Teufel. Beim Surface Pro 7+ oder Surface Pro X lässt sich der Umbau ebenso leicht wieder rückgängig machen, hier würde ich das Risiko des Garantieverlusts als moderat bezeichnen. Es sei aber nochmals betont, dass man sich außerhalb der Garantiebedingungen von Microsoft bewegt, wenn man auf diese Weise Hand anlegt.</p>
+<p>Die Tuff Nano gibt es hierzulande bei <a href="https://amzn.to/3bWjsKD" target="_blank" rel="noopener">Amazon</a> (Affiliate Link). Wenn man nach &#8222;M.2 2230&#8220; recherchiert, findet man weitere, potenziell passende Kandidaten. Wer dazu weitere Infos beisteuern kann oder sogar schon selbst einen Austausch durchgeführt hat, darf sich gerne im <a href="https://www.drwindows.de/xf/threads/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko.173909/unread">Kommentar-Thread</a> melden.</p>
+<p>Herzlichen Dank für unser Community-Mitglied Christian für den Tipp in unserem <a href="https://t.me/drwindowstalk" target="_blank" rel="noopener">Telegram Chat</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Surface Pro 7: Firmwareupdate verfügbar</title>
+		<link>https://www.drwindows.de/news/surface-pro-7-firmwareupdate-verfuegbar</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 07:06:32 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79678</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Für das Surface Pro 7 ist ein weiteres Firmware Update verfügbar. Es ist ebenso umfangreich wie unspektakulär, denn wie üblich werden im Rahmen eines solchen Updates keine neuen Funktionen eingeführt. Insgesamt sieben Komponenten, unter anderem das UEFI-BIOS selbst, werden auf den neuesten Stand gebraucht. Auch für den Intel-Chipsatz sind Aktualisierungen an Bord. In Summe dient [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Für das Surface Pro 7 ist ein weiteres Firmware Update verfügbar. Es ist ebenso umfangreich wie unspektakulär, denn wie üblich werden im Rahmen eines solchen Updates keine neuen Funktionen eingeführt.</p>
+<p>Insgesamt sieben Komponenten, unter anderem das UEFI-BIOS selbst, werden auf den neuesten Stand gebraucht. Auch für den Intel-Chipsatz sind Aktualisierungen an Bord. In Summe dient das Update der Verbesserung der Systemstabilität und der Implementierung der neuesten Sicherheitsupdates.</p>
+<p>Alle Details können wie immer im <a href="https://support.microsoft.com/en-us/help/4526363/surface-pro-7-update-history" target="_blank" rel="noopener">Changelog</a> nachgelesen werden. Die Verteilung erfolgt ebenfalls wie immer über Windows Update.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Ein letztes Mal: Alte US-Regierung streicht Ausnahmen für Huawei weiter zusammen</title>
+		<link>https://www.drwindows.de/news/ein-letztes-mal-alte-us-regierung-streicht-ausnahmen-fuer-huawei-weiter-zusammen</link>
+					<comments>https://www.drwindows.de/news/ein-letztes-mal-alte-us-regierung-streicht-ausnahmen-fuer-huawei-weiter-zusammen#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 19:45:04 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79674</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Huawei Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Bevor mit Joe Biden der nächste US-Präsident ins Amt eingeführt wird und mit ihm dann auch eine neue Regierung die Geschicke in den Vereinigten Staaten übernimmt, lässt die alte Administration unter US-Präsident Donald Trump im laufenden Handelskonflikt mit China noch ein letztes Mal die Muskeln spielen. Nachdem zuletzt weitere Unternehmen wie Xiaomi auf der so [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Huawei Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Bevor mit Joe Biden der nächste US-Präsident ins Amt eingeführt wird und mit ihm dann auch eine neue Regierung die Geschicke in den Vereinigten Staaten übernimmt, lässt die alte Administration unter US-Präsident Donald Trump im laufenden Handelskonflikt mit China noch ein letztes Mal die Muskeln spielen. Nachdem zuletzt weitere Unternehmen wie Xiaomi auf der so genannten Entity List gelandet sind, werden nun die laufenden Ausnahmen für Huawei noch einmal zusammen gestrichen, wie Reuters in einem entsprechenden Bericht schreibt.</p>
+<p>Explizit genannt wird in dem Bericht wird Intel, die nun keine neue Hardware mehr für die Laptop-Sparte von Huawei liefern dürfen. Daneben sollen auch zahlreiche andere Ausnahmen zurückgenommen werden, allerdings geht man derzeit nicht näher auf die betroffenen Unternehmen ein. Zu den Konzernen, die noch Sondergenehmigungen für den Handel mit dem chinesischen Technologieriesen inne hatten, gehörte neben Samsung und Qualcomm auch Microsoft, sodass auf den Geräten weiterhin Windows 10 laufen konnte.</p>
+<p>Entscheidend wird letztlich sein, wie die neue Administration unter Joe Biden weiter mit dem Handelskonflikt umgehen wird. Bekannt ist allerdings, dass der neue Präsident auch den Druck auf Peking weiter hoch halten und sie zurück an den Verhandlungstisch zwingen will. Ob man also auf absehbare Zeit mit einer leichteren Entspannung rechnen kann, muss man noch abwarten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ein-letztes-mal-alte-us-regierung-streicht-ausnahmen-fuer-huawei-weiter-zusammen/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ausgepackt: Das Surface Pro 7+ ist eingetroffen</title>
+		<link>https://www.drwindows.de/news/ausgepackt-das-surface-pro-7-ist-eingetroffen</link>
+					<comments>https://www.drwindows.de/news/ausgepackt-das-surface-pro-7-ist-eingetroffen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 17:25:27 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79666</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7 Plus" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-643x322.jpg 643w" sizes="(max-width: 658px) 100vw, 658px" /></div>Das Surface Pro 7+ ist das jüngste Mitglied der inzwischen recht großen Familie der Surface-Geräte. Microsoft hat sich beim neuen Modell nicht fürs &#8222;Hochzählen&#8220; entschieden, sondern der vorherigen Generation ein simples Pluszeichen angehängt. Angesichts der Tatsache, dass sich das Gerät äußerlich nicht verändert hat, sicherlich eine nachvollziehbare Entscheidung. Das Surface Pro 7+ kommt allerdings nicht [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7 Plus" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-643x322.jpg 643w" sizes="(max-width: 658px) 100vw, 658px" /></div><p>Das Surface Pro 7+ ist das jüngste Mitglied der inzwischen recht großen Familie der Surface-Geräte. Microsoft hat sich beim neuen Modell nicht fürs &#8222;Hochzählen&#8220; entschieden, sondern der vorherigen Generation ein simples Pluszeichen angehängt.</p>
+<p>Angesichts der Tatsache, dass sich das Gerät äußerlich nicht verändert hat, sicherlich eine nachvollziehbare Entscheidung. Das Surface Pro 7+ kommt allerdings nicht nur mit aktualisierten Prozessoren (11. Generation Intel Core CPUs), sondern auch mit LTE-Option und einer wechselbaren SSD.</p>
+<p>Offiziell trägt das neue Modell den Namen &#8222;Surface Pro 7+ for Business&#8220;, wird also nicht im klassischen Einzelhandel zu finden sein. Dennoch kann es aber von jedermann im <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fsurface-pro-7-plus-for-business%2F8P43N3K93409%3Ficid%3DSurface_for_Business-CP1-Surface_Pro_7%2B_for_Business-01152021%26activetab%3Dpivot%253aoverviewtab" target="_blank" rel="noopener">Microsoft Store</a> (Affiliate Link) bestellt werden, es gibt keine Prüfung der &#8222;Business-Verwendung&#8220;. Auch die offiziellen Surface-Reseller freuen sich in aller Regel über jedes verkaufte Gerät und fragen nicht weiter nach.</p>
+<p>Alle technischen Daten zum Surface Pro 7+ kann man in der <a href="https://www.drwindows.de/news/statt-surface-pro-8-microsoft-bringt-das-surface-pro-7-mit-lte-und-austauschbarer-ssd" target="_blank" rel="noopener">Newsmeldung</a> nachschlagen.</p>
+<p>Ich habe das Surface Pro 7+ heute erhalten. Auf dem Titelbild sieht man bereits eine Besonderheit, die alle &#8222;for Business&#8220;-Modelle der Surface-Reihe gemeinsam haben: Nämlich die vergleichsweise &#8222;schmucklose&#8220;, dafür aber deutlich umweltfreundlichere Verpackung.</p>
+<p>Einem neuen Gerät widmet man sich ja in aller Regel zuerst von vorne, beim Surface Pro 7+ machen wir eine Ausnahme, denn die oben erwähnten Neuerungen sind auf der Rückseite zu finden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01.jpg" data-rel="lightbox-gallery-rfDWWxGC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79669" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01.jpg" alt="Surface Pro 7 Plus" width="1500" height="1290" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-300x258.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-1024x881.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-768x660.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-643x553.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Hinter der etwas größeren Abdeckung unten links befindet sich die SSD, knapp unterhalb des Scharniers ist der SIM Slot zu sehen. Das beiligende, wohlbekannte Tool öffnet beide Schächte, die SSD ist außerdem noch mit einer Torx-Schraube gesichert.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02.jpg" data-rel="lightbox-gallery-rfDWWxGC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79670" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02.jpg" alt="Surface Pro 7 Plus" width="1500" height="1125" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-643x482.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Damit ist die äußerliche Erkundung auch schon so gut wie abgeschlossen. Ansonsten ist es halt ein Surface Pro, wie wir es kennen. Der Kickstand lässt wie üblich fast vollständig umklappen und verzeiht auch eine gewaltsame Überdehnung gutmütig.</p>
+<p>An der rechten Seite finden wir die Anschlüsse: USB-C, USB-A und den Surface Connector. An der linken Seite befindet sich weiterhin ein 3,5mm Audio-Anschluss.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich.jpg" data-rel="lightbox-gallery-rfDWWxGC" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79671" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich.jpg" alt="Surface Pro 7 Plus" width="1500" height="1384" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-300x277.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-1024x945.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-768x709.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-643x593.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Im weiteren Verlauf der Erkundung bin ich vor allen Dingen darauf gespannt, ob das Surface Pro 7+ sein Versprechen auf eine deutlich längere Akkulaufzeit einlösen kann. &#8222;Bis zu 15 Stunden&#8220; sind es laut Datenblatt, stolze viereinhalb Stunden länger als beim Vorgänger.</p>
+<p>Davon abgesehen erwarte ich keine gravierenden Abweichungen zum Surface Pro 7 &#8211; wo sollten sie auch herkommen.</p>
+<p>Disclaimer: Das Testgerät wird von Microsoft leihweise zur Verfügung gestellt. Eine Einflussnahme auf den Test oder eine Verpflichtung zur Veröffentlichung besteht nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ausgepackt-das-surface-pro-7-ist-eingetroffen/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>LG OLED 65CX9LA ausprobiert: Der ideale Fernseher für die Xbox Series X?</title>
+		<link>https://www.drwindows.de/news/lg-oled-65cx9la-ausprobiert-der-ideale-fernseher-fuer-die-xbox-series-x</link>
+					<comments>https://www.drwindows.de/news/lg-oled-65cx9la-ausprobiert-der-ideale-fernseher-fuer-die-xbox-series-x#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 10:00:04 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79392</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="LG OLED 65CX9LA Titelbild" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Anfang Dezember 2020 gab es auf dieser Seite eine Premiere: Mit dem Samsung QLED GQ55Q90T hatte ich mich zum ersten Mal an den Test eines TV-Geräts gewagt. Auslöser war die Xbox Series X und ein Artikel meines Kollegen Daniel, der mir vor Augen führte, dass mein gerade mal fünf Jahre alter LG-Fernseher nicht mehr das [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="LG OLED 65CX9LA Titelbild" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Anfang Dezember 2020 gab es auf dieser Seite eine Premiere: Mit dem <a href="https://www.drwindows.de/news/samsung-4k-qled-tv-gq55q90t-das-fazit-nach-sechs-wochen" target="_blank" rel="noopener">Samsung QLED GQ55Q90T</a> hatte ich mich zum ersten Mal an den Test eines TV-Geräts gewagt. Auslöser war die Xbox Series X und ein <a href="https://www.drwindows.de/news/wie-finde-ich-den-passenden-nextgen-fernseher-zur-nextgen-konsole-ein-aufklaerungsversuch" target="_blank" rel="noopener">Artikel</a> meines Kollegen Daniel, der mir vor Augen führte, dass mein gerade mal fünf Jahre alter LG-Fernseher nicht mehr das Optimum darstellt. So sehr ich von dem neuen Gerät begeistert war, so sehr frustrierte es mich zugleich, wie sehr mein altes Gerät im direkten Vergleich abfiel.</p>
+<p>Samsung oder LG &#8211; das ist ja teilweise eine echte Glaubensfrage, wenn man so in die Communities schaut. Wobei man statt LG auch Sony der Philips sagen kann, denn die Panels in deren OLED-Geräten stammen ebenfalls von LG. Im Samsung-Testbericht erwähnte ich, dass ich gerne verglichen hätte, es aber mit dem LG-Testgerät leider nicht geklappt hat.</p>
+<p>Ihr ahnt es bereits anhand der Überschrift: Es wurde doch noch was draus. Die beiden Testgeräte gaben sich buchstäblich die Klinke in die Hand. Derselbe Transporter, der den Samsung abholte, lieferte den LG OLED 65CX9LA bei mir ab. Aus einem Seite-an-Seite-Vergleich der beiden Geräte wurde so zwar nichts, aber ich denke, ich konnte mir dennoch einen objektiven Eindruck verschaffen.</p>
+<h3>Ist der dünn!</h3>
+<p>Ich will nicht lange um den heißen Brei reden, wir kommen im nächsten Absatz direkt auf die Bildqualität zu sprechen, vorab muss ich aber noch meinem Erstaunen darüber Ausdruck verleihen, wie unglaublich dünn der Bildschirm dieses Geräts ist.</p>
+<p>Er ist so dünn, dass ich mich beim Aufstellen fragte: Warum machen die sowas? Hoffen die, ich zerbreche das Teil schon beim Auspacken und muss mir direkt nochmal einen kaufen? Ich hatte echt Angst und war heilfroh, als das Teil an Ort und Stelle stand. Die Sorge war unbegründet, die Frage nach dem Sinn dieser Konstruktion, die offensichtlich die Grenzen des technisch Machbaren ausreizt, konnte ich dennoch nicht beantworten. Wenn der Fernseher erst mal steht oder an der Wand hängt, kommt es doch einen Zentimeter mehr oder weniger nicht an, die Gesamtdicke wird ja schließlich durch die Basis bestimmt, in der sämtliche Technik und die Anschlüsse untergebracht sind. Aber es sieht von der Seite unbestritten beeindruckend aus.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich.jpg" data-rel="lightbox-gallery-qdi40VCi" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79395" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich.jpg" alt="LG OLED 65CX9LA" width="1500" height="1469" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich-300x294.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich-1024x1003.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich-768x752.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_seitlich-643x630.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<h3>Bildqualität</h3>
+<p>Mit zwei Vorurteilen startete ich in den Test: Ich hatte mehrfach gelesen, dass die OLED-Panels von LG den QLED-Bildschirmen von Samsung überlegen seien, dabei wurde immer wieder darauf verwiesen, dass nur die OLEDs in der Lage sind, schwarz auch wirklich schwarz darzustellen. Ich hatte also durchaus die Erwartung, dass mir das Bild beim LG OLED 65CX9LA besser gefallen wird.</p>
+<p>Vorurteil Nummer zwei betraf die Probleme mit der Variablen Bildrate bei den aktuellen OLED-Geräten (siehe dazu <a href="https://www.4kfilme.de/schlappe-fuer-oled-besitzer-vrr-probleme-lassen-sich-wohl-nicht-beheben/" target="_blank" rel="noopener">hier</a> und <a href="https://hifi.de/news/lg-oled-der-aktuelle-stand-zu-den-problemen-mit-vrr-43486" target="_blank" rel="noopener">hier</a>), die dazu führen sollen, dass es bei dunklen Inhalten zu einem Flackern oder zu Artefakten kommen soll.</p>
+<p>Lasst uns mit dem zweiten Thema beginnen: Ja, ich habe diesen Effekt tatsächlich in manchen Spielen bemerkt (beim Fernsehen nicht). Habe ich es als Einbuße oder gar als gravierenden Nachteil empfunden? Nein, habe ich nicht. Hätte ich nicht von der Problematik gewusst, dann hätte ich nicht so verbissen darauf geachtet und es wäre mir womöglich nicht einmal aufgefallen.</p>
+<p>Das zuerst genannte &#8222;Vorurteil&#8220; hat sich dagegen bestätigt: Die Bildqualität gefiel mir beim LG-Gerät in Summe tatsächlich besser. Ein wenig wird der Eindruck eventuell durch die zehn Zoll Unterschied verfälscht, die zwischen den beiden Testgeräten bestanden. Der Samsung war ein 55-Zöller, der LG bietet mit 65 Zoll deutlich mehr Bildfülle. Andererseits werden kleine Schwächen mit zunehmender Größe des Bildschirms besser sichtbar, insofern könnte man drüber streiten, ob der LG &#8222;trotzdem&#8220; oder &#8222;gerade deshalb&#8220; den besseren Gesamteindruck hinterließ. Mit Blick auf die Straßenpreise darf man allerdings auch mehr erwarten. Der 65CX9LA kostet aktuell um die 2.200 Euro, die 65-Zoll Version des Samsung Q90T ist rund 300 Euro günstiger.</p>
+<p>Wie bei allen Fernsehern gibt es auch bei LG diverse Voreinstellungen, um das Bild an den eigenen Geschmack anzupassen, die sich das Gerät auch merkt. Ob nun Standard, Kino, Sport oder was auch immer am besten zu gefallen wissen, liegt im Auge des Betrachters. Ich empfehle außerdem, nach dem Kauf eines neuen Fernsehers ein wenig in den einschlägigen Foren zu schmökern, dort findet man oft Tipps zu den &#8222;optimalen Bildeinstellungen&#8220;. Das ist selbstverständlich zu einem guten Teil Geschmackssache, daher ruhig mehrere Einstellungen ausprobieren.</p>
+<p>Unter dem Strich darf man dem LG OLED 65CX9LA eine ganz hervorragende Bildqualität bescheinigen. Ob Film, Sport oder Spiel, in keiner Disziplin offenbart das Gerät irgendwelche Schwächen.</p>
+<h3>Beeindruckend guter Sound</h3>
+<p>Ein TV-Gerät dieser Preisklasse wird wohl in der Mehrzahl der Fälle an eine gute Anlage oder eine Soundbar angeschlossen. Ich würde das beinahe schon als Pflicht bezeichnen, denn zu einem hervorragenden Bild gehört nun mal auch ein entsprechender Klang. Nichtsdestotrotz sei gesagt, dass der LG OLED 65CX9LA einen wirklich guten Sound bietet.</p>
+<p>Verdauungsfördernde Bässe darf man selbstredend nicht erwarten, die tiefen Töne kommen aber überraschend gut aus den integrierten Lautsprechern und auch in den anderen Bereichen leistet sich das Gerät keine Ausrutscher. Das Klangbild ist außerdem sehr ausgewogen, die automatische Optimierung sorgt beispielsweise für stets verständliche Dialoge.</p>
+<h3>&#8222;Vollwertige&#8220; Fernbedienung</h3>
+<p>Kommen wir wieder zu einer Geschmacksfrage: Beim Samsung-Fernseher habe ich die Smart Remote Fernbedienung kritisiert, weil sie zwar schön klein und handlich ist, aber dementsprechend auch einen sehr reduzierten Funktionsumfang besitzt.</p>
+<p>Insofern punktet LG bei mir mit der vollwertigen Fernbedienung, die dem LG OLED 65CX9LA beiliegt. Sie verfügt außerdem über einen integrierten Sensor, der sie zur &#8222;Maus&#8220; werden lässt. Sobald man die Fernbedienung in die Hand nimmt, erscheint auf dem Bildschirm ein Cursor, den man durch Bewegungen steuern kann (vergleichbar mit einem Laserpointer).</p>
+<p>Die Fernbedienung kann auch viele andere Geräte steuern, das Zusammenspiel mit einem Magenta TV Receiver funktonierte einwandfrei.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control.jpg" data-rel="lightbox-gallery-qdi40VCi" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79394" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control.jpg" alt="LG OLED 65CX9LA Fernbedienung" width="1200" height="611" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control.jpg 1200w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control-300x153.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control-1024x521.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control-768x391.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/lg_oled_65cx9la_remote_control-643x327.jpg 643w" sizes="(max-width: 1200px) 100vw, 1200px" /></a></p>
+<h3>Die Xbox Series X am LG OLED 65CX9LA</h3>
+<p>Die Xbox wird an den für Konsolen vorgesehenen HDMI 4 Port angeschlossen, der 4k bei 120 Hz unterstützt. Auch ansonsten leuchtet beim Grafiktest der Xbox Series X alles grün. HDR, Dolby Vision etc. &#8211; alles was die Xbox Series X kann, wird von diesem Gerät unterstützt. Dolby Vision verspricht in diesem Jahr ein wichtiges Thema zu werden, was das in der Praxis dann tatsächlich für einen Unterschied macht, beibt abzuwarten. Wer auf der sicheren Seite sein möchte, der achtet selbstverständlich darauf, ein Gerät mit Dolby Vision zu kaufen.</p>
+<p>Die Grafik-Qualität ist aus dem Gedächtnis nur schwer zu vergleichen. Sowohl der GQ55Q90T von Samsung als auch der 65CX9LA von LG liefern ein fantastisches Bild. Um einen Sieger zu benennen, müsste ich wirklich beide Geräte nebeneinander vor mir haben.</p>
+<h3>Fazit</h3>
+<p>Ob der LG OLED 65CX9LA der &#8222;perfekte Fernseher&#8220; für die Xbox Series X ist, vermag nicht zu sagen. Ehrlich gesagt war es ein wenig irreführend, diese Frage überhaupt aufzuwerfen, zu gering sind meine Erfahrungswerte mit aktuellen Geräten und zu schwach meine Expertise auf diesem Gebiet.</p>
+<p>Was ich aber mit voller Überzeugung sagen kann: Der LG OLED 65CX9LA ist ein fantastisches Gerät und ein hervorragendes Gegenstück zur Xbox Series X. Mit Dolby Vision sollte man außerdem gut für die Zukunft aufgestellt sein, auch wenn die Frage nach dem tatsächlichen Vorteil von Dolby Vision in Xbox-Spielen derzeit noch unbeantwortet ist.</p>
+<p>Jetzt, wo die CES hinter uns liegt und die neuen Geräte-Generationen praktisch in den Startlöchern stehen, sollte man die Preisentwicklung im Auge behalten. Meiner Meinung nach macht man nichts falsch, ein Gerät aus dem Modelljahr 2020 zu kaufen, die neuen Geräte sind in der Regel mehrere hundert Euro teurer.</p>
+<p>Wie beim Samsung-Testbericht möchte ich ergänzend noch auf einen Testbericht bei Kollegen verlinken, die davon mehr verstehen als ich: <a href="https://www.areadvd.de/tests/xxl-test-lg-ultra-hd-tv-oledcx9la-in-55-zoll/" target="_blank" rel="noopener">AreaDVD hat die 55-Zoll-Version</a> des hier besprochenen Geräts auf Herz und Nieren getestet.</p>
+<p>Disclaimer: Das Testgerät wurde mir von LG leihweise zur Verfügung gestellt. Eine Einflussnahme auf den Testbericht oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/lg-oled-65cx9la-ausprobiert-der-ideale-fernseher-fuer-die-xbox-series-x/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft arbeitet an Neuerungen bei der Diktatfunktion für Word und Outlook</title>
+		<link>https://www.drwindows.de/news/microsoft-arbeitet-an-neuerungen-bei-der-diktatfunktion-fuer-word-und-outlook</link>
+					<comments>https://www.drwindows.de/news/microsoft-arbeitet-an-neuerungen-bei-der-diktatfunktion-fuer-word-und-outlook#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 08:00:18 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79554</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Diktatfunktion in Microsoft Word und Outlook" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Sprechen statt Tippen &#8211; das ist nicht nur eine Funktion zur Barrierefreiheit, sondern kann auch eine echte Arbeitserleichterung sein, wenn es denn zuverlässig funktioniert und man sich dazu überwinden kann, mit seinem PC zu sprechen. Was mir ehrlich gesagt nach wie vor sehr schwer fällt. Ich habe es aber dennoch getan, um die neue Diktatfunktion [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Diktatfunktion in Microsoft Word und Outlook" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/outlook_word_diktatfunktion-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Sprechen statt Tippen &#8211; das ist nicht nur eine Funktion zur Barrierefreiheit, sondern kann auch eine echte Arbeitserleichterung sein, wenn es denn zuverlässig funktioniert und man sich dazu überwinden kann, mit seinem PC zu sprechen. Was mir ehrlich gesagt nach wie vor sehr schwer fällt.</p>
+<p>Ich habe es aber dennoch getan, um die neue Diktatfunktion auszuprobieren, an der Microsoft derzeit arbeitet und die ab März in verschiedene Produkte integriert werden soll. Den Anfang machen Word und Outlook.</p>
+<p>Ganz neu ist Möglichkeit, Texte zu diktieren, freilich nicht. Neu ist aber die &#8222;Dictation Toolbar&#8220;, die sich durch einen Klick auf das entsprechende Icon im Menüband öffnet und die oben im Bild zu sehen ist.</p>
+<p>Über das mittlere Icon lässt sich das Mikrofon an- und abschalten, um mit der Spracheingabe zu beginnen bzw. diese vorübergehend zu pausieren. Über die Einstellungen wird eine weitere Neuerung sichtbar: Die automatische Interpunktion, die Satzzeichen selbständig einfügt.</p>
+<p>In meinem Test hat das in der Tat gut funktioniert, aber auch &#8222;gesprochene&#8220; Satzzeichen wie &#8222;Punkt&#8220; und &#8222;Komma&#8220; werden verstanden, auch das gesprochene Wort &#8222;Zeilenumbruch&#8220; führt zu einem solchen.</p>
+<p>Es ist ja schon beinahe untypisch, dass das sogar in der deutschen Version schon funktioniert. Weitere unterstützte Sprachen sind Chinesisch, Französisch, Italienisch, Spanisch und selbstverständlich Englisch.</p>
+<p>Die neue Dictation Toolbar wird nach derzeitiger Planung mit der Office-Version 2102 Ende Februar/Anfang März eingeführt. Microsoft betont in dem Zusammenhang, dass die Analyse der Spracheingabe zwar online stattfindet, um bessere Ergebnisse zu liefern, die Sprachdaten aber keinesfalls auf den Microsoft-Servern gespeichert werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-arbeitet-an-neuerungen-bei-der-diktatfunktion-fuer-word-und-outlook/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Neuer Qualcomm ARM-Chip für Laptops zeigt sich in Benchmarks</title>
+		<link>https://www.drwindows.de/news/neuer-qualcomm-arm-chip-fuer-laptops-zeigt-sich-in-benchmarks</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 07:02:14 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79626</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Qualcomm Snapdragon" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Qualcomm arbeitet offenbar an einem neuen Highend-Chip, der in ARM-basierten Laptops zum Einsatz kommen soll. Die Tatsache, dass ein Chiphersteller an einem neuen Chip arbeitet, ist im Grunde keine große Sache, ich kommentiere solche Nachrichten gerne mit der Frage &#8222;Was sollen sie denn auch sonst tun?&#8220; In diesem Fall ist das aber durchaus eine Erwähnung [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Qualcomm Snapdragon" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/12/qualcomm_snapdragon-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Qualcomm arbeitet offenbar an einem neuen Highend-Chip, der in ARM-basierten Laptops zum Einsatz kommen soll. Die Tatsache, dass ein Chiphersteller an einem neuen Chip arbeitet, ist im Grunde keine große Sache, ich kommentiere solche Nachrichten gerne mit der Frage &#8222;Was sollen sie denn auch sonst tun?&#8220;</p>
+<p>In diesem Fall ist das aber durchaus eine Erwähnung wert, denn seit Qualcomm im Herbst 2020 die eher halbherzig wirkende zweite Generation des <a href="https://www.drwindows.de/news/qualcomm-praesentiert-zweite-generation-des-snapdragon-8cx-acer-liefert-das-erste-geraet" target="_blank" rel="noopener">Snapdragon 8cx</a> vorgestellt hat, durfte man Zweifel haben, ob im Bereich der Desktop-Prozessoren überhaupt noch nennenswert investiert wird. Dazu passte auch das Gerücht, Microsoft würde an einer <a href="https://www.drwindows.de/news/bericht-microsoft-soll-an-eigenem-arm-prozessor-fuer-die-surface-reihe-arbeiten" target="_blank" rel="noopener">kompletten Eigenentwicklung</a> eines ARM-Chips für seine Surface-Geräte, aber auch für seine Azure-Server arbeiten.</p>
+<p>Jetzt ist <a href="https://winfuture.de/news,120627.html" target="_blank" rel="noopener">Winfuture</a> in Benchmarks auf den bisher noch unbekannten Qualcomm SC8280 gestoßen, bei dem es sich offenbar um einen neuen Highend-Chip handelt. Die Testsysteme waren 14 Zoll Laptops mit stattlichen 32 GB Arbeitsspeicher, was darauf schließen lässt, dass sich der neue Prozessor im oberen Segment ansiedeln wird. Der Snapdragon 8cx unterstützt maximal 16 GB RAM.</p>
+<p>Viel mehr Details sind zum Qualcomm SC8280 bislang nicht bekannt. aber es ist immerhin ein Lebenszeichen.</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>iOS Rundschau KW 2/21 mit Office Suite und Yammer</title>
+		<link>https://www.drwindows.de/news/ios-rundschau-kw-2-21-mit-office-suite-und-yamme</link>
+		
+		<dc:creator><![CDATA[Alex Lüttgen]]></dc:creator>
+		<pubDate>Sun, 17 Jan 2021 09:05:10 +0000</pubDate>
+				<category><![CDATA[Microsoft auf iOS]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79584</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wir sind erst in der Mitte des Januars und doch scheint das Jahr schon wieder in vollen Schritten angelaufen zu sein. So scheint es auch im Hause Microsoft gesehen zu werden, sodass es nach drei sehr stillen Wochen gleich so richtig rund ging. Die einstigen Core-Applikationen der Office Suite wurden in die Iteration 2.45 geschickt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wir sind erst in der Mitte des Januars und doch scheint das Jahr schon wieder in vollen Schritten angelaufen zu sein.</p>
+<p>So scheint es auch im Hause Microsoft gesehen zu werden, sodass es nach drei sehr stillen Wochen gleich so richtig rund ging. Die einstigen Core-Applikationen der Office Suite wurden in die Iteration 2.45 geschickt und zumindest Excel, PowerPoint und Word haben gleich auch neue Funktionen dabei spendiert bekommen. Zusätzlich wurden neue Funktionen in OneDrive, Power BI und sogar eine komplett neue Major Version von Yammer released, die Community-Administratoren deutlich bessere Verwaltungsmöglichkeiten an die Hand gibt.</p>
+<p>Weiter wurden ganze 12 Apps mit Wartungsupdates versehen.</p>
+<p>&nbsp;</p>
+<p><strong>Microsoft Excel</strong> &#8211; <em>Version 2.45</em><br />
+Arbeiten mit mehreren Tabellenblättern gleichzeitig: Excel kann zwei oder mehr Tabellenblätter nebeneinander öffnen, damit Sie diese anzeigen und bearbeiten können. Dieses Feature ist für Benutzer mit iOS13 oder höher verfügbar.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 586683407) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-excel/id586683407" title="‎Microsoft Excel">‎Microsoft Excel (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft OneDrive</strong> &#8211; <em>Version 12.13.1</em><br />
+Mit Textanmerkung können Sie jetzt Apple Pencil verwenden, um überall zu schreiben und Scribble in typisierten Text konvertiert zu verwenden.</p>
+<p>Anmerkungen mit koreanischen Zeichen verschwanden zeitweise aus dem PDF-Dokument. Dieses Problem ist nun behoben.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 477537958) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onedrive/id477537958" title="‎Microsoft OneDrive">‎Microsoft OneDrive (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft Power BI</strong> &#8211; <em>Version 22.1</em><br />
+Ab sofort können Sie auswählen, wie das Power BI-App-Symbol auf Ihrem Startbildschirm angezeigt wird. Wechseln Sie in den App-Darstellungseigenschaften zwischen einem weißen und einem schwarzen Hintergrund.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 929738808) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-power-bi/id929738808" title="‎Microsoft Power BI">‎Microsoft Power BI (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft PowerPoint</strong> &#8211; <em>Version 2.45</em><br />
+Üben Sie Ihre Präsentation mit Presenter Coach: Erhalten Sie Feedback zu den Dingen, die dazu beitragen, das Publikum zu motivieren – wie Tempo, Tonhöhe, Füllwörter, sensible Phrasen und mehr.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 586449534) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-powerpoint/id586449534" title="‎Microsoft PowerPoint">‎Microsoft PowerPoint (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Microsoft Word</strong> &#8211; <em>Version 2.45</em><br />
+Unterstützung der Benutzeroberflächen-Textinteraktion: Verwenden Sie das Trackpad der brandneuen magischen Tastatur, um mit Ihrem Dokument zu interagieren.</p>
+<p>Verwendung eines Zeigegeräts: Schließen Sie ein Trackpad oder eine Maus an Ihr iPad an, um eine weitere Möglichkeit zum interagieren mit Word zu haben.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 586447913) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-word/id586447913" title="‎Microsoft Word">‎Microsoft Word (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p><strong>Yammer</strong> &#8211; <em>Version 8.0.0</em><br />
+Neues Jahr, neue Version!<br />
+Wir haben in dieser Version die Community-Verwaltungsfunktionen erweitert. Zusätzlich zum Hinzufügen von Mitgliedern können Community-Administratoren Mitglieder entfernen, auf Administratoren höherstufen und die Rolle ihres Administrators widerrufen.<br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 289559439) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/yammer/id289559439" title="‎Yammer">‎Yammer (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p>&nbsp;</p>
+<h3>Wartungs- und Bugfix-Updates</h3>
+<p><!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 288429040) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/linkedin-business-netzwerk/id288429040" title="‎LinkedIn: Business-Netzwerk">‎LinkedIn: Business-Netzwerk (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 979729863) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-advertising/id979729863" title="‎Microsoft Advertising">‎Microsoft Advertising (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1288723196) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-edge/id1288723196" title="‎Microsoft Edge">‎Microsoft Edge (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1489209093) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-family-safety/id1489209093" title="‎Microsoft Family Safety">‎Microsoft Family Safety (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 945416273) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-news-nachrichten/id945416273" title="‎Microsoft News – Nachrichten">‎Microsoft News – Nachrichten (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 541164041) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-office/id541164041" title="‎Microsoft Office">‎Microsoft Office (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 410395246) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onenote/id410395246" title="‎Microsoft OneNote">‎Microsoft OneNote (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 951937596) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-outlook/id951937596" title="‎Microsoft Outlook">‎Microsoft Outlook (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1091505266) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-sharepoint/id1091505266" title="‎Microsoft SharePoint">‎Microsoft SharePoint (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1212616790) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-to-do/id1212616790" title="‎Microsoft To Do">‎Microsoft To Do (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1352499399) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-whiteboard/id1352499399" title="‎Microsoft Whiteboard">‎Microsoft Whiteboard (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1047318566) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/power-apps/id1047318566" title="‎Power Apps">‎Power Apps (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<p>&nbsp;</p>
+<p>In dieser <a href="https://www.drwindows.de/microsoft-apps-und-dienste-auf-ios/126849-allgemeine-informationen-ios-rundschau.html"><span class="s1">Liste</span></a> stehen alle Microsoft Apps für iOS, die in den iOS-Rundschauen auf Updates überprüft werden. Falls ihr uns Hinweise zu App-Updates senden möchtet, könnt ihr sie gerne an iOSRundschau(at)drwindows.de senden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>#rTsd &#8211; Road to Surface Duo, das Entwicklertagebuch, Teil 11: Das Feuer brennt wieder</title>
+		<link>https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-11-das-feuer-brennt-wieder</link>
+					<comments>https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-11-das-feuer-brennt-wieder#comments</comments>
+		
+		<dc:creator><![CDATA[Tobias Scholze]]></dc:creator>
+		<pubDate>Sun, 17 Jan 2021 09:00:59 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79216</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="The Road to Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Neues Jahr, neues Glück. Mit dem Jahreswechsel ist seitens Microsofts nun auch wieder Feuer unter das erste Surface Smartphone gekommen. So wurden beispielsweise nicht nur die offiziellen Surface Duo SDK Beispiele (GitHub) aktualisiert und eine neue Version von Xamarin.Forms ist erschienen, sondern es steht auch zusätzlich noch die langerwartete Markteinführung in Deutschland kurz bevor. Somit [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="The Road to Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/roadToSurfaceDuo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Neues Jahr, neues Glück. Mit dem Jahreswechsel ist seitens Microsofts nun auch wieder Feuer unter das erste Surface Smartphone gekommen. So wurden beispielsweise nicht nur die offiziellen Surface Duo SDK Beispiele (<a href="https://github.com/microsoft/surface-duo-sdk-xamarin-samples" target="_blank" rel="noopener">GitHub</a>) aktualisiert und eine neue Version von Xamarin.Forms ist erschienen, sondern es steht auch zusätzlich noch die langerwartete Markteinführung in Deutschland kurz bevor. Somit habe ich mich entschlossen, auch selbst wieder an unserer Road To Surface Duo App (<a href="https://github.com/tscholze/xamarin-road-to-surface-duo" target="_blank" rel="noopener">GitHub</a>) Hand anzulegen. Was es sonst noch Neues rund um das Duo aus Redmond gibt und wie wir unsere App weiterentwickeln können, erfahrt ihr im elften Teil des Dr. Windows #rTsd Entwicklertagebuches.</p>
+<p>Für alle, denen diese Artikelreihe noch unbekannt ist – das habt ihr bislang verpasst, könnt euch aber natürlich nachträglich einlesen:</p>
+<ul>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-1" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 1</a> (Idee und Motivation)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/road-to-surface-duo-das-entwicklertagebuch-teil-2" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 2</a> (Erste Schritte)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-3" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 3</a> (Fragen und Antworten)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-4" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 4</a> (Service und Navigation)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-5" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 5</a> (Aufräumarbeiten)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-6-sdk-und-emulator" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 6</a> (Surface Duo Emulator)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-7-auf-dem-weg-zum-play-store" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 7</a> (Auf dem Weg zum PlayStore)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/erste-beta-version-unserer-rtsd-app-ist-nun-zum-testen-bereit-entwicklertagebuch-teil-8" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 8</a> (Die erste Beta Version!)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-9-abwarten" target="_blank" rel="noopener">Road to Surface Duo, das Entwicklertagebuch: Teil 9</a> (Wartung ist das halbe Leben)</li>
+<li>#rTsd – <a href="https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-10-die-krux-kein-testgeraet-zu-haben">Road To Surface Duo, das Entwicklertagebuch: Teil 10</a> (Die Krux kein)</li>
+<li>#rTsd &#8211; (aktuell) Road to Surface Duo, das Entwicklertagebuch 11: (Das Feuer brennt wieder)</li>
+</ul>
+<h2>Man fühlte sich verlassen</h2>
+<p>Bei aller Vorfreude auf das Microsoft Surface Duo muss ich zugegeben, dass ich mich in den letzten Monaten bisschen verlassen und verloren gefühlt habe, wenn ich über das Gerät an sich und um die Entwicklung für eben dieses gesprochen habe.</p>
+<p>Die Surface Duo TechNet Community ist leider immer noch sehr still. Das Interesse, sich mit diesem Thema zu beschäftigen, ist anscheinend auch in den unterschiedlichen Reddit Foren recht gering.</p>
+<p>Für Dr. Windows geplante Beiträge wie beispielsweise &#8222;Diese Apps sind ideal für dein Surface Duo&#8220; fielen in Ermangelung angepasster oder gar auf zwei Bildschirme spezialisierter Apps wie unserer #rTsd aus, zumindest konnte ich weder Customer Success Stories noch Microsoft-offizielle Listen dafür finden. Als Weihnachtsgeschenk hat mir der <a href="https://techcommunity.microsoft.com/t5/user/viewprofilepage/user-id/639607" target="_blank" rel="noopener">TechNet Community Benutzer Jim Liddle</a> allerdings einen Link zu einer <a href="https://madbadgadgets.com/2020/12/13/an-in-depth-surface-duo-review-three-months-on/" target="_blank" rel="noopener">spannenden Sammlung von Surface Duo-fähigen Applikationen zukommen lassen.</a></p>
+<h2>Microsoft stellt Figma Surface Duo Design Kit bereit</h2>
+<p>Kurz zur Erklärung: Figma ist ein Mitglied der vektorbasierten UX-, UI- und Prototyping-Werkzeugfamlie und steht neben kostenpflichten Versionen auch in einer kostenfreien Variante zur Verfügung, um Oberflächen, Typographien, Farbpaletten und mehr zu erstellen, zu präsentieren und Entwicklern zugänglich zu machen. Alternativen beziehungsweise Mitbewerber in diesem Segment sind beispielsweise Adobe XD oder Sketch. Letzteres ist nur auf macOS erhältlich.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47.png" data-rel="lightbox-gallery-spkDhMMM" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-79217 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47.png" alt="Surface Duo Design Kit" width="818" height="1142" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47.png 818w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-215x300.png 215w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-733x1024.png 733w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-768x1072.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Bildschirmfoto-2021-01-09-um-16.04.47-643x898.png 643w" sizes="(max-width: 818px) 100vw, 818px" /></a></p>
+<p><strong>Ausführliche Erklärungen mit Beispielen</strong></p>
+<p><a href="https://www.figma.com/community/file/925222050648034066" target="_blank" rel="noopener">Microsoft hat nun auf diesem Dienst eine Mappe</a> mit allerhand tiefgreifenden Informationen bezüglich der Gestaltung von Applikationen für das Surface Duo bereitgestellt.</p>
+<p>So gibt dieses Dokument Auskunft über die Safe Areas des Duo, also in welchen Bereichen eine App sich nicht zeichnen sollte, es zeigt etliche Beispiele für Do’s und Don&#8217;ts an, wie man mit den verschiedenen Layouts einer App speziell auf dem Surface Smartphone umgehen sollte und erklärt ebenso die verschiedenen Postures &#8211; also die Scharnierwinkel des Gerätes – und wie man diese am besten in seinem Programm verwenden kann.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung.png" data-rel="lightbox-gallery-spkDhMMM" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-79218 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung.png" alt="Surface Duo Design Kit" width="937" height="430" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung.png 937w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung-300x138.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung-768x352.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Unbenannte-Zeichnung-643x295.png 643w" sizes="(max-width: 937px) 100vw, 937px" /></a></p>
+<p><strong>Kostenfrei verfügbar</strong></p>
+<p><a href="https://www.figma.com/community/file/925222050648034066" target="_blank" rel="noopener">Das Surface Duo Figma Design Kit</a> ist für jeden kostenlos einsehbar und mit einem ebenso kostenfreien Figma Account könnt ihr so leicht und an die entsprechenden Guidelines haltenden Apps euch gestalten.</p>
+<h2>Die Zukunft der #rTsd App</h2>
+<p>Dies alles lässt mich wieder zuversichtlicher in die Zukunft meiner Hobbyentwicklungen für das Duo blicken. Somit habe ich auch wieder Lust, mehr als nur Aktualisierungen der Abhängigkeiten bei der #rTsd App durchzuführen.</p>
+<p><strong>Was gemacht werden muss</strong></p>
+<p>In der Pflege von Software gibt es immer wieder Aufgaben, welche einem wenig Spaß machen, jedoch gemacht werden müssen. Hier macht auch eine Wochenend-App wie diese keine Ausnahme.</p>
+<p>Darunter fällt zum Beispiel das Update der Basis auf das kürzlich erschienene neue <a href="https://docs.microsoft.com/de-de/xamarin/xamarin-forms/" target="_blank" rel="noopener">Xamarin.Forms 5</a> oder ein Funktionstest auf einer neuen Version des Android Betriebssystems.</p>
+<p><strong>Aber was sonst?</strong></p>
+<p>Die Frage ist nur was? Sollte ich das Aussehen der App weg von einer sehr eigenen Designsprache hin zu <a href="https://docs.microsoft.com/de-de/windows/apps/fluent-design-system">Fluent Design</a> bringen, wie es im Figma Kit beschrieben ist? Was mache ich, durch das Wegfallen des verwenden Webservices, mit dem nicht mehr funktionierenden Twitter-Feature?</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo.png" data-rel="lightbox-gallery-spkDhMMM" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-60993" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo.png" alt="Dr Windows Road To Surface Duo Emulator" width="748" height="500" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo.png 748w, https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo-300x201.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/ui-app-duo-643x430.png 643w" sizes="(max-width: 748px) 100vw, 748px" /></a></p>
+<p><strong>Was wünscht ihr euch? </strong></p>
+<p>Typisch für den Jahresstart wünscht man sich etwas für das neue Jahr. Was würdet ihr gerne in unserer Surface Duo App sehen? Welches Design gefällt euch besser? Bitte behaltet im Hinterkopf, dass diese nicht ein Nachfolger der offiziellen Dr. Windows Apps werden soll, welche wir eingestellt haben, sondern ein Projekt mit Spaß an der Softwareentwicklung.</p>
+<h2>Auch im Jahr 2021 ist aktive Mitarbeit erwünscht</h2>
+<p>All diese Punkte, angefangen vom Xamarin.Forms Update auf Version 5 und auch die eventuell veränderte Oberfläche bieten viele Möglichkeiten, mit in die Entwickler der Dr. Windows Road To Surface Duo App einzusteigen.</p>
+<p>Wer nun Lust bekommen hat, sei es als Ideengeber:in, Gestalter:in oder Entwickler:in, kann sich sehr gerne in den Kommentaren melden, mailt mir an <a href="mailto:tobias@drwindows.de">tobias@drwindows.de</a> oder erstellt beziehungsweise schnappt sich gleich ein <a href="https://github.com/tscholze/xamarin-road-to-surface-duo/issues/">Issue auf GitHub</a>, wo der komplette Quelltext der App liegt.</p>
+<p>Wer die App auf einem Android-Telefon einmal ausprobieren möchte, der kann die etwas angestaubte, jedoch zumindest nach meinen Tests noch funktionierende  <a href="https://play.google.com/store/apps/details?id=io.github.tscholze.rtsd&amp;pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1">Betaversion aus dem Google PlayStore</a> laden. Wer die Kenntnisse hat, kann sie auch einfach via Visual Studio selbst im Emulator oder auf dem eigenen Testgerät kompilieren.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/rtsd-road-to-surface-duo-das-entwicklertagebuch-teil-11-das-feuer-brennt-wieder/feed</wfw:commentRss>
+			<slash:comments>10</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Xbox läutet das neue Jahr mit einem Line-Up Überblick für 2021 ein</title>
+		<link>https://www.drwindows.de/news/xbox-laeutet-das-neue-jahr-mit-einem-line-up-ueberblick-fuer-2021-ein</link>
+					<comments>https://www.drwindows.de/news/xbox-laeutet-das-neue-jahr-mit-einem-line-up-ueberblick-fuer-2021-ein#comments</comments>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Sat, 16 Jan 2021 21:22:41 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79599</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach den Weihnachts-und Neujahrsferien läuft die Marketing Maschinerie langsam wieder an und Xbox eröffnet das Jahr mit einem News-Blog Artikel, der aufzeigt, worauf wir uns im Jahr 2021 exklusiv freuen können. Will Tuttle, Chief-Editor von Xbox Wire, dem Xbox News Segment, verfasste einen Artikel, in dem er alle Titel einmal auflistete. Wer sich die Mühe [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/04/xbox_e3_2018-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach den Weihnachts-und Neujahrsferien läuft die Marketing Maschinerie langsam wieder an und Xbox eröffnet das Jahr mit einem News-Blog Artikel, der aufzeigt, worauf wir uns im Jahr 2021 exklusiv freuen können.</p>
+<p>Will Tuttle, Chief-Editor von Xbox Wire, dem Xbox News Segment, <a href="https://news.xbox.com/en-us/2021/01/15/2021-xbox-exclusive-games/" target="_blank" rel="noopener">verfasste einen Artikel, in dem er alle Titel einmal auflistete.</a></p>
+<p>Wer sich die Mühe macht, alle Spiele einmal aufzuzählen, kommt dabei auf schlanke 28 Spiele.<br />
+Die Frage ist sicherlich, wie der Begriff „Exklusiv“ angesehen wird. Spiele wie Halo Infinite werden dabei natürlich die &#8222;exklusivste&#8220; Form auf Xbox Konsole und Windows 10 PC sein.</p>
+<p>Anderen Titeln wiederum werden sicherlich nur Zeit-Exklusiv der Konsolen-Exklusiv sein.</p>
+<p>Diese Konsolen-Exklusivität lässt sich auch noch weiter fassen, denn der Microsoft Flight Simulator wird als einer der ersten Titel nur für Xbox Series S|X verfügbar sein und die Xbox One|S|X hinter sich lassen.<br />
+Da der Flug Simulator bereits auf dem PC ein Ressourcen Monster ist, war dies wohl unvermeidbar.</p>
+<p>Ich habe zusätzlich meine Xbox PR-Kontakte bemüht und versucht zu erfahren, ob alle diese exklusiven Titel auch als Day One im Xbox Game Pass verfügbar sein werden.</p>
+<p>Antwort: &#8222;Nothing to comment at this time.&#8220; Das war zu erwarten, aber ich gehe fest davon aus, dass Titel der Microsoft Studios wie zuvor beim Xbox Games Showcase im Juli angekündigt, als Day One am Release Tag verfügbar sind.</p>
+<p>Ich persönlich freue mich, neben Halo als Flagship der Xbox-Marke, auf die kleineren Titel wie zum Beispiel Psychonauts 2, das vom legendären Tim Schafer erschaffen und vom Multitalent Jack Black vertont wird.</p>
+<p>Auch ist Tunic ein besonderes Spiel, das 2018 als Ein-Mann Entwicklung auf der E3 gezeigt wurde und auf der Gamescom 2018 bereits anspielbar war. Für mich persönlich eine wunderbare Hommage an Zelda – A Link to the Past auf Super Nintendo.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">✈️ Microsoft Flight Simulator <br />🌀 Psychonauts 2<br />⚔️ RPG Time<br />🗿Sable<br />🍃 The Wild at Heart<br />🍆 Scorn<br />💭 She Dreams Elsewhere<br />❄️ Shredders<br />🏰 Song of Iron<br />🦊 Tunic<br />🏔Unexplored 2: The Wayfarer’s Legacy<br />🔨 Warhammer 40K: Darktide<br />🌳 Way to the Woods</p>
+<p>&mdash; Samuel Bateman (@samuelofc) <a href="https://twitter.com/samuelofc/status/1350190802182561792?ref_src=twsrc%5Etfw">January 15, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Ein weiteres kleines Highlight ist, dass Ende Januar die ehemals Playstation-exklusive Yakuza Remastered Edition und im März Yakuza 6 in den Xbox Game Pass kommen und so alle Yakuza Teile von 0 bis 6 verfügbar sein werden.</p>
+<p>Auf welche Spiele freut Ihr euch am meisten?</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/xbox-laeutet-das-neue-jahr-mit-einem-line-up-ueberblick-fuer-2021-ein/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
