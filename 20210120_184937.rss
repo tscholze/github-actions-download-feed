@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Wed, 20 Jan 2021 16:05:27 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Überraschung: Opera übernimmt YoYo Games und startet eigene Gaming-Division</title>
+		<link>https://www.drwindows.de/news/ueberraschung-opera-uebernimmt-yoyo-games-und-startet-eigene-gaming-division</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 20 Jan 2021 16:05:27 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79762</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Opera" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Unternehmen Opera Limited, welches als gemeinsames Tochterunternehmen von Qihoo 360 und Beijing Kunlun Tech auch den gleichnamigen Webbrowser entwickelt, baut seine Aktivitäten mal wieder aus und übernimmt mit YoYo Games die Macher hinter dem bekannten Entwicklerwerkzeug GameMaker 2 und haben nach eigener Aussage große Pläne mit der neuen Tochter, die weiterhin im schottischen Dundee [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Opera" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/01/opera_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Unternehmen Opera Limited, welches als gemeinsames Tochterunternehmen von Qihoo 360 und Beijing Kunlun Tech auch den gleichnamigen Webbrowser entwickelt, baut seine Aktivitäten mal wieder aus und übernimmt mit YoYo Games die Macher hinter dem bekannten Entwicklerwerkzeug GameMaker 2 und haben nach eigener Aussage große Pläne mit der neuen Tochter, die weiterhin im schottischen Dundee beheimatet und von seinem General Manager Stewart Poole und Technical Lead Russell Kay geleitet werden soll.</p>
+<p>Mit der Übernahme geht auch die Einrichtung von Opera Gaming einher, die als neue Gaming-Division von Opera dienen und auch den eigenen Browser Opera GX umfassen soll. Neben der klassischen Browserentwicklung, die heute vor allem im polnischen Breslau vorangetrieben wird, sowie dem Nachrichtenangebot und den eigenen Aktivitäten bei Finanzdienstleistungen, die auch schon die Übernahme mehrerer Institute vor allem im Baltikum zur Folge hatte, ist das die vierte größere Sparte, die das Unternehmen hochziehen will. Nach eigener Aussage hat man große Pläne mit GameMaker 2 und Opera GX und möchte noch deutlich tiefer in die Gaming-Welt vordringen.</p>
+<p>Rein wirtschaftlich macht die Übernahme Sinn, denn mit Kunlun Tech hat sich eine der beiden Mutterfirmen durchaus einen Namen im chinesischen Gamingsektor gemacht, auch wenn sie in der westlichen Welt mit Grindr 2018 eher ähnliche Negativschlagzeilen gemacht hat wie Qihoo 360 zwei Jahre zuvor mit WoSign und Startcom, wo durch Mozilla ein Schwindel bei Verschlüsselungszertifikaten bei GitHub aufgedeckt wurde und die entsprechenden Sanktionen auch bei Google, Apple und Microsoft folgten. Noch ungeklärt ist zudem der direkte Vorwurf an Opera und seine Fintech-Abteilung durch Hindenburg Research, wonach sie mit räuberischen Krediten vor allem auf dem afrikanischen Kontinent gearbeitet haben sollen.</p>
+<p>Betrachtet man vor allem diese Übernahme, liegt die Überraschung vor allem darin, dass Opera nun mal wieder sowas wie einen klarere Plan präsentiert, nachdem die Entwicklung seit etwas mehr als einem Jahr gerade so vor sich hin plätscherte. Wirklich berauschende Weiterentwicklungen beim Browser gab es nicht, beim Web 3.0 und Kryptowährungen hielt man sich auffallend zurück und auch ansonsten war es auffallend leise beim Entwickler. Warten wir mal ab, was jetzt aus diesem Vorstoß wird oder ob das Ganze nach einigen Monaten doch wieder halb in der Luft hängt.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Autonomes Fahren: Microsoft investiert in die GM-Tochter Cruise</title>
+		<link>https://www.drwindows.de/news/autonomes-fahren-microsoft-investiert-in-die-gm-tochter-cruise</link>
+					<comments>https://www.drwindows.de/news/autonomes-fahren-microsoft-investiert-in-die-gm-tochter-cruise#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 20 Jan 2021 12:02:39 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79756</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft investiert in Cruise" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Cruise, ein in San Francisco ansässiges Tochterunternehmen von General Motors, das auf die Entwicklung selbstfahrender Autos spezialisiert ist, hat in einer Finanzierungsrunde insgesamt 30 Milliarden US-Dollar frisches Kapital eingesammelt. Zwei Milliarden davon stammen von Microsoft, die Beteiligung geht aber über den rein finanziellen Aspekt hinaus. Microsoft-Technologien sollen künftig bei Cruise eine zentrale Rolle einnehmen. Wie [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft investiert in Cruise" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/microsoft_general_motors_cruise-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Cruise, ein in San Francisco ansässiges Tochterunternehmen von General Motors, das auf die Entwicklung selbstfahrender Autos spezialisiert ist, hat in einer Finanzierungsrunde insgesamt 30 Milliarden US-Dollar frisches Kapital eingesammelt. Zwei Milliarden davon stammen von Microsoft, die Beteiligung geht aber über den rein finanziellen Aspekt hinaus.</p>
+<p>Microsoft-Technologien sollen künftig bei Cruise eine zentrale Rolle einnehmen. Wie das im Detail aussieht, wird in der <a href="https://news.microsoft.com/2021/01/19/cruise-and-gm-team-up-with-microsoft-to-commercialize-self-driving-vehicles/" target="_blank" rel="noopener">Pressemitteilung</a> zwar nicht ausgeführt, selbstredend wird Microsoft aber seine Azure-Cloud für die vernetzen Dienste von Cruise zur Verfügung stellen.</p>
+<p>Microsoft schreibt dazu, das Segment der selbstfahrenden Autos sei nicht nur ein technologischer Wettlauf, sondern auch ein Wettbewerb um Vertrauen in die Technik und die dahinter arbeitenden Dienste. Wenig überraschend sieht sich Microsoft als idealer Partner dafür &#8211; und bei General Motors sieht man das offenbar ebenso.</p>
+<p>Die fahrerlosen, vollelektrischen Taxis von Cruise werden bereits seit fünf Jahren in San Francisco getestet. Man will damit nicht nur Fahrer, sondern auch Waren transportieren. Im Oktober 2020 vereinbarte Cruise eine Kooperation mit Walmart, um Kundenbestellungen fahrerlos an die Haustür zu liefern.</p>
+<p>Autonomes Fahren wirkt immer noch ein bisschen wie Science Fiction, für viele Menschen (mich eingeschlossen) bleibt es schlicht unvorstellbar, auch wenn ich in diesem Punkt kein bisschen typisch deutsch denke. Ich wäre sofort bereit, das Lenkrad aus der Hand zu geben. Die Diskussionen &#8222;Pro und Contra&#8220; muss man im Grunde aber gar nicht führen, denn passieren wird es so oder so. Nicht in der From, dass am Tag X autonome Autos eingeführt werden, sondern in der Form, dass immer mehr und immer bessere Assistenzsysteme in die Fahrzeuge integriert werden, die den Fahrer immer weiter entlasten (oder entmündigen, je nach Sichtweise), bis er eines Tages vielleicht tatsächlich überflüssig wird.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/autonomes-fahren-microsoft-investiert-in-die-gm-tochter-cruise/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Minecraft Dungeons: Gemeinsamer Minecraft-Launcher für Windows ist nun verfügbar</title>
+		<link>https://www.drwindows.de/news/minecraft-dungeons-gemeinsamer-minecraft-launcher-fuer-windows-ist-nun-verfuegbar</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 20 Jan 2021 11:47:47 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79754</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel-300x136.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel-643x292.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn ihr schon länger Minecraft Dungeons spielt und parallel auch die klassische Minecraft: Java Edition auf eurem Rechner habt, könnt ihr euch nun über ein neues Update für den Minecraft-Launcher freuen, der den neuen Minecraft Unified Launcher installiert und beide Games in die Anwendung integriert. Der Zusammenlegung beider Launcher war bereits länger beschlossene Sache und [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel-300x136.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/05/Minecraft-Dungeons-Titel-643x292.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn ihr schon länger Minecraft Dungeons spielt und parallel auch die klassische Minecraft: Java Edition auf eurem Rechner habt, könnt ihr euch nun über ein neues Update für den Minecraft-Launcher freuen, der den neuen Minecraft Unified Launcher installiert und beide Games in die Anwendung integriert. Der Zusammenlegung beider Launcher war bereits länger beschlossene Sache und wurde nun am vergangenen Montag vollzogen.</p>
+<p>Alle wesentlichen Punkte zum neuen Minecraft Unified Launcher haben die Entwickler von Mojang Studios in einem eigenen <a href="https://help.minecraft.net/hc/en-us/articles/360053351331">FAQ</a> zusammengefasst. Speicherstände beider Games werden nicht angerührt, sie müssen jedoch weiter separat voneinander gekauft werden. Auch die Anmeldung mit dem eigenen Microsoft-Account, zu dem die Entwickler migrieren wollen, ist für beide Spiele möglich. Das Update für den Minecraft Unified Launcher steht derweil nur für die Minecraft: Java Edition bereit. Der eigene Launcher von Minecraft Dungeons wird nicht mehr weiterentwickelt und kann deinstalliert werden.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Listen up Windows players! From today, we’ve switched to our unified launcher so you can fire up Dungeons and Minecraft: Java Edition from the same place – handy, right?</p>
+<p>Check out our FAQs for full details to guide you through the upgrade process:</p>
+<p>↣ <a href="https://t.co/StslMNCOvU">https://t.co/StslMNCOvU</a> ↢ <a href="https://t.co/e0pMZQBIy8">pic.twitter.com/e0pMZQBIy8</a></p>
+<p>&mdash; Minecraft Dungeons (@dungeonsgame) <a href="https://twitter.com/dungeonsgame/status/1351197665976086533?ref_src=twsrc%5Etfw">January 18, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Gadgetcheck: Anker Nano &#8211; Das kleinste Ladegerät der Welt?</title>
+		<link>https://www.drwindows.de/news/gadgetcheck-anker-nano-das-kleinste-ladegeraet-der-welt</link>
+					<comments>https://www.drwindows.de/news/gadgetcheck-anker-nano-das-kleinste-ladegeraet-der-welt#comments</comments>
+		
+		<dc:creator><![CDATA[Alex Lüttgen]]></dc:creator>
+		<pubDate>Wed, 20 Jan 2021 11:29:47 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79607</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Anker Nano" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Ladegeräte, die ewige Qual der Wahl. Bis vor kurzem gab es noch zu jedem Smartphone ein Ladegerät dazu, doch diese Einstellung der Anbieter ändert sich gerade. Apple hat den Anfang gemacht, Samsung ist mit dem S21 gefolgt und wenn ihr mich fragt, werden mehr und mehr Anbieter diesem Vorbild folgen. Ob aus Umweltschutz- oder finanziellen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Anker Nano" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Beitragsbild-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Ladegeräte, die ewige Qual der Wahl. Bis vor kurzem gab es noch zu jedem Smartphone ein Ladegerät dazu, doch diese Einstellung der Anbieter ändert sich gerade. Apple hat den Anfang gemacht, Samsung ist mit dem <a href="https://www.drwindows.de/news/samsung-galaxy-s21-serie-auf-der-suche-nach-der-neuen-vernunft" target="_blank" rel="noopener">S21 gefolgt</a> und wenn ihr mich fragt, werden mehr und mehr Anbieter diesem Vorbild folgen. Ob aus Umweltschutz- oder finanziellen Gründen? Da darf sich jeder seinen eigenen Teil bei denken. Der Markt der Ladegeräte wird also auch in den nächsten Jahren spannend bleiben und gerade bei den Zubehörherstellern reibt man sich sicherlich die Hände. Diese bieten ihre Ladegeräte nämlich meist deutlich günstiger an als die Smartphonehersteller ihre eigenen.</p>
+<p>Auch bieten die Zubehörhersteller wie zum Beispiel Anker Wandladegeräte in unterschiedlichen Konfigurationen an. Von klein mit nur einem USB-A Port bis groß mit gleich vier Ports und bis zu 90W Leistung ist alles dabei. Heute möchte ich euch ein Ladegerät vorstellen, welches in erster Linie einmal extrem <strong>KLEIN </strong>ist. Anker hat mir den Anker Nano freundlicherweise zur Verfügung gestellt und die Erfahrungen damit möchte ich euch nicht vorenthalten.</p>
+<p>Das Anker Nano ist ein Ladegerät, welches von den Spezifikationen her nicht sonderlich herausragt. Es ist ein klassisches 18W Ladegerät mit einem USB-C Anschluss. Diesen bringt es allerdings auf so kleinem Raum unter, dass es doch wieder aus der Masse hervorsticht. Sieht man vom Schuko Stecker einmal ab, bleibt ein 2,8 x 2,8 x 3,0 cm großer Würfel, der aus der Wand heraussteht. Dieser kleine Würfel unterstützt sowohl Quickcharge als auch Power Delivery und selbstverständlich Ankers proprietäre PowerIQ 3.0 Technologie.</p>
+<h3>Das Unboxing</h3>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing.jpg" data-rel="lightbox-gallery-kiF8sqBI" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone wp-image-79612 size-full" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing.jpg" alt="Anker Nano" width="1017" height="1200" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing.jpg 1017w, https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing-254x300.jpg 254w, https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing-868x1024.jpg 868w, https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing-768x906.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/AnkerNanoUnboxing-643x759.jpg 643w" sizes="(max-width: 1017px) 100vw, 1017px" /></a><br />
+Ausgepackt fühlt sich das kleine Ladegerät nochmal kleiner an, als es das durch die Beschreibung ohnehin schon tut. Ein 2-Euro Stück ist nahezu identisch groß und mit seinen 35 Gramm ist es dazu auch noch extrem leicht. Abgesehen von dem Ladegerät befindet sich wie bei Anker üblich noch eine Kurzanleitung und eine Zufriedenheitsabfrage an den Kunden in der Packung.</p>
+<p>Das Ladegerät selbst kommt in einem glänzend weißen Kunststoffgehäuse, welches sehr gut verarbeitet wirkt. Der Stecker steht an den Seiten etwas über die Grundfläche des Gehäuses über, verschwindet allerdings vollends in der Wand und fällt dann gar nicht mehr auf. Ein USB-C Kabel lässt sich passgenau einstecken und rastet spürbar ein.</p>
+<p>Durch die gängigen Power Delivery Profile, welche zum USB-C Standard gehören, bis 9V und in dem Fall 2A, lassen sich aktuelle Smartphones in unter einer Stunde auf 80% aufladen. Das Ladegerät kann aber selbstverständlich auch für alle anderen Geräte, die über USB-C geladen werden können, verwendet werden, sofern sie mit den maximalen 9V und 18W zurechtkommen. Manche Laptops benötigen hier mindestens 30W Leistung, wodurch keine Ladung zustande kommen kann (auch für Surface-Geräte mit USB-C Anschluss kann man dieses Ladegerät nicht verwenden). Tablets, Kopfhörer, Smartphones und mobile Spielekonsolen machen hier allerdings überhaupt keine Probleme, sofern die richtigen Kabel oder Adapter auf USB-C vorhanden sind.</p>
+<p>Ein Manko gibt es dann allerdings doch. Je kleiner das Gerät, desto weniger Raum gibt es natürlich, um Wärme zu speichern und abzutransportieren. So musste ich feststellen, dass das Anker Nano beim Laden meines iPhone sehr warm wurde. Die Wärme empfand ich nicht direkt als unangenehm, jedoch habe ich vereinzelt Berichte gesehen, in denen das Gerät knapp an die 60°C-Grenze gekommen ist. Bei diesen Temperaturen will man das Gerät dann wohl nicht mehr anfassen.</p>
+<h3>Fazit</h3>
+<p>Das Anker Nano ist in meinen Augen ein perfekter Wegbegleiter für Reisen oder für das Pendeln in der Bahn. Als Standardladegerät in der Wohnung würde ich es nicht nutzen, da die Leistung nicht für jeden Laptop reicht, bzw. es einfach viel zu warm wird, wenn ich mehrere Geräte hintereinander lade.</p>
+<p>Sofern es dieses Jahr aber möglich sein wird zu reisen, wird mich das Anker Nano definitiv auf meiner Rucksackreise durch Schweden diesen Sommer begleiten. Meine Frau und ich wollen mit Rucksack bepackt und mit der Bahn durch Schweden reisen und werden dort jeden Kubikzentimeter Gepäckraum so effizient wie möglich nutzen müssen. Da kommt das Anker Nano absolut gelegen, denn zum Nachladen unserer Powerbanks reicht es allemal.</p>
+<p>Für Neueinsteiger in die Smartphone-Welt, die zu ihrem neuen Gerät eben kein Ladegerät mehr bekommen, empfinde ich dieses Ladegerät allerdings auch als absolut empfehlenswert, da es zum einen mehr Leistung bringt als die Standardladegeräte der meisten Hersteller und zum anderen auch noch sehr handlich dabei ist.</p>
+<p>Der aktuelle Preis von 19,99 Euro auf <a href="https://amzn.to/3qBU7dc" target="_blank" rel="noopener">Amazon</a> ist dabei auch noch absolut ansprechend. Ein vergleichbares 20W Ladegerät von Apple kostet beispielsweise gleich 25% mehr.</p>
+<p>Von mir gibt es also eine klare Empfehlung für Reisen oder für Anwendungsfälle, in denen die Leistung des Geräts nicht maximal ausgereizt wird. Für Poweruser, die täglich viele Geräte mit hohen Spitzenleistungen laden, würde ich eher ein etwas größeres Ladegerät empfehlen.</p>
+<p>Disclaimer: Enthält Affiliate Links. Das Testmuster wurde uns von Anker kostenlos überlassen. Eine Einflussnahme auf den Testbericht oder eine Verpflichtung zur Veröffentlichung gab es nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/gadgetcheck-anker-nano-das-kleinste-ladegeraet-der-welt/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Entwicklervorschau liest Adressen aus der Zwischenablage</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-entwicklervorschau-liest-adressen-aus-der-zwischenablage</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 20 Jan 2021 09:17:36 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79716</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Edge-Entwickler haben Version 89.0.767.0 des Microsoft-Browsers im Vorschaukanal für Entwickler veröffenlicht. Das aktuelle Update widmet sich dem automatischen Ausfüllen von Formularen. Geburtstage werden nun ebenfalls gespeichert und können automatisch eingefügt werden, außerdem kann eine Adresse, die vollständig in die Zwischenablage kopiert wurde, in ein Web-Formular eingefügt werden, wobei Edge die entsprechenden Felder automatisch erkennt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Edge-Entwickler haben Version 89.0.767.0 des Microsoft-Browsers im Vorschaukanal für Entwickler veröffenlicht. Das aktuelle Update widmet sich dem automatischen Ausfüllen von Formularen. Geburtstage werden nun ebenfalls gespeichert und können automatisch eingefügt werden, außerdem kann eine Adresse, die vollständig in die Zwischenablage kopiert wurde, in ein Web-Formular eingefügt werden, wobei Edge die entsprechenden Felder automatisch erkennt und an der richtigen Stelle einfügt.</p>
+<p>Weitere Änderungen:</p>
+<ul>
+<li>Das &#8222;Teilen&#8220;-Menü ist jetzt auch in als Apps installierten Webseiten verfügbar.</li>
+<li>Die <a href="https://www.drwindows.de/news/vertikale-tab-leiste-in-microsoft-edge-ausprobiert-warum-war-das-jemals-anders" target="_blank" rel="noopener">vertikalen Tabs</a> sind jetzt endgültig für alle Insider verfügbar.</li>
+<li>Es wurden neue Gruppenrichtlinien hinzugefügt.</li>
+</ul>
+<p>Abgesehen davon gibt es wie üblich diverse Fehlerkorrekturen. Das komplette Changelog kann im <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-89-0-767-0-is-live/m-p/2076060" target="_blank" rel="noopener">Edge Forum</a> nachgelesen werden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Xbox Game Pass: Control, Yakuza Remastered und weitere Titel noch im Januar</title>
+		<link>https://www.drwindows.de/news/xbox-game-pass-control-yakuza-remastered-und-weitere-titel-noch-im-januar</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 17:14:11 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79708</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Update Januar 2021" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Neues Jahr, alte Routine: Auch im Januar 2021 folgt auf die erste Welle der Neuzugänge im Xbox Game Pass eine zweite. Überraschungen gibt es dabei allerdings nicht, denn Control oder die Yakuza Collection waren ja bereits im Vorfeld angekündigt wurden. Nun schlagen sie also im Abonnement auf. Das hier sind die weiteren Neuzugänge im Januar: [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Game Pass Update Januar 2021" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/xbox_game_pass_jan_21_2-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Neues Jahr, alte Routine: Auch im Januar 2021 folgt auf die erste Welle der Neuzugänge im Xbox Game Pass eine zweite. Überraschungen gibt es dabei allerdings nicht, denn Control oder die Yakuza Collection waren ja bereits im Vorfeld angekündigt wurden. Nun schlagen sie also im Abonnement auf.</p>
+<p>Das hier sind die weiteren Neuzugänge im Januar:</p>
+<p><strong>ab 21. Januar 2021:</strong></p>
+<ul>
+<li>Control (PC)</li>
+<li>Desperados III (Android, Konsole and PC)</li>
+<li>Donut County (Android, Konsole and PC) ID@Xbox</li>
+<li>Outer Wilds (Android) ID@Xbox</li>
+</ul>
+<p><strong>ab 26. Januar 2021:</strong></p>
+<ul>
+<li>Cyber Shadow (Android, Konsole and PC) ID@Xbox</li>
+</ul>
+<p><strong>ab 28. Januar 2021:</strong></p>
+<ul>
+<li>The Medium (Xbox Series X|S und PC) ID@Xbox</li>
+<li>Yakuza Remastered Collection (Yakuza 3, 4 und 5, Android, Konsole und PC)</li>
+</ul>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>SSD-Upgrade beim Surface Pro 7+ und Surface Pro X: Unkompliziert, aber auf eigenes Risiko</title>
+		<link>https://www.drwindows.de/news/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko</link>
+					<comments>https://www.drwindows.de/news/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 10:09:19 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79683</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Toshiba SSD M.2 2230" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Beim neuen Surface Pro 7+ lässt sich die verbaute SSD mit wenigen Handgriffen wechseln. Ein Austausch oder ein Upgrade sind offiziell dennoch nicht möglich, laut Microsoft soll das nur von autorisierten Technikern durchgeführt werden. Wer selbst Hand anlegt, riskiert also grundsätzlich den Verlust der Garantie. Das bitte beim Weiterlesen im Hinterkopf behalten. Nicht nur das [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Toshiba SSD M.2 2230" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/toshiba_ssd_m2_2230_surface-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Beim neuen Surface Pro 7+ lässt sich die verbaute SSD mit wenigen Handgriffen wechseln. Ein Austausch oder ein Upgrade sind offiziell dennoch nicht möglich, laut Microsoft soll das nur von autorisierten Technikern durchgeführt werden. Wer selbst Hand anlegt, riskiert also grundsätzlich den Verlust der Garantie. Das bitte beim Weiterlesen im Hinterkopf behalten.</p>
+<p>Nicht nur das <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fsurface-pro-7-plus-for-business%2F8P43N3K93409%3Ficid%3DSurface_for_Business-CP1-Surface_Pro_7%2B_for_Business-01152021%26activetab%3Dpivot%253aoverviewtab" target="_blank" rel="noopener">Surface Pro 7+</a>, auch das Surface Pro X ermöglicht einen einfachen SSD-Tausch. Beim Surface Laptop 3 geht das ebenfalls, da hierfür aber das Gehäuse geöffnet werden muss, benötigt man dafür deutlich mehr handwerkliches Geschick.</p>
+<p>Microsoft verkauft die Surface SSD nicht als Ersatzteil, außerdem wird hier ein Formfaktor verwendet, den es so nicht frei zu kaufen gibt.</p>
+<p>Ein Speicherupgrade wäre deshalb so interessant, weil Microsoft die großen SSDs auch nur in Verbindung mit den leistungsstärksten CPUs anbietet. Wer 512 GB oder 1 TB SSD-Speicher haben möchte, muss beim Surface Pro 7+ zwangsläufig auch den Intel Core i7 nehmen, auch wenn man die Mehrleistung überhaupt nicht benötigt.</p>
+<p>Erschwerend kommt hinzu, dass die Preisunterschiede für die größeren SSDs schon beinahe unverschämt sind. Bekommt man das Upgrade von 128 auf 256 GB beim Surface Pro 7+ noch für moderate 120 Euro, muss man für 512 statt 256 GB satte 440 Euro drauflegen, zwischen 512 GB und 1 TB liegen 480 Euro. Auch beim Surface Pro X wird zugelangt: 300 Euro für 256 statt 128 GB und 350 Euro für 512 statt 256 GB.</p>
+<p>Nun sind wir aber im Internet und hier gibt es bekanntlich für jedes Problem eine Lösung. Ein findiger Techniker hat herausgefunden, welche SSD im Surface Pro 7+ steckt &#8211; und wo diese noch verbaut ist.</p>
+<p>Die externe SSD &#8222;Tuff Nano&#8220; von CalDigit verwendet genau das gleiche Format, eine <a href="https://www.tomshardware.com/reviews/toshiba-bg4-m.2-nvme-ssd-review,6330.html" target="_blank" rel="noopener">M.2 2230 von Toshiba</a>. Diese gibt es in zwei Größen: 512 GB von 189 Euro und 1 TB für 259 Euro. Wie der Austausch funktioniert, hat der YouTube Kanal &#8222;cbutters Tech&#8220; demonstriert:</p>
+<p><iframe title="Surface Pro 7+ SSD Swap (also Surface Pro X) 1TB for hundreds less!" width="500" height="281" src="https://www.youtube.com/embed/j9vp_lRsD5I?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Die Tuff Nano muss geöffnet und im Grunde zerstört werden, um an die verbaute SSD zu kommen, hier ist die Garantie also garantiert beim Teufel. Beim Surface Pro 7+ oder Surface Pro X lässt sich der Umbau ebenso leicht wieder rückgängig machen, hier würde ich das Risiko des Garantieverlusts als moderat bezeichnen. Es sei aber nochmals betont, dass man sich außerhalb der Garantiebedingungen von Microsoft bewegt, wenn man auf diese Weise Hand anlegt.</p>
+<p>Die Tuff Nano gibt es hierzulande bei <a href="https://amzn.to/3bWjsKD" target="_blank" rel="noopener">Amazon</a> (Affiliate Link). Wenn man nach &#8222;M.2 2230&#8220; recherchiert, findet man weitere, potenziell passende Kandidaten. Wer dazu weitere Infos beisteuern kann oder sogar schon selbst einen Austausch durchgeführt hat, darf sich gerne im <a href="https://www.drwindows.de/xf/threads/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko.173909/unread">Kommentar-Thread</a> melden.</p>
+<p>Herzlichen Dank für unser Community-Mitglied Christian für den Tipp in unserem <a href="https://t.me/drwindowstalk" target="_blank" rel="noopener">Telegram Chat</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ssd-upgrade-beim-surface-pro-7-und-surface-pro-x-unkompliziert-aber-auf-eigenes-risiko/feed</wfw:commentRss>
+			<slash:comments>14</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Surface Pro 7: Firmwareupdate verfügbar</title>
+		<link>https://www.drwindows.de/news/surface-pro-7-firmwareupdate-verfuegbar</link>
+					<comments>https://www.drwindows.de/news/surface-pro-7-firmwareupdate-verfuegbar#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Tue, 19 Jan 2021 07:06:32 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79678</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Für das Surface Pro 7 ist ein weiteres Firmware Update verfügbar. Es ist ebenso umfangreich wie unspektakulär, denn wie üblich werden im Rahmen eines solchen Updates keine neuen Funktionen eingeführt. Insgesamt sieben Komponenten, unter anderem das UEFI-BIOS selbst, werden auf den neuesten Stand gebraucht. Auch für den Intel-Chipsatz sind Aktualisierungen an Bord. In Summe dient [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_pro_7_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Für das Surface Pro 7 ist ein weiteres Firmware Update verfügbar. Es ist ebenso umfangreich wie unspektakulär, denn wie üblich werden im Rahmen eines solchen Updates keine neuen Funktionen eingeführt.</p>
+<p>Insgesamt sieben Komponenten, unter anderem das UEFI-BIOS selbst, werden auf den neuesten Stand gebraucht. Auch für den Intel-Chipsatz sind Aktualisierungen an Bord. In Summe dient das Update der Verbesserung der Systemstabilität und der Implementierung der neuesten Sicherheitsupdates.</p>
+<p>Alle Details können wie immer im <a href="https://support.microsoft.com/en-us/help/4526363/surface-pro-7-update-history" target="_blank" rel="noopener">Changelog</a> nachgelesen werden. Die Verteilung erfolgt ebenfalls wie immer über Windows Update.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-pro-7-firmwareupdate-verfuegbar/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ein letztes Mal: Alte US-Regierung streicht Ausnahmen für Huawei weiter zusammen</title>
+		<link>https://www.drwindows.de/news/ein-letztes-mal-alte-us-regierung-streicht-ausnahmen-fuer-huawei-weiter-zusammen</link>
+					<comments>https://www.drwindows.de/news/ein-letztes-mal-alte-us-regierung-streicht-ausnahmen-fuer-huawei-weiter-zusammen#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 19:45:04 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79674</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Huawei Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Bevor mit Joe Biden der nächste US-Präsident ins Amt eingeführt wird und mit ihm dann auch eine neue Regierung die Geschicke in den Vereinigten Staaten übernimmt, lässt die alte Administration unter US-Präsident Donald Trump im laufenden Handelskonflikt mit China noch ein letztes Mal die Muskeln spielen. Nachdem zuletzt weitere Unternehmen wie Xiaomi auf der so [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Huawei Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/huawei_logo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Bevor mit Joe Biden der nächste US-Präsident ins Amt eingeführt wird und mit ihm dann auch eine neue Regierung die Geschicke in den Vereinigten Staaten übernimmt, lässt die alte Administration unter US-Präsident Donald Trump im laufenden Handelskonflikt mit China noch ein letztes Mal die Muskeln spielen. Nachdem zuletzt weitere Unternehmen wie Xiaomi auf der so genannten Entity List gelandet sind, werden nun die laufenden Ausnahmen für Huawei noch einmal zusammen gestrichen, wie Reuters in einem entsprechenden Bericht schreibt.</p>
+<p>Explizit genannt wird in dem Bericht wird Intel, die nun keine neue Hardware mehr für die Laptop-Sparte von Huawei liefern dürfen. Daneben sollen auch zahlreiche andere Ausnahmen zurückgenommen werden, allerdings geht man derzeit nicht näher auf die betroffenen Unternehmen ein. Zu den Konzernen, die noch Sondergenehmigungen für den Handel mit dem chinesischen Technologieriesen inne hatten, gehörte neben Samsung und Qualcomm auch Microsoft, sodass auf den Geräten weiterhin Windows 10 laufen konnte.</p>
+<p>Entscheidend wird letztlich sein, wie die neue Administration unter Joe Biden weiter mit dem Handelskonflikt umgehen wird. Bekannt ist allerdings, dass der neue Präsident auch den Druck auf Peking weiter hoch halten und sie zurück an den Verhandlungstisch zwingen will. Ob man also auf absehbare Zeit mit einer leichteren Entspannung rechnen kann, muss man noch abwarten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ein-letztes-mal-alte-us-regierung-streicht-ausnahmen-fuer-huawei-weiter-zusammen/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Ausgepackt: Das Surface Pro 7+ ist eingetroffen</title>
+		<link>https://www.drwindows.de/news/ausgepackt-das-surface-pro-7-ist-eingetroffen</link>
+					<comments>https://www.drwindows.de/news/ausgepackt-das-surface-pro-7-ist-eingetroffen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 18 Jan 2021 17:25:27 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Review]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79666</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7 Plus" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-643x322.jpg 643w" sizes="(max-width: 658px) 100vw, 658px" /></div>Das Surface Pro 7+ ist das jüngste Mitglied der inzwischen recht großen Familie der Surface-Geräte. Microsoft hat sich beim neuen Modell nicht fürs &#8222;Hochzählen&#8220; entschieden, sondern der vorherigen Generation ein simples Pluszeichen angehängt. Angesichts der Tatsache, dass sich das Gerät äußerlich nicht verändert hat, sicherlich eine nachvollziehbare Entscheidung. Das Surface Pro 7+ kommt allerdings nicht [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7 Plus" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus_titelbild-643x322.jpg 643w" sizes="(max-width: 658px) 100vw, 658px" /></div><p>Das Surface Pro 7+ ist das jüngste Mitglied der inzwischen recht großen Familie der Surface-Geräte. Microsoft hat sich beim neuen Modell nicht fürs &#8222;Hochzählen&#8220; entschieden, sondern der vorherigen Generation ein simples Pluszeichen angehängt.</p>
+<p>Angesichts der Tatsache, dass sich das Gerät äußerlich nicht verändert hat, sicherlich eine nachvollziehbare Entscheidung. Das Surface Pro 7+ kommt allerdings nicht nur mit aktualisierten Prozessoren (11. Generation Intel Core CPUs), sondern auch mit LTE-Option und einer wechselbaren SSD.</p>
+<p>Offiziell trägt das neue Modell den Namen &#8222;Surface Pro 7+ for Business&#8220;, wird also nicht im klassischen Einzelhandel zu finden sein. Dennoch kann es aber von jedermann im <a href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&amp;mid=46131&amp;murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fsurface-pro-7-plus-for-business%2F8P43N3K93409%3Ficid%3DSurface_for_Business-CP1-Surface_Pro_7%2B_for_Business-01152021%26activetab%3Dpivot%253aoverviewtab" target="_blank" rel="noopener">Microsoft Store</a> (Affiliate Link) bestellt werden, es gibt keine Prüfung der &#8222;Business-Verwendung&#8220;. Auch die offiziellen Surface-Reseller freuen sich in aller Regel über jedes verkaufte Gerät und fragen nicht weiter nach.</p>
+<p>Alle technischen Daten zum Surface Pro 7+ kann man in der <a href="https://www.drwindows.de/news/statt-surface-pro-8-microsoft-bringt-das-surface-pro-7-mit-lte-und-austauschbarer-ssd" target="_blank" rel="noopener">Newsmeldung</a> nachschlagen.</p>
+<p>Ich habe das Surface Pro 7+ heute erhalten. Auf dem Titelbild sieht man bereits eine Besonderheit, die alle &#8222;for Business&#8220;-Modelle der Surface-Reihe gemeinsam haben: Nämlich die vergleichsweise &#8222;schmucklose&#8220;, dafür aber deutlich umweltfreundlichere Verpackung.</p>
+<p>Einem neuen Gerät widmet man sich ja in aller Regel zuerst von vorne, beim Surface Pro 7+ machen wir eine Ausnahme, denn die oben erwähnten Neuerungen sind auf der Rückseite zu finden.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01.jpg" data-rel="lightbox-gallery-yQ1ZqjxY" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79669" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01.jpg" alt="Surface Pro 7 Plus" width="1500" height="1290" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-300x258.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-1024x881.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-768x660.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_01-643x553.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Hinter der etwas größeren Abdeckung unten links befindet sich die SSD, knapp unterhalb des Scharniers ist der SIM Slot zu sehen. Das beiligende, wohlbekannte Tool öffnet beide Schächte, die SSD ist außerdem noch mit einer Torx-Schraube gesichert.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02.jpg" data-rel="lightbox-gallery-yQ1ZqjxY" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79670" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02.jpg" alt="Surface Pro 7 Plus" width="1500" height="1125" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-300x225.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-1024x768.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-768x576.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-100x75.jpg 100w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_rueckseite_02-643x482.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Damit ist die äußerliche Erkundung auch schon so gut wie abgeschlossen. Ansonsten ist es halt ein Surface Pro, wie wir es kennen. Der Kickstand lässt wie üblich fast vollständig umklappen und verzeiht auch eine gewaltsame Überdehnung gutmütig.</p>
+<p>An der rechten Seite finden wir die Anschlüsse: USB-C, USB-A und den Surface Connector. An der linken Seite befindet sich weiterhin ein 3,5mm Audio-Anschluss.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich.jpg" data-rel="lightbox-gallery-yQ1ZqjxY" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-79671" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich.jpg" alt="Surface Pro 7 Plus" width="1500" height="1384" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich.jpg 1500w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-300x277.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-1024x945.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-768x709.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro7_plus_seitlich-643x593.jpg 643w" sizes="(max-width: 1500px) 100vw, 1500px" /></a></p>
+<p>Im weiteren Verlauf der Erkundung bin ich vor allen Dingen darauf gespannt, ob das Surface Pro 7+ sein Versprechen auf eine deutlich längere Akkulaufzeit einlösen kann. &#8222;Bis zu 15 Stunden&#8220; sind es laut Datenblatt, stolze viereinhalb Stunden länger als beim Vorgänger.</p>
+<p>Davon abgesehen erwarte ich keine gravierenden Abweichungen zum Surface Pro 7 &#8211; wo sollten sie auch herkommen.</p>
+<p>Disclaimer: Das Testgerät wird von Microsoft leihweise zur Verfügung gestellt. Eine Einflussnahme auf den Test oder eine Verpflichtung zur Veröffentlichung besteht nicht.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/ausgepackt-das-surface-pro-7-ist-eingetroffen/feed</wfw:commentRss>
+			<slash:comments>8</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
