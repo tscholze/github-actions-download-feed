@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Sun, 24 Jan 2021 21:05:52 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>iOS Rundschau KW 3/21 mit Power BI, Teams, OneDrive und Yammer</title>
+		<link>https://www.drwindows.de/news/ios-rundschau-kw-3-21-mit-power-bi-teams-onedrive-und-yammer</link>
+		
+		<dc:creator><![CDATA[Maik Wlodarczyk]]></dc:creator>
+		<pubDate>Sun, 24 Jan 2021 21:05:52 +0000</pubDate>
+				<category><![CDATA[Microsoft auf iOS]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79950</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In dieser Woche war es wieder etwas ruhiger. Power BI und OneDrive bekamen lediglich ein kleines Feature Update. Bei Microsoft Teams gibt es jetzt auch in der mobilen Version die Möglichkeit, dass Besprechungsteilnehmer Breakout-Räume betreten können. Das wird bestimmt den einen oder anderen sehr freuen. Außerdem gab es noch 5 Wartungs-Updates und 4 Beta Updates. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In dieser Woche war es wieder etwas ruhiger. Power BI und OneDrive bekamen lediglich ein kleines Feature Update. Bei Microsoft Teams gibt es jetzt auch in der mobilen Version die Möglichkeit, dass Besprechungsteilnehmer Breakout-Räume betreten können. Das wird bestimmt den einen oder anderen sehr freuen.</p>
+<p>Außerdem gab es noch 5 Wartungs-Updates und 4 Beta Updates.</p>
+<p>&nbsp;</p>
+<p><strong>Microsoft Power BI</strong> &#8211; <em>Version 2.3.0</em></p>
+<p>Benutzer mit einer Power BI-Gratislizenz können ab sofort Arbeitsbereiche, für die sie als Betrachter hinzugefügt wurden, direkt aus der Liste der Arbeitsbereiche anzeigen und auf diese zugreifen. Hinweis: Diese Änderung gilt für Inhalte, die auf einer Power BI Premium-Kapazität gehostet werden.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 929738808) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-power-bi/id929738808" title="‎Microsoft Power BI">‎Microsoft Power BI (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Microsoft Teams</strong> &#8211; <em>Version 2.3.0</em></p>
+<ul>
+<li dir="ltr">Steuern Sie die Besprechungsoptionen direkt über die Registerkarte „Besprechungsdetails“</li>
+<li dir="ltr">Bessere Suchergebnisse für Besprechungen. Suchen Sie Ausdrücke wie „nächste Besprechung“, „Strategiebesprechung“ usw.</li>
+<li dir="ltr">Mobile Besprechungsteilnehmer können Breakout-Räumen beitreten</li>
+<li dir="ltr">Teams verwendet standardmäßig die Designeinstellung Ihres Geräts</li>
+</ul>
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1113153706) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-teams/id1113153706" title="‎Microsoft Teams">‎Microsoft Teams (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Microsoft OneDrive</strong> &#8211; <em>Version 12.14</em></p>
+<p>Für Live-Fotos, bei denen der „Live&#8220;-Aspekt während der Bearbeitung eingestellt wurde, wurde die App verwendet, um das Foto und das Video hochzuladen, was unerwartet war. Dies wurde behoben und jetzt wird in diesem Szenario nur das Foto hochgeladen. Vielen Dank an diejenigen, die uns darauf hingewiesen haben und uns geholfen haben, uns zu verbessern.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 477537958) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onedrive/id477537958" title="‎Microsoft OneDrive">‎Microsoft OneDrive (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p><strong>Yammer</strong> &#8211; <em>Version 8.1.0</em></p>
+<ul>
+<li>Wir haben eine Wischgeste in der Communityliste hinzugefügt, die Benutzern das Verwerfen ausstehender Anforderungen für die Teilnahme an privaten Communities ermöglicht.</li>
+<li dir="ltr">Wir haben ein Problem behoben, das verursacht hat, dass die Option „Posten erneut versuchen“ nicht erfolgreich war.</li>
+</ul>
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 289559439) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/yammer/id289559439" title="‎Yammer">‎Yammer (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+<h3>Wartungs- und Bugfix-Updates</h3>
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 951937596) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-outlook/id951937596" title="‎Microsoft Outlook">‎Microsoft Outlook (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1047318566) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/power-apps/id1047318566" title="‎Power Apps">‎Power Apps (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 288429040) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/linkedin-business-netzwerk/id288429040" title="‎LinkedIn: Business-Netzwerk">‎LinkedIn: Business-Netzwerk (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1219301037) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-planner/id1219301037" title="‎Microsoft Planner">‎Microsoft Planner (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 605841731) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/skype-for-business/id605841731" title="‎Skype for Business">‎Skype for Business (Kostenlos, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3></h3>
+<h3>BETA-Updates</h3>
+<ul>
+<li>Microsoft Outlook &#8211; <em>Version 4.2103.0</em></li>
+<li>Microsoft OneDrive &#8211; <em>Version 12.15</em></li>
+<li>Microsoft Whiteboard &#8211; <em>Version 21.10111.0</em></li>
+<li>Microsoft SwiftKey-Tastatur &#8211; <em>Version 2.8.7</em></li>
+</ul>
+<p>&nbsp;</p>
+<p>In dieser <a href="https://www.drwindows.de/microsoft-apps-und-dienste-auf-ios/126849-allgemeine-informationen-ios-rundschau.html"><span class="s1">Liste</span></a> stehen alle Microsoft Apps für iOS, die in den iOS-Rundschauen auf Updates überprüft werden. Falls ihr uns Hinweise zu App-Updates senden möchtet, könnt ihr sie gerne an iOSRundschau(at)drwindows.de senden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Apple M1: Microsoft Edge steht nun auch in der stabilen Version bereit</title>
+		<link>https://www.drwindows.de/news/apple-m1-microsoft-edge-steht-nun-auch-in-der-stabilen-version-bereit</link>
+					<comments>https://www.drwindows.de/news/apple-m1-microsoft-edge-steht-nun-auch-in-der-stabilen-version-bereit#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 23 Jan 2021 12:21:29 +0000</pubDate>
+				<category><![CDATA[Microsoft auf MacOS]]></category>
+		<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79916</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Wenn ihr einen neuen Mac auf Basis von Apple Silicon verwendet, könnt ihr euch nun über eine vollständige native Unterstützung von Microsoft Edge freuen. Nachdem Microsoft Mitte Dezember zunächst den Canary Channel auf die neue Basis umgestellt hatte, folgten Mitte Januar der Dev und der Beta Channel nach. Mit dem Release der stabilen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Wenn ihr einen neuen Mac auf Basis von Apple Silicon verwendet, könnt ihr euch nun über eine vollständige native Unterstützung von Microsoft Edge freuen. Nachdem Microsoft Mitte Dezember zunächst den <a href="https://www.drwindows.de/news/edge-canary-erste-version-fuer-macos-mit-apple-m1-kann-nun-getestet-werden">Canary Channel</a> auf die neue Basis umgestellt hatte, folgten <a href="https://www.drwindows.de/news/apple-m1-microsoft-weitet-verfuegbarkeit-von-edge-auf-den-dev-und-beta-channel-aus">Mitte Januar</a> der Dev und der Beta Channel nach. Mit dem Release der stabilen Version von Edge 88.x wurde nun auch der letzte Channel auf den neuen Stand gebracht.</p>
+<p>Die Umstellung sollte normalerweise automatisch erfolgen, Nutzer können dies aber über den Aktivitätsmanager überprüfen. Was Edge 88.x ansonsten für Verbesserungen mitbringt, hatte euch Martin gestern in <a href="https://www.drwindows.de/news/grosses-update-microsoft-edge-88-bringt-neues-bei-sicherheit-privatsphaere-und-performance">diesem</a> Beitrag schon zusammengefasst.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/apple-m1-microsoft-edge-steht-nun-auch-in-der-stabilen-version-bereit/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Preiserhöhung für Xbox Live Gold zurückgenommen: Microsoft macht sich lächerlich</title>
+		<link>https://www.drwindows.de/news/preiserhoehung-fuer-xbox-live-gold-zurueckgenommen-microsoft-macht-sich-laecherlich</link>
+					<comments>https://www.drwindows.de/news/preiserhoehung-fuer-xbox-live-gold-zurueckgenommen-microsoft-macht-sich-laecherlich#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Sat, 23 Jan 2021 09:46:52 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79892</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Am Freitagnachmittag hatte Microsoft angekündigt, die Preise für Xbox Live Gold in den USA um 100 Prozent zu erhöhen. Für den deutschen Markt fiel die Erhöhung weniger drastisch aus, dennoch gab es auch hierzulande heftige Kritik. Nun hat Microsoft eine 180-Grad-Wendung hingelegt: Die Preise bleiben, wie sie sind, und noch mehr: Für Free-to-Play Games ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Am Freitagnachmittag hatte Microsoft angekündigt, die Preise für Xbox Live Gold in den USA um 100 Prozent zu erhöhen. Für den deutschen Markt fiel die Erhöhung weniger drastisch aus, dennoch gab es auch hierzulande heftige Kritik. Nun hat Microsoft eine 180-Grad-Wendung hingelegt: Die Preise bleiben, wie sie sind, und noch mehr: Für Free-to-Play Games ist künftig keine Gold-Mitgliedschaft mehr nötig.</p>
+<p>Im <a href="https://news.xbox.com/en-us/2021/01/22/update-on-xbox-live-gold-pricing/" target="_blank" rel="noopener">aktualisierten Blogpost</a> schreibt man, dass man einen Fehler gemacht habe und dafür zurecht kritisiert wurde, artig bedankt man sich am Ende auch noch für das Feedback. In den sozialen Medien sehe ich, dass einige Gamer sich für den Schritt bedanken und sich freuen, wie gut Microsoft auf Feedback reagiert.</p>
+<p>Ich kann beim besten Willen nicht dankbar sein. Im Gegenteil, ich bin richtig sauer. Wie dumm kann man sich eigentlich anstellen? Hatte man ernsthaft geglaubt, die VERDOPPELUNG des bisherigen Preises im Heimatland würde von den Usern achselzuckend zur Kenntnis genommen werden?</p>
+<p>Für mich gibt es im Grunde nur zwei Versionen dieser Geschichte: Entweder, der Ablauf der Ereignisse war von Anfang an so geplant, dann war es ein selten dämlicher PR-Stunt. Oder aber, man hat wirklich gedacht, man könne das einfach so lautlos über die Bühne bringen &#8211; dann war es nur dämlich.</p>
+<p>Unter dem Strich bleibt: Unveränderte Preise für Xbox Live Gold, und das wohl für sehr lange Zeit, weil Microsoft diese ganz sicher so bald nicht mehr anfassen wird, und ein gleichzeitig insgesamt attraktiveres Xbox-Ökosystem, in dem man kostenlose Spiele wirklich kostenlos spielen kann.</p>
+<p>Also insgesamt eine ausnahmslos gute Sache, wäre sie nicht in eine Kommunikation eingebettet, die selbst für Microsofts Verhältnisse noch derart stümperhaft war, dass es mich für den Moment einfach nur fassungslos zurücklässt.</p>
+<p>Ich werde das mal zu Hause durchspielen. Ich werde meiner Frau ankündigen, dass ich mir eine Geliebte nehme, und wenn sie dann ausflippt, dann werde ich sagen &#8222;Danke für dein Feedback, ich lasse es sein&#8220;.<br />
+Der Theorie nach müsste sie mich anschließend mehr lieben. In der Praxis wird sie mir danach weniger Vertrauen entgegenbringen. Und das ist auch genau der Schaden, der hier angerichtet wurde.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/preiserhoehung-fuer-xbox-live-gold-zurueckgenommen-microsoft-macht-sich-laecherlich/feed</wfw:commentRss>
+			<slash:comments>20</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Focus on Windows: Microsoft und die .NET Foundation laden zum digitalen Event</title>
+		<link>https://www.drwindows.de/news/focus-on-windows-microsoft-und-die-net-foundation-laden-zum-digitalen-event</link>
+					<comments>https://www.drwindows.de/news/focus-on-windows-microsoft-und-die-net-foundation-laden-zum-digitalen-event#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sat, 23 Jan 2021 07:41:13 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79884</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="DotNet Foundation" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wenn ihr euch für die Entwicklung von Windows-Apps interessiert und euch nebenbei auch noch mit .NET beschäftigt, könnt ihr euch den 25. Februar schonmal im Kalender anstreichen. Microsoft und die .NET Foundation veranstalten zu diesem Zeitpunkt ein digitales Event, welches sich konkret um die Entwicklung von Desktop-Apps mit .NET 5 drehen soll und auf dem [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="DotNet Foundation" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/DotNet-Foundation-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wenn ihr euch für die Entwicklung von Windows-Apps interessiert und euch nebenbei auch noch mit .NET beschäftigt, könnt ihr euch den 25. Februar schonmal im Kalender anstreichen. Microsoft und die .NET Foundation veranstalten zu diesem Zeitpunkt ein digitales Event, welches sich konkret um die Entwicklung von Desktop-Apps mit .NET 5 drehen soll und auf dem neben Mitarbeitern von Microsoft auch Leute aus der Community sprechen sollen. Die genaue Liste der Sprecher sowie die Uhrzeit werden aber noch bekannt gegeben.</p>
+<p>Die Liste der Themen umfasst die UI-Frameworks WinForms und WPF im Zusammenspiel mit .NET 5, neue Verbesserungen für die Werkzeuge in Visual Studio 2019, die Einbindung von Cloud-Funktionen in Desktop-Apps und mehr. Einen ersten Ausblick auf .NET 6, was im November erscheinen und wieder eine LTS-Version sein wird, soll es ebenfalls geben. Nähere Informationen könnt ihr in den kommenden Wochen auf <a href="https://focus.dotnetconf.net/">dieser</a> Seite abrufen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/focus-on-windows-microsoft-und-die-net-foundation-laden-zum-digitalen-event/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Games with Gold im Februar 2021 mit Gears 5, Resident Evil und Indiana Jones</title>
+		<link>https://www.drwindows.de/news/games-with-gold-im-februar-2021-mit-gears-5-resident-evil-und-indiana-jones</link>
+					<comments>https://www.drwindows.de/news/games-with-gold-im-februar-2021-mit-gears-5-resident-evil-und-indiana-jones#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 15:13:51 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79877</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Games with Gold Februar 2021" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Auf die weniger erfreuliche Nachricht bezüglich der Preiserhöhung von Xbox Live Gold folgt eine durchaus erfreuliche: Bei den &#8222;Games with Gold&#8220; geben sich im Februar 2021 bekannte Namen ein Stelldichein. Außerdem gibt es statt der üblichen vier insgesamt fünf Spiele kostenlos. Gears 5 bedarf wohl keiner weiteren Vorstellung mehr, der Toptitel wird vom 1. bis [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Games with Gold Februar 2021" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/games_with_gold_februar_2021-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Auf die weniger erfreuliche Nachricht bezüglich der <a href="https://www.drwindows.de/news/microsoft-verdoppelt-den-preis-von-xbox-live-gold" target="_blank" rel="noopener">Preiserhöhung</a> von Xbox Live Gold folgt eine durchaus erfreuliche: Bei den &#8222;Games with Gold&#8220; geben sich im Februar 2021 bekannte Namen ein Stelldichein. Außerdem gibt es statt der üblichen vier insgesamt fünf Spiele kostenlos.</p>
+<p>Gears 5 bedarf wohl keiner weiteren Vorstellung mehr, der Toptitel wird vom 1. bis 28. Februar kostenlos zu haben sein.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: c2kdnlt2h7dm) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2Fc2kdnlt2h7dm" title="Gears 5">Gears 5 (39,99 €<sup>+</sup>, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<p>Als Weltenretter könnt ihr euch einmal mehr in Dandara &#8211; Trials of Fear betätigen. Kostenlos vom 16. Februar bis zum 15. März.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: bqqd1khrwwl8) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2Fbqqd1khrwwl8" title="Dandara: Trials of Fear Edition">Dandara: Trials of Fear Edition (14,99 €, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<p>Wer erst spät in die Resident Evil Serie eingestiegen ist, der kann im Februar zu den Anfängen zurückkehren. Das Original, die Mutter der Serie, kann als aufbereitete HD-Version ebenfalls den ganzen Februar hindurch kostenlos geladen werden.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: bnzqj2fbtdm7) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2Fbnzqj2fbtdm7" title="Resident Evil">Resident Evil (19,99 €, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<p>Wem das noch nicht nostalgisch genug ist, der greift zu Indiana Jones und die Legende der Kaisergruft, einem Original Xbox Titel. Uralt, aber dennoch optimiert für die Xbox One X. Verfügbar vom 1. bis 15. Februar 2021.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: c02h769drlqx) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2Fc02h769drlqx" title="Indiana Jones und die Legende der Kaisergruft">Indiana Jones und die Legende der Kaisergruft (9,99 €, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<p>Den Abschluss bildet der Science-Fiction Shooter Lost Planet 2, der vom 16. bis 28. Februar geladen werden kann.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: c1pjkcdkh6ln) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2Fc1pjkcdkh6ln" title="Lost Planet 2">Lost Planet 2 (19,99 €<sup>+</sup>, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<p>Da sollte doch für jeden Geschmack etwas dabei sein.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/games-with-gold-im-februar-2021-mit-gears-5-resident-evil-und-indiana-jones/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft erhöht den Preis von Xbox Live Gold deutlich *Update*</title>
+		<link>https://www.drwindows.de/news/microsoft-verdoppelt-den-preis-von-xbox-live-gold</link>
+					<comments>https://www.drwindows.de/news/microsoft-verdoppelt-den-preis-von-xbox-live-gold#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 14:21:21 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79872</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft möchte, dass niemand mehr Xbox Live Gold nutzt, sondern alle Gamer den Xbox Game Pass Ultimate abschließen. Das ist keine neue Erkenntnis &#8211; wer auch nur mit einem halben Bein im Xbox-Ökosystem steht, der weiß das. Würde Microsoft Xbox Live Gold einfach abschaffen und die darin enthaltenen Vorteile nur noch über den Game Pass [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft möchte, dass niemand mehr Xbox Live Gold nutzt, sondern alle Gamer den Xbox Game Pass Ultimate abschließen. Das ist keine neue Erkenntnis &#8211; wer auch nur mit einem halben Bein im Xbox-Ökosystem steht, der weiß das. Würde Microsoft Xbox Live Gold einfach abschaffen und die darin enthaltenen Vorteile nur noch über den Game Pass anbieten, dann gäbe es zwar ein bisschen Gemecker, wirklich wundern würde sich darüber aber niemand.</p>
+<p>Nun ist Microsoft aber Microsoft, und in Sachen unglücklicher Kommunikation macht ihnen so leicht niemand etwas vor. Also verdoppeln sie den Preis für Xbox Live Gold einfach, statt 60 kostet es künftig 120 Dollar im Jahr und damit nur noch knapp weniger als der Xbox Game Pass Ultimate (die deutschen Preise verdoppeln sich allerdings nicht, siehe Update am Ende des Beitrags)</p>
+<p>Verpackt ist das in einen <a href="https://news.xbox.com/en-us/2021/01/22/update-on-xbox-live-gold-pricing/" target="_blank" rel="noopener">langatmigen Blogpost</a> voller Marketing-Blabla, dass die Preise seit vielen Jahren stabil gewesen seien und so weiter &#8211; als ob das der wahre Grund für die &#8222;Anpassung&#8220; wäre.</p>
+<p>Bestandskunden bekommen allerdings eine Schonfrist: Wer ein 6- oder 12-Monats-Abo für Xbox Live Gold abgeschlossen hat, dessen Abonnement verlängert sich ohne Preisanpassung um die entsprechende Laufzeit. Ob das nur einmalig so ist oder dauerhaft gilt, geht aus der Ankündigung nicht hervor.</p>
+<p>Von der Verdoppelung des Preises sind also vorerst nur Neukunden betroffen, und selbstverständlich hofft Microsoft, dass diese den nunmehr geringen Aufschlag von 3 Euro/Dollar monatlich investieren werden, um in den Genuss des Game Pass Ultimate zu kommen. Dieser ist zweifellos ein fantastischer Deal und bietet mehr Gegenwert, als man überhaupt in Anspruch nehmen kann, selbst wenn jeden Tag zehn Stunden an der Konsole oder dem PC verbringt.</p>
+<p><strong>Update:</strong></p>
+<p>Die neuen Preise für Deutschland sind zwar auch deftig erhöht, allerdings nicht verdoppelt, die Überschrift wurde daher angepasst. Nachfolgend die neuen Tarife, in Klammern der alte Preis:</p>
+<ul>
+<li>1 Monat Xbox Live Gold: 8,99 € (6,99 €)</li>
+<li>3 Monate Xbox Live Gold: 23,99 € (19,99 €)</li>
+<li>6 Monate Xbox Live Gold: 47,99 € (39,99 €)</li>
+</ul>
+<p>Update 2: Die Preiserhöhung wurde zurückgenommen. Bitte hier weiterlesen:</p>
+<blockquote class="wp-embedded-content" data-secret="wdVG6YJVOq"><p><a href="https://www.drwindows.de/news/preiserhoehung-fuer-xbox-live-gold-zurueckgenommen-microsoft-macht-sich-laecherlich">Preiserhöhung für Xbox Live Gold zurückgenommen: Microsoft macht sich lächerlich</a></p></blockquote>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" title="&#8222;Preiserhöhung für Xbox Live Gold zurückgenommen: Microsoft macht sich lächerlich&#8220; &#8212; Dr. Windows" src="https://www.drwindows.de/news/preiserhoehung-fuer-xbox-live-gold-zurueckgenommen-microsoft-macht-sich-laecherlich/embed#?secret=wdVG6YJVOq" data-secret="wdVG6YJVOq" width="500" height="282" frameborder="0" marginwidth="0" marginheight="0" scrolling="no"></iframe></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-verdoppelt-den-preis-von-xbox-live-gold/feed</wfw:commentRss>
+			<slash:comments>21</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bericht: Surface Duo kommt Mitte Februar nach Deutschland &#8211; Fokus auf Geschäftskunden</title>
+		<link>https://www.drwindows.de/news/bericht-surface-duo-kommt-mitte-februar-nach-deutschland-fokus-auf-geschaeftskunden</link>
+					<comments>https://www.drwindows.de/news/bericht-surface-duo-kommt-mitte-februar-nach-deutschland-fokus-auf-geschaeftskunden#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 14:16:46 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79869</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es gibt neue Berichte über das Surface Duo, nachdem Microsoft bereits Ende letzten Jahres bestätigt hat, dass das Gerät 2021 auch nach Deutschland kommen soll. Wie die Kollegen von mobiFlip und WinFuture übereinstimmend berichten, bereiten sich erste Händler bereits darauf vor, das Gerät ab Mitte oder Ende Februar offiziell anzubieten. Als konkretes Datum nannte ein [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/surface_duo_hero-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es gibt neue Berichte über das Surface Duo, nachdem Microsoft bereits Ende letzten Jahres bestätigt hat, dass das Gerät 2021 auch nach Deutschland kommen soll. Wie die Kollegen von mobiFlip und WinFuture übereinstimmend berichten, bereiten sich erste Händler bereits darauf vor, das Gerät ab Mitte oder Ende Februar offiziell anzubieten. Als konkretes Datum nannte ein Händler bereits den 13. Februar als Starttermin.</p>
+<p>Das Modell mit 128 GB internem Speicher soll für 1.299 € zu haben sein, während das größere Modell mit 256 GB internem Speicher für 1.399 € angeboten werden soll. Ohnehin dürfte das Surface Duo auch für Microsoft-Fans nur bedingt von Interesse sein. Abgesehen davon, dass die Hardware mit dem Snapdragon 855 schon relativ betagt ist, soll Microsoft den Fokus ähnlich wie beim neuen Surface Pro 7+ auch hier auf die Geschäftskunden richten. Die Zahl der produzierten Einheiten dürfte hierzulande also eher überschaubar sein.</p>
+<p>Wirklich bemühen scheint sich Microsoft um das Surface Duo aber sowieso nicht. Während die zweite Generation angeblich schon in Entwicklung ist, fehlt beim aktuellen Modell von Android 11 nach wie vor jede Spur. Außerdem stimmten mich Aussagen der Microsoft-Journalisten Brad Sams und Zac Bowden zuletzt auch nachdenklich. Ende Dezember äußerte sich Bowden bereits über einen zunehmenden Qualitätsverlust beim Microsoft Launcher für das Gerät auf <a href="https://twitter.com/zacbowden/status/1343942839756087298">Twitter</a>, und beide Journalisten bestätigten zudem, dass Microsoft außer gelegentlichen Bugfixes nicht viel für die Software zu tun scheint.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bericht-surface-duo-kommt-mitte-februar-nach-deutschland-fokus-auf-geschaeftskunden/feed</wfw:commentRss>
+			<slash:comments>27</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>YouTube: Google gibt HDR-Unterstützung für die Xbox-Konsolen frei</title>
+		<link>https://www.drwindows.de/news/youtube-google-gibt-hdr-unterstuetzung-fuer-die-xbox-konsolen-frei</link>
+					<comments>https://www.drwindows.de/news/youtube-google-gibt-hdr-unterstuetzung-fuer-die-xbox-konsolen-frei#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 13:52:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79863</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="YouTube Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es ist einer dieser seltenen Fälle, aber tatsächlich gibt es von Google mal wieder etwas Neues zur Unterstützung im Windows-Ökosystem. Wie die Kollegen bei Caschy sowie von The Verge berichten, wurde von YouTube nun die HDR-Unterstützung für die Xbox-Konsolen freigegeben. Das Ganze betrifft sowohl die aktuellen Xbox Series X und S als auch die letzte [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="YouTube Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/10/youtube-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es ist einer dieser seltenen Fälle, aber tatsächlich gibt es von Google mal wieder etwas Neues zur Unterstützung im Windows-Ökosystem. Wie die Kollegen bei Caschy sowie von The Verge berichten, wurde von YouTube nun die HDR-Unterstützung für die Xbox-Konsolen freigegeben. Das Ganze betrifft sowohl die aktuellen Xbox Series X und S als auch die letzte Generation mit der Xbox One X und S. Sofern ihr also einen Bildschirm habt, der HDR-fähig ist, wird YouTube automatisch hierauf umschwenken.</p>
+<p>Als Codec kommt aber nicht der modernere und lizenzfreie AV1 zum Einsatz, der von einem Konsortium verschiedener Unternehmen entwickelt wurde. Stattdessen greift Google für die Xbox auf den eigenen und älteren Codec VP9-2 zurück. Wann AV1 hier ankommt, ist nicht bekannt. Letztlich könnte das aber auch eher egal sein, für die meisten Microsoft-affinen Nutzer dürfte myTube! sowieso die App der Wahl sein.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: 9wzdncrcwf3l) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9wzdncrcwf3l" title="myTube!">myTube! (Kostenlos<sup>+</sup>, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/youtube-google-gibt-hdr-unterstuetzung-fuer-die-xbox-konsolen-frei/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows Terminal: Entwickler geben ersten Ausblick auf die neuen Einstellungen</title>
+		<link>https://www.drwindows.de/news/windows-terminal-entwickler-geben-ersten-ausblick-auf-die-neuen-einstellungen</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 11:08:40 +0000</pubDate>
+				<category><![CDATA[Entwicklung]]></category>
+		<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79852</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Terminal" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Schon seit einiger Zeit entwickelt Microsoft mit dem Windows Terminal eine Anwendung, welche die Arbeit mit der Kommandozeile vereinfachen und bekannte Werkzeuge wie die PowerShell, die Eingabeaufforderung oder die WSL-Distributionen unter einem Dach vereinen sollte. Während das Terminal auf der BUILD 2020 die wichtige Version 1.0 erreichte und seitdem mehrere Updates mit neuen Funktionen ausgerollt [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Terminal" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/04/windows_terminal-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Schon seit einiger Zeit entwickelt Microsoft mit dem Windows Terminal eine Anwendung, welche die Arbeit mit der Kommandozeile vereinfachen und bekannte Werkzeuge wie die PowerShell, die Eingabeaufforderung oder die WSL-Distributionen unter einem Dach vereinen sollte. Während das Terminal auf der BUILD 2020 die wichtige Version 1.0 erreichte und seitdem mehrere Updates mit neuen Funktionen ausgerollt wurden, war die Konfiguration der Software immer etwas umständlich und musste mit einem Editor wie Visual Studio Code über eine .JSON-Datei erledigt werden.</p>
+<p>Schon damals deutete Microsoft in einer Roadmap an, dass in diesem Jahr auch eine grafische Oberfläche für die Einstellungen kommen soll. Kayla Cinnamon, die bei Microsoft maßgeblich für das Windows Terminal verantwortlich ist, hat auf Twitter nun einen ersten Eindruck davon veröffentlicht. Die neuen Einstellungen sollen in Kürze in der Windows Terminal Preview aufschlagen, die Möglichkeit über die .JSON-Datei bleibt aber weiter erhalten. Mit einem finalen Release dürften wir zur BUILD 2021 rechnen.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Seen in the main branch on GitHub, coming soon to a Windows Terminal Preview release near you! 👀<a href="https://t.co/qcc0UnPova">https://t.co/qcc0UnPova</a> <a href="https://t.co/CpR0Fi5a3V">pic.twitter.com/CpR0Fi5a3V</a></p>
+<p>&mdash; Kayla Cinnamon ☕ (@cinnamon_msft) <a href="https://twitter.com/cinnamon_msft/status/1352390973083402240?ref_src=twsrc%5Etfw">January 21, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Tipp: Vertikale Tab-Leiste in Microsoft Edge 88 nutzen</title>
+		<link>https://www.drwindows.de/news/tipp-vertikale-tab-leiste-in-microsoft-edge-88-nutzen</link>
+					<comments>https://www.drwindows.de/news/tipp-vertikale-tab-leiste-in-microsoft-edge-88-nutzen#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 22 Jan 2021 09:36:00 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79831</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Am Donnerstagabend wurde der Browser Microsoft Edge in Version 88 veröffentlicht (den ausführlichen Artikel zu allen Neuerungen findet ihr hier: Großes Update: Microsoft Edge 88 bringt Neues bei Sicherheit, Privatsphäre und Performance). Im offiziellen Changelog führt Microsoft die vertikale Tab-Leiste als Neuerung auf. Die entsprechende Schaltfläche zum Umschalten zwischen horizontaler und vertikaler Ausrichtung der Leiste ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Am Donnerstagabend wurde der Browser Microsoft Edge in Version 88 veröffentlicht (den ausführlichen Artikel zu allen Neuerungen findet ihr hier: <a href="https://www.drwindows.de/news/grosses-update-microsoft-edge-88-bringt-neues-bei-sicherheit-privatsphaere-und-performance" target="_blank" rel="noopener">Großes Update: Microsoft Edge 88 bringt Neues bei Sicherheit, Privatsphäre und Performance</a>).</p>
+<p>Im offiziellen Changelog führt Microsoft die vertikale Tab-Leiste als Neuerung auf. Die entsprechende Schaltfläche zum Umschalten zwischen horizontaler und vertikaler Ausrichtung der Leiste ist aber nicht zu sehen. In den Vorschauversionen ist diese Funktion schon seit einigen Monaten zu finden und ich war davon außerordentlich angetan, wie man hier nachlesen kann: <a href="https://www.drwindows.de/news/vertikale-tab-leiste-in-microsoft-edge-ausprobiert-warum-war-das-jemals-anders" target="_blank" rel="noopener">Vertikale Tab Leiste in Microsoft Edge ausprobiert: Warum war das jemals anders?</a></p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal.jpg" data-rel="lightbox-gallery-CXxFfOb7" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-71748" src="https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal.jpg" alt="Microsoft Edge mit vertikaler Tab Leiste" width="2065" height="1046" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal.jpg 2065w, https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal-300x152.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal-1024x519.jpg 1024w, https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal-768x389.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal-1536x778.jpg 1536w, https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal-2048x1037.jpg 2048w, https://www.drwindows.de/news/wp-content/uploads/2020/08/edge_tabs_vertikal-643x326.jpg 643w" sizes="(max-width: 2065px) 100vw, 2065px" /></a></p>
+<p>Ich habe also sofort gesucht, ob ich die vertikale Leiste irgendwo in den Einstellungen aktivieren kann. Unter Einstellungen / Darstellung ist die Option &#8222;Schaltfläche &#8222;Vertikale Registerkarten&#8220; anzeigen&#8220; allerdings nicht vorhanden.</p>
+<p>Die Lösung: Die vertikalen Tabs sind in Edge 88 integriert, aber noch deaktiviert. Offenbar glaubt Microsoft, die Funktion fertiggestellt zu haben, traut sich aber noch nicht, sie allgemein freizugeben. Dafür kann es gute Gründe geben, auch wenn wir sie nicht kennen.</p>
+<p>Wie auch immer: Wer die stabile Version von Edge bevorzugt, die vertikalen Tabs aber dennoch haben möchte, der kann diese über die Flags aktivieren. Einfach edge://flags/#edge-vertical-tabs in die Adresszeile kopieren und die Einstellung auf &#8222;Enabled&#8220; setzen. Nach einem Neustart von Edge ist der Button zum Umschalten da. Die oben erwähnte Einstellung wird dann ebenfalls sichtbar, sodass man den Button bei Bedarf auch wieder ausblenden kann.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/tipp-vertikale-tab-leiste-in-microsoft-edge-88-nutzen/feed</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
