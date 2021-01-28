@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Thu, 28 Jan 2021 06:57:59 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Surface Duo: Januar-Update wird verteilt</title>
+		<link>https://www.drwindows.de/news/surface-duo-januar-update-wird-verteilt</link>
+					<comments>https://www.drwindows.de/news/surface-duo-januar-update-wird-verteilt#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 06:57:59 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80120</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Service-Nachricht für Grauimporteure: Microsoft hat das Januar-Update für das Surface Duo freigegeben. Da das Gerät in nicht allzu ferner Zeit auch ganz offiziell in Deutschland zu haben sein wird, können wir aber schon mal einen Blick darauf werfen. Naturgemäß gibt es allerdings nicht allzu viel zu sehen. Nachdem das Dezember-Update übersprungen wurde, werden mit der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Service-Nachricht für Grauimporteure: Microsoft hat das Januar-Update für das Surface Duo freigegeben. Da das Gerät in nicht allzu ferner Zeit auch ganz offiziell in Deutschland zu haben sein wird, können wir aber schon mal einen Blick darauf werfen. Naturgemäß gibt es allerdings nicht allzu viel zu sehen.</p>
+<p>Nachdem das Dezember-Update übersprungen wurde, werden mit der Firmware-Version 2020.1211.85 die Android-Sicherheitsupdates von Dezember 2020 und Januar 2021 integriert.</p>
+<p>Darüber hinaus sind diverse Optimierungen für die &#8222;Surface Duo UI&#8220; enthalten, also die spezifischen Anpassungen, die Microsoft an der Systemoberfläche vorgenommen hat. Auch die Toucheingabe wurde optimiert, ebenso wurde an der Tonqualität der Freisprechfunktion gearbeitet.</p>
+<p>Last but not least gibt es auch eine neue Funktion, nämlich die Möglichkeit, einen eingehenden Anruf zu einer laufenden Konferenz hinzuzufügen.</p>
+<p>Das Surface Duo wird auch in Deutschland ganz sicher kein Blockbuster, die regelmäßig eingehenden Nachfragen von Lesern, ob es Neues hinsichtlich der Verfügbarkeit gibt, zeigen mir aber dennoch, dass ein gewisses Interesse vorhanden ist. Ich kenne leider weder den Termin noch die Preise, ich habe auch nur die <a href="https://www.drwindows.de/news/bericht-surface-duo-kommt-mitte-februar-nach-deutschland-fokus-auf-geschaeftskunden" target="_blank" rel="noopener">Gerüchte</a> gelesen. Ich gehe einigermaßen sicher davon aus, dass die inoffiziellen Infos korrekt sind und es im Lauf des Monats Februar passiert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-duo-januar-update-wird-verteilt/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge 89 geht auf die Zielgerade</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-89-geht-auf-die-zielgerade</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 06:39:59 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80117</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Vor einer knappen Woche wurde Microsoft Edge in Version 88 veröffentlicht, die Version enthält zahlreiche Neuerungen. Das nächste Hauptrelease, die Version 89, wird voraussichtlich Anfang März für die Allgemeinheit freigegeben. Diese tritt nun in die finale Testphase ein. Im Entwicklerkanal wurde am Mittwoch die Version 89.0.774.4 veröffentlicht, es wird die letzte sein, bevor dieser Kanal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Vor einer knappen Woche wurde Microsoft Edge in Version 88 veröffentlicht, die Version enthält zahlreiche <a href="https://www.drwindows.de/news/grosses-update-microsoft-edge-88-bringt-neues-bei-sicherheit-privatsphaere-und-performance" target="_blank" rel="noopener">Neuerungen</a>. Das nächste Hauptrelease, die Version 89, wird voraussichtlich Anfang März für die Allgemeinheit freigegeben. Diese tritt nun in die finale Testphase ein.</p>
+<p>Im Entwicklerkanal wurde am Mittwoch die Version 89.0.774.4 veröffentlicht, es wird die letzte sein, bevor dieser Kanal zur Version 90 wechselt, während die Version 89 in der kommenden Woche in den Betatest geht.</p>
+<p>In der Testversion 89.0.774.4 sind nur kleinere Neuerungen enthalten. Die Vorlesefunktion für PDF-Dateien wurde optimiert, außerdem kann die aktuell geöffnete Seite einer Sammlung hinzugefügt werden, indem man mit der rechten Maustaste auf die gewünschte Sammlung klickt. Der Rest sind Aufräumarbeiten und Bugfixes, um die Finalisierung der Version 89 vorzubereiten. Das komplette Changelog gibt es wie üblich im <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-89-0-774-4-is-live/m-p/2103112" target="_blank" rel="noopener">Edge Forum</a>.</p>
+<p>Insgesamt wird die Edge Version 89 ein eher kleineres Update, das aber dennoch willkommene Änderungen enthält. Wer ein externes PDF-Programm verwendet, kann dann beispielsweise einstellen, dass angeklickte PDF-Dateien nicht in Edge, sondern im bevorzugten PDF-Betrachter öffnen.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Microsoft testet Verbesserungen an der Touch-Tastatur in Windows 10</title>
+		<link>https://www.drwindows.de/news/microsoft-testet-verbesserungen-an-der-touch-tastatur-in-windows-10</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 06:19:27 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80114</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der aktuellen Windows 10 Insider Build 21301, die am Mittwochabend für die Insider im Developer Kanal verteilt wurde, nimmt sich Microsoft die Touch-Tastatur vor. Sie kommt naturgemäß im reinen Tablet-Betrieb von Windows 10 zum Einsatz, der wiederum ein eher seltenes Szenario ist. Davon ausgehend, dass die Einführung von Dual Screen Geräten nur aufgeschoben, aber [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der aktuellen Windows 10 Insider Build 21301, die am Mittwochabend für die Insider im Developer Kanal verteilt wurde, nimmt sich Microsoft die Touch-Tastatur vor. Sie kommt naturgemäß im reinen Tablet-Betrieb von Windows 10 zum Einsatz, der wiederum ein eher seltenes Szenario ist. Davon ausgehend, dass die Einführung von Dual Screen Geräten nur aufgeschoben, aber nicht aufgehoben ist, könnte der Touch-Tastatur in Zukunft allerdings eine größere Bedeutung zukommen.</p>
+<p>Neu ist, dass das Touch-Keyboard automatisch zum kompakten Layout umschaltet, sobald man es vom Bildschirmrand abdockt. Es lässt dich dann auch leichter verschieben, wenn es beispielsweise bei der Texteingabe im Weg sein sollte.</p>
+<p>Ebenfalls neu ist das Menü, dass sich jetzt strukturiert als Overlay in mehreren Ebenen öffnet.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu.png" data-rel="lightbox-gallery-ConBFwcc" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-80115" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu.png" alt="Windows 10 Touch Keyboard Menü" width="1026" height="248" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu.png 1026w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-300x73.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-1024x248.png 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-768x186.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-643x155.png 643w" sizes="(max-width: 1026px) 100vw, 1026px" /></a></p>
+<p>Links von der Leertaste wird in Passwort-Eingabefeldern künftig ein kleines Symbol angezeigt, mit dem die Eingabe sichtbar gemacht werden kann, man muss also nicht ins Eingabefeld selbst tippen.</p>
+<p>Auf Geräten mit mehr als 12 Zoll Bildschirmdiagonale blendet die Touch-Tastatur außerdem weitere Symbole wie beispielsweise ESC, TAB oder die Windows-Taste ein, damit sich die Tastatur vollwertiger anfühlt.</p>
+<p>Weitere Kleinigkeiten in der Build 21301: Beim Rechtsklick auf Dateien, die in Jumplisten angezeigt werden (z.B. im Startmenü oder auf der Taskleiste) wird bei lokal gespeicherten Dateien nun zusätzlich die Option &#8222;Dateipfad öffnen&#8220; angezeigt. Außerdem werden zur Aktivierung bzw. Deaktivierung es Touchpads keine Administratorrechte mehr benötigt.</p>
+<p>Darüber hinaus gibt es die üblichen Bugfixes, das vollständige Changelog kann wie gewohnt im <a href="https://blogs.windows.com/windows-insider/2021/01/27/announcing-windows-10-insider-preview-build-21301/" target="_blank" rel="noopener">Windows Insider Blog</a> eingesehen werden.</p>
+<p>Microsoft betont immer wieder, dass in den Insider Builds getestete Funktionen grundsätzlich nicht an eine bestimmte Version gebunden sind. Die oben beschriebenen Änderungen könnten beispielsweise auch über das <a href="https://www.drwindows.de/news/windows-feature-experience-pack-neue-version-fuer-die-beta-tester" target="_blank" rel="noopener">Windows Feature Experience Pack</a> ausgeliefert werden, da es reine Oberflächenfunktionen sind.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Second Screen: Samsung verbessert Zusammenspiel von Windows 10 mit Galaxy Tab S7 und S7+</title>
+		<link>https://www.drwindows.de/news/second-screen-samsung-verbessert-zusammenspiel-von-windows-10-mit-galaxy-tab-s7-und-s7</link>
+					<comments>https://www.drwindows.de/news/second-screen-samsung-verbessert-zusammenspiel-von-windows-10-mit-galaxy-tab-s7-und-s7#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 16:04:35 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80102</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Samsung hat mit dem Rollout von OneUI 3.0 für seine aktuellen Premium-Tablets Galaxy Tab S7 und S7+ begonnen und verbessert damit auch die Zusammenarbeit der beiden Geräte mit Windows 10 weiter. Wenn euer Rechner mindestens die Version 2004 von Windows 10 verwendet und sich zusätzlich mit einem Wireless Display verbinden kann, habt ihr nun die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Samsung hat mit dem Rollout von OneUI 3.0 für seine aktuellen Premium-Tablets Galaxy Tab S7 und S7+ begonnen und verbessert damit auch die Zusammenarbeit der beiden Geräte mit Windows 10 weiter. Wenn euer Rechner mindestens die Version 2004 von Windows 10 verwendet und sich zusätzlich mit einem Wireless Display verbinden kann, habt ihr nun die Möglichkeit, eines dieser Tablets als zusätzlichen Monitor zu nutzen. Samsung nennt dieses neue Feature &#8222;Second Screen&#8220; und schließt damit zu Apple auf, die mit Sidecar bekanntlich ein ähnliches Feature für ihre iPads veröffentlicht haben.</p>
+<p>Grundsätzlich sollte das Modell bei der Nutzung keine Rolle spielen, solange es die notwendigen Voraussetzungen erfüllt. Samsung hebt aber ganz explizit einige seiner Geräte hervor. Dazu gehören das Galaxy Book Flex 2 und Flex 2 5G sowie das vorherige Galaxy Book Flex und Galaxy Book Flex alpha. Wann und ob die neue Funktion auch zu Tablets der günstigeren Preisklassen kommt, ist aktuell noch nicht bekannt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/second-screen-samsung-verbessert-zusammenspiel-von-windows-10-mit-galaxy-tab-s7-und-s7/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Firmware: Microsoft veröffentlicht erste Updates für das neue Surface Pro 7+</title>
+		<link>https://www.drwindows.de/news/firmware-microsoft-veroeffentlicht-erste-updates-fuer-das-neue-surface-pro-7</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 15:38:15 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80099</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das neue Surface Pro 7+, was Microsoft explizit für die Unternehmenskunden auf den Markt bringen wird, bekommt seinen ersten Schwung an Verbesserungen bei der Firmware spendiert. Insgesamt vier neue Updates veröffentlichen die Redmonder, die verschiedene Probleme beheben sollen. Vor allem die Screen Refresh-Rate und Probleme mit der adaptiven Helligkeit wurden angegangen, aber auch ein Problem [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das neue Surface Pro 7+, was Microsoft explizit für die Unternehmenskunden auf den Markt bringen wird, bekommt seinen ersten Schwung an Verbesserungen bei der Firmware spendiert. Insgesamt vier neue Updates veröffentlichen die Redmonder, die verschiedene Probleme beheben sollen. Vor allem die Screen Refresh-Rate und Probleme mit der adaptiven Helligkeit wurden angegangen, aber auch ein Problem mit dem USB-C Port wurde behoben.</p>
+<p>Zusätzlich wurde die Performance bei der Grafik und dem Power-Management verbessert. Nähere Informationen findet ihr wie immer in der entsprechenden <a href="https://support.microsoft.com/en-us/surface/surface-pro-7-update-history-fc2c14a8-0e72-4acc-851d-ae96f608c397">Historie</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows Feature Experience Pack: Neue Version für die Beta-Tester</title>
+		<link>https://www.drwindows.de/news/windows-feature-experience-pack-neue-version-fuer-die-beta-tester</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 09:25:20 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80092</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Windows Feature Experience Pack wird in Zukunft eine große Bedeutung bei der Weiterentwicklung von Windows 10 haben. Für Endnutzer könnte dieses Funktionspaket sogar wichtiger und interessanter werden als die eigentlichen, halbjährlichen großen und kleinen Systemupdates von Windows 10. Das Windows Feature Experience Pack ermöglich nämlich die Einführung von neuen Windows-Funktionen, die nicht an eine [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Windows Feature Experience Pack wird in Zukunft eine große Bedeutung bei der Weiterentwicklung von Windows 10 haben. Für Endnutzer könnte dieses Funktionspaket sogar wichtiger und interessanter werden als die eigentlichen, halbjährlichen großen und kleinen Systemupdates von Windows 10. Das Windows Feature Experience Pack ermöglich nämlich die Einführung von neuen Windows-Funktionen, die nicht an eine bestimmte Version von Windows 10 gebunden sind, und da ist eine ganze Menge möglich. Für mich ist das daher der <a href="https://www.drwindows.de/news/weiterentwicklung-von-windows-10-groesster-umbruch-seit-2015" target="_blank" rel="noopener">größte Umbruch in der Windows-Entwicklung</a> seit vielen Jahren.</p>
+<p>Soweit die Theorie &#8211; in der Praxis ist das Windows Feature Experience Pack noch nicht sonderlich spektakulär. Nichtsdestotrotz gibt es für die Windows Insider im Beta-Kanal eine neue Version mit der Nummer 120.2212.2020.0, die über Windows Update verteilt wird.</p>
+<p>Das <a href="https://blogs.windows.com/windows-insider/2021/01/26/releasing-windows-feature-experience-pack-120-2212-2020-0-to-the-beta-channel/" target="_blank" rel="noopener">Changelog</a> ist betont kurz, die einzige Änderung sind Bugfixes am integrierten Screenshot-Tool &#8222;Ausschneiden und Skizzieren&#8220;, die für einen stabileren Betrieb sorgen sollen. Außerdem wurde die Funktion, einen aufgenommenen Screenshot per Copy&amp;Paste als Datei im Explorer zu speichern, vorübergehend entfernt. Hier wurde ein Fehler entdeckt, der offenbar nicht auf die Schnelle beseitigt werden kann.</p>
+<div class="ms-editor-squiggler" style="color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-variation-settings: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-inline: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-size: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: block; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; offset: initial; opacity: initial; order: initial; origin-trial-test-property: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: initial; quotes: initial; r: initial; resize: initial; ruby-position: initial; rx: initial; ry: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; -webkit-app-region: initial; border-spacing: initial; -webkit-border-image: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-hyphenate-character: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-perspective-origin-x: initial; -webkit-perspective-origin-y: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis: initial; -webkit-text-emphasis-position: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-transform-origin-x: initial; -webkit-transform-origin-y: initial; -webkit-transform-origin-z: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: initial;"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Lords of the West: Neuer DLC für Age of Empires II: Definitive Edition ist nun verfügbar</title>
+		<link>https://www.drwindows.de/news/lords-of-the-west-neuer-dlc-fuer-age-of-empires-ii-definitive-edition-ist-nun-verfuegbar</link>
+					<comments>https://www.drwindows.de/news/lords-of-the-west-neuer-dlc-fuer-age-of-empires-ii-definitive-edition-ist-nun-verfuegbar#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 07:34:40 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80080</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Mitte Dezember wurde er angekündigt, nun können sich die Spieler auch an die Arbeit machen. Wie Microsoft in einem neuen Blogpost ankündigte, ist mit Lords of the West der ersehnte DLC für Age of Empires II: Definitive Edition nun verfügbar. Die Erweiterung bringt mit den Burgundern und Sizilianern zwei neue Zivilisationen mit, außerdem gibt es [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/08/Age-of-Empire-Defenitive-Edition-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Mitte Dezember wurde er <a href="https://www.drwindows.de/news/lords-of-the-west-microsoft-kuendigt-neuen-dlc-fuer-age-of-empires-ii-definitive-edition-an">angekündigt</a>, nun können sich die Spieler auch an die Arbeit machen. Wie Microsoft in einem neuen Blogpost ankündigte, ist mit Lords of the West der ersehnte DLC für Age of Empires II: Definitive Edition nun verfügbar. Die Erweiterung bringt mit den Burgundern und Sizilianern zwei neue Zivilisationen mit, außerdem gibt es drei neue Kampagnen und 16 neue Achievements, die die Spieler einsammeln können.</p>
+<p>Besitzer des Spiels können den DLC wie immer im Microsoft Store sowie bei Steam für 9,99 € kaufen. Mitglieder im Xbox Game Pass können einen Rabatt von 10 % ergattern. Die Links zu den entsprechenden Angeboten findet ihr unter dem Beitrag.</p>
+<p><iframe title="Age of Empires II: DE - Lords of the West - AVAILABLE NOW" width="500" height="281" src="https://www.youtube.com/embed/oLJk_nIMdkc?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: 9n69dq6hp313) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9n69dq6hp313" title="Age of Empires II: Definitive Edition - Lords of the West">Age of Empires II: Definitive Edition - Lords of the West (9,99 €<sup>+</sup>, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<!-- WP-Appbox (Version: 4.3.6 // Store: steam // ID: 1389240) --><p><a target="_blank" rel="nofollow" href="http://store.steampowered.com/app/1389240/" title="Age of Empires II: Definitive Edition - Lords of the West">Age of Empires II: Definitive Edition - Lords of the West (9,99 €, Steam) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/lords-of-the-west-neuer-dlc-fuer-age-of-empires-ii-definitive-edition-ist-nun-verfuegbar/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Cloud, Gaming, Office: Wachstum an allen Fronten beschert Microsoft ein weiteres Rekordergebnis</title>
+		<link>https://www.drwindows.de/news/cloud-gaming-office-wachstum-an-allen-fronten-beschert-microsoft-ein-weiteres-rekordergebnis</link>
+					<comments>https://www.drwindows.de/news/cloud-gaming-office-wachstum-an-allen-fronten-beschert-microsoft-ein-weiteres-rekordergebnis#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 06:52:31 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80087</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Für Microsoft ist am 31.12.20 das zweite Quartal des Geschäftsjahres 2021 zu Ende gegangen, einmal mehr mit einem Rekordergebnis. 43,1 Milliarden US-Dollar wurden in diesem Zeitraum eingenommen, 17 Prozent mehr als im Vorjahreszeitraum. Als Reingewinn bleiben davon 15,5 Milliarden Dollar in der Kasse, das ist gar ein Drittel mehr als vor einem Jahr. Praktisch alle [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2018/02/microsoft_firmenlogo-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Für Microsoft ist am 31.12.20 das zweite Quartal des Geschäftsjahres 2021 zu Ende gegangen, einmal mehr mit einem <a href="https://news.microsoft.com/2021/01/26/microsoft-cloud-strength-drives-second-quarter-results-2/" target="_blank" rel="noopener">Rekordergebnis</a>. 43,1 Milliarden US-Dollar wurden in diesem Zeitraum eingenommen, 17 Prozent mehr als im Vorjahreszeitraum. Als Reingewinn bleiben davon 15,5 Milliarden Dollar in der Kasse, das ist gar ein Drittel mehr als vor einem Jahr.</p>
+<p>Praktisch alle Geschäftsbereiche von Microsoft sind gewachsen. Mit einem Umsatz von 15,1 Milliarden Dollar war der Bereich &#8222;More Personal Computing&#8220; mit Windows, Xbox und Surface sogar wieder der stärkste und verwies die &#8222;Intelligent Cloud&#8220; mit 14,6 Milliarden (+23%) auf den zweiten Platz. Der dritte Geschäftsbereich &#8222;Productivity and Business Processes&#8220;, zu dem auch Office gehört, brachte 13,4 Milliarden (+13%) ein.</p>
+<h3>Xbox-Umsätze steigen um 51 Prozent</h3>
+<p>Der Start der Xbox Series X und S hat erwartungsgemäß zu einem sprunghaften Anstieg der Konsolen-Umsätze geführt, sie haben sich mit einem Plus von 86 Prozent fast verdoppelt. Das wird sich so selbstverständlich nicht wiederholen, spricht aber freilich für einen erfolgreichen Start der neuen Konsolen. Noch bessere Zahlen wurden durch die mangelnde Verfügbarkeit verhindert.</p>
+<p>Xbox Live zählt erstmals über 100 Millionen aktive Nutzer. Die Anzahl der Abonnenten des Xbox Game Pass kletterte auf 18 Millionen, zuletzt hat Microsoft jeden Monat etwa eine Million neue Abonnenten gewonnen. Insgesamt 40 Prozent stiegen die Umsätze mit den Xbox-Diensten, der Gaming-Umsatz von Microsoft lag insgesamt erstmals bei über 5 Milliarden US-Dollar.</p>
+<h3>Surface-Umsatz erstmals über zwei Milliarden Dollar</h3>
+<p>Die Umsätze der Surface-Sparte sind mit drei Prozent zwar nur wenig gewachsen, übersprangen damit aber erstmals die Marke von zwei Milliarden Dollar in einem Quartal. Verkaufszahlen zu den einzelnen Geräten nennt Microsoft wie üblich (leider) nicht.</p>
+<h3>Windows stabil</h3>
+<p>Mit einem Plus von einem Prozent sind die OEM-Umsätze mit Windows nahezu unverändert, dahinter steckt aber ein interessantes Detail: Während die Umsätze mit Windows 10 Pro um neun Prozent sanken, stieg Windows 10 Home um 24 Prozent. Es lagen also wieder einige neue Windows-PCs unter dem Weihnachtsbaum. Die weiter starke Nachfrage nach neuen Computern im Unternehmensbereich unterstreicht das Plus von 10 Prozent bei den kommerziellen Windows-Umsätzen (diese Zahl ist aber nicht zu 100% aussagekräftig, da hier auch Umsätze aus Microsoft 365 anteilsmäßig angerechnet werden).</p>
+<h3>Cloud und Office marschieren</h3>
+<p>Microsofts Cloud-Dienste rund um Azure legten um 50 Prozent zu. Bei den Unternehmenskunden konnte die Office-Sparte um elf Prozent wachsen, maßgeblich getrieben durch ein Wachstum von 21 Prozent bei Office 365/Microsoft 365. Bei den Consumern stieg der Umsatz mit Microsoft 365 um sieben Prozent, insgesamt zählt man dort nun 47,5 Millionen Abonnenten.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/cloud-gaming-office-wachstum-an-allen-fronten-beschert-microsoft-ein-weiteres-rekordergebnis/feed</wfw:commentRss>
+			<slash:comments>12</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Plasma Desktop: KDE verbessert Integration von Microsoft Edge unter Linux</title>
+		<link>https://www.drwindows.de/news/plasma-desktop-kde-verbessert-integration-von-microsoft-edge-unter-linux</link>
+					<comments>https://www.drwindows.de/news/plasma-desktop-kde-verbessert-integration-von-microsoft-edge-unter-linux#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 06:39:56 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80077</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft hat seinen Browser Edge im Dev Channel mittlerweile auch für Linux veröffentlicht und die Entwickler von KDE schicken sich nun an, die Integration in den eigenen Plasma Desktop zu verbessern. Um das Ganze umzusetzen, steht für Google Chrome und Mozilla Firefox mit der Plasma Browser Integration schon länger eine entsprechende Erweiterung zur Verfügung, die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft hat seinen Browser Edge im Dev Channel mittlerweile auch für Linux veröffentlicht und die Entwickler von KDE schicken sich nun an, die Integration in den eigenen Plasma Desktop zu verbessern. Um das Ganze umzusetzen, steht für Google Chrome und Mozilla Firefox mit der Plasma Browser Integration schon länger eine entsprechende Erweiterung zur Verfügung, die es unter anderem erlaubt, Downloads in den Benachrichtigungen von Plasma zu überwachen, Browsertabs und besuchte Seiten in KRunner zu finden, Links zu teilen und diverse Sachen im Zusammenspiel mit KDE Connect wie das Audio- und Video-Playback zu steuern.</p>
+<p>Die Plasma Browser Integration ist nun in der Version 1.8 erschienen und unterstützt nun erstmals auch Microsoft Edge, sodass er sich bei Distributionen wie Kubuntu und KDE Neon besser einfügen sollte. Voraussetzung für die bestmögliche Integration ist aktuell aber Version 5.21 des Plasma Desktops, die sich aktuell in der Beta befindet. Den Download aus dem Addon-Store für Microsoft Edge findet ihr an <a href="https://microsoftedge.microsoft.com/addons/detail/plasma-integration/dnnckbejblnejeabhcmhklcaljjpdjeh">dieser</a> Stelle.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/plasma-desktop-kde-verbessert-integration-von-microsoft-edge-unter-linux/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Firefox: Mozilla veröffentlicht Version 85.0 für Windows, Mac und Linux</title>
+		<link>https://www.drwindows.de/news/firefox-mozilla-veroeffentlicht-version-85-0-fuer-windows-mac-und-linux</link>
+					<comments>https://www.drwindows.de/news/firefox-mozilla-veroeffentlicht-version-85-0-fuer-windows-mac-und-linux#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Tue, 26 Jan 2021 14:22:26 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=79624</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Mozilla hat mit Firefox 85.0 das erste Featureupdate des Browsers in neuen Jahr veröffentlicht. Die Neuerungen fallen diesmal überschaubar aus, eine davon ist jedoch das Ende der Unterstützung für den Adobe Flash Player, womit auch das letzte verbliebene NPAPI-Plugin aus dem Browser verschwindet. Auch bei der Privatsphäre gibt es Verbesserungen. Einerseits schützt Firefox nun auch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/firefox_pgb-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Mozilla hat mit Firefox 85.0 das erste Featureupdate des Browsers in neuen Jahr veröffentlicht. Die Neuerungen fallen diesmal überschaubar aus, eine davon ist jedoch das Ende der Unterstützung für den Adobe Flash Player, womit auch das letzte verbliebene NPAPI-Plugin aus dem Browser verschwindet. Auch bei der Privatsphäre gibt es Verbesserungen. Einerseits schützt Firefox nun auch vor Supercookies, außerdem wird mit dieser Version eine neue Netzwerkpartitionierung eingeführt. Das kann allerdings auch einen negativen Einfluss auf die Performance haben, was Mozilla aber bewusst in Kauf nimmt. Näheres hat Kollege Sören Hentzschel bereits in einem eigenen <a href="https://www.soeren-hentzschel.at/firefox/privatsphaere-netzwerk-partitionierung/">Blogpost</a> aufgeschlüsselt.</p>
+<p>Der Passwortmanager Firefox Lockwise wurde um die Möglichkeit erweitert, alle Passwärter auf einmal zu löschen. Zudem können diese nun auch aus den Passwortmanagern KeePass und Bitwarden importiert werden. Die Adressleiste kann nun besser konfiguriert werden, zudem wurden mehrere Optimierungen beim Speichern und Verwalten der Lesezeichen umgesetzt. Verschiedene Verbesserungen für Entwickler, Sicherheitsupdates, Bugfixes und neue Gruppenrichtlinien runden das Update ab.</p>
+<p>Firefox 85.0 steht ab sofort für Windows, Mac und Linux bereit. Nähere Informationen findet ihr wie immer in den offiziellen <a href="https://www.mozilla.org/en-US/firefox/85.0/releasenotes/">Release Notes</a>.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/firefox-mozilla-veroeffentlicht-version-85-0-fuer-windows-mac-und-linux/feed</wfw:commentRss>
+			<slash:comments>4</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
