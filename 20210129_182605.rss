@@ -1,0 +1,251 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Fri, 29 Jan 2021 16:38:56 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Bildungssektor: Teams marschiert, Chromebooks aber auch &#8211; Microsoft ist in Alarmbereitschaft</title>
+		<link>https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft</link>
+					<comments>https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 16:38:56 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80194</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der Corona-Pandemie ist die Nutzung von Microsoft Teams nicht nur in Unternehmen explodiert, auch im Bildungssektor sind haben sich die Nutzerzahlen mehr als verdreifacht: Über 100 Millionen Schüler und Lehrer nutzen Teams, zu Beginn der Krise waren es rund 30 Millionen. Diese Zahlen hat Microsoft im Rahmen einer internen Informationsveranstaltung genannt. Während man in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der Corona-Pandemie ist die Nutzung von Microsoft Teams nicht nur in Unternehmen explodiert, auch im Bildungssektor sind haben sich die Nutzerzahlen mehr als verdreifacht: Über 100 Millionen Schüler und Lehrer nutzen Teams, zu Beginn der Krise waren es rund 30 Millionen. Diese Zahlen hat Microsoft im Rahmen einer internen Informationsveranstaltung genannt.</p>
+<p>Während man in diesem Punkt Grund zu feiern hat, ist man hinsichtlich der Chromebooks in Alarmstimmung, Diese waren in den USA schon vor Corona die führende Plattform und hatten im Bildungsbereich einen Marktanteil von rund 60 Prozent, den Rest mussten sich Windows und iOS teilen. Dass an dieser Front Handlungsbedarf besteht, wusste Microsoft also schon vorher, da der Markt aber insgesamt dennoch sehr klein war, hat man das Problem vielleicht doch nicht ganz so ernst genommen.</p>
+<p>Im Jahr 2020 ist der Chromebook-Markt aber ebenfalls stark gewachsen, der Absatz stieg laut der Marktforscher von <a href="https://www.canalys.com/newsroom/tablets-chromebooks-q4-2020" target="_blank" rel="noopener">Canalys</a> um mehr als das Doppelte auf 30,7 Millionen Einheiten. Setzt man das in Relation zum gesamten PC-Markt, der laut Canalys im letzten Jahr rund 458 Millionen Geräte absetzte, ist das zwar immer noch eine vergleichsweise kleine Zahl, ignorieren geht aber nicht mehr &#8211; vor allen Dingen, weil sich die Dominanz der Chromebooks im Bildungsbereich damit noch gefestigt hat.</p>
+<p>Eran Megiddo, Microsofts Vice President für den Bildungssektor, redete dementsprechend Klartext:  &#8222;Chromebooks sind billiger und schneller, sie sind leichter in Betrieb zu nehmen und einfacher zu verwalten&#8220;, soll er auf der internen Veranstaltung gesagt haben. Nicht nur in den USA, auch in Asien seien Chromebooks inzwischen auf dem Vormarsch. Dementsprechend sagt Megiddo: &#8222;Wir haben viel Arbeit vor uns&#8220;.</p>
+<p>Windows 10X wurde in diesem Zusammenhang zwar nicht erwähnt, denn solange es noch nicht offiziell angekündigt ist, darf auch intern nicht offen darüber gesprochen werden, es ist aber inzwischen offensichtlich, dass Microsoft Windows 10X frontal gegen Chromebooks stellen wird. Ob es nach zahlreichen gescheiterten Versuchen, Windows im Bildungsbereich attraktiver zu machen, die richtige Waffe sein wird, bleibt abzuwarten. Es geht ja nicht nur um das System selbst, sondern auch um die Administration, die deutlich einfacher werden muss. Der Aussage, dass Microsoft viel Arbeit vor sich hat, kann man da nicht widersprechen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Flight Simulator: World Update 3 und Sim Update 3 kommen im Februar</title>
+		<link>https://www.drwindows.de/news/microsoft-flight-simulator-world-update-3-und-sim-update-3-kommen-im-februar</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 15:28:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80191</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es tut sich wieder etwas beim Microsoft Flight Simulator: Microsoft und das federführende Entwicklerstudio Asobo haben mit dem World Update 3 und dem Sim Update 3 zwei große Updates für den Februar weitgehend festgezurrt. Das World Update 3 wird sich mit Großbritannien und Irland und steht laut dem neuesten Development Update kurz vor dem Abschluss. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es tut sich wieder etwas beim Microsoft Flight Simulator: Microsoft und das federführende Entwicklerstudio Asobo haben mit dem World Update 3 und dem Sim Update 3 zwei große Updates für den Februar weitgehend festgezurrt. Das World Update 3 wird sich mit Großbritannien und Irland und steht laut dem <a href="https://www.flightsimulator.com/january-28th-2021-development-update/">neuesten</a> Development Update kurz vor dem Abschluss. Die Entwicklung wurde soweit abgeschlossen und man ist nun dabei, die Photogrammetrie und diverse Verbesserungen bei der Integration umzusetzen, bevor das Update final ausgerollt wird.</p>
+<p>Das World Update 3 bringt neben 5 detailgetreu umgesetzten Städten (London, Birmingham, Bristol, Oxford und Cambridge) und 5 ebenso umgesetzten Airports (Liverpool, Barra, Manchester-Barton, Land&#8217;s End und Out Skerries) auch mehr als 80 neue POIs, drei neue Aktivitäten und weitere visuelle und logistische Verbesserungen für zusätzliche 85 Flughäfen in der Region. Zudem wurden die digitalen Daten über Höhenunterschiede für ganz Großbritannien verbessert und aktualisiert. Das World Update 3 erscheint, wenn nichts mehr passiert, zwischen dem 9. und 11. Februar 2021.</p>
+<p>Daneben hat auch das Sim Update 3 mittlerweile ein verbindliches Datum und soll am 26. Februar 2021 für alle Spieler ausgerollt werden. Neben Bugfixes und Optimierungen bringt es auch eine verbesserte Aerodynamik mit. Außerdem wurden im Shop erneut 20 neue Objekte wie Flugzeuge und Flughäfen veröffentlicht, auch drei weitere Updates stehen hier bereit.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bleeding Edge: Ninja Theory will Microsofts Multiplayer-Titel nicht mehr weiterentwickeln</title>
+		<link>https://www.drwindows.de/news/bleeding-edge-ninja-theory-will-microsofts-multiplayer-titel-nicht-mehr-weiterentwickeln</link>
+					<comments>https://www.drwindows.de/news/bleeding-edge-ninja-theory-will-microsofts-multiplayer-titel-nicht-mehr-weiterentwickeln#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 14:57:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80188</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach Minecraft Earth und Gears POP! erwischt es mit Bleeding Edge nun das nächste Game von Microsoft, was keine neuen Inhalte mehr bekommen wird. Das Entwicklerstudio Ninja Theory gab gestern in einem kurzen Statement auf Twitter bekannt, dass man sich zu diesem Schritt entschlossen habe und sich stattdessen auf andere laufende Projekte konzentrieren möchte. Neben [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach Minecraft Earth und Gears POP! erwischt es mit Bleeding Edge nun das nächste Game von Microsoft, was keine neuen Inhalte mehr bekommen wird. Das Entwicklerstudio Ninja Theory gab gestern in einem kurzen Statement auf Twitter bekannt, dass man sich zu diesem Schritt entschlossen habe und sich stattdessen auf andere laufende Projekte konzentrieren möchte. Neben Senua&#8217;s Saga entstehen mit Project Mara und The Insight Project aktuell drei weitere Projekte beim im britischen Cambridge beheimateten Entwicklerstudio.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">With the studio now focusing on our new projects (Senua’s Saga, Project Mara &amp; The Insight Project) we have decided that there will be no further content updates for Bleeding Edge. The game is still playable on Xbox and PC. Thank you to the fans &amp; keep teaming up &amp; causing chaos!</p>
+<p>&mdash; Bleeding Edge (@BleedingEdgeNT) <a href="https://twitter.com/BleedingEdgeNT/status/1354836826322776066?ref_src=twsrc%5Etfw">January 28, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Auch wenn es keine neuen Inhalte mehr dazukommen, werden die Server bis auf Weiteres weiter online und das Spiel damit weiter spielbar bleiben. Dazu, wie lange das so sein wird, sagte Ninja Theory aber nichts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bleeding-edge-ninja-theory-will-microsofts-multiplayer-titel-nicht-mehr-weiterentwickeln/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams: Performance der Desktop-Version soll mit hoher Priorität verbessert werden</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-performance-der-desktop-version-soll-mit-hoher-prioritaet-verbessert-werden</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-performance-der-desktop-version-soll-mit-hoher-prioritaet-verbessert-werden#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 10:18:16 +0000</pubDate>
+				<category><![CDATA[Microsoft Teams]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80147</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wir haben es an dieser Stelle wiederholt thematisiert: Die Nutzung von Microsoft Teams ist seit Ausbruch der Pandemie raketenhaft angestiegen, gleichzeitig packt Microsoft immer mehr neue Funktionen in die Anwendung. Und wo wir gerade über Raketen sprechen: Eine solche ist die Teams-Anwendung tatsächlich nicht. Benutzer beschweren sich häufig über den langsamen Start, den hohen Ressourcenverbrauch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wir haben es an dieser Stelle wiederholt thematisiert: Die Nutzung von Microsoft Teams ist seit Ausbruch der Pandemie raketenhaft angestiegen, gleichzeitig packt Microsoft immer mehr neue Funktionen in die Anwendung. Und wo wir gerade über Raketen sprechen: Eine solche ist die Teams-Anwendung tatsächlich nicht.</p>
+<p>Benutzer beschweren sich häufig über den langsamen Start, den hohen Ressourcenverbrauch und über Performanceprobleme während der Nutzung. Diesen Problemen möchte sich Microsoft nun laut einem <a href="https://microsoftteams.uservoice.com/forums/555103-public/suggestions/17219609-general-teams-performance-issues" target="_blank" rel="noopener">Uservoice-Beitrag</a> (via <a href="https://www.onmsft.com/news/microsoft-says-performance-improvements-for-teams-on-windows-mac-are-a-topmost-priority" target="_blank" rel="noopener">OnMSFT</a>) mit &#8222;hoher Priorität&#8220; annehmen, um Teams für Windows und Mac ein wenig Beine zu machen.</p>
+<p>Der bereits angesprochene langsame Start steht auf der Agenda der zu behebenden Probleme, auch dem hohen RAM-Verbrauch und der vergleichsweise hohen CPU-Last will man sich widmen. Um weiteres Feedback bitten die Entwickler auch zu allen Problemen, die während der Nutzung auftreten: Lange Reaktions- und Ladezeiten, Einfrieren der Anwendung oder gar deren Absturz. Wer sich aktiv beteiligen möchte, folgt bitte dem obigen Link.</p>
+<p>An die lange Startzeit von Teams habe ich mich inzwischen gewöhnt. Mit &#8222;Hängern&#8220; habe ich allerdings auch öfter zu kämpfen, vor allen Dingen wenn ich mich durch die Historie eines Chats arbeite, weil ich nach einer bestimmten Information suche. Dann friert die Anwendung öfter mal sekundenlang ein (Skype verhält sich im Übrigen exakt gleich, da merkt man die gemeinsame Basis).</p>
+<p>Habt ihr auch Performance- oder Stabilitätsprobleme mit Teams. Hinterlasst gerne einen entsprechenden Kommentar.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-performance-der-desktop-version-soll-mit-hoher-prioritaet-verbessert-werden/feed</wfw:commentRss>
+			<slash:comments>9</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge: Neue Webseite informiert über die Weiterentwicklung</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-neue-webseite-informiert-ueber-die-weiterentwicklung</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-neue-webseite-informiert-ueber-die-weiterentwicklung#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 07:36:39 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80142</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Team hinter Microsoft Edge hat, seit der Neustart auf Basis der Chromium Engine angekündigt wurde, stets sehr offen agiert. Zu den einzelnen Vorabversionen gibt es detaillierte Release Notes, in den offiziellen Edge-Foren wird außerdem regelmäßig ein Statusupdate zu gesammeltem und ausgewertetem Feedback veröffentlicht. Für Unternehmenskunden hatte Microsoft im letzten Jahr außerdem eine Roadmap veröffentlicht, aus [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Neues Microsoft Edge Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_logo_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Team hinter Microsoft Edge hat, seit der Neustart auf Basis der Chromium Engine angekündigt wurde, stets sehr offen agiert. Zu den einzelnen Vorabversionen gibt es detaillierte Release Notes, in den offiziellen Edge-Foren wird außerdem regelmäßig ein Statusupdate zu gesammeltem und ausgewertetem Feedback veröffentlicht.</p>
+<p>Für Unternehmenskunden hatte Microsoft im letzten Jahr außerdem eine <a href="https://www.drwindows.de/news/microsoft-edge-jetzt-mit-feature-roadmap-fuer-unternehmen-und-fahrplan-fuer-die-hauptversionen" target="_blank" rel="noopener">Roadmap</a> veröffentlicht, aus der man ablesen konnte, wann welche Funktion geplant ist oder ob sie bereits umgesetzt wurde. Dabei hat man sich allerdings ausschließlich auf die Features beschränkt, die speziell für Unternehmenskunden relevant sind.</p>
+<p>Eine solch detaillierte Feature-Roadmap gibt es jetzt für alle Nutzer, zu finden ist sie auf der <a href="https://www.microsoftedgeinsider.com/en-us/whats-next" target="_blank" rel="noopener">Microsoft Edge Insider Homepage.</a> Hier kann man sich neue Funktionen nach dem jeweiligen Status (geplant, im Rollout, veröffentlicht) anzeigen lassen und so entweder einfach nur stöbern oder gezielt nach einer bestimmten Funktion suchen.</p>
+<p>Die Neuerungen lassen sich außerdem auch nach Kategorien und nach Datum filtern. Wer regelmäßig rein schaut, kann sich so leicht auf dem Laufenden halten, indem man sich beispielsweise nur die Einträge der letzten Woche anzeigen lässt. Weil die Seite vor einigen Tagen initial befüllt wurde, funktionieren die Datumsfilter allerdings noch nicht, sie greifen erst bei Einträgen, die in Zukunft hinzugefügt oder aktualisiert werden.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-neue-webseite-informiert-ueber-die-weiterentwicklung/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Surface Laptop 3: Firmware erhält Sicherheits- und Wartungsupdate</title>
+		<link>https://www.drwindows.de/news/surface-laptop-3-firmware-erhaelt-sicherheits-und-wartungsupdate</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 07:15:57 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80140</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Laptop 3" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Für die Modellvarianten des Surface Laptop 3 mit Intel-Prozessor steht eine Firmware-Aktualisierung zum Download bereit. Mit dem Update werden die neuesten Sicherheitsupdates für die Intel Management Engine installiert. Ein Sicherheitsupdate gibt es außerdem auch für die UEFI-Firmware. Wie üblich werden zu den geschlossenen Schwachstellen allerdings keine näheren Informationen zur Verfügung gestellt. Last but not least [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Laptop 3" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_laptop_3_titel-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Für die Modellvarianten des Surface Laptop 3 mit Intel-Prozessor steht eine Firmware-Aktualisierung zum Download bereit. Mit dem Update werden die neuesten Sicherheitsupdates für die Intel Management Engine installiert.</p>
+<p>Ein Sicherheitsupdate gibt es außerdem auch für die UEFI-Firmware. Wie üblich werden zu den geschlossenen Schwachstellen allerdings keine näheren Informationen zur Verfügung gestellt.</p>
+<p>Last but not least gibt es noch diverse neue Surface Systemtreiber, die verschiedene Fehler beheben, einer davon konnte im schlimmsten Fall zu einem Systemabsturz führen.</p>
+<p>Das vollständige Changelog kann wie immer direkt bei Microsoft <a href="https://support.microsoft.com/en-us/surface/surface-laptop-3-update-history-7471eff4-8de2-1616-5b7b-241e28c2236b" target="_blank" rel="noopener">eingesehen werden</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Windows 10 Verteilung: Version 20H2 marschiert langsamer</title>
+		<link>https://www.drwindows.de/news/windows-10-verteilung-version-20h2-marschiert-langsamer</link>
+					<comments>https://www.drwindows.de/news/windows-10-verteilung-version-20h2-marschiert-langsamer#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 14:32:41 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80131</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Verbreitung der neuesten Windows 10 Version lief im Januar leicht gebremst. Das Oktober 2020 Update, auch bekannt als Version 20H2, läuft jetzt auf 16,8 Prozent aller PCs, das sind drei Prozentpunkte mehr als im Vormonat. Das geht aus der neuesten und wie immer höchst inoffiziellen Statistik von AdDuplex hervor. Die Version 2004 zeigt sich [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Verbreitung der neuesten Windows 10 Version lief im Januar leicht gebremst. Das Oktober 2020 Update, auch bekannt als Version 20H2, läuft jetzt auf 16,8 Prozent aller PCs, das sind drei Prozentpunkte mehr als im Vormonat. Das geht aus der neuesten und wie immer höchst inoffiziellen Statistik von <a href="https://reports.adduplex.com/#/r/2021-01" target="_blank" rel="noopener">AdDuplex</a> hervor.</p>
+<p>Die Version 2004 zeigt sich dagegen kaum verändert, und so nutzen in Summe aktuell geschätzte 56,6 Prozent aller Windows 10 Nutzer die neueste Codebasis.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021.jpg" data-rel="lightbox-gallery-z70ykTud" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-80132" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021.jpg" alt="Windows 10 Verteilung Januar 2021" width="852" height="477" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021.jpg 852w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021-300x168.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021-768x430.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021-643x360.jpg 643w" sizes="(max-width: 852px) 100vw, 852px" /></a></p>
+<p>Fast ein Drittel aller Windows 10 PCs führt noch die Version 1909 aus. Die im Dezember aus dem Support gegangene Version 1903 kommt noch auf einen Anteil von 6,6 Prozent. Das klingt wenig, wenn man aber von rund einer Milliarde PCs ausgeht, die mit Windows 10 ausgestattet sind (das ist die letzte offizielle Zahl, die Microsoft mitgeteilt hat), dann sind das über 60 Millionen potenziell ungeschützte PCs. Das Risiko ist nicht nur theoretischer Natur, denn die Version 1909 basiert bekanntermaßen auf dem selben Code. Wer die im Januar veröffentlichten Sicherheitsupdates auseinandernimmt, kann daraus auf die entsprechenden Schwachstellen schließen.</p>
+<p>Ich weiß, ich reite darauf schon seit Monaten herum, aber man muss hier einfach den Finger in die Wunde legen, denn da hat Microsoft seine Hausaufgaben nicht sauber gemacht. Der Umstieg von 1903 und 1909 geschieht über einen Wartungspatch, den kann man auch einfach mal durchdrücken und die Zwangsupdate-Krakeeler in die dunkle Nacht schreien lassen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10-verteilung-version-20h2-marschiert-langsamer/feed</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows Hello: Bitwarden erweitert Unterstützung auf die Browser-Erweiterungen</title>
+		<link>https://www.drwindows.de/news/windows-hello-bitwarden-erweitert-unterstuetzung-auf-die-browser-erweiterungen</link>
+					<comments>https://www.drwindows.de/news/windows-hello-bitwarden-erweitert-unterstuetzung-auf-die-browser-erweiterungen#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 14:27:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80133</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Schon im letzten Jahr haben die Entwickler hinter dem quelloffenen Passwortmanager Bitwarden die Unterstützung von Windows Hello für die Desktop-App angekündigt, nun geht man einen Schritt weiter. Wie das Unternehmen in einem neuen Blogpost ankündigt, können die Nutzer nun auch über die Browser-Erweiterungen auf das Feature zugreifen. Die Installation des Desktop-Clients ist dafür aber zwingend [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Schon im letzten Jahr haben die Entwickler hinter dem quelloffenen Passwortmanager Bitwarden die Unterstützung von Windows Hello für die Desktop-App <a href="https://www.drwindows.de/news/bitwarden-passwortmanager-erlaubt-jetzt-auch-entsperrung-mit-windows-hello">angekündigt</a>, nun geht man einen Schritt weiter. Wie das Unternehmen in einem neuen Blogpost ankündigt, können die Nutzer nun auch über die Browser-Erweiterungen auf das Feature zugreifen. Die Installation des Desktop-Clients ist dafür aber zwingend notwendig.</p>
+<p>Um Windows Hello auch im Browser nutzen zu können, muss die biometrische Entsperrung sowie die Browser-Integration im Desktop-Client in den Einstellungen aktiviert werden. Anschließend wird für die Erweiterung eine zusätzliche Erlaubnis eingeholt, damit Windows Hello auch im Browser aktiviert wird. Auch Nutzer von macOS können eine ähnliche Möglichkeit über Touch ID nutzen. Während Windows-Nutzer einfach die normale Desktop-Version installieren, ist am Mac allerdings die Installation über den Appstore die zwingende Voraussetzung.</p>
+<p>Nähere Informationen findet ihr wie immer im verlinkten Blogpost.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-hello-bitwarden-erweitert-unterstuetzung-auf-die-browser-erweiterungen/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Application Guard: Microsoft packt die Office Suite in eine Sandbox</title>
+		<link>https://www.drwindows.de/news/application-guard-microsoft-packt-die-office-suite-in-eine-sandbox</link>
+					<comments>https://www.drwindows.de/news/application-guard-microsoft-packt-die-office-suite-in-eine-sandbox#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 12:52:41 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80126</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Office" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft Office kann ab sofort &#8211; die Erfüllung der technischen Voraussetzungen und die entsprechende Lizenz vorausgesetzt &#8211; in einer besonders geschützten Umgebung ausgeführt werden. Der Application Guard kann jetzt auch in Verbindung mit der Bürosoftware genutzt werden. Eine vergleichbare Umgebung gibt es unter Windows 10 bereits für Microsoft Edge. Was in Office passiert, bleibt auch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Office" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft Office kann ab sofort &#8211; die Erfüllung der technischen Voraussetzungen und die entsprechende Lizenz vorausgesetzt &#8211; in einer besonders geschützten Umgebung ausgeführt werden. Der Application Guard kann jetzt auch in Verbindung mit der Bürosoftware genutzt werden. Eine vergleichbare Umgebung gibt es unter Windows 10 bereits für Microsoft Edge.</p>
+<p>Was in Office passiert, bleibt auch in Office &#8211; so könnte man das salopp umschreiben. In Office-Dateien können in Form von Makros oder noch unentdeckten Schwachstellen Sicherheitsrisiken stecken. Darum werden Dateien aus unbekannten Quellen grundsätzlich in einem geschützten Modus geöffnet. Um die Datei zu bearbeiten, muss man diesen Modus verlassen und das auch explizit bestätigen. Hand auf&#8217;s Herz: Jeder von uns hat das schon gemacht, ohne wirklich sicher zu sein, dass die entsprechende Datei auch tatsächlich unbedenklich ist.</p>
+<p>Mit dem Application Guard wird dieser Zwischenschritt überflüssig. Ist er aktiv, kann ein Dokument direkt geöffnet werden. Für den Fall, dass sich darin tatsächlich ein Schädling verbirgt, bleibt dieser in der geöffneten Office-Anwendung gefangen, kann sich nicht im System einnisten und landet mit Schließen der Applikation im digitalen Nirvana.</p>
+<p>Klingt gut, hat aber auch Nachteile: Da der Application Guard das geöffnete Programm komplett vom Rest des Systems abschottet, ist es nicht möglich, Inhalte z.B. aus anderen Dateien einzufügen.</p>
+<p>Für die Nutzung des Application Guard for Office ist Windows 10 Enterprise sowie eine Microsoft 365 E5 Lizenz erforderlich, außerdem muss die Hardware die Virtualisierungs-Technologie von Intel oder AMD unterstützen.</p>
+<p>Admins finden weitere Informationen zur Aktivierung in der Dokumentation: <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/install-app-guard?view=o365-worldwide" target="_blank" rel="noopener">Application Guard for Office 365 (engl.)</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/application-guard-microsoft-packt-die-office-suite-in-eine-sandbox/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halbleiterknappheit: Xbox Series X wird noch längere Zeit Mangelware bleiben</title>
+		<link>https://www.drwindows.de/news/halbleiterknappheit-xbox-series-x-wird-noch-laengere-zeit-mangelware-bleiben</link>
+					<comments>https://www.drwindows.de/news/halbleiterknappheit-xbox-series-x-wird-noch-laengere-zeit-mangelware-bleiben#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 10:19:45 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80122</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Der Start der neuen Konsolengeneration mit Xbox Series X und Series S war für Microsoft ein großer Erfolg, den man auch in den jüngst veröffentlichten Quartalszahlen ablesen kann. Die neuen Konsolen trugen ihren Teil dazu bei, dass Microsofts Gamingsparte erstmals mehr als fünf Milliarden Dollar in einem Quartal umsetzen konnte. In die Freude mischt sich [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Der Start der neuen Konsolengeneration mit Xbox Series X und Series S war für Microsoft ein großer Erfolg, den man auch in den jüngst veröffentlichten <a href="https://www.drwindows.de/news/cloud-gaming-office-wachstum-an-allen-fronten-beschert-microsoft-ein-weiteres-rekordergebnis" target="_blank" rel="noopener">Quartalszahlen</a> ablesen kann. Die neuen Konsolen trugen ihren Teil dazu bei, dass Microsofts Gamingsparte erstmals mehr als fünf Milliarden Dollar in einem Quartal umsetzen konnte.</p>
+<p>In die Freude mischt sich allerdings ein bitterer Beigeschmack, denn niemand weiß, wie erfolgreich der Start wirklich hätte sein können, hätten alle Interessenten tatsächlich eine Konsole kaufen können. Die Xbox Series X ist nach wie vor so gut wie überhaupt nicht zu bekommen. Sony-Fans geht es mit der PS5 nicht besser.</p>
+<p>Microsoft hat bereits mehrfach verkündet, mit Hochdruck an einer besseren Verfügbarkeit zu arbeiten. Gemeinsam mit Sony blicken sie da hoffnungs- und erwartungsvoll in Richtung AMD, dort zuckt man aber mit den Schultern. Gerne würde man höhere Stückzahlen liefern, aber die allgemeine Chipknappheit trifft AMD ebenfalls mit voller Härte.</p>
+<p>Im Rahmen der Vorlage der aktuellen Geschäftszahlen macht AMD-Chefin Lisa Su wenig Hoffnung, dass sich daran kurzfristig etwas ändert. Sie rechnet damit, dass die Lieferengpässe noch die gesamte erste Jahreshälfte anhalten werden, erst dann seit mit einer langsamen Entspannung zu rechnen. Und das alles immer unter der Prämisse, dass sich die aktuelle Lage nicht wieder verschlimmert.</p>
+<p>Angesichts der Tatsache, dass die Halbleiterknappheit aktuell viele tausend Arbeitnehmer hierzulande in die Kurzarbeit zwingt, kann man mit gutem Gewissen sagen, dass es wichtigere Probleme gibt als die Verfügbarkeit einer Spielkonsole. Aber auch daran hängen letztlich wieder Arbeitsplätze und nicht nur unerfüllte Gamerwünsche.</p>
+<p>via <a href="https://www.windowscentral.com/xbox-series-x-s-ps5-pc-shortages-second-half-2021" target="_blank" rel="noopener">WindowsCentral</a>/<a href="https://www.tomshardware.com/news/amd-smashes-earnings-records-again-chip-shortages-to-last-until-second-half-of-2021" target="_blank" rel="noopener">Toms Hardware</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/halbleiterknappheit-xbox-series-x-wird-noch-laengere-zeit-mangelware-bleiben/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
