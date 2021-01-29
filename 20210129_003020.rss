@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Thu, 28 Jan 2021 14:32:41 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Windows 10 Verteilung: Version 20H2 marschiert langsamer</title>
+		<link>https://www.drwindows.de/news/windows-10-verteilung-version-20h2-marschiert-langsamer</link>
+					<comments>https://www.drwindows.de/news/windows-10-verteilung-version-20h2-marschiert-langsamer#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 14:32:41 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80131</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Verbreitung der neuesten Windows 10 Version lief im Januar leicht gebremst. Das Oktober 2020 Update, auch bekannt als Version 20H2, läuft jetzt auf 16,8 Prozent aller PCs, das sind drei Prozentpunkte mehr als im Vormonat. Das geht aus der neuesten und wie immer höchst inoffiziellen Statistik von AdDuplex hervor. Die Version 2004 zeigt sich [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Windows-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Verbreitung der neuesten Windows 10 Version lief im Januar leicht gebremst. Das Oktober 2020 Update, auch bekannt als Version 20H2, läuft jetzt auf 16,8 Prozent aller PCs, das sind drei Prozentpunkte mehr als im Vormonat. Das geht aus der neuesten und wie immer höchst inoffiziellen Statistik von <a href="https://reports.adduplex.com/#/r/2021-01" target="_blank" rel="noopener">AdDuplex</a> hervor.</p>
+<p>Die Version 2004 zeigt sich dagegen kaum verändert, und so nutzen in Summe aktuell geschätzte 56,6 Prozent aller Windows 10 Nutzer die neueste Codebasis.</p>
+<p>&nbsp;</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021.jpg" data-rel="lightbox-gallery-Gnxe6qr5" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-80132" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021.jpg" alt="Windows 10 Verteilung Januar 2021" width="852" height="477" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021.jpg 852w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021-300x168.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021-768x430.jpg 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/windows_10_verteilung_januar_2021-643x360.jpg 643w" sizes="(max-width: 852px) 100vw, 852px" /></a></p>
+<p>Fast ein Drittel aller Windows 10 PCs führt noch die Version 1909 aus. Die im Dezember aus dem Support gegangene Version 1903 kommt noch auf einen Anteil von 6,6 Prozent. Das klingt wenig, wenn man aber von rund einer Milliarde PCs ausgeht, die mit Windows 10 ausgestattet sind (das ist die letzte offizielle Zahl, die Microsoft mitgeteilt hat), dann sind das über 60 Millionen potenziell ungeschützte PCs. Das Risiko ist nicht nur theoretischer Natur, denn die Version 1909 basiert bekanntermaßen auf dem selben Code. Wer die im Januar veröffentlichten Sicherheitsupdates auseinandernimmt, kann daraus auf die entsprechenden Schwachstellen schließen.</p>
+<p>Ich weiß, ich reite darauf schon seit Monaten herum, aber man muss hier einfach den Finger in die Wunde legen, denn da hat Microsoft seine Hausaufgaben nicht sauber gemacht. Der Umstieg von 1903 und 1909 geschieht über einen Wartungspatch, den kann man auch einfach mal durchdrücken und die Zwangsupdate-Krakeeler in die dunkle Nacht schreien lassen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-10-verteilung-version-20h2-marschiert-langsamer/feed</wfw:commentRss>
+			<slash:comments>6</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Windows Hello: Bitwarden erweitert Unterstützung auf die Browser-Erweiterungen</title>
+		<link>https://www.drwindows.de/news/windows-hello-bitwarden-erweitert-unterstuetzung-auf-die-browser-erweiterungen</link>
+					<comments>https://www.drwindows.de/news/windows-hello-bitwarden-erweitert-unterstuetzung-auf-die-browser-erweiterungen#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 14:27:52 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80133</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Schon im letzten Jahr haben die Entwickler hinter dem quelloffenen Passwortmanager Bitwarden die Unterstützung von Windows Hello für die Desktop-App angekündigt, nun geht man einen Schritt weiter. Wie das Unternehmen in einem neuen Blogpost ankündigt, können die Nutzer nun auch über die Browser-Erweiterungen auf das Feature zugreifen. Die Installation des Desktop-Clients ist dafür aber zwingend [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/bitwarden_neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Schon im letzten Jahr haben die Entwickler hinter dem quelloffenen Passwortmanager Bitwarden die Unterstützung von Windows Hello für die Desktop-App <a href="https://www.drwindows.de/news/bitwarden-passwortmanager-erlaubt-jetzt-auch-entsperrung-mit-windows-hello">angekündigt</a>, nun geht man einen Schritt weiter. Wie das Unternehmen in einem neuen Blogpost ankündigt, können die Nutzer nun auch über die Browser-Erweiterungen auf das Feature zugreifen. Die Installation des Desktop-Clients ist dafür aber zwingend notwendig.</p>
+<p>Um Windows Hello auch im Browser nutzen zu können, muss die biometrische Entsperrung sowie die Browser-Integration im Desktop-Client in den Einstellungen aktiviert werden. Anschließend wird für die Erweiterung eine zusätzliche Erlaubnis eingeholt, damit Windows Hello auch im Browser aktiviert wird. Auch Nutzer von macOS können eine ähnliche Möglichkeit über Touch ID nutzen. Während Windows-Nutzer einfach die normale Desktop-Version installieren, ist am Mac allerdings die Installation über den Appstore die zwingende Voraussetzung.</p>
+<p>Nähere Informationen findet ihr wie immer im verlinkten Blogpost.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/windows-hello-bitwarden-erweitert-unterstuetzung-auf-die-browser-erweiterungen/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Application Guard: Microsoft packt die Office Suite in eine Sandbox</title>
+		<link>https://www.drwindows.de/news/application-guard-microsoft-packt-die-office-suite-in-eine-sandbox</link>
+					<comments>https://www.drwindows.de/news/application-guard-microsoft-packt-die-office-suite-in-eine-sandbox#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 12:52:41 +0000</pubDate>
+				<category><![CDATA[Office]]></category>
+		<category><![CDATA[Sicherheit]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80126</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Office" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft Office kann ab sofort &#8211; die Erfüllung der technischen Voraussetzungen und die entsprechende Lizenz vorausgesetzt &#8211; in einer besonders geschützten Umgebung ausgeführt werden. Der Application Guard kann jetzt auch in Verbindung mit der Bürosoftware genutzt werden. Eine vergleichbare Umgebung gibt es unter Windows 10 bereits für Microsoft Edge. Was in Office passiert, bleibt auch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Office" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/Microsoft-Office-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft Office kann ab sofort &#8211; die Erfüllung der technischen Voraussetzungen und die entsprechende Lizenz vorausgesetzt &#8211; in einer besonders geschützten Umgebung ausgeführt werden. Der Application Guard kann jetzt auch in Verbindung mit der Bürosoftware genutzt werden. Eine vergleichbare Umgebung gibt es unter Windows 10 bereits für Microsoft Edge.</p>
+<p>Was in Office passiert, bleibt auch in Office &#8211; so könnte man das salopp umschreiben. In Office-Dateien können in Form von Makros oder noch unentdeckten Schwachstellen Sicherheitsrisiken stecken. Darum werden Dateien aus unbekannten Quellen grundsätzlich in einem geschützten Modus geöffnet. Um die Datei zu bearbeiten, muss man diesen Modus verlassen und das auch explizit bestätigen. Hand auf&#8217;s Herz: Jeder von uns hat das schon gemacht, ohne wirklich sicher zu sein, dass die entsprechende Datei auch tatsächlich unbedenklich ist.</p>
+<p>Mit dem Application Guard wird dieser Zwischenschritt überflüssig. Ist er aktiv, kann ein Dokument direkt geöffnet werden. Für den Fall, dass sich darin tatsächlich ein Schädling verbirgt, bleibt dieser in der geöffneten Office-Anwendung gefangen, kann sich nicht im System einnisten und landet mit Schließen der Applikation im digitalen Nirvana.</p>
+<p>Klingt gut, hat aber auch Nachteile: Da der Application Guard das geöffnete Programm komplett vom Rest des Systems abschottet, ist es nicht möglich, Inhalte z.B. aus anderen Dateien einzufügen.</p>
+<p>Für die Nutzung des Application Guard for Office ist Windows 10 Enterprise sowie eine Microsoft 365 E5 Lizenz erforderlich, außerdem muss die Hardware die Virtualisierungs-Technologie von Intel oder AMD unterstützen.</p>
+<p>Admins finden weitere Informationen zur Aktivierung in der Dokumentation: <a href="https://docs.microsoft.com/en-us/microsoft-365/security/office-365-security/install-app-guard?view=o365-worldwide" target="_blank" rel="noopener">Application Guard for Office 365 (engl.)</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/application-guard-microsoft-packt-die-office-suite-in-eine-sandbox/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Halbleiterknappheit: Xbox Series X wird noch längere Zeit Mangelware bleiben</title>
+		<link>https://www.drwindows.de/news/halbleiterknappheit-xbox-series-x-wird-noch-laengere-zeit-mangelware-bleiben</link>
+					<comments>https://www.drwindows.de/news/halbleiterknappheit-xbox-series-x-wird-noch-laengere-zeit-mangelware-bleiben#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 10:19:45 +0000</pubDate>
+				<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80122</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Der Start der neuen Konsolengeneration mit Xbox Series X und Series S war für Microsoft ein großer Erfolg, den man auch in den jüngst veröffentlichten Quartalszahlen ablesen kann. Die neuen Konsolen trugen ihren Teil dazu bei, dass Microsofts Gamingsparte erstmals mehr als fünf Milliarden Dollar in einem Quartal umsetzen konnte. In die Freude mischt sich [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Series X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/12/xbox_x_series-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Der Start der neuen Konsolengeneration mit Xbox Series X und Series S war für Microsoft ein großer Erfolg, den man auch in den jüngst veröffentlichten <a href="https://www.drwindows.de/news/cloud-gaming-office-wachstum-an-allen-fronten-beschert-microsoft-ein-weiteres-rekordergebnis" target="_blank" rel="noopener">Quartalszahlen</a> ablesen kann. Die neuen Konsolen trugen ihren Teil dazu bei, dass Microsofts Gamingsparte erstmals mehr als fünf Milliarden Dollar in einem Quartal umsetzen konnte.</p>
+<p>In die Freude mischt sich allerdings ein bitterer Beigeschmack, denn niemand weiß, wie erfolgreich der Start wirklich hätte sein können, hätten alle Interessenten tatsächlich eine Konsole kaufen können. Die Xbox Series X ist nach wie vor so gut wie überhaupt nicht zu bekommen. Sony-Fans geht es mit der PS5 nicht besser.</p>
+<p>Microsoft hat bereits mehrfach verkündet, mit Hochdruck an einer besseren Verfügbarkeit zu arbeiten. Gemeinsam mit Sony blicken sie da hoffnungs- und erwartungsvoll in Richtung AMD, dort zuckt man aber mit den Schultern. Gerne würde man höhere Stückzahlen liefern, aber die allgemeine Chipknappheit trifft AMD ebenfalls mit voller Härte.</p>
+<p>Im Rahmen der Vorlage der aktuellen Geschäftszahlen macht AMD-Chefin Lisa Su wenig Hoffnung, dass sich daran kurzfristig etwas ändert. Sie rechnet damit, dass die Lieferengpässe noch die gesamte erste Jahreshälfte anhalten werden, erst dann seit mit einer langsamen Entspannung zu rechnen. Und das alles immer unter der Prämisse, dass sich die aktuelle Lage nicht wieder verschlimmert.</p>
+<p>Angesichts der Tatsache, dass die Halbleiterknappheit aktuell viele tausend Arbeitnehmer hierzulande in die Kurzarbeit zwingt, kann man mit gutem Gewissen sagen, dass es wichtigere Probleme gibt als die Verfügbarkeit einer Spielkonsole. Aber auch daran hängen letztlich wieder Arbeitsplätze und nicht nur unerfüllte Gamerwünsche.</p>
+<p>via <a href="https://www.windowscentral.com/xbox-series-x-s-ps5-pc-shortages-second-half-2021" target="_blank" rel="noopener">WindowsCentral</a>/<a href="https://www.tomshardware.com/news/amd-smashes-earnings-records-again-chip-shortages-to-last-until-second-half-of-2021" target="_blank" rel="noopener">Toms Hardware</a></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/halbleiterknappheit-xbox-series-x-wird-noch-laengere-zeit-mangelware-bleiben/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>The Medium erscheint heute für Xbox Series S&#124;X und PC</title>
+		<link>https://www.drwindows.de/news/the-medium-erscheint-heute-fuer-xbox-series-sx-und-pc</link>
+		
+		<dc:creator><![CDATA[Daniel Heithorn]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 08:00:31 +0000</pubDate>
+				<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80106</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Medium" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Heute erscheint das Horror-Psycho Spiel &#8222;The Medium&#8220; der &#8222;Blair Witch&#8220;-Macher auf Xbox Series S&#124;X und dem PC. Erstmalig angekündigt auf dem Xbox Games Showcase als einer der ersten Titel nur für die nächste Generation, sollte es schon Mitte Dezember herauskommen. Aufgrund der Pandemie hat man sich dann aus Qualitätsgründen für einen Termin Ende Januar entschieden. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Medium" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/Medium-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Heute erscheint das Horror-Psycho Spiel &#8222;The Medium&#8220; der &#8222;Blair Witch&#8220;-Macher auf Xbox Series S|X und dem PC. Erstmalig angekündigt auf dem Xbox Games Showcase als einer der ersten Titel nur für die nächste Generation, sollte es schon Mitte Dezember herauskommen. Aufgrund der Pandemie hat man sich dann aus Qualitätsgründen für einen Termin Ende Januar entschieden.</p>
+<p>The Medium ist ein 3rd Person Spiel, in dem ihr Marianne verkörpert. Wie der Titel schon andeutet, ist Marianne ein Medium, das besondere Fähigkeiten hat und den rätselhaften Tod eines Mädchens lösen muss. Mit Hilfe eurer Fähigkeiten könnt ihr jederzeit zwischen der realen Welt und der spirituellen Alternative hin und her wechseln.</p>
+<p>Außerdem habt ihr Fähigkeiten, mit denen ihr euch gegen dunkle Mächte wehren könnt, die euch davon abhalten wollen, das Rätsel zu lösen.</p>
+<p>Das Spiel, welches ab 18 Jahren freigegeben ist, deutet drastische Szenen an und ist definitiv nichts für schwache Nerven. Viele der Kreativen waren auch maßgeblich an dem Klassiker &#8222;Silent Hill&#8220; beteiligt.</p>
+<p>Vom technischen Aspekt holt das Spiel aufgrund der 2 Welten, die quasi parallel geladen und gespielt werden, einiges oder alles aus den Konsolen.</p>
+<p>Auf der Xbox Series X werden euch native 4K, Raytracing und HDR10 geboten. Laut einem <a href="https://www.gamepro.de/artikel/the-medium-technik-xbox-series-x-und-s,3366305.html" target="_blank" rel="noopener">GamePro Artikel</a> wird die Framerate auf 30 FpS festgelegt. Auf der Series S gibt es 1080p mit dynamischer Auflösung. Dort müsst ihr laut dem Artikel ohne Raytracing auskommen.</p>
+<p>Angesichts dessen wird die Leistungslücke zwischen der Xbox One Klasse und der Series S|X immer deutlicher und gibt uns einen Vorgeschmack darauf, dass ein Umstieg auf die neuen Konsolen eher früher als später Sinn ergibt.</p>
+<p>The Medium RTX Trailer</p>
+<p><iframe title="The Medium - Official RTX Trailer" width="500" height="281" src="https://www.youtube.com/embed/bAh_IJYmLiw?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>The Medium Live Action Trailer</p>
+<p><iframe title="The Medium - Official Live Action Trailer" width="500" height="281" src="https://www.youtube.com/embed/6g0LzU9R5m8?feature=oembed" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></p>
+<p>Der ID@Xbox Titel kostet 49,99 €, ist aber wie versprochen als Exklusivtitel auch ab Release im Xbox Game Pass enthalten. Die Freischaltung für europäische Spieler wird gegen 17 Uhr unserer Zeit erfolgen.</p>
+<p><a href="https://www.xbox.com/de-DE/games/the-medium">The Medium auf Xbox</a></p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: microsoftstore // ID: 9plkr7kmq6x4) --><p><a target="_blank" rel="nofollow" href="https://click.linksynergy.com/deeplink?id=uIqsdHnCT*o&mid=46131&murl=https%3A%2F%2Fwww.microsoft.com%2Fde-de%2Fp%2Fapp%2F9plkr7kmq6x4" title="The Medium">The Medium (Code benötigt, Microsoft Store) →</a></p><!-- /WP-Appbox -->
+<div class="ms-editor-squiggler" style="color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-variation-settings: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-inline: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-size: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: block; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; offset: initial; opacity: initial; order: initial; origin-trial-test-property: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: initial; quotes: initial; r: initial; resize: initial; ruby-position: initial; rx: initial; ry: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; -webkit-app-region: initial; border-spacing: initial; -webkit-border-image: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-hyphenate-character: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-perspective-origin-x: initial; -webkit-perspective-origin-y: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis: initial; -webkit-text-emphasis-position: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-transform-origin-x: initial; -webkit-transform-origin-y: initial; -webkit-transform-origin-z: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: initial;"></div>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Surface Duo: Januar-Update wird verteilt</title>
+		<link>https://www.drwindows.de/news/surface-duo-januar-update-wird-verteilt</link>
+					<comments>https://www.drwindows.de/news/surface-duo-januar-update-wird-verteilt#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 06:57:59 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80120</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Service-Nachricht für Grauimporteure: Microsoft hat das Januar-Update für das Surface Duo freigegeben. Da das Gerät in nicht allzu ferner Zeit auch ganz offiziell in Deutschland zu haben sein wird, können wir aber schon mal einen Blick darauf werfen. Naturgemäß gibt es allerdings nicht allzu viel zu sehen. Nachdem das Dezember-Update übersprungen wurde, werden mit der [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Duo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/10/surface_duo_foto-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Service-Nachricht für Grauimporteure: Microsoft hat das Januar-Update für das Surface Duo freigegeben. Da das Gerät in nicht allzu ferner Zeit auch ganz offiziell in Deutschland zu haben sein wird, können wir aber schon mal einen Blick darauf werfen. Naturgemäß gibt es allerdings nicht allzu viel zu sehen.</p>
+<p>Nachdem das Dezember-Update übersprungen wurde, werden mit der Firmware-Version 2020.1211.85 die Android-Sicherheitsupdates von Dezember 2020 und Januar 2021 integriert.</p>
+<p>Darüber hinaus sind diverse Optimierungen für die &#8222;Surface Duo UI&#8220; enthalten, also die spezifischen Anpassungen, die Microsoft an der Systemoberfläche vorgenommen hat. Auch die Toucheingabe wurde optimiert, ebenso wurde an der Tonqualität der Freisprechfunktion gearbeitet.</p>
+<p>Last but not least gibt es auch eine neue Funktion, nämlich die Möglichkeit, einen eingehenden Anruf zu einer laufenden Konferenz hinzuzufügen.</p>
+<p>Das Surface Duo wird auch in Deutschland ganz sicher kein Blockbuster, die regelmäßig eingehenden Nachfragen von Lesern, ob es Neues hinsichtlich der Verfügbarkeit gibt, zeigen mir aber dennoch, dass ein gewisses Interesse vorhanden ist. Ich kenne leider weder den Termin noch die Preise, ich habe auch nur die <a href="https://www.drwindows.de/news/bericht-surface-duo-kommt-mitte-februar-nach-deutschland-fokus-auf-geschaeftskunden" target="_blank" rel="noopener">Gerüchte</a> gelesen. Ich gehe einigermaßen sicher davon aus, dass die inoffiziellen Infos korrekt sind und es im Lauf des Monats Februar passiert.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/surface-duo-januar-update-wird-verteilt/feed</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Edge 89 geht auf die Zielgerade</title>
+		<link>https://www.drwindows.de/news/microsoft-edge-89-geht-auf-die-zielgerade</link>
+					<comments>https://www.drwindows.de/news/microsoft-edge-89-geht-auf-die-zielgerade#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 06:39:59 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80117</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Vor einer knappen Woche wurde Microsoft Edge in Version 88 veröffentlicht, die Version enthält zahlreiche Neuerungen. Das nächste Hauptrelease, die Version 89, wird voraussichtlich Anfang März für die Allgemeinheit freigegeben. Diese tritt nun in die finale Testphase ein. Im Entwicklerkanal wurde am Mittwoch die Version 89.0.774.4 veröffentlicht, es wird die letzte sein, bevor dieser Kanal [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Edge Developer Preview" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/11/microsoft_edge_dev-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Vor einer knappen Woche wurde Microsoft Edge in Version 88 veröffentlicht, die Version enthält zahlreiche <a href="https://www.drwindows.de/news/grosses-update-microsoft-edge-88-bringt-neues-bei-sicherheit-privatsphaere-und-performance" target="_blank" rel="noopener">Neuerungen</a>. Das nächste Hauptrelease, die Version 89, wird voraussichtlich Anfang März für die Allgemeinheit freigegeben. Diese tritt nun in die finale Testphase ein.</p>
+<p>Im Entwicklerkanal wurde am Mittwoch die Version 89.0.774.4 veröffentlicht, es wird die letzte sein, bevor dieser Kanal zur Version 90 wechselt, während die Version 89 in der kommenden Woche in den Betatest geht.</p>
+<p>In der Testversion 89.0.774.4 sind nur kleinere Neuerungen enthalten. Die Vorlesefunktion für PDF-Dateien wurde optimiert, außerdem kann die aktuell geöffnete Seite einer Sammlung hinzugefügt werden, indem man mit der rechten Maustaste auf die gewünschte Sammlung klickt. Der Rest sind Aufräumarbeiten und Bugfixes, um die Finalisierung der Version 89 vorzubereiten. Das komplette Changelog gibt es wie üblich im <a href="https://techcommunity.microsoft.com/t5/discussions/dev-channel-update-to-89-0-774-4-is-live/m-p/2103112" target="_blank" rel="noopener">Edge Forum</a>.</p>
+<p>Insgesamt wird die Edge Version 89 ein eher kleineres Update, das aber dennoch willkommene Änderungen enthält. Wer ein externes PDF-Programm verwendet, kann dann beispielsweise einstellen, dass angeklickte PDF-Dateien nicht in Edge, sondern im bevorzugten PDF-Betrachter öffnen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-edge-89-geht-auf-die-zielgerade/feed</wfw:commentRss>
+			<slash:comments>2</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft testet Verbesserungen an der Touch-Tastatur in Windows 10</title>
+		<link>https://www.drwindows.de/news/microsoft-testet-verbesserungen-an-der-touch-tastatur-in-windows-10</link>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Thu, 28 Jan 2021 06:19:27 +0000</pubDate>
+				<category><![CDATA[Windows 10]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80114</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der aktuellen Windows 10 Insider Build 21301, die am Mittwochabend für die Insider im Developer Kanal verteilt wurde, nimmt sich Microsoft die Touch-Tastatur vor. Sie kommt naturgemäß im reinen Tablet-Betrieb von Windows 10 zum Einsatz, der wiederum ein eher seltenes Szenario ist. Davon ausgehend, dass die Einführung von Dual Screen Geräten nur aufgeschoben, aber [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-660x330.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows Insider Programm" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/windows_insider_trex_neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der aktuellen Windows 10 Insider Build 21301, die am Mittwochabend für die Insider im Developer Kanal verteilt wurde, nimmt sich Microsoft die Touch-Tastatur vor. Sie kommt naturgemäß im reinen Tablet-Betrieb von Windows 10 zum Einsatz, der wiederum ein eher seltenes Szenario ist. Davon ausgehend, dass die Einführung von Dual Screen Geräten nur aufgeschoben, aber nicht aufgehoben ist, könnte der Touch-Tastatur in Zukunft allerdings eine größere Bedeutung zukommen.</p>
+<p>Neu ist, dass das Touch-Keyboard automatisch zum kompakten Layout umschaltet, sobald man es vom Bildschirmrand abdockt. Es lässt dich dann auch leichter verschieben, wenn es beispielsweise bei der Texteingabe im Weg sein sollte.</p>
+<p>Ebenfalls neu ist das Menü, dass sich jetzt strukturiert als Overlay in mehreren Ebenen öffnet.</p>
+<p><a href="https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu.png" data-rel="lightbox-gallery-o5vG2QgH" data-rl_title="" data-rl_caption="" title=""><img loading="lazy" class="alignnone size-full wp-image-80115" src="https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu.png" alt="Windows 10 Touch Keyboard Menü" width="1026" height="248" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu.png 1026w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-300x73.png 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-1024x248.png 1024w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-768x186.png 768w, https://www.drwindows.de/news/wp-content/uploads/2021/01/win10_keyboard_menu-643x155.png 643w" sizes="(max-width: 1026px) 100vw, 1026px" /></a></p>
+<p>Links von der Leertaste wird in Passwort-Eingabefeldern künftig ein kleines Symbol angezeigt, mit dem die Eingabe sichtbar gemacht werden kann, man muss also nicht ins Eingabefeld selbst tippen.</p>
+<p>Auf Geräten mit mehr als 12 Zoll Bildschirmdiagonale blendet die Touch-Tastatur außerdem weitere Symbole wie beispielsweise ESC, TAB oder die Windows-Taste ein, damit sich die Tastatur vollwertiger anfühlt.</p>
+<p>Weitere Kleinigkeiten in der Build 21301: Beim Rechtsklick auf Dateien, die in Jumplisten angezeigt werden (z.B. im Startmenü oder auf der Taskleiste) wird bei lokal gespeicherten Dateien nun zusätzlich die Option &#8222;Dateipfad öffnen&#8220; angezeigt. Außerdem werden zur Aktivierung bzw. Deaktivierung es Touchpads keine Administratorrechte mehr benötigt.</p>
+<p>Darüber hinaus gibt es die üblichen Bugfixes, das vollständige Changelog kann wie gewohnt im <a href="https://blogs.windows.com/windows-insider/2021/01/27/announcing-windows-10-insider-preview-build-21301/" target="_blank" rel="noopener">Windows Insider Blog</a> eingesehen werden.</p>
+<p>Microsoft betont immer wieder, dass in den Insider Builds getestete Funktionen grundsätzlich nicht an eine bestimmte Version gebunden sind. Die oben beschriebenen Änderungen könnten beispielsweise auch über das <a href="https://www.drwindows.de/news/windows-feature-experience-pack-neue-version-fuer-die-beta-tester" target="_blank" rel="noopener">Windows Feature Experience Pack</a> ausgeliefert werden, da es reine Oberflächenfunktionen sind.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Second Screen: Samsung verbessert Zusammenspiel von Windows 10 mit Galaxy Tab S7 und S7+</title>
+		<link>https://www.drwindows.de/news/second-screen-samsung-verbessert-zusammenspiel-von-windows-10-mit-galaxy-tab-s7-und-s7</link>
+					<comments>https://www.drwindows.de/news/second-screen-samsung-verbessert-zusammenspiel-von-windows-10-mit-galaxy-tab-s7-und-s7#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 16:04:35 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80102</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Samsung hat mit dem Rollout von OneUI 3.0 für seine aktuellen Premium-Tablets Galaxy Tab S7 und S7+ begonnen und verbessert damit auch die Zusammenarbeit der beiden Geräte mit Windows 10 weiter. Wenn euer Rechner mindestens die Version 2004 von Windows 10 verwendet und sich zusätzlich mit einem Wireless Display verbinden kann, habt ihr nun die [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Samsung" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2017/10/Samsung-Konzern-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Samsung hat mit dem Rollout von OneUI 3.0 für seine aktuellen Premium-Tablets Galaxy Tab S7 und S7+ begonnen und verbessert damit auch die Zusammenarbeit der beiden Geräte mit Windows 10 weiter. Wenn euer Rechner mindestens die Version 2004 von Windows 10 verwendet und sich zusätzlich mit einem Wireless Display verbinden kann, habt ihr nun die Möglichkeit, eines dieser Tablets als zusätzlichen Monitor zu nutzen. Samsung nennt dieses neue Feature &#8222;Second Screen&#8220; und schließt damit zu Apple auf, die mit Sidecar bekanntlich ein ähnliches Feature für ihre iPads veröffentlicht haben.</p>
+<p>Grundsätzlich sollte das Modell bei der Nutzung keine Rolle spielen, solange es die notwendigen Voraussetzungen erfüllt. Samsung hebt aber ganz explizit einige seiner Geräte hervor. Dazu gehören das Galaxy Book Flex 2 und Flex 2 5G sowie das vorherige Galaxy Book Flex und Galaxy Book Flex alpha. Wann und ob die neue Funktion auch zu Tablets der günstigeren Preisklassen kommt, ist aktuell noch nicht bekannt.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/second-screen-samsung-verbessert-zusammenspiel-von-windows-10-mit-galaxy-tab-s7-und-s7/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Firmware: Microsoft veröffentlicht erste Updates für das neue Surface Pro 7+</title>
+		<link>https://www.drwindows.de/news/firmware-microsoft-veroeffentlicht-erste-updates-fuer-das-neue-surface-pro-7</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Wed, 27 Jan 2021 15:38:15 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80099</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das neue Surface Pro 7+, was Microsoft explizit für die Unternehmenskunden auf den Markt bringen wird, bekommt seinen ersten Schwung an Verbesserungen bei der Firmware spendiert. Insgesamt vier neue Updates veröffentlichen die Redmonder, die verschiedene Probleme beheben sollen. Vor allem die Screen Refresh-Rate und Probleme mit der adaptiven Helligkeit wurden angegangen, aber auch ein Problem [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Surface Pro 7+" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2021/01/surface_pro_7_plus-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das neue Surface Pro 7+, was Microsoft explizit für die Unternehmenskunden auf den Markt bringen wird, bekommt seinen ersten Schwung an Verbesserungen bei der Firmware spendiert. Insgesamt vier neue Updates veröffentlichen die Redmonder, die verschiedene Probleme beheben sollen. Vor allem die Screen Refresh-Rate und Probleme mit der adaptiven Helligkeit wurden angegangen, aber auch ein Problem mit dem USB-C Port wurde behoben.</p>
+<p>Zusätzlich wurde die Performance bei der Grafik und dem Power-Management verbessert. Nähere Informationen findet ihr wie immer in der entsprechenden <a href="https://support.microsoft.com/en-us/surface/surface-pro-7-update-history-fc2c14a8-0e72-4acc-851d-ae96f608c397">Historie</a>.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>
