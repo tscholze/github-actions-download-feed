@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>Dr. Windows</title>
+	<atom:link href="http://www.drwindows.de/news/feed" rel="self" type="application/rss+xml" />
+	<link>https://www.drwindows.de/news</link>
+	<description>Am Puls von Microsoft</description>
+	<lastBuildDate>Mon, 01 Feb 2021 12:00:03 +0000</lastBuildDate>
+	<language>de-DE</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.6</generator>
+	<item>
+		<title>Remote Desktop: Microsoft bringt nativen Support für Chrome OS auf den Weg</title>
+		<link>https://www.drwindows.de/news/remote-desktop-microsoft-bringt-nativen-support-fuer-chrome-os-auf-den-weg</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2021 12:00:03 +0000</pubDate>
+				<category><![CDATA[Hardware]]></category>
+		<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80284</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Kurz notiert: Microsoft hat im Google Play Store mit Version 10.0.9.1118 ein größeres Update für seine hauseigene Remote Desktop App freigegeben und dabei eine wesentliche Neuerung eingeführt. Neben der Unterstützung des Dark Modes in Android 10 und neuer und verschiedenen kleineren Verbesserungen und Bugfixes werden nun auch Chromebooks und damit die x86_64-Architektur von Chrome OS [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/11/Microsoft-Remote-Desktop-Apple-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Kurz notiert: Microsoft hat im Google Play Store mit Version 10.0.9.1118 ein größeres Update für seine hauseigene Remote Desktop App freigegeben und dabei eine wesentliche Neuerung eingeführt. Neben der Unterstützung des Dark Modes in Android 10 und neuer und verschiedenen kleineren Verbesserungen und Bugfixes werden nun auch Chromebooks und damit die x86_64-Architektur von Chrome OS nativ unterstützt. Zudem wurde die minimale Android-Version nun auf Android 7.0 Nougat angehoben.</p>
+<p>Den Link zur App findet ihr unter dem Beitrag.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: googleplay // ID: com.microsoft.rdc.androidx) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.rdc.androidx" title="Remote Desktop">Remote Desktop (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Browser und Betriebssysteme im Januar 2021</title>
+		<link>https://www.drwindows.de/news/browser-und-betriebssysteme-im-januar-2021</link>
+					<comments>https://www.drwindows.de/news/browser-und-betriebssysteme-im-januar-2021#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Mon, 01 Feb 2021 10:06:09 +0000</pubDate>
+				<category><![CDATA[Microsoft Edge]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows 7]]></category>
+		<category><![CDATA[Windows 8]]></category>
+		<category><![CDATA[Windows Vista]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80264</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Statistiken" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Der Januar ist erfahrungsgemäß der Monat, in dem sich bei den Nutzungsstatistiken am wenigsten verändert. Das hat einen einfachen Grund: Die Privatkunden haben sich im Weihnachtsgeschäft mit neuen Geräten eingedeckt, in den Firmen kommen etwaige Migrationsprojekte erst ganz langsam wieder ins Rollen. Schauen wir auf die Bewegungen &#8211; oder Stillstände. Die Links zu den Datenquellen [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Statistiken" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu.png 660w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2017/07/Statistik-Neu-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Der Januar ist erfahrungsgemäß der Monat, in dem sich bei den Nutzungsstatistiken am wenigsten verändert. Das hat einen einfachen Grund: Die Privatkunden haben sich im Weihnachtsgeschäft mit neuen Geräten eingedeckt, in den Firmen kommen etwaige Migrationsprojekte erst ganz langsam wieder ins Rollen.</p>
+<p>Schauen wir auf die Bewegungen &#8211; oder Stillstände. Die Links zu den Datenquellen sind am Ende des Artikels zu finden.</p>
+<h3>Betriebssysteme allgemein</h3>
+<p>Wenn man überhaupt eine Bewegung erkennen möchte, dann hat es bei den mobilen Betriebssystemen eine leichte Verschiebung von Android zu iOS gegeben. Diese ist aber so gering, dass es im Februar auch schon wieder andersrum sein kann. Getrieben durch die <a href="https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft" target="_blank" rel="noopener">Berichte</a> über den im Jahr 2020 sprunghaft angestiegenen Absatz der Chromebooks hat Statcounter im Januar einen separaten Wert für Chrome OS ausgewiesen.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Android</td>
+<td width="81">41,27%</td>
+<td width="78">-0,31</td>
+</tr>
+<tr>
+<td>Windows</td>
+<td>31,74%</td>
+<td>+0,01</td>
+</tr>
+<tr>
+<td>iOS</td>
+<td>16,81%</td>
+<td>+0,23</td>
+</tr>
+<tr>
+<td>OS X</td>
+<td>6,97%</td>
+<td>-0,11</td>
+</tr>
+<tr>
+<td>Chrome OS</td>
+<td>0,80%</td>
+<td>n/a</td>
+</tr>
+<tr>
+<td>Unbekannt /Sonstige</td>
+<td>2,41%</td>
+<td>+0,20</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Betriebssysteme Desktop</h3>
+<p>Bezogen auf den Desktop ist ebenfalls wenig Bewegung zu sehen. Hier kommt Chrome OS jetzt auf nicht ganz zwei Prozent. Klingt wenig, setzt man das aber ins Verhältnis zu macOS, dann kommt inzwischen ein Chromebook auf acht Macs.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Windows</td>
+<td width="81">76,42%</td>
+<td width="78">-0,14</td>
+</tr>
+<tr>
+<td>macOS</td>
+<td>16,78%</td>
+<td>-0,32</td>
+</tr>
+<tr>
+<td>Chrome OS</td>
+<td>1,93%</td>
+<td>+0,21</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>1,90%</td>
+<td>-0,03</td>
+</tr>
+<tr>
+<td>Sonstige</td>
+<td>2,97%</td>
+<td>+0,28</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3><strong>Verteilung der Windows-Anteile</strong></h3>
+<p>Windows 10 wächst, alle anderen schrumpfen, so ist das seit fünfeinhalb Jahren. Dennoch ist der Ausschlag im Januar ungewöhnlich kräftig.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Windows 10</td>
+<td width="81">77,50%</td>
+<td width="78">+1,82</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>16,81%</td>
+<td>-1,22</td>
+</tr>
+<tr>
+<td>Windows 8.1</td>
+<td>3,78%</td>
+<td>-0,17</td>
+</tr>
+<tr>
+<td>Windows 8.0</td>
+<td>0,96%</td>
+<td>-0,14</td>
+</tr>
+<tr>
+<td>Windows XP</td>
+<td>0,67%</td>
+<td>-0,13</td>
+</tr>
+<tr>
+<td>Windows Vista</td>
+<td>0,25%</td>
+<td>-0,16</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Browser allgemein</h3>
+<p>Bei den Browsern gibt es ebenfalls nur leichte Verschiebungen. Sucht euch euren Favoriten aus.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Google Chrome</td>
+<td width="81">63,63%</td>
+<td width="78">+0,25</td>
+</tr>
+<tr>
+<td>Safari</td>
+<td>19,36%</td>
+<td>+0,11</td>
+</tr>
+<tr>
+<td>Mozilla Firefox</td>
+<td>3,65%</td>
+<td>-0,12</td>
+</tr>
+<tr>
+<td>Samsung Internet</td>
+<td>3,50%</td>
+<td>+0,03</td>
+</tr>
+<tr>
+<td>Microsoft Edge</td>
+<td>3,24%</td>
+<td>+0,16</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>2,17%</td>
+<td>-0,09</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Browser Desktop</h3>
+<p>Am Desktop hat Google Chrome die Verluste vom letzten Monat wieder ausgeglichen. Microsoft Edge knabbert sich weiter langsam, aber stetig nach oben.</p>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Google Chrome</td>
+<td width="81">66,68%</td>
+<td width="78">+0,72</td>
+</tr>
+<tr>
+<td>Safari</td>
+<td>10,32%</td>
+<td>-0,11</td>
+</tr>
+<tr>
+<td>Firefox</td>
+<td>8,10%</td>
+<td>-0,29</td>
+</tr>
+<tr>
+<td>Microsoft Edge</td>
+<td>7,79%</td>
+<td>+0,36</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>2,62%</td>
+<td>+0,03</td>
+</tr>
+<tr>
+<td>Internet Explorer</td>
+<td>1,95%</td>
+<td>-0,59</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>DrWindows-Besucherstatistik</h3>
+<p>Die DrWindows-Besucherstatistik bietet wie immer ein anderes Bild, was an unserer speziellen Zielgruppe liegt. Mehr als bemerkenswert ist allerdings der Umstand, dass uns zusammengerechnet vier von zehn Besuchern nicht mit dem System besuchen, welches dieser Seite seinen Namen leiht.</p>
+<h3><strong>Betriebssysteme</strong></h3>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Windows 10</td>
+<td width="81">49,04%</td>
+<td width="78">-1,78</td>
+</tr>
+<tr>
+<td>Android</td>
+<td>26,10%</td>
+<td>+0,03</td>
+</tr>
+<tr>
+<td>iOS</td>
+<td>11,31%</td>
+<td>+1,32</td>
+</tr>
+<tr>
+<td>Windows 7</td>
+<td>5,40%</td>
+<td>+0,60</td>
+</tr>
+<tr>
+<td>Mac OS</td>
+<td>3,93%</td>
+<td>+0,44</td>
+</tr>
+<tr>
+<td>Windows 8.0</td>
+<td>1,87%</td>
+<td>-0,06</td>
+</tr>
+<tr>
+<td>Windows 8.1</td>
+<td>1,19%</td>
+<td>+0,03</td>
+</tr>
+<tr>
+<td>Linux</td>
+<td>0,70%</td>
+<td>-0,09</td>
+</tr>
+<tr>
+<td>Windows XP</td>
+<td>0,24%</td>
+<td>+0,02</td>
+</tr>
+<tr>
+<td>Windows Vista</td>
+<td>0,12%</td>
+<td>+/-0</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<h3>Browser</h3>
+<table width="323">
+<tbody>
+<tr>
+<td width="164">Google Chrome</td>
+<td width="81">43,82%</td>
+<td width="78">+0,09</td>
+</tr>
+<tr>
+<td>Mozilla Firefox</td>
+<td>19,34%</td>
+<td>+0,44</td>
+</tr>
+<tr>
+<td>Safari</td>
+<td>13,80%</td>
+<td>+1,65</td>
+</tr>
+<tr>
+<td>Microsoft Edge</td>
+<td>12,11%</td>
+<td>-1,71</td>
+</tr>
+<tr>
+<td>Internet Explorer</td>
+<td>3,14%</td>
+<td>-0,37</td>
+</tr>
+<tr>
+<td>Opera</td>
+<td>2,32%</td>
+<td>-0,81</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Quellen:</strong></p>
+<ul>
+<li><a href="https://gs.statcounter.com/os-market-share#monthly-202101-202101-bar" target="_blank" rel="noopener noreferrer">Statcounter / Betriebssysteme</a></li>
+<li><a href="https://gs.statcounter.com/os-market-share/desktop/worldwide/#monthly-202101-202101-bar" target="_blank" rel="noopener noreferrer">Statcounter / Desktop-Betriebssysteme</a></li>
+<li><a href="https://gs.statcounter.com/windows-version-market-share/desktop/worldwide/#monthly-202101-202101-bar" target="_blank" rel="noopener noreferrer">Statcounter / Windows-Versionen</a></li>
+<li><a href="https://gs.statcounter.com/browser-market-share#monthly-202101-202101-bar" target="_blank" rel="noopener noreferrer">Statcounter / Browser</a></li>
+<li><a href="https://gs.statcounter.com/browser-market-share/desktop/worldwide/#monthly-202101-202101-bar" target="_blank" rel="noopener noreferrer">Statcounter / Desktop-Browser</a></li>
+</ul>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/browser-und-betriebssysteme-im-januar-2021/feed</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Android Rundschau KW 4/21 mit Microsoft Authenticator, Launcher und Outlook</title>
+		<link>https://www.drwindows.de/news/android-rundschau-kw-4-21-mit-microsoft-authenticator-launcher-und-outlook</link>
+					<comments>https://www.drwindows.de/news/android-rundschau-kw-4-21-mit-microsoft-authenticator-launcher-und-outlook#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 10:50:47 +0000</pubDate>
+				<category><![CDATA[Microsoft auf Android]]></category>
+		<category><![CDATA[News]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80085</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Die Android-Rundschau ist zuletzt zwei Mal in Folge mangels Masse ausgefallen. Seit dem Jahreswechsel hat die Weiterentwicklung der Microsoft-Apps noch nicht wieder so richtig Fahrt aufgenommen. Damit wir nicht aus der Übung kommen, kratzen wir diese Woche die drei wichtigsten Updates zusammen. Microsoft Authenticator Die Erweiterung des Microsoft Authenticator zum systemweiten Passwortmanager unter Android ist [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Android Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/Andorid-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Die Android-Rundschau ist zuletzt zwei Mal in Folge mangels Masse ausgefallen. Seit dem Jahreswechsel hat die Weiterentwicklung der Microsoft-Apps noch nicht wieder so richtig Fahrt aufgenommen. Damit wir nicht aus der Übung kommen, kratzen wir diese Woche die drei wichtigsten Updates zusammen.</p>
+<h3>Microsoft Authenticator</h3>
+<p>Die Erweiterung des Microsoft Authenticator zum systemweiten Passwortmanager unter Android ist seit dieser Woche abgeschlossen. Auf Wunsch synchronisiert der Authenticator die in Microsoft Edge gespeicherten Kennwörter und kann außerdem auch Anmeldedaten für Apps speichern und automatisch ausfüllen.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: googleplay // ID: com.azure.authenticator) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.azure.authenticator" title="Microsoft Authenticator">Microsoft Authenticator (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Outlook</h3>
+<p>Die Integration von Outlook und Microsoft To Do wurde in dieser Woche erweitert. Die Möglichkeit, eine E-Mail in eine Aufgabe umzuwandeln, wurde prominent im Menü platziert. Details dazu siehe hier: <a href="https://www.drwindows.de/news/microsoft-to-do-klinkt-sich-unter-android-in-outlook-ein" target="_blank" rel="noopener">Microsoft To Do klinkt sich unter Android in Outlook ein</a></p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: googleplay // ID: com.microsoft.office.outlook) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.office.outlook" title="Microsoft Outlook">Microsoft Outlook (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Microsoft Launcher</h3>
+<p>Die Optimierung für das Surface Duo geht mit einer optimierten App-Anordnung weiter. außerdem gerät die Reihenfolge der Apps nicht mehr durch einen Neustart des Launchers durcheinander.</p>
+<!-- WP-Appbox (Version: 4.3.6 // Store: googleplay // ID: com.microsoft.launcher) --><p><a target="_blank" rel="nofollow" href="https://play.google.com/store/apps/details?id=com.microsoft.launcher" title="Microsoft Launcher">Microsoft Launcher (Kostenlos, Google Play) →</a></p><!-- /WP-Appbox -->
+<div class="ms-editor-squiggler" style="color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-variation-settings: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-inline: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-size: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: block; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; offset: initial; opacity: initial; order: initial; origin-trial-test-property: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: initial; quotes: initial; r: initial; resize: initial; ruby-position: initial; rx: initial; ry: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; -webkit-app-region: initial; border-spacing: initial; -webkit-border-image: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-hyphenate-character: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-perspective-origin-x: initial; -webkit-perspective-origin-y: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis: initial; -webkit-text-emphasis-position: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-transform-origin-x: initial; -webkit-transform-origin-y: initial; -webkit-transform-origin-z: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: initial;"></div>
+<div class="ms-editor-squiggler" style="color: initial; font: initial; font-feature-settings: initial; font-kerning: initial; font-optical-sizing: initial; font-variation-settings: initial; forced-color-adjust: initial; text-orientation: initial; text-rendering: initial; -webkit-font-smoothing: initial; -webkit-locale: initial; -webkit-text-orientation: initial; -webkit-writing-mode: initial; writing-mode: initial; zoom: initial; place-content: initial; place-items: initial; place-self: initial; alignment-baseline: initial; animation: initial; appearance: initial; aspect-ratio: initial; backdrop-filter: initial; backface-visibility: initial; background: initial; background-blend-mode: initial; baseline-shift: initial; block-size: initial; border-block: initial; border: initial; border-radius: initial; border-collapse: initial; border-inline: initial; inset: initial; box-shadow: initial; box-sizing: initial; break-after: initial; break-before: initial; break-inside: initial; buffered-rendering: initial; caption-side: initial; caret-color: initial; clear: initial; clip: initial; clip-path: initial; clip-rule: initial; color-interpolation: initial; color-interpolation-filters: initial; color-rendering: initial; color-scheme: initial; columns: initial; column-fill: initial; gap: initial; column-rule: initial; column-span: initial; contain: initial; contain-intrinsic-size: initial; content: initial; content-visibility: initial; counter-increment: initial; counter-reset: initial; counter-set: initial; cursor: initial; cx: initial; cy: initial; d: initial; display: block; dominant-baseline: initial; empty-cells: initial; fill: initial; fill-opacity: initial; fill-rule: initial; filter: initial; flex: initial; flex-flow: initial; float: initial; flood-color: initial; flood-opacity: initial; grid: initial; grid-area: initial; height: initial; hyphens: initial; image-orientation: initial; image-rendering: initial; inline-size: initial; inset-block: initial; inset-inline: initial; isolation: initial; letter-spacing: initial; lighting-color: initial; line-break: initial; list-style: initial; margin-block: initial; margin: initial; margin-inline: initial; marker: initial; mask: initial; mask-type: initial; max-block-size: initial; max-height: initial; max-inline-size: initial; max-width: initial; min-block-size: initial; min-height: initial; min-inline-size: initial; min-width: initial; mix-blend-mode: initial; object-fit: initial; object-position: initial; offset: initial; opacity: initial; order: initial; origin-trial-test-property: initial; orphans: initial; outline: initial; outline-offset: initial; overflow-anchor: initial; overflow-wrap: initial; overflow: initial; overscroll-behavior-block: initial; overscroll-behavior-inline: initial; overscroll-behavior: initial; padding-block: initial; padding: initial; padding-inline: initial; page: initial; page-orientation: initial; paint-order: initial; perspective: initial; perspective-origin: initial; pointer-events: initial; position: initial; quotes: initial; r: initial; resize: initial; ruby-position: initial; rx: initial; ry: initial; scroll-behavior: initial; scroll-margin-block: initial; scroll-margin: initial; scroll-margin-inline: initial; scroll-padding-block: initial; scroll-padding: initial; scroll-padding-inline: initial; scroll-snap-align: initial; scroll-snap-stop: initial; scroll-snap-type: initial; shape-image-threshold: initial; shape-margin: initial; shape-outside: initial; shape-rendering: initial; size: initial; speak: initial; stop-color: initial; stop-opacity: initial; stroke: initial; stroke-dasharray: initial; stroke-dashoffset: initial; stroke-linecap: initial; stroke-linejoin: initial; stroke-miterlimit: initial; stroke-opacity: initial; stroke-width: initial; tab-size: initial; table-layout: initial; text-align: initial; text-align-last: initial; text-anchor: initial; text-combine-upright: initial; text-decoration: initial; text-decoration-skip-ink: initial; text-indent: initial; text-overflow: initial; text-shadow: initial; text-size-adjust: initial; text-transform: initial; text-underline-offset: initial; text-underline-position: initial; touch-action: initial; transform: initial; transform-box: initial; transform-origin: initial; transform-style: initial; transition: initial; user-select: initial; vector-effect: initial; vertical-align: initial; visibility: initial; -webkit-app-region: initial; border-spacing: initial; -webkit-border-image: initial; -webkit-box-align: initial; -webkit-box-decoration-break: initial; -webkit-box-direction: initial; -webkit-box-flex: initial; -webkit-box-ordinal-group: initial; -webkit-box-orient: initial; -webkit-box-pack: initial; -webkit-box-reflect: initial; -webkit-highlight: initial; -webkit-hyphenate-character: initial; -webkit-line-break: initial; -webkit-line-clamp: initial; -webkit-mask-box-image: initial; -webkit-mask: initial; -webkit-mask-composite: initial; -webkit-perspective-origin-x: initial; -webkit-perspective-origin-y: initial; -webkit-print-color-adjust: initial; -webkit-rtl-ordering: initial; -webkit-ruby-position: initial; -webkit-tap-highlight-color: initial; -webkit-text-combine: initial; -webkit-text-decorations-in-effect: initial; -webkit-text-emphasis: initial; -webkit-text-emphasis-position: initial; -webkit-text-fill-color: initial; -webkit-text-security: initial; -webkit-text-stroke: initial; -webkit-transform-origin-x: initial; -webkit-transform-origin-y: initial; -webkit-transform-origin-z: initial; -webkit-user-drag: initial; -webkit-user-modify: initial; white-space: initial; widows: initial; width: initial; will-change: initial; word-break: initial; word-spacing: initial; x: initial; y: initial; z-index: initial;"></div>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/android-rundschau-kw-4-21-mit-microsoft-authenticator-launcher-und-outlook/feed</wfw:commentRss>
+			<slash:comments>5</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>iOS Rundschau KW 4/21 mit Skype und viel Wartung</title>
+		<link>https://www.drwindows.de/news/ios-rundschau-kw-4-21-mit-skype-und-viel-wartung</link>
+		
+		<dc:creator><![CDATA[Alex Lüttgen]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 09:19:09 +0000</pubDate>
+				<category><![CDATA[Microsoft auf iOS]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80229</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Diese Woche war es sehr ruhig, wenn man nur über Feature Updates sprechen würde. Lediglich die Consumer-Skype-App wurde mit einem Featureupdate versehen, sodass jetzt bis zu 100 Teilnehmer gleichzeitig einen Audioanruf führen können. Alle anderen Apps aus dem Hause Microsoft sind diese Woche leer ausgegangen, wenn man sich nur auf die zusätzliche Funktionalität stützt. Auf [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="iOS Rundschau" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU.png 660w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2019/07/iOS-Rundschau-NEU-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Diese Woche war es sehr ruhig, wenn man nur über Feature Updates sprechen würde. Lediglich die Consumer-Skype-App wurde mit einem Featureupdate versehen, sodass jetzt bis zu 100 Teilnehmer gleichzeitig einen Audioanruf führen können. Alle anderen Apps aus dem Hause Microsoft sind diese Woche leer ausgegangen, wenn man sich nur auf die zusätzliche Funktionalität stützt.</p>
+<p>Auf der Seite der Bugfix- und Wartungen sieht es jedoch ganz anders aus. Ganze 18 Apps wurden mit einem Update und somit mit mehr Geschwindigkeit, weniger Fehlern oder ähnlichem beglückt.</p>
+<p>Weiter wurden 5 Apps mit BETA-Updates versehen.</p>
+<p>&nbsp;</p>
+<p><strong>Skype für iPhone</strong> &#8211; <em>Version 8.68</em></p>
+<ul>
+<li>Jetzt können Sie große Unterhaltungen führen, da Skype-Anrufe jetzt mit bis zu 100 Teilnehmern als Audioanrufe geführt werden können</li>
+<li>Fehlerkorrekturen und Stabilitätsverbesserungen</li>
+</ul>
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 304878510) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/skype-f%C3%BCr-iphone/id304878510" title="‎Skype für iPhone">‎Skype für iPhone (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox -->
+<p>&nbsp;</p>
+<h3>Wartungs- und Bugfix-Updates</h3>
+<p><!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 288429040) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/linkedin-business-netzwerk/id288429040" title="‎LinkedIn: Business-Netzwerk">‎LinkedIn: Business-Netzwerk (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 979729863) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-advertising/id979729863" title="‎Microsoft Advertising">‎Microsoft Advertising (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1219013620) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-azure/id1219013620" title="‎Microsoft Azure">‎Microsoft Azure (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1288723196) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-edge/id1288723196" title="‎Microsoft Edge">‎Microsoft Edge (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1112208399) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-kaizala/id1112208399" title="‎Microsoft Kaizala">‎Microsoft Kaizala (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 975925059) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-office-lens-pdf-scan/id975925059" title="‎Microsoft Office Lens|PDF Scan">‎Microsoft Office Lens|PDF Scan (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 477537958) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-onedrive/id477537958" title="‎Microsoft OneDrive">‎Microsoft OneDrive (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 951937596) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-outlook/id951937596" title="‎Microsoft Outlook">‎Microsoft Outlook (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1219301037) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-planner/id1219301037" title="‎Microsoft Planner">‎Microsoft Planner (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 929738808) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-power-bi/id929738808" title="‎Microsoft Power BI">‎Microsoft Power BI (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1091505266) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-sharepoint/id1091505266" title="‎Microsoft SharePoint">‎Microsoft SharePoint (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 911813648) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-swiftkey-tastatur/id911813648" title="‎Microsoft SwiftKey-Tastatur">‎Microsoft SwiftKey-Tastatur (Kostenlos<sup>+</sup>, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1113153706) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-teams/id1113153706" title="‎Microsoft Teams">‎Microsoft Teams (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1212616790) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-to-do/id1212616790" title="‎Microsoft To Do">‎Microsoft To Do (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1018949559) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/microsoft-translator/id1018949559" title="‎Microsoft Translator">‎Microsoft Translator (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1047318566) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/power-apps/id1047318566" title="‎Power Apps">‎Power Apps (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 1374542474) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/xbox-game-pass/id1374542474" title="‎Xbox Game Pass">‎Xbox Game Pass (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --><br />
+<!-- WP-Appbox (Version: 4.3.6 // Store: appstore // ID: 289559439) --><p><a target="_blank" rel="nofollow" href="https://apps.apple.com/de/app/yammer/id289559439" title="‎Yammer">‎Yammer (Kostenlos, App Store) →</a></p><!-- /WP-Appbox --></p>
+<h3>BETA-Updates</h3>
+<ul>
+<li>Microsoft Outlook &#8211; <em>Version 4.2104.0</em></li>
+<li>Microsoft OneDrive &#8211; <em>Version 12.16</em></li>
+<li>Microsoft Whiteboard &#8211; <em>Version 21.10111.0</em></li>
+<li>Microsoft Edge &#8211; <em>Version 45.12.11</em></li>
+<li>Xbox Game Pass &#8211; <em>Version 2101.130.125</em></li>
+</ul>
+<p>&nbsp;</p>
+<p>In dieser <a href="https://www.drwindows.de/microsoft-apps-und-dienste-auf-ios/126849-allgemeine-informationen-ios-rundschau.html"><span class="s1">Liste</span></a> stehen alle Microsoft Apps für iOS, die in den iOS-Rundschauen auf Updates überprüft werden. Falls ihr uns Hinweise zu App-Updates senden möchtet, könnt ihr sie gerne an iOSRundschau(at)drwindows.de senden.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Die Nächsten bitte: Mozilla stellt Firefox Voice und Voice Fill ein &#8211; Update 1</title>
+		<link>https://www.drwindows.de/news/die-naechsten-bitte-mozilla-stellt-firefox-voice-und-voice-fill-ein-ein-kleiner-kommentar-dazu</link>
+					<comments>https://www.drwindows.de/news/die-naechsten-bitte-mozilla-stellt-firefox-voice-und-voice-fill-ein-ein-kleiner-kommentar-dazu#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Sun, 31 Jan 2021 01:03:57 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Software]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80216</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Das Streichkonzert bei Mozilla geht in eine neue Runde. Wie das Unternehmen im eigenen Discourse-Forum mitgeteilt hat, hat man den Mozilla Speech Proxy Server am vergangenen Donnerstag abgeschaltet. Als Konsequenz werden damit auch die Projekte Voice Fill sowie Firefox Voice beendet. Die Erweiterungen zur Sprachsteuerung innerhalb von Firefox werden sich am 19. Februar 2021 selbst [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png" class="attachment-single-thumb size-single-thumb wp-post-image" alt="" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo.png 660w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-300x150.png 300w, https://www.drwindows.de/news/wp-content/uploads/2020/03/Mozilla_Logo-643x322.png 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Das Streichkonzert bei Mozilla geht in eine neue Runde. Wie das Unternehmen im eigenen Discourse-Forum <a href="https://discourse.mozilla.org/t/retiring-the-voice-fill-and-firefox-voice-beta-extensions/74581">mitgeteilt</a> hat, hat man den Mozilla Speech Proxy Server am vergangenen Donnerstag abgeschaltet. Als Konsequenz werden damit auch die Projekte Voice Fill sowie Firefox Voice beendet. Die Erweiterungen zur Sprachsteuerung innerhalb von Firefox werden sich am 19. Februar 2021 selbst deinstallieren und können dann auch nicht mehr in Firefox aufgerufen werden.</p>
+<p><em>Kleine Ergänzung: Die Einstellung des Dienstes wurde bereits vor rund 5 Monaten angekündigt und die Einstellung der entsprechenden Erweiterungen sowie die weiteren Folgen sind jetzt nur der Abschluss des Prozesses. Danke an Sören Hentzschel für den <a href="https://twitter.com/s_hentzschel/status/1355641343167623172">Hinweis</a>. </em></p>
+<p>Die beiden Projekte reihen sich damit in eine mittlerweile lange Liste von Projekten ein, die Mozilla entweder eingestellt, an die Community übergeben oder an andere Organisationen wie die Linux Foundation abgetreten hat. Besonders bei Firefox Voice ist das in meinen Augen aber keine gute Entscheidung, denn hier wird eine Chance vertan, das Ganze direkt in den Browser zu integrieren und damit die Barrierefreiheit von Firefox nochmal sehr deutlich zu verbessern.</p>
+<p>Dass Mozilla Geld verdienen und sich auch unabhängiger von den Einnahmen durch Suchmaschinen, die zum Großteil immer noch von Google kommen, machen möchte, ist grundsätzlich erstmal verständlich. Zur Ehrlichkeit gehört aber auch dazu, dass man dabei nicht ständig die Mozilla Foundation als Muttergesellschaft und Non-Profit-Organisation vor Augen hat. Das ist zwar richtig, aber die Hauptarbeit bei Firefox unter dem Dach geht letztlich von der Mozilla Corporation aus, die ein ganz normales OpenSource-Unternehmen ist. Außerdem geht es hier auch nicht um irgendwelche Spenden, sondern neue Services wie Mozilla VPN, Firefox Relay, Mozilla Hubs oder auch etablierte wie Pocket Premium sind ganz klar Abomodelle, und spätestens hier darf man Mozilla nicht mehr anders oder wohlwollender behandeln als andere Unternehmen, die sich hier dem Wettbewerb stellen.</p>
+<p>Das Problem sind zudem die fehlende Perspektive und Entscheidungen, die teilweise für manche einfach unverständlich sind. Mozilla hat momentan deutlich wichtigere Probleme als das Design von Firefox, wo mit Proton an dem Nachfolger von Photon gearbeitet wird. Gleichzeitig werden neuere Entwicklungen wie die Progressive Web Apps, die vor allem von Microsoft und Google derzeit sehr gepusht werden, nicht mehr umgesetzt und aus dem Desktop-Browser entfernt. Die Tatsache, dass frühere Services und Experimente von Mozilla wie Firefox Hello, Firefox Notes und Firefox Send ebenfalls sehr schnell wieder in der Versenkung verschwunden sind, fördert zudem nicht gerade das Vertrauen.</p>
+<p>Klar ist, dass Mozilla mit Diensten wie Firefox Premium und Hubs Cloud auch ein Auge auf Unternehmenskunden geworfen hat, und aus Projekten wie Mozilla VPN oder Pocket lassen sich ebenfalls entsprechende Enterprise-Ableger formen. Gegenüber dem klassischen Consumer muss Mozilla aber mittelfristig eine klare Perspektive aufzeigen. Es wäre sicherlich kein Fehler, wenn man Ableger wie Firefox Klar und Firefox Lite beendet, wenn die Ressourcen dafür dem klassischen Firefox Browser zugute kommen. Das Gleiche gilt auch bei Firefox Lockwise, denn ein weiterer quelloffener Passwortmanager, der überall verfügbar ist und es hier auch mit Bitwarden aufnimmt, wäre sicherlich eine gute Möglichkeit, weiteres Geld in die eigenen Kassen zu spülen.</p>
+<p>Mozilla ist immer noch ein wichtiger Player im Web und hat neben Firefox auch mit Projekten wie DeepSpeech und Rust gute Arbeit geleistet. Sie sind angesichts der Dominanz von Chromium aber auch nicht mehr diejenigen, die noch groß mit den Muskeln spielen können. Letztlich müssen sie mit einer klaren Perspektive aufzeigen, wie es in Zukunft weitergehen und Gecko neben Blink und Webkit2 weiterhin ein wichtiger Faktor bleiben soll. Momentan lassen die Ressourcen sicherlich noch keine großen Luftsprünge zu, für das Web im Allgemeinen und die weitere Entwicklung bei seinen Standards bleibt es aber wichtig, dass Firefox und damit Gecko weiterhin einen relevanten Marktanteil behält.</p>
+<p><strong>Update 31.01.2021:</strong><br />
+Nachdem der Beitrag veröffentlicht wurde, hatte sich Sören Hentzschel via Twitter gemeldet und neben dem oben erwähnten Hinweis ist anschließend auch eine durchaus kontroverse Diskussion zwischen uns beiden entstanden. Danach hatte ich auch in einigen Punkten ein Einsehen und musste eingestehen, dass ich bei einigen Punkten wie Firefox Lockwise nicht vollständig auf der Höhe war. Einerseits muss ich zu meiner Verteidigung sagen, dass es bei Mozilla momentan wirklich schwierig ist, bei allen Punkten aktuell den Überblick zu behalten. Gleichwohl habe ich immer gesagt, dass ich auch für konstruktive Kritik dankbar und bereit bin, meine Fehler zu korrigieren. Entsprechend wurde der Beitrag jetzt in vielen Punkten, wo es möglich war, entschärft und ich habe dort, wo es notwendig war, auch Klarstellungen integriert.</p>
+<p>Der wesentliche Punkt ist für mich einfach folgender: Egal wie man zu Mozilla als Unternehmen, Entwickler oder Foundation steht, letztlich hat Chromium mit Vertretern wie Edge, Chrome, Opera, Vivaldi oder Brave mittlerweile eine extreme Dominanz und eine unabhängige Entwicklung von neuen Webstandards wird in Zukunft dadurch auch nicht leichter. Das betrifft uns auf Windows umso mehr, denn aufgrund der Abstinenz von Safari und damit Webkit2 bleibt uns mit Gecko nur eine weitere relevante Plattform, und hier ist Firefox mit Abstand vor allen anderen einfach der wichtigste Vertreter. Dass Mozilla unter dem Gesichtspunkt weiterhin eine so starke finanzielle Abhängigkeit von Google hat, ist ein weiteres Problem, und mehr Diversität bei den Einnahmen umso wichtiger, damit auch die Unabhängigkeit von Mozilla hier gestärkt wird. Dafür vermisse ich aber eine klare Perspektive. Es passiert zwar etwas durch Projekte wie Firefox Relay oder Mozilla VPN, aber letzten Endes muss sich auch noch zeigen, dass sie das auch langfristig durchhalten. Frühere, wenn auch kostenlose, Dienste wie Firefox Hello wecken da in mir doch eine gewisse Skepsis.</p>
+<p>Um es auch klar zu sagen: Sören und ich sind in einigen Punkten grundlegend anderer Meinung. In der konkreten Diskussion betraf das vor allem das Thema Progressive Web Apps, wo ich vor allem die Arbeit von Microsoft und Google sehe, während er die Ressourcen und die Erkenntnisse von Mozilla selbst im Blick hat. Das ist in Ordnung und wir hatten auf seinem Blog früher auch schon andere, zum Teil sehr intensive Diskussionen. Mir zeigt es vor allem, dass ich mich wieder mehr um die Quellen kümmern und Nebenrauschen besser rausfiltern muss, wenn es um Mozilla geht. Das gebietet nicht nur die Fairness, sondern auch euer Interesse an Neuigkeiten rund um Firefox, Thunderbird und anderen Projekten, die Mozilla (mit) entwickelt. Entsprechend werde ich mir unter anderem hierzu in nächster Zeit auch mehr Gedanken machen.</p>
+<p>Danke an dieser Stelle auch nochmal an Sören für die Diskussion.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/die-naechsten-bitte-mozilla-stellt-firefox-voice-und-voice-fill-ein-ein-kleiner-kommentar-dazu/feed</wfw:commentRss>
+			<slash:comments>11</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>WinGet: Microsoft ermöglicht nun auch die Deinstallation von Anwendungen</title>
+		<link>https://www.drwindows.de/news/winget-microsoft-ermoeglicht-nun-auch-die-deinstallation-von-anwendungen</link>
+					<comments>https://www.drwindows.de/news/winget-microsoft-ermoeglicht-nun-auch-die-deinstallation-von-anwendungen#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 19:20:15 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Windows 10]]></category>
+		<category><![CDATA[Windows Apps]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80198</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/winget.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="WinGet" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/winget.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/09/winget-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/winget-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Microsoft hat die Preview des neuen Paketmanagers WinGet auf Version 0.2.10191 aktualisiert und damit nun auch eine Möglichkeit zum Deinstallieren von Software integriert, die zuvor mit dem Werkzeug heruntergeladen wurde. Demitrius Nelon, der bei Microsoft am neuen Windows Package Manager arbeitet, hatte vor wenigen Tagen schon einen ersten Teaser dazu auf Twitter veröffentlicht. Here&#39;s a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/09/winget.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="WinGet" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/09/winget.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/09/winget-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/09/winget-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Microsoft hat die Preview des neuen Paketmanagers WinGet auf Version 0.2.10191 aktualisiert und damit nun auch eine Möglichkeit zum Deinstallieren von Software integriert, die zuvor mit dem Werkzeug heruntergeladen wurde. Demitrius Nelon, der bei Microsoft am neuen Windows Package Manager arbeitet, hatte vor wenigen Tagen schon einen ersten Teaser dazu auf Twitter veröffentlicht.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">Here&#39;s a little preview of `winget uninstall`. It will be released soon in our next preview after localization of some new strings and a little more testing. BTW, the Nightingale REST Client is great. I installed it back on my machine right after this demo was finished 🙂 <a href="https://t.co/6IXQGBl8zf">pic.twitter.com/6IXQGBl8zf</a></p>
+<p>&mdash; Demitrius Nelon (@DenelonMs) <a href="https://twitter.com/DenelonMs/status/1352659726572548099?ref_src=twsrc%5Etfw">January 22, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Nähere Informationen zu den Fortschritten bei der Entwicklung könnt ihr wie immer auf <a href="https://github.com/microsoft/winget-cli/releases">GitHub</a> verfolgen. Wann WinGet für alle Nutzer ausgeliefert wird, ist momentan noch nicht bekannt. Da hierfür aber theoretisch nur ein Update des AppInstallers über den Microsoft Store erforderlich ist, kann das auch unabhängig von anderen Updates für Windows 10 erfolgen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/winget-microsoft-ermoeglicht-nun-auch-die-deinstallation-von-anwendungen/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Bildungssektor: Teams marschiert, Chromebooks aber auch &#8211; Microsoft ist in Alarmbereitschaft</title>
+		<link>https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft</link>
+					<comments>https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 16:38:56 +0000</pubDate>
+				<category><![CDATA[Microsoft]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80194</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>In der Corona-Pandemie ist die Nutzung von Microsoft Teams nicht nur in Unternehmen explodiert, auch im Bildungssektor sind haben sich die Nutzerzahlen mehr als verdreifacht: Über 100 Millionen Schüler und Lehrer nutzen Teams, zu Beginn der Krise waren es rund 30 Millionen. Diese Zahlen hat Microsoft im Rahmen einer internen Informationsveranstaltung genannt. Während man in [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Windows 10X" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/02/Windows_10_X-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>In der Corona-Pandemie ist die Nutzung von Microsoft Teams nicht nur in Unternehmen explodiert, auch im Bildungssektor sind haben sich die Nutzerzahlen mehr als verdreifacht: Über 100 Millionen Schüler und Lehrer nutzen Teams, zu Beginn der Krise waren es rund 30 Millionen. Diese Zahlen hat Microsoft im Rahmen einer internen Informationsveranstaltung genannt.</p>
+<p>Während man in diesem Punkt Grund zu feiern hat, ist man hinsichtlich der Chromebooks in Alarmstimmung, Diese waren in den USA schon vor Corona die führende Plattform und hatten im Bildungsbereich einen Marktanteil von rund 60 Prozent, den Rest mussten sich Windows und iOS teilen. Dass an dieser Front Handlungsbedarf besteht, wusste Microsoft also schon vorher, da der Markt aber insgesamt dennoch sehr klein war, hat man das Problem vielleicht doch nicht ganz so ernst genommen.</p>
+<p>Im Jahr 2020 ist der Chromebook-Markt aber ebenfalls stark gewachsen, der Absatz stieg laut der Marktforscher von <a href="https://www.canalys.com/newsroom/tablets-chromebooks-q4-2020" target="_blank" rel="noopener">Canalys</a> um mehr als das Doppelte auf 30,7 Millionen Einheiten. Setzt man das in Relation zum gesamten PC-Markt, der laut Canalys im letzten Jahr rund 458 Millionen Geräte absetzte, ist das zwar immer noch eine vergleichsweise kleine Zahl, ignorieren geht aber nicht mehr &#8211; vor allen Dingen, weil sich die Dominanz der Chromebooks im Bildungsbereich damit noch gefestigt hat.</p>
+<p>Eran Megiddo, Microsofts Vice President für den Bildungssektor, redete dementsprechend Klartext:  &#8222;Chromebooks sind billiger und schneller, sie sind leichter in Betrieb zu nehmen und einfacher zu verwalten&#8220;, soll er auf der internen Veranstaltung gesagt haben. Nicht nur in den USA, auch in Asien seien Chromebooks inzwischen auf dem Vormarsch. Dementsprechend sagt Megiddo: &#8222;Wir haben viel Arbeit vor uns&#8220;.</p>
+<p>Windows 10X wurde in diesem Zusammenhang zwar nicht erwähnt, denn solange es noch nicht offiziell angekündigt ist, darf auch intern nicht offen darüber gesprochen werden, es ist aber inzwischen offensichtlich, dass Microsoft Windows 10X frontal gegen Chromebooks stellen wird. Ob es nach zahlreichen gescheiterten Versuchen, Windows im Bildungsbereich attraktiver zu machen, die richtige Waffe sein wird, bleibt abzuwarten. Es geht ja nicht nur um das System selbst, sondern auch um die Administration, die deutlich einfacher werden muss. Der Aussage, dass Microsoft viel Arbeit vor sich hat, kann man da nicht widersprechen.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bildungssektor-teams-marschiert-chromebooks-aber-auch-microsoft-ist-in-alarmbereitschaft/feed</wfw:commentRss>
+			<slash:comments>28</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Flight Simulator: World Update 3 und Sim Update 3 kommen im Februar</title>
+		<link>https://www.drwindows.de/news/microsoft-flight-simulator-world-update-3-und-sim-update-3-kommen-im-februar</link>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 15:28:56 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80191</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Es tut sich wieder etwas beim Microsoft Flight Simulator: Microsoft und das federführende Entwicklerstudio Asobo haben mit dem World Update 3 und dem Sim Update 3 zwei große Updates für den Februar weitgehend festgezurrt. Das World Update 3 wird sich mit Großbritannien und Irland und steht laut dem neuesten Development Update kurz vor dem Abschluss. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Flight Simulator 2020" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1.jpg 661w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2020/07/ms_flight_simulator_2020-1-643x321.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Es tut sich wieder etwas beim Microsoft Flight Simulator: Microsoft und das federführende Entwicklerstudio Asobo haben mit dem World Update 3 und dem Sim Update 3 zwei große Updates für den Februar weitgehend festgezurrt. Das World Update 3 wird sich mit Großbritannien und Irland und steht laut dem <a href="https://www.flightsimulator.com/january-28th-2021-development-update/">neuesten</a> Development Update kurz vor dem Abschluss. Die Entwicklung wurde soweit abgeschlossen und man ist nun dabei, die Photogrammetrie und diverse Verbesserungen bei der Integration umzusetzen, bevor das Update final ausgerollt wird.</p>
+<p>Das World Update 3 bringt neben 5 detailgetreu umgesetzten Städten (London, Birmingham, Bristol, Oxford und Cambridge) und 5 ebenso umgesetzten Airports (Liverpool, Barra, Manchester-Barton, Land&#8217;s End und Out Skerries) auch mehr als 80 neue POIs, drei neue Aktivitäten und weitere visuelle und logistische Verbesserungen für zusätzliche 85 Flughäfen in der Region. Zudem wurden die digitalen Daten über Höhenunterschiede für ganz Großbritannien verbessert und aktualisiert. Das World Update 3 erscheint, wenn nichts mehr passiert, zwischen dem 9. und 11. Februar 2021.</p>
+<p>Daneben hat auch das Sim Update 3 mittlerweile ein verbindliches Datum und soll am 26. Februar 2021 für alle Spieler ausgerollt werden. Neben Bugfixes und Optimierungen bringt es auch eine verbesserte Aerodynamik mit. Außerdem wurden im Shop erneut 20 neue Objekte wie Flugzeuge und Flughäfen veröffentlicht, auch drei weitere Updates stehen hier bereit.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Bleeding Edge: Ninja Theory will Microsofts Multiplayer-Titel nicht mehr weiterentwickeln</title>
+		<link>https://www.drwindows.de/news/bleeding-edge-ninja-theory-will-microsofts-multiplayer-titel-nicht-mehr-weiterentwickeln</link>
+					<comments>https://www.drwindows.de/news/bleeding-edge-ninja-theory-will-microsofts-multiplayer-titel-nicht-mehr-weiterentwickeln#comments</comments>
+		
+		<dc:creator><![CDATA[Kevin Kozuszek]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 14:57:43 +0000</pubDate>
+				<category><![CDATA[News]]></category>
+		<category><![CDATA[Spiele]]></category>
+		<category><![CDATA[Xbox]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80188</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Nach Minecraft Earth und Gears POP! erwischt es mit Bleeding Edge nun das nächste Game von Microsoft, was keine neuen Inhalte mehr bekommen wird. Das Entwicklerstudio Ninja Theory gab gestern in einem kurzen Statement auf Twitter bekannt, dass man sich zu diesem Schritt entschlossen habe und sich stattdessen auf andere laufende Projekte konzentrieren möchte. Neben [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Xbox Logo" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Xbox-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Nach Minecraft Earth und Gears POP! erwischt es mit Bleeding Edge nun das nächste Game von Microsoft, was keine neuen Inhalte mehr bekommen wird. Das Entwicklerstudio Ninja Theory gab gestern in einem kurzen Statement auf Twitter bekannt, dass man sich zu diesem Schritt entschlossen habe und sich stattdessen auf andere laufende Projekte konzentrieren möchte. Neben Senua&#8217;s Saga entstehen mit Project Mara und The Insight Project aktuell drei weitere Projekte beim im britischen Cambridge beheimateten Entwicklerstudio.</p>
+<blockquote class="twitter-tweet" data-width="500" data-dnt="true">
+<p lang="en" dir="ltr">With the studio now focusing on our new projects (Senua’s Saga, Project Mara &amp; The Insight Project) we have decided that there will be no further content updates for Bleeding Edge. The game is still playable on Xbox and PC. Thank you to the fans &amp; keep teaming up &amp; causing chaos!</p>
+<p>&mdash; Bleeding Edge (@BleedingEdgeNT) <a href="https://twitter.com/BleedingEdgeNT/status/1354836826322776066?ref_src=twsrc%5Etfw">January 28, 2021</a></p></blockquote>
+<p><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script></p>
+<p>Auch wenn es keine neuen Inhalte mehr dazukommen, werden die Server bis auf Weiteres weiter online und das Spiel damit weiter spielbar bleiben. Dazu, wie lange das so sein wird, sagte Ninja Theory aber nichts.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/bleeding-edge-ninja-theory-will-microsofts-multiplayer-titel-nicht-mehr-weiterentwickeln/feed</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Microsoft Teams: Performance der Desktop-Version soll mit hoher Priorität verbessert werden</title>
+		<link>https://www.drwindows.de/news/microsoft-teams-performance-der-desktop-version-soll-mit-hoher-prioritaet-verbessert-werden</link>
+					<comments>https://www.drwindows.de/news/microsoft-teams-performance-der-desktop-version-soll-mit-hoher-prioritaet-verbessert-werden#comments</comments>
+		
+		<dc:creator><![CDATA[Martin Geuß]]></dc:creator>
+		<pubDate>Fri, 29 Jan 2021 10:18:16 +0000</pubDate>
+				<category><![CDATA[Microsoft Teams]]></category>
+		<guid isPermaLink="false">https://www.drwindows.de/news/?p=80147</guid>
+
+					<description><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div>Wir haben es an dieser Stelle wiederholt thematisiert: Die Nutzung von Microsoft Teams ist seit Ausbruch der Pandemie raketenhaft angestiegen, gleichzeitig packt Microsoft immer mehr neue Funktionen in die Anwendung. Und wo wir gerade über Raketen sprechen: Eine solche ist die Teams-Anwendung tatsächlich nicht. Benutzer beschweren sich häufig über den langsamen Start, den hohen Ressourcenverbrauch [&#8230;]]]></description>
+										<content:encoded><![CDATA[<div><img src="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg" class="attachment-single-thumb size-single-thumb wp-post-image" alt="Microsoft Teams" loading="lazy" style="margin-bottom: 15px;" srcset="https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu.jpg 660w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-300x150.jpg 300w, https://www.drwindows.de/news/wp-content/uploads/2019/09/Microsoft-Teams-Neu-643x322.jpg 643w" sizes="(max-width: 660px) 100vw, 660px" /></div><p>Wir haben es an dieser Stelle wiederholt thematisiert: Die Nutzung von Microsoft Teams ist seit Ausbruch der Pandemie raketenhaft angestiegen, gleichzeitig packt Microsoft immer mehr neue Funktionen in die Anwendung. Und wo wir gerade über Raketen sprechen: Eine solche ist die Teams-Anwendung tatsächlich nicht.</p>
+<p>Benutzer beschweren sich häufig über den langsamen Start, den hohen Ressourcenverbrauch und über Performanceprobleme während der Nutzung. Diesen Problemen möchte sich Microsoft nun laut einem <a href="https://microsoftteams.uservoice.com/forums/555103-public/suggestions/17219609-general-teams-performance-issues" target="_blank" rel="noopener">Uservoice-Beitrag</a> (via <a href="https://www.onmsft.com/news/microsoft-says-performance-improvements-for-teams-on-windows-mac-are-a-topmost-priority" target="_blank" rel="noopener">OnMSFT</a>) mit &#8222;hoher Priorität&#8220; annehmen, um Teams für Windows und Mac ein wenig Beine zu machen.</p>
+<p>Der bereits angesprochene langsame Start steht auf der Agenda der zu behebenden Probleme, auch dem hohen RAM-Verbrauch und der vergleichsweise hohen CPU-Last will man sich widmen. Um weiteres Feedback bitten die Entwickler auch zu allen Problemen, die während der Nutzung auftreten: Lange Reaktions- und Ladezeiten, Einfrieren der Anwendung oder gar deren Absturz. Wer sich aktiv beteiligen möchte, folgt bitte dem obigen Link.</p>
+<p>An die lange Startzeit von Teams habe ich mich inzwischen gewöhnt. Mit &#8222;Hängern&#8220; habe ich allerdings auch öfter zu kämpfen, vor allen Dingen wenn ich mich durch die Historie eines Chats arbeite, weil ich nach einer bestimmten Information suche. Dann friert die Anwendung öfter mal sekundenlang ein (Skype verhält sich im Übrigen exakt gleich, da merkt man die gemeinsame Basis).</p>
+<p>Habt ihr auch Performance- oder Stabilitätsprobleme mit Teams. Hinterlasst gerne einen entsprechenden Kommentar.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://www.drwindows.de/news/microsoft-teams-performance-der-desktop-version-soll-mit-hoher-prioritaet-verbessert-werden/feed</wfw:commentRss>
+			<slash:comments>13</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
